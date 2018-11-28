@@ -1,0 +1,140 @@
+{
+	"definitions": {
+		"inhoud": {
+			"allOf": [ { "$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/base" } ],
+			"properties": {
+				"description": {
+					"type": "string"
+				},
+				"doelniveau_id": {
+					"allOf": [ 
+						{ 
+							"$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/uuidArray" 
+						},
+						{
+							"items": {
+								"sloref": "http://curriculum.slo.nl/schemas/kern#/definitions/doelniveau"
+							}
+						}
+					]
+				}
+			}
+		},
+		"vak": {
+			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
+			"properties": {
+				"vakkern_id": {
+					"type" : "array",
+					"items": {
+						"type": "string",
+						"anyOf": [
+							{ "format": "uuid" },
+							{ "pattern": "^bk:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
+						]
+					},
+					"uniqueItems": true
+				}
+			},
+			"oneOf": [
+				{
+					"required": ["id","title","vakkern_id"]
+				},
+				{
+					"required": ["id","title","doelniveau_id"]
+				}
+			]
+		},
+		"vakkern": {
+			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
+			"properties": {
+				"vaksubkern_id" : {
+					"allOf": [ 
+						{ 
+							"$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/uuidArray" 
+						},
+						{
+							"items": {
+								"sloref": "#/definitions/vaksubkern"
+							}
+						}
+					]
+				}
+			},
+			"oneOf": [
+				{
+					"required": ["vaksubkern_id"]
+				},
+				{
+					"required": ["doelniveau_id"]
+				}
+			]
+		},
+		"vaksubkern": {
+			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
+			"properties": {
+				"vakinhoud_id": {
+					"allOf": [ 
+						{ 
+							"$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/uuidArray" 
+						},
+						{
+							"items": {
+								"sloref": "#/definitions/vakinhoud"
+							}
+						}
+					]
+				}
+			},
+			"oneOf": [
+				{
+					"required": ["vakinhoud_id"]
+				},
+				{
+					"required": ["doelniveau_id"]
+				}
+			]
+		},
+		"vakinhoud": {
+			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
+			"required": ["doelniveau_id"]
+		}
+	},
+	"$id": "http://curriculum.slo.nl/schemas/vakken",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"vak": {
+			"#file": "data/vakken.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/vak"
+			}
+		},
+		"vakkern": {
+			"#file": "data/vakkernen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/vakkern"
+			}
+		},
+		"vaksubkern": {
+			"#file": "data/vaksubkernen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/vaksubkern"
+			}
+		},
+		"vakinhoud": {
+			"#file": "data/vakinhouden.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/vakinhoud"
+			}
+		},
+		"deprecated": {
+			"#file": "data/deprecated.json",
+			"type": "array"
+		}
+	},
+	"required": ["vak","vakkern","vaksubkern","vakinhoud"]
+}

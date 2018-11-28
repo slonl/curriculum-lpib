@@ -1,0 +1,14 @@
+{
+  "name": "vakken",
+  "version": "1.0.0",
+  "description": "Vakken Context",
+  "main": "context.json",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "SLO",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.5.5"
+  }
+}

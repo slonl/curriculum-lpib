@@ -1,0 +1,118 @@
+{
+	"definitions": {
+		"inhoud": {
+			"$ref": "http://curriculum.slo.nl/schemas/kern/#/definitions/base",
+			"properties": [
+				{
+					"name": "description",
+					"type": "string"
+				},
+				{
+					"name": "doelniveau_id",
+					"$ref": "uuidArray",
+					"items": {
+						"#ref": "http://curriculum.slo.nl/schemas/kern/#/definitions/doelniveau"
+					}
+				}
+			]
+		},
+		"vak": {
+			"$ref": "#/definitions/inhoud",
+			"properties": [
+				{
+					"name" : "vakkern_id",
+					"$ref": "uuidArray",
+					"items": {
+						"#ref": "#/definitions/vakkern"
+					}
+				},
+			],
+			"oneOf": [
+				{
+					"required": ["vakkern_id"]
+				},
+				{
+					"required": ["doelniveau_id"]
+				}
+			]
+
+		},
+		"vakkern": {
+			"$ref": "#/definitions/inhoud",
+			"properties": [
+				{
+					"name" : "vaksubkern_id",
+					"$ref": "uuidArray",
+					"items": {
+						"#ref": "#/definitions/vaksubkern"
+					}
+				}
+			],
+			"oneOf": [
+				{
+					"required": ["vaksubkern_id"]
+				},
+				{
+					"required": ["doelniveau_id"]
+				}
+			]
+		},
+		"vaksubkern": {
+			"$ref": "#/definitions/inhoud",
+			"properties": [
+				{
+					"name" : "vakinhoud_id",
+					"$ref": "uuidArray",
+					"items": {
+						"#ref": "#/definitions/vakinhoud"
+					}
+				}
+			],
+			"oneOf": [
+				{
+					"required": ["vaksubkern_id"]
+				},
+				{
+					"required": ["doelniveau_id"]
+				}
+			]
+		},
+		"vakinhoud": {
+			"$ref": "#/definitions/inhoud",
+			"required": ["doelniveau_id"]
+		}
+	},
+	"id": "http://curriculum.slo.nl/schemas/vakken",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"vak": {
+			"#file": "vakken.json",
+			"$ref": "uuidArray",
+			"items": {
+				"#ref": "#/definitions/vak"
+			}
+		},
+		"vakkern": {
+			"#file": "vakkernen.json",
+			"$ref": "uuidArray",
+			"items": {
+				"#ref": "#/definitions/vakkern"
+			}
+		},
+		"vaksubkern": {
+			"#file": "vaksubkernen.json",
+			"$ref": "uuidArray",
+			"items": {
+				"#ref": "#/definitions/vaksubkern"
+			}
+		},
+		"vakinhoud": {
+			"#file": "vakinhouden.json",
+			"$ref": "uuidArray",
+			"items": {
+				"#ref": "#/definitions/vakinhoud"
+			}
+		}
+	}
+}
