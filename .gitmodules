@@ -1,0 +1,3 @@
+[submodule "kern"]
+	path = kern
+	url = https://gitlab.muze.nl/auke/slo-kern.git
