@@ -11152,5 +11152,254 @@
 			"5ffc08d1-d408-4fed-8a07-1a1773580c2f",
 			"1d3b7975-0464-40fa-adce-fadb92f5167d"
 		]
+	},
+	{
+		"id": "7e60aa3f-b2fd-4578-9c0e-eae2301691b3",
+		"title": "Getal: getalsysteem",
+		"doelniveau_id": [
+			"998a1d9d-f02e-4a3a-b592-55104ca23f76",
+			"217e19cb-e9c5-41a3-befe-5b68d1d98b8a",
+			"8d13cc5c-1ae2-4c46-bd75-93c89f35d733",
+			"1faeded3-45b9-45b8-89f2-4a781fb46c45",
+			"55d9ddb7-1427-4b01-9125-866afd56cb97",
+			"f9c5450b-f308-4c01-8082-e79028753424"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:6a443073-6143-4cfc-a15d-cf55b521270e"
+		]
+	},
+	{
+		"id": "73ecb19b-e358-49fc-860f-b496b27594de",
+		"title": "Rekenen met de rekenmachine",
+		"doelniveau_id": [
+			"8b2b416c-5d4e-46ee-a5a4-cba45066117e",
+			"a24eea73-f234-467b-b5b2-bb4996a3cc46",
+			"a8cce29f-a206-4e47-a1a5-bd3077ee9968",
+			"8693d51c-f8ce-4c59-ac95-fc737e5c7c99",
+			"267c381c-5edf-4326-9aa9-a1e1d1648d2e",
+			"ea181933-1442-456d-89ef-21966d765ed0"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:5d80e3a8-d20c-4bb3-bd26-f5b15d6666f1"
+		]
+	},
+	{
+		"id": "4fd34d35-b47c-4df8-aa9b-3aeacf5266a9",
+		"title": "Metriek stelsel",
+		"doelniveau_id": [
+			"e99fc925-702b-4ee1-991f-2c77dac8b7e0",
+			"08f3a730-fce6-4984-8cca-bf1a77bbc903",
+			"16d85d75-edc0-4e38-8bb4-672cedc18ce9",
+			"633da7f7-eb31-4e7b-befe-5c1c1aa2246c",
+			"1c36464d-5246-48e8-97e9-df7099e6092b",
+			"1e0add51-f17a-43bc-a659-f98a5354d804",
+			"de7163bb-a5ec-44c1-b4ab-1be70cd3f074",
+			"9caaf6b8-e211-4c0f-adc2-4f45e2ed6499",
+			"c4f6a1a1-3a20-4450-bb59-055de272b05f",
+			"4900d52d-9e5d-4531-b35c-62574d97ce0e"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:c642eb9f-3c56-49c7-a874-9011bebdbd6f"
+		]
+	},
+	{
+		"id": "0e8eb3a5-3d36-4b76-bd90-3847300638e0",
+		"title": "Vaktaal meetkunde",
+		"doelniveau_id": [
+			"87bdc3db-3944-4de3-a065-ef6acf840fc2",
+			"76e56e02-eb7c-4b8b-997c-9c09b3025a62",
+			"dc47aeb1-57c7-41c2-b44d-3e206c864ccd",
+			"510bb9a7-2f40-4687-9356-04704e246245",
+			"b12cf943-3581-4b7e-ad00-ea4175b1eceb",
+			"e2f676ed-afed-4f99-900a-9f45e6071c0c"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:508b9d16-7718-48cb-972d-897ad28a48f9"
+		]
+	},
+	{
+		"id": "2264cafd-41a0-4231-a86f-00f0c6fdd75f",
+		"title": "Vaktaal verhoudingen, breuken, procenten",
+		"doelniveau_id": [
+			"351bdca0-80e1-4686-ac9e-aaad45d815b1",
+			"18612c93-44e7-4e6c-bb08-edfde760b81f",
+			"231e299b-14f6-4c46-abd2-565430527681",
+			"42df9cd0-3603-4219-9568-461e41c39feb",
+			"504b2c86-2bbe-4255-a8dc-851cd86dc035",
+			"69b1b5a9-fd41-4937-9eb6-01bcf492bee6"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:d3cfffe2-2de7-4223-8f93-8da704770e28"
+		]
+	},
+	{
+		"id": "aadbc406-8d2b-4e74-a38c-42d6ad4d5aae",
+		"title": "BBP",
+		"description": "De optelsom van wat er in een land geproduceerd wordt.",
+		"doelniveau_id": [
+			"66fc7145-4827-4e7d-bb69-acc85f505bb3",
+			"d57bbd1a-404d-4114-8689-69edbbc0b014",
+			"37846b65-eed2-4f2d-a1db-d04d4ca329ca",
+			"3834c605-1aa1-4cf9-b64b-b3238cd8765e"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:35ab8333-021e-44de-b10a-48ba05d0d77f"
+		]
+	},
+	{
+		"id": "40b38299-6c3e-4ae0-adee-facc753bd6ac",
+		"title": "Sparen en investeren",
+		"description": "Op welke wijze vergaart men vermogen en op wijze trekken we vermogen aan?",
+		"doelniveau_id": [
+			"f4727ff5-0d52-422d-a96e-96d5b9c39317",
+			"616d5a6c-164d-4fdb-beb3-f971b8f6f7cf",
+			"83dcc9a9-1147-4e6e-9557-e933743f1266",
+			"71362dae-4923-4824-85fe-cb2df5e60f57"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:06a6c609-766c-4201-9232-db689ba37d7c"
+		]
+	},
+	{
+		"id": "b801e1d0-d85a-46fb-b6f3-1061cf3ce718",
+		"title": "Rente",
+		"description": "Geld lenen kost geld.",
+		"doelniveau_id": [
+			"bd679b41-082d-45a1-b32a-82a60188cae9",
+			"76638744-03fd-4b1a-827d-dc5d03c67c44",
+			"66a2321c-6303-4d70-a9dc-761e428c7f14",
+			"a268643c-2141-44cb-be25-d9abc2574923"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:faf5807f-200e-4e13-b198-832a77560736"
+		]
+	},
+	{
+		"id": "9df97bc3-4571-42c5-96d4-62e834ca9de4",
+		"title": "Levensloop",
+		"description": "De mens als \"kapitaalgoed\" (human capital).",
+		"doelniveau_id": [
+			"06058a01-790e-4cd3-930b-2bb250034da6",
+			"35f9b376-93fa-4a7b-bc17-db3b2e073956",
+			"5c307c6d-6d0f-4bc8-8c70-e44796565f84",
+			"e74039a4-8c76-4b03-8fd0-ae635d9b4237",
+			"e4a2771c-e397-4c2e-b43e-01e9a815a9ae",
+			"a64c29bc-dbad-4546-9cac-1b842f9c7749",
+			"e61fa8f7-c5b1-4a32-a18c-32e8dbd4657c",
+			"451c65df-1d71-4129-9948-6ccc9f067632",
+			"cd491530-369d-48fe-b7fc-29cc9865c74b",
+			"8fa73677-4ee0-498a-b53d-fceffb26394c"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:50f64e0e-b09a-4526-835f-c47178712221"
+		]
+	},
+	{
+		"id": "5633624d-2550-4cc5-8c35-7031eca90248",
+		"title": "Moral hazard",
+		"description": "Welke prikkels leiden tot welk gedrag?",
+		"doelniveau_id": [
+			"8d19f5bd-7062-4121-96f7-67b225c5cd07",
+			"99ec5e44-36b8-4b64-8ea6-76da02e9396f",
+			"4f492f67-de5f-470c-9738-88d47bf83ec5",
+			"9fbc4baa-59d8-4d16-9013-57b4ec8198c1"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:f7db0448-f313-438b-88fd-b4a53ca5e0a4"
+		]
+	},
+	{
+		"id": "ee18cc1a-6cf3-40b0-b631-6a99175ed63b",
+		"title": "Inflatie en koopkracht",
+		"description": "De waarde van geld en wat men hier voor kan kopen.",
+		"doelniveau_id": [
+			"c300261b-b5f1-4edb-9091-53baa5db68cf",
+			"773cebd5-3cef-4456-b552-48009a98c2bc",
+			"4b5318ce-3c3b-429e-b04f-2319ed870b7e",
+			"06439fca-ab69-46ce-8f60-1a36ea46365a"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:1ddbb366-a927-4527-95d4-573f95c0ede7"
+		]
+	},
+	{
+		"id": "07ff7339-c386-4cf6-b834-3e4b6b47a750",
+		"title": "Getallen",
+		"doelniveau_id": [
+			"180a1603-2e7a-48f6-b3de-24db81abfeea",
+			"9bb4c20e-7890-421a-964f-378c5508729a",
+			"def8c90d-ee4a-4abb-a7b9-d79e86d309f0",
+			"0491869f-b88e-4b4c-984c-97a261b4b333",
+			"877c43a0-02c2-42c6-a7d1-dc078b34c1d8"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:9480fb6d-b753-49a7-8ab1-aa49fbadb1b6"
+		]
+	},
+	{
+		"id": "98834079-bc12-4d0b-93cc-77b8f9c3e63f",
+		"title": "Duurzame ontwikkeling",
+		"description": "4 aspecten van duurzame ontwikkeling (ecologisch, mondiaal, maatschappelijk, economisch); Definities van duurzame ontwikkeling; Invloed van de mens op het milieu.",
+		"doelniveau_id": [
+			"32bcbe7f-4e9c-4241-a53e-353151361912",
+			"213ec9a6-89b3-4c63-b13a-953122974ddf",
+			"73ce840c-c0d0-4957-bbf3-de0a99528f1a",
+			"2a7a70b0-db45-45e1-93e2-b5f834c9f51e",
+			"17252d45-df08-4b63-95f7-552fa7c77a8e",
+			"90288d78-4526-41b0-a0d7-00635d41985d",
+			"e207601c-2334-4526-9021-da2c08d8b5bb",
+			"bb813be5-28d5-4024-bbc7-813da20b3d63",
+			"b2ca6184-edd1-4f93-9f18-61e26d9ca55d",
+			"8e583d71-f3d2-4e22-9579-be2fb4cc37e8",
+			"b5cd686e-4a34-4a82-8510-193ffda25ba2",
+			"66877892-7844-46e5-b09b-b57f50725bde",
+			"9cb332cd-6bb7-43f2-98af-7ebedb83bab7",
+			"c4a35e80-fffb-4866-9c9b-b45b313e1fac",
+			"ab463f33-97d3-430d-a6ba-556be2f444f4",
+			"7238b9b1-ec01-49db-952a-6d5892042b33"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:c294c894-bd8e-402b-9f29-800f66e70a3e"
+		]
+	},
+	{
+		"id": "4e9b1848-6d08-4ed3-9746-63eddd365226",
+		"title": "Duurzame ontwikkeling",
+		"description": "4 aspecten van duurzame ontwikkeling (ecologisch, mondiaal, maatschappelijk, economisch); Definities van duurzame ontwikkeling; Invloed van de mens op het milieu.",
+		"doelniveau_id": [
+			"32bcbe7f-4e9c-4241-a53e-353151361912",
+			"213ec9a6-89b3-4c63-b13a-953122974ddf",
+			"73ce840c-c0d0-4957-bbf3-de0a99528f1a",
+			"2a7a70b0-db45-45e1-93e2-b5f834c9f51e",
+			"17252d45-df08-4b63-95f7-552fa7c77a8e",
+			"90288d78-4526-41b0-a0d7-00635d41985d",
+			"e207601c-2334-4526-9021-da2c08d8b5bb",
+			"bb813be5-28d5-4024-bbc7-813da20b3d63",
+			"b2ca6184-edd1-4f93-9f18-61e26d9ca55d",
+			"8e583d71-f3d2-4e22-9579-be2fb4cc37e8",
+			"b5cd686e-4a34-4a82-8510-193ffda25ba2",
+			"66877892-7844-46e5-b09b-b57f50725bde",
+			"9cb332cd-6bb7-43f2-98af-7ebedb83bab7",
+			"c4a35e80-fffb-4866-9c9b-b45b313e1fac",
+			"ab463f33-97d3-430d-a6ba-556be2f444f4",
+			"7238b9b1-ec01-49db-952a-6d5892042b33"
+		],
+		"unreleased": true,
+		"replaces": [
+			"bk:c294c894-bd8e-402b-9f29-800f66e70a3e"
+		]
 	}
 ]
