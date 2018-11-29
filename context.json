@@ -35,14 +35,24 @@
 					"uniqueItems": true
 				}
 			},
-			"oneOf": [
+			"anyOf": [
 				{
 					"required": ["id","title","vakkern_id"]
 				},
 				{
 					"required": ["id","title","doelniveau_id"]
 				}
-			]
+			],
+			"not": {
+				"anyOf": [
+					{
+						"required": ["vaksubkern_id"]
+					},
+					{
+						"required": ["vakinhoud_id"]
+					}
+				]
+			}
 		},
 		"vakkern": {
 			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
@@ -60,14 +70,24 @@
 					]
 				}
 			},
-			"oneOf": [
+			"anyOf": [
 				{
 					"required": ["vaksubkern_id"]
 				},
 				{
 					"required": ["doelniveau_id"]
 				}
-			]
+			],
+			"not": {
+				"anyOf": [
+					{
+						"required": ["vakkern_id"]
+					},
+					{
+						"required": ["vakinhoud_id"]
+					}
+				]
+			}
 		},
 		"vaksubkern": {
 			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
@@ -85,18 +105,42 @@
 					]
 				}
 			},
-			"oneOf": [
+			"anyOf": [
 				{
 					"required": ["vakinhoud_id"]
 				},
 				{
 					"required": ["doelniveau_id"]
 				}
-			]
+			],
+			"not": {
+				"anyOf": [
+					{
+						"required": ["vaksubkern_id"]
+					},
+					{
+						"required": ["vakkern_id"]
+					}
+				]
+			}
 		},
 		"vakinhoud": {
 			"allOf": [ { "$ref": "#/definitions/inhoud" } ],
-			"required": ["doelniveau_id"]
+			"required": ["doelniveau_id"],
+			"not": {
+				"anyOf": [
+					{
+						"required": ["vakkern_id"]
+					},
+					{
+						"required": ["vaksubkern_id"]
+					},
+					{
+						"required": ["vakinhoud_id"]
+					}
+				]
+				"required": ["vakkern_id", "vaksubkern_id", "vakinhoud_id"]
+			}
 		}
 	},
 	"$id": "http://curriculum.slo.nl/schemas/vakken",
