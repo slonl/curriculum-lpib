@@ -13,7 +13,7 @@
                         },
                         {
                             "items": {
-                                "sloref": "http://curriculum.slo.nl/schemas/kern#/definitions/doelniveau"
+                                "itemTypeReference": "http://curriculum.slo.nl/schemas/kern#/definitions/doelniveau"
                             }
                         }
                     ]
@@ -64,7 +64,7 @@
                         },
                         {
                             "items": {
-                                "sloref": "#/definitions/vaksubkern"
+                                "itemTypeReference": "#/definitions/vaksubkern"
                             }
                         }
                     ]
@@ -99,7 +99,7 @@
                         },
                         {
                             "items": {
-                                "sloref": "#/definitions/vakinhoud"
+                                "itemTypeReference": "#/definitions/vakinhoud"
                             }
                         }
                     ]

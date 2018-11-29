@@ -10,7 +10,7 @@ var data = {};
 var ids = {};
 var types = {};
 
-	ajv.addKeyword('sloref', {
+	ajv.addKeyword('itemTypeReference', {
 		validate: function(schema, data, parentSchema, dataPath, parentData, propertyName, rootData) {
 			var matches = /.*\#\/definitions\/(.*)/g.exec(schema);
 			if (matches) {
