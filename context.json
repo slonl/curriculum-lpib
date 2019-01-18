@@ -1,7 +1,7 @@
 {
     "definitions": {
         "inhoud": {
-            "allOf": [ { "$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/base" } ],
+            "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/base" } ],
             "properties": {
                 "description": {
                     "type": "string"
@@ -9,11 +9,11 @@
                 "doelniveau_id": {
                     "allOf": [
                         {
-                            "$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/uuidArray"
+                            "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "http://curriculum.slo.nl/schemas/kern#/definitions/doelniveau"
+                                "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/doelniveau"
                             }
                         }
                     ]
@@ -60,7 +60,7 @@
                 "vaksubkern_id" : {
                     "allOf": [
                         {
-                            "$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/uuidArray"
+                            "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -95,7 +95,7 @@
                 "vakinhoud_id": {
                     "allOf": [
                         {
-                            "$ref": "http://curriculum.slo.nl/schemas/kern#/definitions/uuidArray"
+                            "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -142,7 +142,7 @@
             }
         }
     },
-    "$id": "http://curriculum.slo.nl/schemas/vakken",
+    "$id": "http://opendata.slo.nl/curriculum/schemas/inhouden",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {

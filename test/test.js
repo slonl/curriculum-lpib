@@ -11,27 +11,19 @@
 			var matches = /.*\#\/definitions\/(.*)/g.exec(schema);
 			if (matches) {
 				var result = curriculum.types[data] == matches[1];
-/*
-				if (!result) {
-					console.log(schema);
-					console.log(data);
-					console.log(matches);
-					console.log(dataPath);
-				}
-*/
 				return result;
 			}
 			console.log('Unknown #ref definition: '+schema);
 		}
 	});
 
-	var curriculum   = require('../lib/curriculum.js');
-	var kernSchema   = curriculum.loadSchema('kern/context.json','kern/');
-	var vakkenSchema = curriculum.loadSchema('context.json');
+	var curriculum     = require('../lib/curriculum.js');
+	var doelenSchema   = curriculum.loadSchema('curriculum-doelen/context.json','curriculum-doelen/');
+	var inhoudenSchema = curriculum.loadSchema('context.json');
 
-	var valid = ajv.addSchema(kernSchema, 'http://curriculum.slo.nl/schemas/kern')
-	               .addSchema(vakkenSchema, 'http://curriculum.slo.nl/schemas/vakken')
-	               .validate('http://curriculum.slo.nl/schemas/vakken', curriculum.data);
+	var valid = ajv.addSchema(doelenSchema, 'http://opendata.slo.nl/curriculum/schemas/doelen')
+	               .addSchema(inhoudenSchema, 'http://opendata.slo.nl/curriculum/schemas/inhouden')
+	               .validate('http://opendata.slo.nl/curriculum/schemas/inhouden', curriculum.data);
 
 	if (!valid) {
 		ajv.errors.forEach(function(error) {
