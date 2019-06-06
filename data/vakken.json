@@ -4,18 +4,18 @@
 		"title": "Aardrijkskunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
+			c001f86a-4f8f-4420-bd78-381c615ecedc"
 		],
 		"vakkern_id": [
-			"bk:aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
-			"bk:d7b9af96-3901-420c-9911-1542cd361a09",
-			"bk:5740506b-37d5-456e-9f4f-e4cb789ace32",
-			"bk:3e89bbcb-3ef4-4370-ab61-e6427356b68f",
+			aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
+			d7b9af96-3901-420c-9911-1542cd361a09",
+			5740506b-37d5-456e-9f4f-e4cb789ace32",
+			3e89bbcb-3ef4-4370-ab61-e6427356b68f",
 			"ab6a460f-3cc6-4ce6-9745-35d86c040ca1",
 			"3f9d61c6-e8a7-46c4-8221-8cc7152273c4",
 			"05f59167-ae46-43ac-abd1-b031ffc3c3f9",
-			"bk:18659e7c-0e13-4da4-825f-5b4ffefec41b",
-			"bk:77463b26-616a-4f36-a82d-ef0ffd951c50"
+			18659e7c-0e13-4da4-825f-5b4ffefec41b",
+			77463b26-616a-4f36-a82d-ef0ffd951c50"
 		],
 		"doelniveau_id": []
 	},
@@ -24,7 +24,7 @@
 		"title": "Engels",
 		"unreleased": true,
 		"replaces": [
-			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
+			18f53978-1118-4051-a778-b8d7f60ca982"
 		],
 		"vakkern_id": [
 			"7d22d252-dff0-4c86-aa69-25f8ba697763",
@@ -32,7 +32,7 @@
 			"82c0161e-88fa-4835-8584-d4acb02b32d4",
 			"9af9bf95-4c27-404e-bd75-57b53070fa75",
 			"cb9afe4b-63c2-43fa-8312-5010902a3a8a",
-			"bk:c671af6a-45d2-4071-9495-c92a94d1c229"
+			c671af6a-45d2-4071-9495-c92a94d1c229"
 		],
 		"doelniveau_id": []
 	},
@@ -41,7 +41,7 @@
 		"title": "Geschiedenis",
 		"unreleased": true,
 		"replaces": [
-			"bk:ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
+			ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
 		],
 		"vakkern_id": [
 			"3d7b9318-b633-421c-817b-9046437ac732",
@@ -49,9 +49,9 @@
 			"4c0433e0-c206-4acb-93fb-90455b6d28ac",
 			"cf7dfd46-0d77-4066-96a0-bec792a8a3fa",
 			"5cf43578-a239-4aa6-91d0-4a619bf67f14",
-			"bk:e9ad263e-cf35-4a87-9a1b-444f59c53862",
-			"bk:e4c57a2f-d7fa-4fc7-b293-074c276ab2cf",
-			"bk:dd8751f6-a0c2-445a-b863-89f5294617f1",
+			e9ad263e-cf35-4a87-9a1b-444f59c53862",
+			e4c57a2f-d7fa-4fc7-b293-074c276ab2cf",
+			dd8751f6-a0c2-445a-b863-89f5294617f1",
 			"1209b893-0164-437e-8440-ed7497813ffa",
 			"180279cc-3b90-4c42-b448-6f92044cf38b"
 		],
@@ -62,7 +62,7 @@
 		"title": "Rekenen",
 		"unreleased": true,
 		"replaces": [
-			"bk:b48fa351-4561-44c7-a071-ebfd6103eec3"
+			b48fa351-4561-44c7-a071-ebfd6103eec3"
 		],
 		"vakkern_id": [
 			"08085c6e-cf7d-425e-a1ac-a2bee7f01abc",
@@ -78,7 +78,7 @@
 		"title": "Biologie",
 		"unreleased": true,
 		"replaces": [
-			"bk:2b363227-8633-4652-ad57-c61f1efc02c8"
+			2b363227-8633-4652-ad57-c61f1efc02c8"
 		],
 		"vakkern_id": [
 			"b380cd5f-1750-424e-beb4-e02547c57eab",
@@ -97,7 +97,7 @@
 		"title": "Duits",
 		"unreleased": true,
 		"replaces": [
-			"bk:81a1f605-db58-448d-a1dc-da682316c505"
+			81a1f605-db58-448d-a1dc-da682316c505"
 		],
 		"vakkern_id": [
 			"49904b8c-5534-4485-8e8c-1f7453845328",
@@ -113,19 +113,19 @@
 		"title": "Economie",
 		"unreleased": true,
 		"replaces": [
-			"bk:4ba5583f-b147-42cc-a083-ce5ebfd53746"
+			4ba5583f-b147-42cc-a083-ce5ebfd53746"
 		],
 		"vakkern_id": [
 			"e86fc798-16ac-4c2b-a053-cddb04c3dfb1",
-			"bk:477447a3-d683-43e0-b19e-75c07fbaf9ff",
-			"bk:8f588da8-e133-4b39-a6e0-f1b1290dff53",
+			477447a3-d683-43e0-b19e-75c07fbaf9ff",
+			8f588da8-e133-4b39-a6e0-f1b1290dff53",
 			"074df8e6-5f3c-4a5a-bd9b-6fc264104c36",
-			"bk:ea6a1df1-8a41-40d6-8504-dc0b26c3f7be",
+			ea6a1df1-8a41-40d6-8504-dc0b26c3f7be",
 			"8cf060ee-2968-4f3b-b329-837a0e69d286",
 			"c604334f-af65-48b5-908e-4116a5a26588",
 			"ae50de1e-b42a-4238-bc05-8e9ffab58198",
 			"a540e55d-439f-4b0e-be29-e83e7c744f3b",
-			"bk:0a715024-bacd-41ed-9ac8-134be6c03f70",
+			0a715024-bacd-41ed-9ac8-134be6c03f70",
 			"5f62e4d8-8fe1-408c-9118-4722577dbd1a",
 			"3b265a70-7e23-4a9f-981a-59c46a2b6b7f",
 			"42115a46-4bb6-42f2-a1bc-658677489bd9"
@@ -137,7 +137,7 @@
 		"title": "Frans",
 		"unreleased": true,
 		"replaces": [
-			"bk:9f4710e3-f173-404e-b12e-577657a5da04"
+			9f4710e3-f173-404e-b12e-577657a5da04"
 		],
 		"vakkern_id": [
 			"8645e481-cb7e-46d2-ae6f-5df181eb0119",
@@ -154,7 +154,7 @@
 		"description": "Leergebied volgend uit de VO kerndoelen.",
 		"unreleased": true,
 		"replaces": [
-			"bk:3a8e841e-ee9a-4790-b6ac-747f54d19ea1"
+			3a8e841e-ee9a-4790-b6ac-747f54d19ea1"
 		],
 		"vakkern_id": [
 			"11491146-ac73-4d0d-97a5-b1b1d109220d",
@@ -171,7 +171,7 @@
 		"title": "NaSk",
 		"unreleased": true,
 		"replaces": [
-			"bk:186717b2-1504-496f-88e5-45c4a1f0a620"
+			186717b2-1504-496f-88e5-45c4a1f0a620"
 		],
 		"vakkern_id": [
 			"b2e3fe84-ecaf-4f29-8899-f7b65ca03a53",
@@ -186,7 +186,7 @@
 		"title": "Nederlands",
 		"unreleased": true,
 		"replaces": [
-			"bk:3401cf6e-82e4-404c-b216-b980ff407159"
+			3401cf6e-82e4-404c-b216-b980ff407159"
 		],
 		"vakkern_id": [
 			"39c7e122-6a3c-4cf8-a5f0-ccdc7a13034b",
@@ -201,7 +201,7 @@
 		"title": "Rekenen/wiskunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
+			7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
 		],
 		"vakkern_id": [
 			"5b01ff84-39a9-42dd-87fd-fc2df3893c68",
@@ -218,7 +218,7 @@
 		"title": "Spaans",
 		"unreleased": true,
 		"replaces": [
-			"bk:952bf604-cc38-44e3-889a-a9e74a18da8e"
+			952bf604-cc38-44e3-889a-a9e74a18da8e"
 		],
 		"vakkern_id": [
 			"fdd32c9b-b2f4-44f7-8659-159ad318e7e5",
@@ -234,14 +234,14 @@
 		"title": "Natuurkunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:e98be5ad-4bd2-4768-a9eb-7e24026e360c"
+			e98be5ad-4bd2-4768-a9eb-7e24026e360c"
 		],
 		"vakkern_id": [
 			"bf0c4ff7-3155-410d-a1a0-b42c07357c77",
 			"1b5dfd90-f2a1-4721-87b4-59bf10d4390a",
 			"01b3a64f-d7d0-4995-b410-8a561e8d634f",
 			"e9c539b2-4fdc-4849-b298-c35bffcb886f",
-			"bk:11279be6-5119-4331-a31d-361b1be3af29"
+			11279be6-5119-4331-a31d-361b1be3af29"
 		],
 		"doelniveau_id": []
 	},
@@ -250,11 +250,11 @@
 		"title": "Scheikunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
+			3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
 		],
 		"vakkern_id": [
-			"bk:12f47ba7-60f4-4ac5-966e-9aa0ea6827f5",
-			"bk:2605ae96-3548-4000-bd54-85144f891b4b",
+			12f47ba7-60f4-4ac5-966e-9aa0ea6827f5",
+			2605ae96-3548-4000-bd54-85144f891b4b",
 			"00436b45-07fa-4a57-b6ee-5ddd288c739d",
 			"8d1be2a4-fd55-43d8-a04f-03f3c31619cd",
 			"d65e508a-27b2-4d33-a34f-fc9ed876be0d",
@@ -267,7 +267,7 @@
 		"title": "Wiskunde A",
 		"unreleased": true,
 		"replaces": [
-			"bk:800ec6a9-f9aa-4e04-9fbd-563c64c1066b"
+			800ec6a9-f9aa-4e04-9fbd-563c64c1066b"
 		],
 		"vakkern_id": [
 			"763e075b-45ab-4751-ae47-a2aab959ae5b",
@@ -283,7 +283,7 @@
 		"title": "Wiskunde B",
 		"unreleased": true,
 		"replaces": [
-			"bk:e9608ec2-0070-484a-865a-a33ea0829939"
+			e9608ec2-0070-484a-865a-a33ea0829939"
 		],
 		"vakkern_id": [
 			"c19e54f8-49ea-4121-861a-4df85d7c3e39",
@@ -299,7 +299,7 @@
 		"title": "Wiskunde C",
 		"unreleased": true,
 		"replaces": [
-			"bk:e82663b8-5685-4f28-ba2e-1f3f5df59097"
+			e82663b8-5685-4f28-ba2e-1f3f5df59097"
 		],
 		"vakkern_id": [
 			"1ea4b73c-e7b8-424b-b747-6961bf05fb18",
