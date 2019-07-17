@@ -8376,10 +8376,11 @@
 		"id": "b3f61346-92c4-4fb5-9207-6a4142b64122",
 		"title": "Literatuur",
 		"types": [
-			"vakkern"
+			"vak", "vakkern"
 		],
 		"replacedBy": [
-			"fa5a3fdf-bab6-45f2-9fcc-825704f79a65"
+			"fa5a3fdf-bab6-45f2-9fcc-825704f79a65",
+			"caac75cc-baa4-487d-8fcd-5bf4518b33d5"
 		],
 		"vaksubkern_id": [
 			"c650a778-0390-439e-8a37-93596031ad62"
@@ -10553,5 +10554,102 @@
 			"32f0ac46-4e74-4f8b-a91a-dc613b3af182",
 			"10f4217a-7ea7-47fa-8314-de342239d8d8"
 		]
+	},
+	{
+		"id": "aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
+		"title": "Burgerschap; burgerschapsvorming",
+		"types": [
+			"vak", "vakkern"
+		],
+		"replacedBy": [
+			"9b08250a-8bf7-4043-8eb6-1e3845bb3113",
+			"e6981905-e23d-45d5-81e8-c885c6ceb3dd"
+		],
+		"volgnr": 1,
+		"vaksubkern_id": [
+			"f1e51d8d-6167-4573-a727-f8994c0a8f31",
+			"0b9e01f2-d69d-4015-855f-bae8d0402f2a",
+			"6aef553c-ef08-488c-b7f8-41475b11a7e4"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"title": "kunst algemeen; kunst en cultuur; kunstzinnige ori\u00c3\u00abntatie",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"bdcaf07a-0c48-4ff8-826c-096189d65b58",
+			"26f2cab9-bd86-4811-9a7f-5d70b1152608",
+			"752cd2d8-a10e-4320-8ff1-61a3cf88af4c"
+		]
+	},
+	{
+		"id": "7596e435-d417-4de8-a32e-8e61f11ee1d2",
+		"title": "maatschappijleer; maatschappijleer (gemeenschappelijk deel)",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"59d872b6-3588-4798-a1da-e5fdb1e48f7b",
+			"213aa47f-6c35-495e-8316-94f095dc312e"
+		]
+	},
+	{
+		"id": "04058361-4e9e-4c02-a057-41605a7f37b5",
+		"title": "gezond en redzaam gedrag; praktische redzaamheid",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"8fd8dda0-9ef3-4e6c-8c1d-1c3a0f356c81",
+			"4de7c3fa-4980-4936-8f33-29c8c6f47d44"
+		]
+	},
+	{
+		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"title": "lichamelijke opvoeding; lichamelijke opvoeding (gemeenschappelijk deel); bewegen en sport",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"2d1bfbd8-cad2-4d81-a5a9-16ee92f05513",
+			"7ca6b014-380a-4e1d-98fd-5d9053c72575"
+		]
+	},
+	{
+		"id": "4c8a3378-6616-459d-acc4-83ee5a9b91a2",
+		"title": "beeldende vormgeving; beeldende vorming",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"7ef4ea47-4a2c-4e7d-b8b6-d9dfd8554346",
+			"a47e2314-bb11-4846-bd77-8c58e400ae5f"
+		]
+	},
+	{
+		"id": "e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
+		"title": "motorische ontwikkeling; motorische oefening",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"bc35dcbf-82a2-498f-9836-75c30bd85264",
+			"9df0f284-9e8c-44dc-9715-15269e3892d1"
+		]
+	},
+	{
+		"id": "ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
+		"title": "zintuigelijke ontwikkeling; zintuiglijke oefening",
+		"types": [
+			"vak"
+		],
+		"replacedBy": [
+			"797c136a-a531-456a-9a74-e6eb5b9464b2",
+			"a0ae16d4-69ce-444d-896e-3fa077c7745a"
+		]
 	}
+
 ]

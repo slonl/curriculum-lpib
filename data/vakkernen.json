@@ -1,7 +1,11 @@
 [
 	{
-		"id": "aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
+		"id": "9b08250a-8bf7-4043-8eb6-1e3845bb3113",
 		"title": "Burgerschap",
+		"unreleased": true,
+		"replaces": [
+			"aa2f68ba-69e5-415d-8d9b-8d6ab98942b1"
+		],
 		"volgnr": 1,
 		"vaksubkern_id": [
 			"f1e51d8d-6167-4573-a727-f8994c0a8f31",

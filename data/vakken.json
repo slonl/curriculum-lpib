@@ -335,7 +335,11 @@
 		"title": "audiovisuele vormgeving"
 	},
 	{
-		"id": "4c8a3378-6616-459d-acc4-83ee5a9b91a2",
+		"id": "7ef4ea47-4a2c-4e7d-b8b6-d9dfd8554346",
+		"unreleased": true,
+		"replaces": [
+			"4c8a3378-6616-459d-acc4-83ee5a9b91a2"
+		],
 		"title": "beeldende vormgeving"
 	},
 	{
@@ -367,8 +371,12 @@
 		"title": "bouwtechniek - timmeren"
 	},
 	{
-		"id": "aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
-		"title": "burgerschapsvorming"
+		"id": "e6981905-e23d-45d5-81e8-c885c6ceb3dd",
+		"title": "burgerschapsvorming",
+		"unreleased": true,
+		"replaces": [
+			"aa2f68ba-69e5-415d-8d9b-8d6ab98942b1"
+		]
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
@@ -423,7 +431,11 @@
 		"title": "geestelijke stromingen"
 	},
 	{
-		"id": "04058361-4e9e-4c02-a057-41605a7f37b5",
+		"id": "8fd8dda0-9ef3-4e6c-8c1d-1c3a0f356c81",
+		"unreleased": true,
+		"replaces": [
+			"04058361-4e9e-4c02-a057-41605a7f37b5"
+		],
 		"title": "gezond en redzaam gedrag"
 	},
 	{
@@ -491,15 +503,27 @@
 		"title": "klassieke culturele vorming"
 	},
 	{
-		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "bdcaf07a-0c48-4ff8-826c-096189d65b58",
+		"unreleased": true,		
+		"replaces": [
+			"4aa16ae7-48c6-4f96-b48d-a67389a7050d"
+		],
 		"title": "kunst algemeen"
 	},
 	{
-		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "26f2cab9-bd86-4811-9a7f-5d70b1152608",
+		"unreleased": true,
+		"replaces": [
+			"4aa16ae7-48c6-4f96-b48d-a67389a7050d"
+		],
 		"title": "kunst en cultuur"
 	},
 	{
-		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "752cd2d8-a10e-4320-8ff1-61a3cf88af4c",
+		"unreleased": true,
+		"replaces": [
+			"4aa16ae7-48c6-4f96-b48d-a67389a7050d"
+		],
 		"title": "kunstzinnige ori\u00c3\u00abntatie"
 	},
 	{
@@ -519,27 +543,39 @@
 		"title": "lezen"
 	},
 	{
-		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"id": "2d1bfbd8-cad2-4d81-a5a9-16ee92f05513",
+		"unreleased": true,
+		"replaces": [
+			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
+		],
 		"title": "lichamelijke opvoeding"
-	},
-	{
-		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
-		"title": "lichamelijke opvoeding (gemeenschappelijk deel)"
 	},
 	{
 		"id": "8a76cdab-36e7-4c96-9150-96f9c97251da",
 		"title": "lichamelijke opvoeding 2"
 	},
 	{
-		"id": "b3f61346-92c4-4fb5-9207-6a4142b64122",
-		"title": "literatuur"
+		"id": "caac75cc-baa4-487d-8fcd-5bf4518b33d5",
+		"title": "literatuur",
+		"unreleased": true,
+		"replaces": [
+			"b3f61346-92c4-4fb5-9207-6a4142b64122"
+		]
 	},
 	{
-		"id": "7596e435-d417-4de8-a32e-8e61f11ee1d2",
+		"id": "59d872b6-3588-4798-a1da-e5fdb1e48f7b",
+		"unreleased": true,
+		"replaces": [
+			"7596e435-d417-4de8-a32e-8e61f11ee1d2"
+		],
 		"title": "maatschappijleer"
 	},
 	{
-		"id": "7596e435-d417-4de8-a32e-8e61f11ee1d2",
+		"id": "213aa47f-6c35-495e-8316-94f095dc312e",
+		"unreleased": true,
+		"replaces": [
+			"7596e435-d417-4de8-a32e-8e61f11ee1d2"
+		],
 		"title": "maatschappijleer (gemeenschappelijk deel)"
 	},
 	{
@@ -567,7 +603,11 @@
 		"title": "mode en commercie"
 	},
 	{
-		"id": "e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
+		"id": "9df0f284-9e8c-44dc-9715-15269e3892d1",
+		"unreleased": true,
+		"replaces": [
+			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
+		],
 		"title": "motorische oefening"
 	},
 	{
@@ -659,10 +699,6 @@
 		"title": "verzorging"
 	},
 	{
-		"id": "3e1f23da-ab74-440d-a2e2-6856cd5c51a8",
-		"title": "verzorging"
-	},
-	{
 		"id": "ab706abb-1f4a-4860-93c1-1d5ef63ea3b5",
 		"title": "voertuigentechniek"
 	},
@@ -675,7 +711,11 @@
 		"title": "wiskunde D"
 	},
 	{
-		"id": "ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
+		"id": "a0ae16d4-69ce-444d-896e-3fa077c7745a",
+		"unreleased": true,
+		"replaces": [
+			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
+		],
 		"title": "zintuiglijke oefening"
 	},
 	{
@@ -683,7 +723,11 @@
 		"title": "zorg en welzijn breed"
 	},
 	{
-		"id": "4c8a3378-6616-459d-acc4-83ee5a9b91a2",
+		"id": "a47e2314-bb11-4846-bd77-8c58e400ae5f",
+		"unreleased": true,
+		"replaces": [
+			"4c8a3378-6616-459d-acc4-83ee5a9b91a2"
+		],
 		"title": "beeldende vorming"
 	},
 	{
@@ -691,7 +735,11 @@
 		"title": "beroepenori\u00ebntatie"
 	},
 	{
-		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
+		"unreleased": true,
+		"replaces": [
+			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
+		],
 		"title": "bewegen en sport"
 	},
 	{
@@ -703,11 +751,19 @@
 		"title": "milieueducatie"
 	},
 	{
-		"id": "e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
+		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
+		"unreleased": true,
+		"replaces": [
+			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
+		],
 		"title": "motorische ontwikkeling"
 	},
 	{
-		"id": "04058361-4e9e-4c02-a057-41605a7f37b5",
+		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
+		"unreleased": true,
+		"replaces": [
+			"04058361-4e9e-4c02-a057-41605a7f37b5"
+		],
 		"title": "praktische redzaamheid"
 	},
 	{
@@ -715,7 +771,11 @@
 		"title": "tekenen en handvaardigheid"
 	},
 	{
-		"id": "ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
+		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
+		"unreleased": true,
+		"replaces": [
+			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
+		],
 		"title": "zintuigelijke ontwikkeling"
 	},
 	{
