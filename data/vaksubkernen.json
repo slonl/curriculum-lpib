@@ -158,7 +158,6 @@
 	{
 		"id": "a7d87f0d-918e-405e-9baf-12c65da05b2d",
 		"title": "Europa",
-		"unreleased": true,
 		"replaces": [
 			"69a83ec2-ec15-4629-bc11-9e0d93bf0806"
 		],
@@ -173,7 +172,6 @@
 		"id": "a2de3f23-cd1e-45ac-9f0d-02f5c2d19efe",
 		"title": "Europa",
 		"description": "Import en export. Open- en meer gesloten economie.",
-		"unreleased": true,
 		"replaces": [
 			"69a83ec2-ec15-4629-bc11-9e0d93bf0806"
 		],
@@ -192,7 +190,6 @@
 	{
 		"id": "a5b8f3dc-065a-4792-9ed9-10ba1a67b88c",
 		"title": "Duurzaamheid",
-		"unreleased": true,
 		"replaces": [
 			"f719f7e0-ba85-493d-8d78-b0910a38c7d8"
 		],
@@ -207,7 +204,6 @@
 		"id": "db632ba2-f552-4741-a8b2-c1f5847145d5",
 		"title": "Duurzaamheid",
 		"description": "Een strategie, handelingswijze of productieproces die natuurlijke energie-, hulpbronnen of grondstoffen niet uitput.",
-		"unreleased": true,
 		"replaces": [
 			"f719f7e0-ba85-493d-8d78-b0910a38c7d8"
 		],
@@ -321,7 +317,6 @@
 	{
 		"id": "3fd22603-b986-4761-8126-7b8947641a09",
 		"title": "Weer",
-		"unreleased": true,
 		"replaces": [
 			"18629952-2d18-4de4-99c2-d29c36054512"
 		],
@@ -337,7 +332,6 @@
 		"id": "c3af6572-5520-4b27-afec-e0aa90d0df4b",
 		"title": "Weer",
 		"description": "Temperatuur, luchtdruk, vochtigheid, windsnelheid, windrichting, neerslag.",
-		"unreleased": true,
 		"replaces": [
 			"18629952-2d18-4de4-99c2-d29c36054512"
 		],
@@ -353,7 +347,6 @@
 		"id": "b07f0f4f-7be1-44e8-a729-c4a0259f8919",
 		"title": "Weer",
 		"description": "Temperatuur, luchtdruk, vochtigheid, windsnelheid, windrichting, neerslag; Weersverwachting.",
-		"unreleased": true,
 		"replaces": [
 			"18629952-2d18-4de4-99c2-d29c36054512"
 		],
@@ -373,7 +366,6 @@
 		"id": "c5418c51-26da-47dd-9522-51d5d299a639",
 		"title": "Weer",
 		"description": "Temperatuur, luchtdruk, vochtigheid, windsnelheid, windrichting, neerslag; weersverwachting.",
-		"unreleased": true,
 		"replaces": [
 			"18629952-2d18-4de4-99c2-d29c36054512"
 		],
@@ -393,7 +385,6 @@
 		"id": "719e2bb3-9641-4494-b34a-bb4af834027c",
 		"title": "Weer",
 		"description": "Temperatuur, luchtdruk, vochtigheid, windsnelheid, windrichting, neerslag.",
-		"unreleased": true,
 		"replaces": [
 			"18629952-2d18-4de4-99c2-d29c36054512"
 		],
@@ -487,7 +478,6 @@
 		"id": "2926ee80-2b4b-43c3-83e9-9dcd91c724df",
 		"title": "Luisteren naar aankondigingen en instructies",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (school, vrije tijd en amusement).",
-		"unreleased": true,
 		"replaces": [
 			"5f3c8c90-0f02-436a-87da-683a5aab1e95"
 		],
@@ -503,7 +493,6 @@
 		"id": "6b75597e-cc4d-4dc9-ae36-20bcbfbc1a58",
 		"title": "Luisteren naar tv, video- en geluidsopnames",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, relaties met anderen, huis, thuis en omgeving).",
-		"unreleased": true,
 		"replaces": [
 			"14d061c8-8987-479d-8c14-8323ce7bad13"
 		],
@@ -519,7 +508,6 @@
 		"id": "d875b039-8601-41b6-af86-33e910013a0b",
 		"title": "Gesprekken tussen moedertaalsprekers verstaan",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"b7227727-09a7-4f70-a89a-8b444904e016"
 		],
@@ -535,7 +523,6 @@
 		"id": "6cdbf90f-5eec-4304-8be0-3aed6b5000e1",
 		"title": "Luisteren als lid van een live publiek",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"4b360b4e-bb14-4d79-9d3d-1c040a37952f"
 		],
@@ -551,7 +538,6 @@
 		"id": "db03fca5-328a-484b-af6b-a3e4f2262aae",
 		"title": "Correspondentie lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, relaties met anderen).",
-		"unreleased": true,
 		"replaces": [
 			"c14d05d5-c4e0-4118-8de0-7c673ca3f601"
 		],
@@ -568,7 +554,6 @@
 		"id": "0e098575-e1a2-4c04-a90e-781671a285e5",
 		"title": "Oriënterend lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (vrije tijd en amusement, relaties met anderen, school) en Publieke sector (eten en drinken, reizen, winkelen).",
-		"unreleased": true,
 		"replaces": [
 			"f81197f7-90d2-4cac-8d02-159a61572989"
 		],
@@ -584,7 +569,6 @@
 		"id": "d200040c-36cf-4e90-84b2-3f0150f328b2",
 		"title": "Lezen om informatie op te doen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, vrije tijd en amusement, relaties met anderen) en Publieke sector (winkelen).",
-		"unreleased": true,
 		"replaces": [
 			"559b63c7-6867-417a-adbd-905f78ca020c"
 		],
@@ -600,7 +584,6 @@
 		"id": "3c8012d5-daf3-4a39-8e8f-7eb4d2e1b872",
 		"title": "Instructies lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (school, vrije tijd en amusement) en Publieke sector (eten en drinken).",
-		"unreleased": true,
 		"replaces": [
 			"14f40275-2ed7-4946-b0d8-cedcdc548d56"
 		],
@@ -616,7 +599,6 @@
 		"id": "dcd691ee-b0f9-4023-a5dd-1d210fcbd2ba",
 		"title": "Informele gesprekken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, relaties met anderen).",
-		"unreleased": true,
 		"replaces": [
 			"792857ec-bc7c-4249-b276-a5dd9b08cb0f"
 		],
@@ -632,7 +614,6 @@
 		"id": "245dd496-011f-44cb-9cc7-c3f2d03d9532",
 		"title": "Zaken regelen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, relaties met anderen, dagelijkse routines) en Publieke sector (reizen, winkelen, eten en drinken, huis, thuis en omgeving).",
-		"unreleased": true,
 		"replaces": [
 			"870cfcba-cb56-40e6-892c-e548a4f1fd88"
 		],
@@ -649,7 +630,6 @@
 		"id": "b758c664-b362-4974-b6e2-e111bf636d90",
 		"title": "Informatie uitwisselen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (vrije tijd en amusement) en Publieke sector (eten en drinken).",
-		"unreleased": true,
 		"replaces": [
 			"82b167d4-b24d-4b18-a8ea-941e4fd1ce48"
 		],
@@ -666,7 +646,6 @@
 		"id": "7bf6fc45-d0e2-4d6a-8618-aada3f9eed39",
 		"title": "Bijeenkomsten en vergaderingen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"16fc6ee7-f493-4d71-9b04-5ae2baf94c3e"
 		],
@@ -682,7 +661,6 @@
 		"id": "231d2b93-c3d6-4746-b24d-e99991dab066",
 		"title": "Monologen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, huis, thuis en omgeving, vrije tijd en amusement, dagelijkse routines).",
-		"unreleased": true,
 		"replaces": [
 			"ccb24264-3895-4bc9-873d-1efd19987a11"
 		],
@@ -698,7 +676,6 @@
 		"id": "043409f9-6af1-4e3d-bc12-e45e528e31d0",
 		"title": "Publiek toespreken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (school, vrije tijd en amusement, huis, thuis en omgeving).",
-		"unreleased": true,
 		"replaces": [
 			"26681c6a-87db-4ab2-8382-956eeab70179"
 		],
@@ -714,7 +691,6 @@
 		"id": "36b1b671-b403-45ad-804a-8c42acfb58bd",
 		"title": "Correspondentie",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (persoonlijke zaken, relaties met anderen).",
-		"unreleased": true,
 		"replaces": [
 			"42a1d80d-e026-4b22-b504-5f4346997a61"
 		],
@@ -731,7 +707,6 @@
 		"id": "14440170-698d-49a7-9303-00689b62bb45",
 		"title": "Aantekeningen, berichten, formulieren",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (school, persoonlijke zaken) en Publieke sector (winkelen, reizen).",
-		"unreleased": true,
 		"replaces": [
 			"a78dc442-237d-4a0f-b916-bc790a5dc2b3"
 		],
@@ -747,7 +722,6 @@
 		"id": "15779f0b-31fb-405e-a857-8cad8916d556",
 		"title": "Vrij schrijven",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven (huis, thuis en omgeving, school, vrije tijd en amusement).",
-		"unreleased": true,
 		"replaces": [
 			"c7ce71c4-59a8-4a44-9def-2d6e5beda820"
 		],
@@ -763,7 +737,6 @@
 		"id": "9a2347c9-e2ce-40f2-bd60-0e41d1021943",
 		"title": "Verslagen en rapporten",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"cd1d1d07-7680-419d-96bf-06b5cb9eaca8"
 		],
@@ -815,7 +788,6 @@
 		"id": "8b81539f-83f0-4a27-ba80-279334808cec",
 		"title": "Levenswijze van jagers en verzamelaars",
 		"description": "Het leven van jagers-verzamelaars in de prehistorie.",
-		"unreleased": true,
 		"replaces": [
 			"55ca5e24-59a7-4087-88b1-4fa7be6b0aa6"
 		],
@@ -830,7 +802,6 @@
 		"id": "6d700ae1-52d6-45f5-9389-ac47bba61131",
 		"title": "Ontstaan van landbouw en landbouwsamenlevingen",
 		"description": "Het leven van boeren (in de prehistorie). Geschreven bronnen ontbreken.",
-		"unreleased": true,
 		"replaces": [
 			"b9d23243-798e-42e6-8e1f-840c33606abe"
 		],
@@ -867,7 +838,6 @@
 		"id": "230cddfc-bb05-441f-85d4-203eb101940b",
 		"title": "Christendom in het Romeinse Rijk: van verboden tot enig toegestane godsdienst",
 		"description": "Het christendom in het Romeinse Rijk.",
-		"unreleased": true,
 		"replaces": [
 			"78ace442-37d6-4fa6-bdf6-3fee73970859"
 		],
@@ -894,7 +864,6 @@
 		"id": "e326d664-9ace-45e9-8405-3bc8fa07bcc9",
 		"title": "Verspreiding van het christendom in Europa",
 		"description": "De verspreiding van het christendom in het Romeinse Rijk.",
-		"unreleased": true,
 		"replaces": [
 			"56154888-0ad6-4be5-8fe7-aeb41650ee9a"
 		],
@@ -971,7 +940,6 @@
 		"id": "3086ccce-8e56-49b8-8fd3-f690b290b149",
 		"title": "Het begin van staatsvorming en centralisatie",
 		"description": "Het ontstaan van staten en de centralisatiepolitiek.",
-		"unreleased": true,
 		"replaces": [
 			"060955f6-63af-4205-9cde-97dd64d3325f"
 		],
@@ -995,7 +963,6 @@
 		"id": "745d429f-e766-4e9b-aa52-a71cf2ca53bc",
 		"title": "Begin van de overzeese Europese expansie",
 		"description": "De overzeese Europese expansie en de ontdekkingsreizen.",
-		"unreleased": true,
 		"replaces": [
 			"393363c4-2344-4851-9a72-8e4611354f22"
 		],
@@ -1010,7 +977,6 @@
 		"id": "89d52028-bb51-4e57-9ced-a278c3015437",
 		"title": "Opstand en het ontstaan van een onafhankelijke Nederlandse staat",
 		"description": "De Opstand. Gevolgen van de reformatie. Aspecten van de reformatie.",
-		"unreleased": true,
 		"replaces": [
 			"72405f6d-abc5-4ccb-a3b2-3718b047b12e"
 		],
@@ -1026,7 +992,6 @@
 		"id": "7a21e032-64ee-4367-97c5-5c3678c52868",
 		"title": "Reformatie en de splitsing in de christelijke kerk",
 		"description": "De reformatie. De gevolgen van de reformatie.",
-		"unreleased": true,
 		"replaces": [
 			"eb9c64d3-253b-4186-a2f7-251ca4d68f1d"
 		],
@@ -1184,7 +1149,6 @@
 		"id": "8e39dd40-f57b-4aae-bcd9-792d92a60e57",
 		"title": "Duitse bezetting en de Jodenvervolging",
 		"description": "Het nationaalsocialisme. De Jodenvervolging. De Duitse bezetting.",
-		"unreleased": true,
 		"replaces": [
 			"9b90f876-cbf5-4e05-a4a3-cff159fa5f15"
 		],
@@ -1200,7 +1164,6 @@
 		"id": "8757b981-587e-4af6-b65a-c8a59ea960d9",
 		"title": "Racistisch en totalitair karakter van het nationaalsocialisme",
 		"description": "Het nationaal-socialisme.",
-		"unreleased": true,
 		"replaces": [
 			"d5158982-f751-40bf-a352-adc8115d9890"
 		],
@@ -1234,7 +1197,6 @@
 		"id": "ff5acfbe-95b0-4190-b03c-a4da55faf599",
 		"title": "Sociaal-culturele veranderingen en toenemende pluriformiteit vanaf de jaren '60",
 		"description": "De pluriformiteit vanaf de jaren '60. Sociaal-culturele veranderingen vanaf de jaren '60. Onafhankelijkheid van koloniën. De Europese integratie.",
-		"unreleased": true,
 		"replaces": [
 			"5144e5e7-2a1e-4652-a32f-2d8e04280709"
 		],
@@ -1252,7 +1214,6 @@
 		"id": "af0da0d5-a559-4e1a-9374-9f708ef69777",
 		"title": "Nationalistische bewegingen in de koloniën en het streven naar onafhankelijkheid",
 		"description": "Nationalisme in de koloniën.",
-		"unreleased": true,
 		"replaces": [
 			"3d7cbdcd-fc2d-4006-ba98-e669f5912a6f"
 		],
@@ -1275,7 +1236,6 @@
 	{
 		"id": "8e00510e-e291-49e0-b462-6a9918e95b63",
 		"title": "Vaktaal wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"41732109-6524-4009-9c8f-58b41af5d093"
 		],
@@ -1289,7 +1249,6 @@
 	{
 		"id": "9e267c4a-4c43-4ef2-a17e-eb503398942a",
 		"title": "Vaktaal wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"41732109-6524-4009-9c8f-58b41af5d093"
 		],
@@ -1318,7 +1277,6 @@
 	{
 		"id": "9b95e239-c262-447b-a43a-43e59c49d331",
 		"title": "Vaktaal wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"41732109-6524-4009-9c8f-58b41af5d093"
 		],
@@ -1331,7 +1289,6 @@
 	{
 		"id": "391b1cef-b0d3-4e0d-a091-6629317c97b5",
 		"title": "Vaktaal wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"41732109-6524-4009-9c8f-58b41af5d093"
 		],
@@ -1344,7 +1301,6 @@
 	{
 		"id": "3437f58e-4886-4eaf-8948-9b44dfacc441",
 		"title": "Vaktaal wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"41732109-6524-4009-9c8f-58b41af5d093"
 		],
@@ -1357,7 +1313,6 @@
 	{
 		"id": "b5f19288-0355-476e-a6d4-7b07c8558684",
 		"title": "Herkennen en gebruiken van wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"b74ac03b-d0f5-48fd-8753-58539f737770"
 		],
@@ -1370,7 +1325,6 @@
 	{
 		"id": "1509ee35-1ed4-4be3-bf5b-5eb9201f588c",
 		"title": "Herkennen en gebruiken wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"b74ac03b-d0f5-48fd-8753-58539f737770"
 		],
@@ -1391,7 +1345,6 @@
 	{
 		"id": "aa1ebfbc-9155-414a-a3cb-2de95d4ad939",
 		"title": "Herkennen en gebruiken van wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"b74ac03b-d0f5-48fd-8753-58539f737770"
 		],
@@ -1406,7 +1359,6 @@
 	{
 		"id": "75618b4b-587c-4814-a5f0-c9e9bac649d3",
 		"title": "Herkennen en gebruiken van wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"b74ac03b-d0f5-48fd-8753-58539f737770"
 		],
@@ -1421,7 +1373,6 @@
 	{
 		"id": "69cc9a9b-a2dd-4ccc-97a5-823d37e99397",
 		"title": "Herkennen en gebruiken van wiskunde",
-		"unreleased": true,
 		"replaces": [
 			"b74ac03b-d0f5-48fd-8753-58539f737770"
 		],
@@ -1436,7 +1387,6 @@
 	{
 		"id": "8668354f-54b6-4cb1-9e3e-277abc9749d5",
 		"title": "Wiskundig redeneren",
-		"unreleased": true,
 		"replaces": [
 			"b717f01b-bcd0-4e20-a130-2dae59bf901b"
 		],
@@ -1452,7 +1402,6 @@
 	{
 		"id": "ca568ead-21ff-4b21-b5ea-dbeb0f6308a9",
 		"title": "Wiskundig redeneren",
-		"unreleased": true,
 		"replaces": [
 			"b717f01b-bcd0-4e20-a130-2dae59bf901b"
 		],
@@ -1471,7 +1420,6 @@
 	{
 		"id": "e888bae6-b6e5-406d-9a7d-219a435249ce",
 		"title": "Wiskundig redeneren",
-		"unreleased": true,
 		"replaces": [
 			"b717f01b-bcd0-4e20-a130-2dae59bf901b"
 		],
@@ -1484,7 +1432,6 @@
 	{
 		"id": "fcc982ca-d405-42dd-8765-42f4d5939e84",
 		"title": "Wiskundig redeneren",
-		"unreleased": true,
 		"replaces": [
 			"b717f01b-bcd0-4e20-a130-2dae59bf901b"
 		],
@@ -1497,7 +1444,6 @@
 	{
 		"id": "5cac10ec-6b37-48a7-908a-9825d7214f17",
 		"title": "Wiskundig redeneren",
-		"unreleased": true,
 		"replaces": [
 			"b717f01b-bcd0-4e20-a130-2dae59bf901b"
 		],
@@ -1525,7 +1471,6 @@
 	{
 		"id": "983d0160-7254-41d9-857e-b33be7b5c59d",
 		"title": "Getal: getalsysteem",
-		"unreleased": true,
 		"replaces": [
 			"6a443073-6143-4cfc-a15d-cf55b521270e"
 		],
@@ -1575,7 +1520,6 @@
 	{
 		"id": "7b54ecf9-2a83-4383-9eaf-2fc32574ad9f",
 		"title": "Rekenen met de rekenmachine",
-		"unreleased": true,
 		"replaces": [
 			"5d80e3a8-d20c-4bb3-bd26-f5b15d6666f1"
 		],
@@ -1616,7 +1560,6 @@
 	{
 		"id": "3d0cb27d-2004-479f-802a-113e689f7ef9",
 		"title": "Vaktaal verhoudingen, breuken, procenten",
-		"unreleased": true,
 		"replaces": [
 			"d3cfffe2-2de7-4223-8f93-8da704770e28"
 		],
@@ -1650,7 +1593,6 @@
 	{
 		"id": "58d5f11a-8a65-4220-8ac1-f67f9116286b",
 		"title": "Rekenen met verhoudingen",
-		"unreleased": true,
 		"replaces": [
 			"cb94c961-5b29-4f7f-9ea1-5d76386359bd"
 		],
@@ -1721,7 +1663,6 @@
 	{
 		"id": "f12fe21c-ae4b-4e98-8201-d5d8057c305d",
 		"title": "Vaktaal meetkunde",
-		"unreleased": true,
 		"replaces": [
 			"508b9d16-7718-48cb-972d-897ad28a48f9"
 		],
@@ -1736,7 +1677,6 @@
 	{
 		"id": "d22cc627-9b1a-44c3-b2d2-5d9e300408e1",
 		"title": "Metriek stelsel",
-		"unreleased": true,
 		"replaces": [
 			"c642eb9f-3c56-49c7-a874-9011bebdbd6f"
 		],
@@ -1784,7 +1724,6 @@
 	{
 		"id": "facca839-6293-41c9-b604-be15f3822de9",
 		"title": "Patronen en regelmaat",
-		"unreleased": true,
 		"replaces": [
 			"6d4ad14c-e528-4d76-a03b-61421e1d389d"
 		],
@@ -1799,7 +1738,6 @@
 	{
 		"id": "f439ceca-47df-4725-88b6-3d183686fc5d",
 		"title": "Patronen en regelmaat",
-		"unreleased": true,
 		"replaces": [
 			"6d4ad14c-e528-4d76-a03b-61421e1d389d"
 		],
@@ -1815,7 +1753,6 @@
 	{
 		"id": "8d8076b8-9545-4c9c-b3db-aac8e3db9719",
 		"title": "Patronen en regelmaat",
-		"unreleased": true,
 		"replaces": [
 			"6d4ad14c-e528-4d76-a03b-61421e1d389d"
 		],
@@ -1829,7 +1766,6 @@
 		"id": "98aa509c-1b68-403f-a3e6-8299a04ea690",
 		"title": "Gezondheid",
 		"description": "Gezond gedrag; Keuze maken rondom voeding, beweging, verslavende middelen, kleding, geld, media, relaties. Omgaan met groepsdruk. Zelfzorg rondom gezondheid. Verdeling van zorgtaken. Plannen van eigen zorgactiviteiten. Waarde van de zelfzorg, mantelzorg en professionele zorg.",
-		"unreleased": true,
 		"replaces": [
 			"83d7e057-877a-4ea5-a145-d4424aae3248"
 		],
@@ -1895,7 +1831,6 @@
 		"id": "d01f2a70-afff-4b88-bffa-8e508cffef66",
 		"title": "Gezondheid",
 		"description": "Gezond gedrag. Keuze maken rondom voeding, beweging, verslavende middelen, kleding, geld, media, relaties. Omgaan met groepsdruk. Zelfzorg rondom gezondheid. Verdeling van zorgtaken. Plannen van eigen zorgactiviteiten. Waarde van zelfzorg, mantelzorg en professionele zorg.",
-		"unreleased": true,
 		"replaces": [
 			"83d7e057-877a-4ea5-a145-d4424aae3248"
 		],
@@ -1939,7 +1874,6 @@
 		"id": "fa337dac-6d9e-499e-9eaf-95220618e2fc",
 		"title": "Ecosysteem",
 		"description": "Voedsel web, voedselketen; Producent, Reducent, Consument. Voorbeelden van kringlopen. Biodiversiteit in de eigen omgeving.",
-		"unreleased": true,
 		"replaces": [
 			"f81eade6-aa77-45d1-b8f0-60aa2f960249"
 		],
@@ -1980,7 +1914,6 @@
 		"id": "cc4e133e-11f3-4d3b-a7fb-1535a49e62fc",
 		"title": "Ecosysteem",
 		"description": "Voedselweb, voedselketen; Producent, Reducent, Consument. Voorbeelden van kringlopen. Biodiversiteit in de eigen omgeving.",
-		"unreleased": true,
 		"replaces": [
 			"f81eade6-aa77-45d1-b8f0-60aa2f960249"
 		],
@@ -2033,7 +1966,6 @@
 		"id": "e4418fcf-a001-490c-b034-8dab1451251f",
 		"title": "Duurzame ontwikkeling",
 		"description": "4 aspecten van duurzame ontwikkeling (ecologisch, mondiaal, maatschappelijk, economisch); Definities van duurzame ontwikkeling; Invloed van de mens op het milieu.",
-		"unreleased": true,
 		"replaces": [
 			"c294c894-bd8e-402b-9f29-800f66e70a3e"
 		],
@@ -2061,7 +1993,6 @@
 	{
 		"id": "2db8b09e-6f71-46eb-9fbf-5e29e798a12c",
 		"title": "Biodiversiteit",
-		"unreleased": true,
 		"replaces": [
 			"125862d7-2c1e-47e2-9b86-230e375b7518"
 		],
@@ -2076,7 +2007,6 @@
 	{
 		"id": "1efafd86-90bf-47d6-88b3-7db98d6bd85c",
 		"title": "Biodiversiteit",
-		"unreleased": true,
 		"replaces": [
 			"125862d7-2c1e-47e2-9b86-230e375b7518"
 		],
@@ -2091,7 +2021,6 @@
 		"id": "ecaed708-c48e-41a7-b253-07aa56bd3186",
 		"title": "Opbouw van leven",
 		"description": "Cel. Plantaardige en dierlijke cellen. Verschillende onderdelen van cellen. Weefsels en organen; Organen met functies; Verschil organen en weefsels. Bacterie, schimmel, virus, plant, dier/mens. Indelen in vier rijken; Kenmerken passend bij de vier rijken.",
-		"unreleased": true,
 		"replaces": [
 			"f2376387-bf54-47ae-ad40-50050113ff43"
 		],
@@ -2170,7 +2099,6 @@
 		"id": "0fd755ae-2610-4ea2-a367-e0eb313602dc",
 		"title": "Opbouw van leven",
 		"description": "Cel. Plantaardige en dierlijke cellen. Verschillende onderdelen van cellen. Verschillende onderdelen van cellen. Weefsels en organen; Organen met functies; Verschil organen en weefsels. Bacterie, schimmel, virus, plant, dier/mens. Indelen in vier rijken. Kenmerken passend bij de vier rijken.",
-		"unreleased": true,
 		"replaces": [
 			"f2376387-bf54-47ae-ad40-50050113ff43"
 		],
@@ -2219,7 +2147,6 @@
 	{
 		"id": "bec99ef1-c4b7-46e7-a25d-71410876dc42",
 		"title": "Levenskenmerk",
-		"unreleased": true,
 		"replaces": [
 			"3edecdf8-e694-4235-85ff-4b024c5d3e63"
 		],
@@ -2292,7 +2219,6 @@
 		"id": "289faf8b-5c54-4afd-bea5-ae8e0f1ec99c",
 		"title": "Instandhouding",
 		"description": "Metabolisme van de cel; Verbranding met zuurstof en zonder zuurstof (gisting). Bloedsomloop. Bouw en functie van hart en verschillende bloedvaten. Functies en samenstelling van het bloed. Ademhaling; Bouw en functie van de longen. Samenstelling ingeademde en uitgeademde lucht. Voeding; Voedingsstoffen; Verschil voeding planten/dieren/mens. Gezond eten; Samenstelling voedingspakket; Voedselbederf en voedselveiligheid. Bouw en functies van het spijsverteringsstelsel. Bewegen; Bouw, functie en werking van skelet en spierstelsel.",
-		"unreleased": true,
 		"replaces": [
 			"456aae74-1aa5-4c39-b706-3070f92460be"
 		],
@@ -2411,7 +2337,6 @@
 		"id": "859ef17f-7330-4146-a915-b051e37204f2",
 		"title": "Instandhouding",
 		"description": "Bloedsomloop; Bouw en functie van hart en verschillende bloedvaten. Functies en samenstelling van het bloed. Ademhaling; Bouw en functie van de longen. Samenstelling ingeademde en uitgeademde lucht. Voeding; Voedingsstoffen. Verschil voeding planten/dieren/mens. Gezond eten; Samenstelling voedingspakket. Voedselbederf en voedselveiligheid. Bouw en functies van het spijsverteringsstelsel. Bewegen; Bouw, functie en werking van skelet en spierstelsel. Werking van skelet en spierstelsel.",
-		"unreleased": true,
 		"replaces": [
 			"456aae74-1aa5-4c39-b706-3070f92460be"
 		],
@@ -2493,7 +2418,6 @@
 		"id": "3ccb247f-8aae-4cbf-92af-e4f2c28a982a",
 		"title": "Groei en ontwikkeling",
 		"description": "Ontwikkelingsfasen; Lichamelijke en geestelijke groei; Puberteit. Fotosynthese; Organische stoffen.",
-		"unreleased": true,
 		"replaces": [
 			"2176cc59-b711-4014-8eb3-425094d24242"
 		],
@@ -2529,7 +2453,6 @@
 		"id": "3df18f31-5712-4bb3-bb0b-187b6baef9ce",
 		"title": "Groei en ontwikkeling",
 		"description": "Ontwikkelingsfasen; Lichamelijke en geestelijke groei; Puberteit. Fotosynthese; Organische stoffen.",
-		"unreleased": true,
 		"replaces": [
 			"2176cc59-b711-4014-8eb3-425094d24242"
 		],
@@ -2557,7 +2480,6 @@
 		"id": "a71589cf-318a-4e07-9bdd-a4b4963d305e",
 		"title": "Interactie",
 		"description": "Bouw, werking en functie van verschillende zintuigen. Zenuwstelsel; Bouw en functie van zenuwen en hersenen. Gedrag. Verantwoordelijkheid voor eigen gedrag in verschillende situaties.",
-		"unreleased": true,
 		"replaces": [
 			"10adc434-31fe-4b63-8201-05d235863861"
 		],
@@ -2636,7 +2558,6 @@
 	{
 		"id": "ddc0da71-e385-4019-9e18-17afbd9f454a",
 		"title": "Beweging",
-		"unreleased": true,
 		"replaces": [
 			"0d4fc01a-2bb9-4b63-9302-b4e6066bfc4b"
 		],
@@ -2651,7 +2572,6 @@
 		"id": "9622e8a7-69ff-491e-bf1a-3f90da1283f9",
 		"title": "Beweging",
 		"description": "Afstand, (gemiddelde) snelheid, versnelling. Beweging in grafiek.",
-		"unreleased": true,
 		"replaces": [
 			"0d4fc01a-2bb9-4b63-9302-b4e6066bfc4b"
 		],
@@ -2712,7 +2632,6 @@
 		"id": "7b385ab7-c38c-42ec-a657-5e259e2c173a",
 		"title": "Beweging",
 		"description": "Afstand, (gemiddelde) snelheid, versnelling. Beweging in grafiek. Beweging,plaats-tijddiagram, snelheid-tijddiagram.",
-		"unreleased": true,
 		"replaces": [
 			"0d4fc01a-2bb9-4b63-9302-b4e6066bfc4b"
 		],
@@ -2754,7 +2673,6 @@
 		"id": "5d2d0e5f-5254-436c-9e36-52973f26fbb9",
 		"title": "Beweging",
 		"description": "Afstand, (gemiddelde) snelheid, versnelling. Beweging, plaats-tijddiagram, snelheid-tijddiagram.",
-		"unreleased": true,
 		"replaces": [
 			"0d4fc01a-2bb9-4b63-9302-b4e6066bfc4b"
 		],
@@ -2797,7 +2715,6 @@
 		"id": "333e1b51-6f7c-409d-8b3b-fe976b833657",
 		"title": "Reproductie",
 		"description": "Celdeling en reductiedeling. Ongeslachtelijke en geslachtelijke voortplanting bij planten; Geslachtelijke voortplanting bij dieren en mensen. Functies van de voortplanting; Bouw mannelijke en vrouwelijke geslachtsorganen. Ingrijpen in de voortplanting. Functies van seksualiteit; Seksueel overdraagbare aandoeningen. Geslachtshormonen. Relaties. Veranderende relatie in de puberteit. Seksuele relaties en seksueel gedrag. Eigen normen en waarden in relaties; Seksualiteit en media. Genotype, Fenotype, Gen; X en Y chromosoom.",
-		"unreleased": true,
 		"replaces": [
 			"ae9e9b78-e51f-4663-b61a-ab5034ec1709"
 		],
@@ -2930,7 +2847,6 @@
 		"id": "c07bb89a-9175-4e41-93f5-d6059b8f6842",
 		"title": "Reproductie",
 		"description": "Celdeling en reductiedeling. Ongeslachtelijke en geslachtelijke voortplanting bij planten. Geslachtelijke voortplanting bij dieren en mensen. Functies van de voortplanting; Bouw mannelijke en vrouwelijke geslachtsorganen. Ingrijpen in de voortplanting. Functies van seksualiteit; Seksueel overdraagbare aandoeningen. Geslachtshormonen. Relaties. Veranderende relatie in de puberteit. Seksuele relaties en seksueel gedrag. Eigen normen en waarden in relaties. Seksualiteit en media. Genotype, Fenotype, Gen; X en Y chromosoom.",
-		"unreleased": true,
 		"replaces": [
 			"ae9e9b78-e51f-4663-b61a-ab5034ec1709"
 		],
@@ -3018,7 +2934,6 @@
 		"id": "250c9e55-5539-479d-8737-1617c3715a18",
 		"title": "Evolutie",
 		"description": "Fossielen. Verandering in genotype.",
-		"unreleased": true,
 		"replaces": [
 			"71db625a-a83c-48fc-bee6-9e40abcb4aff"
 		],
@@ -3046,7 +2961,6 @@
 		"id": "2eee2abd-df9c-40f2-8542-c744c465bdaa",
 		"title": "Evolutie",
 		"description": "Fossielen. Verandering in genotype.",
-		"unreleased": true,
 		"replaces": [
 			"71db625a-a83c-48fc-bee6-9e40abcb4aff"
 		],
@@ -3154,7 +3068,6 @@
 	{
 		"id": "0d5a3967-8f12-4175-b57c-324db8476e15",
 		"title": "Levenscyclus",
-		"unreleased": true,
 		"replaces": [
 			"d5ac2433-9637-4d10-b8a9-cba0ca5da32a"
 		],
@@ -3222,7 +3135,6 @@
 		"id": "69b1be13-91ea-4894-9ab4-750e7b6b0cad",
 		"title": "Correspondentie lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"46385d58-c9bc-4e6e-a60e-7523da2becb7"
 		],
@@ -3238,7 +3150,6 @@
 		"id": "5cfc7525-0708-4a89-b5b9-886b37597029",
 		"title": "Oriënterend lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"542103ed-2af3-43a4-817f-d1485122a89a"
 		],
@@ -3254,7 +3165,6 @@
 		"id": "5034eb32-dc39-4024-9111-4ecc8b408e50",
 		"title": "Lezen om informatie op te doen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"c766aad8-f565-4519-b4ad-fbadc7167708"
 		],
@@ -3270,7 +3180,6 @@
 		"id": "f8d12f51-bdcb-4745-b128-d5dae34d762d",
 		"title": "Instructies lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"c26d5390-7000-49c8-a313-41f0a786be11"
 		],
@@ -3286,7 +3195,6 @@
 		"id": "2e829f6e-a2fc-4e2a-95f9-1050d8e89da8",
 		"title": "Gesprekken tussen moedertaalsprekers verstaan",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"a2d997e1-0329-48f5-8cb0-586137c7a41b"
 		],
@@ -3302,7 +3210,6 @@
 		"id": "0948b750-4d31-424e-9024-c53853ab8e26",
 		"title": "Luisteren naar aankondigingen en instructies",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"fe817b10-4d9d-4d1d-ac23-2fd17bcfd7a3"
 		],
@@ -3318,7 +3225,6 @@
 		"id": "f0254051-ffb8-4a0f-906f-693448fb63a3",
 		"title": "Luisteren naar tv, video- en geluidsopnames",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"d574d33a-ab2d-4df4-8278-7e7b83cdcedb"
 		],
@@ -3334,7 +3240,6 @@
 		"id": "7c2e4063-af85-496e-88ee-511454d7c46f",
 		"title": "Luisteren als lid van een live publiek",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"68e02427-c570-49ce-b416-78bf09a3a3fd"
 		],
@@ -3350,7 +3255,6 @@
 		"id": "67fbc7f6-37d2-4df4-9fea-1676dee9931e",
 		"title": "Informele gesprekken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"0d63a4cf-f479-4a54-bae4-1c4e716354d4"
 		],
@@ -3366,7 +3270,6 @@
 		"id": "f63b8f79-f8c5-4585-b915-2d1892ae32cd",
 		"title": "Zaken regelen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"efe8fae9-be7a-437d-bfd5-713235ba2176"
 		],
@@ -3382,7 +3285,6 @@
 		"id": "4af93765-11fa-4c7f-8ceb-4be3b6203471",
 		"title": "Informatie uitwisselen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"cf6488b0-e9db-484f-a3df-9c2fb60d655a"
 		],
@@ -3398,7 +3300,6 @@
 		"id": "b0c4a279-3a41-43a1-bd09-df51b1bae406",
 		"title": "Bijeenkomsten en vergaderingen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"05358613-a219-4956-bc19-0c07566acf84"
 		],
@@ -3414,7 +3315,6 @@
 		"id": "3cbc53b5-38b1-4960-88fb-d774eb328005",
 		"title": "Monologen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"6503b944-050b-481d-87c6-43ef18d0e033"
 		],
@@ -3430,7 +3330,6 @@
 		"id": "f5743db8-bc0e-4547-bb83-a28effae7e7d",
 		"title": "Publiek toespreken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"ec8e424e-f360-4c4f-a323-f2611d25c4a7"
 		],
@@ -3446,7 +3345,6 @@
 		"id": "be9d74f1-e292-4b81-bb42-83da358c37b1",
 		"title": "Correspondentie",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"824a7800-7f38-4e70-8ffa-504098465a7c"
 		],
@@ -3462,7 +3360,6 @@
 		"id": "592c6198-12be-4431-867f-3c681d0f945f",
 		"title": "Aantekeningen, berichten, formulieren",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"7195a63d-81fa-4d53-9865-821d689c0d09"
 		],
@@ -3478,7 +3375,6 @@
 		"id": "b564bfcd-3666-42b2-b1b4-d29eefbee174",
 		"title": "Vrij schrijven",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"daf4bf82-19bf-49b9-a62b-58ef9d710402"
 		],
@@ -3494,7 +3390,6 @@
 		"id": "57eadb99-b888-4c99-9336-221bd4928462",
 		"title": "Verslagen en rapporten",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"31b0bb1f-db84-404d-ab67-fd668a613808"
 		],
@@ -3510,7 +3405,6 @@
 		"id": "f63193ea-5846-49d4-bdaf-1d9356c20d41",
 		"title": "Schaarste",
 		"description": "Behoeften. Zelfvoorziening of kopen. Directe en indirecte ruil.",
-		"unreleased": true,
 		"replaces": [
 			"8913f9b6-60d1-4486-ad23-b5323f356a53"
 		],
@@ -3602,7 +3496,6 @@
 		"id": "f797110a-119d-4476-a4d1-ab6d07d22dec",
 		"title": "Geld",
 		"description": "Betalingsverkeer. Chartaal en giraal geld.",
-		"unreleased": true,
 		"replaces": [
 			"e034c83a-b76c-4615-b5d0-c7d7e3e6657f"
 		],
@@ -3630,7 +3523,6 @@
 		"id": "dc13c99a-d5ad-4142-a539-fbdaa8efa9ec",
 		"title": "Geld",
 		"description": "De eigenschappen van geld. De intrinsieke en extrinsieke waarde.",
-		"unreleased": true,
 		"replaces": [
 			"e034c83a-b76c-4615-b5d0-c7d7e3e6657f"
 		],
@@ -3655,7 +3547,6 @@
 		"id": "e10213a9-9045-48cb-bb70-4fb117b7ad7b",
 		"title": "Verzekeren",
 		"description": "Verzekeren.",
-		"unreleased": true,
 		"replaces": [
 			"e39cd700-a634-49ca-a935-3b3a3669d11d"
 		],
@@ -3673,7 +3564,6 @@
 		"id": "eaaf48a2-43e1-4a33-9e69-70d162866696",
 		"title": "Verzekeren",
 		"description": "Hoe dekt men risico's af? Verplichte solidariteit.",
-		"unreleased": true,
 		"replaces": [
 			"e39cd700-a634-49ca-a935-3b3a3669d11d"
 		],
@@ -3905,7 +3795,6 @@
 		"id": "8e40f41f-acd7-434a-87c6-a4931899d484",
 		"title": "Balans",
 		"description": "Activa en passiva.",
-		"unreleased": true,
 		"replaces": [
 			"86268e37-0e85-4231-a9e6-3a0e46bc2fc5"
 		],
@@ -3918,7 +3807,6 @@
 	{
 		"id": "1a07e13f-a7ea-4262-a7b6-51af6b1bb25a",
 		"title": "Balansen",
-		"unreleased": true,
 		"replaces": [
 			"86268e37-0e85-4231-a9e6-3a0e46bc2fc5"
 		],
@@ -3990,7 +3878,6 @@
 		"id": "4cad5831-9856-49de-a999-c672ecd10857",
 		"title": "Sparen en investeren",
 		"description": "Op welke wijze vergaart men vermogen en op wijze trekken we vermogen aan?",
-		"unreleased": true,
 		"replaces": [
 			"06a6c609-766c-4201-9232-db689ba37d7c"
 		],
@@ -4004,7 +3891,6 @@
 		"id": "5a576b1d-5aca-4430-84ec-1fa3f76f5ad8",
 		"title": "Rente",
 		"description": "Geld lenen kost geld.",
-		"unreleased": true,
 		"replaces": [
 			"faf5807f-200e-4e13-b198-832a77560736"
 		],
@@ -4018,7 +3904,6 @@
 		"id": "7e1896b2-8107-4cc3-b360-75b7228fbd13",
 		"title": "Levensloop",
 		"description": "De mens als \"kapitaalgoed\" (human capital).",
-		"unreleased": true,
 		"replaces": [
 			"50f64e0e-b09a-4526-835f-c47178712221"
 		],
@@ -4037,7 +3922,6 @@
 	{
 		"id": "71d5f043-40b1-4c42-9451-c3bac524792a",
 		"title": "Intertemporele ruil",
-		"unreleased": true,
 		"replaces": [
 			"e00953ea-8243-4f56-b5d9-039de8a9c183"
 		],
@@ -4098,7 +3982,6 @@
 		"id": "bb1f0d4e-92a5-4e6d-8183-0d816b0dd7d4",
 		"title": "Moral hazard",
 		"description": "Welke prikkels leiden tot welk gedrag?",
-		"unreleased": true,
 		"replaces": [
 			"f7db0448-f313-438b-88fd-b4a53ca5e0a4"
 		],
@@ -4111,7 +3994,6 @@
 	{
 		"id": "6411a475-8a37-480b-8195-15ea793c1f8e",
 		"title": "Effecten van asymmetrische informatie",
-		"unreleased": true,
 		"replaces": [
 			"7e89e279-f746-482f-8c70-1d20f44ff75e"
 		],
@@ -4161,7 +4043,6 @@
 		"id": "d92a262b-d50f-4b73-a9e1-6af434c9f3bd",
 		"title": "Welvaart",
 		"description": "Op welke wijze meten we welvaart?",
-		"unreleased": true,
 		"replaces": [
 			"a89af8c6-6dfa-4ad2-8b06-cb06e5a52989"
 		],
@@ -4181,7 +4062,6 @@
 		"id": "5aea64cc-eb3f-4c09-89f8-b4a0231550e1",
 		"title": "BBP",
 		"description": "De optelsom van wat er in een land geproduceerd wordt.",
-		"unreleased": true,
 		"replaces": [
 			"35ab8333-021e-44de-b10a-48ba05d0d77f"
 		],
@@ -4207,7 +4087,6 @@
 		"id": "97e277a3-ba01-4299-bea0-eb65c7646713",
 		"title": "Inflatie en koopkracht",
 		"description": "De waarde van geld en wat men hier voor kan kopen.",
-		"unreleased": true,
 		"replaces": [
 			"1ddbb366-a927-4527-95d4-573f95c0ede7"
 		],
@@ -4230,7 +4109,6 @@
 	{
 		"id": "cafced32-5111-4caf-b324-f3d90e74c400",
 		"title": "Conjuncturele verschijnselen",
-		"unreleased": true,
 		"replaces": [
 			"7bae5658-563c-420a-8ef2-8713dca1d815"
 		],
@@ -4271,7 +4149,6 @@
 		"id": "eb3f7f76-0565-4a43-94e6-cba9e2490b28",
 		"title": "Correspondentie lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"e6e70781-4a54-4f9c-ba09-7899f29e6857"
 		],
@@ -4287,7 +4164,6 @@
 		"id": "f18e7071-6f30-4bd4-8002-bf99cc552b9d",
 		"title": "Oriënterend lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"03c22f35-4092-4a64-b3d1-e02ac168da6c"
 		],
@@ -4303,7 +4179,6 @@
 		"id": "a35bc970-5e6c-43b2-b8bd-3daa165ce901",
 		"title": "Lezen om informatie op te doen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"e23f7714-ff0d-4b6a-90ad-e25178edd4d2"
 		],
@@ -4319,7 +4194,6 @@
 		"id": "45f8b1a7-2bb8-4a91-9e2b-c96156f84bec",
 		"title": "Instructies lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"7a6f91c9-98d8-4795-b189-edbc9581de65"
 		],
@@ -4335,7 +4209,6 @@
 		"id": "b26ce3c4-f8bd-401e-9a3d-db2a629e5ad5",
 		"title": "Gesprekken tussen moedertaalsprekers verstaan",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"e4eb2f34-545e-4ff5-beb9-4cbd7a53502c"
 		],
@@ -4351,7 +4224,6 @@
 		"id": "24450741-a062-4555-b3b7-7b5f7ecd02b7",
 		"title": "Luisteren naar aankondigingen en instructies",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"2201975d-c314-41e6-97b1-b2277474648c"
 		],
@@ -4367,7 +4239,6 @@
 		"id": "e4cdf07d-db1c-4f64-bc11-2c9ca68ecbd1",
 		"title": "Luisteren naar tv, video- en geluidsopnames",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"a4e54e9b-981a-41e3-a8df-c83db2a131b4"
 		],
@@ -4383,7 +4254,6 @@
 		"id": "0b0a83b2-8cee-41ef-a547-cab800735126",
 		"title": "Luisteren als lid van een live publiek",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"b3005781-f8f2-4f1d-99ef-b03cbc63ce7c"
 		],
@@ -4399,7 +4269,6 @@
 		"id": "6fa2ff2c-75ca-45eb-a740-457b5a16a8ac",
 		"title": "Informele gesprekken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"b093e9e4-f24a-4ed0-bdba-7048008e6eca"
 		],
@@ -4415,7 +4284,6 @@
 		"id": "ba573557-65c0-431f-aa52-978d61440c6c",
 		"title": "Zaken regelen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector; voor havo en vwo ook nog het thema Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"7193f020-1081-442f-ab83-16d690dc67d9"
 		],
@@ -4431,7 +4299,6 @@
 		"id": "d7d02ae9-a9e5-4e9e-af3a-ee54070fd55e",
 		"title": "Informatie uitwisselen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"f4e9a9e3-5458-4574-b733-dd1741207ee4"
 		],
@@ -4447,7 +4314,6 @@
 		"id": "86b87aeb-e408-4d4c-8d83-6feb9bf2b3cd",
 		"title": "Bijeenkomsten en vergaderingen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"d44b8590-dc6a-4c51-819b-e0c1e4020d21"
 		],
@@ -4463,7 +4329,6 @@
 		"id": "4f3c0d7d-ce3b-4633-8833-9c32eb1834bb",
 		"title": "Monologen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"1838a8cd-ac3e-4ece-9054-58d62902ca59"
 		],
@@ -4479,7 +4344,6 @@
 		"id": "228d853a-160f-43dc-b58e-fdfa373b544e",
 		"title": "Publiek toespreken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"6ba47eae-9666-49df-bcd7-a8432c203a51"
 		],
@@ -4495,7 +4359,6 @@
 		"id": "9feeddc7-5bda-41a0-b016-f2f64f962d4a",
 		"title": "Correspondentie",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"23947ba9-7f11-4289-8cfa-1094606d6641"
 		],
@@ -4511,7 +4374,6 @@
 		"id": "493936a4-8c2e-447d-896e-7db7f0c82a16",
 		"title": "Aantekeningen, berichten, formulieren",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"fbe30e3b-508b-4cf1-8d0f-19d3b13e8910"
 		],
@@ -4527,7 +4389,6 @@
 		"id": "03333b20-d5ee-49c3-a2fb-82c37cfff049",
 		"title": "Vrij schrijven",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"da265e4b-8d7c-439c-acec-e7bd7338a4c8"
 		],
@@ -4543,7 +4404,6 @@
 		"id": "2460fa61-f5b1-4c67-b756-e53716b6477c",
 		"title": "Verslagen en rapporten",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"dc89cdb8-e50c-4e41-8907-a86a21d32139"
 		],
@@ -4559,7 +4419,6 @@
 		"id": "2a696107-4150-45d5-ac11-fad7fc1e2c33",
 		"title": "Chemische reacties",
 		"description": "Chemische reactie en reactieschema. Voorbeelden in de dagelijkse praktijk.",
-		"unreleased": true,
 		"replaces": [
 			"3441c28b-ed1a-4ce0-a987-25113138ec88"
 		],
@@ -4589,7 +4448,6 @@
 		"id": "db247f7a-0375-44aa-af19-8066c78dab71",
 		"title": "Chemische reacties",
 		"description": "Chemische reactie en reactieschema. Voorbeelden in de dagelijkse praktijk.",
-		"unreleased": true,
 		"replaces": [
 			"3441c28b-ed1a-4ce0-a987-25113138ec88"
 		],
@@ -4619,7 +4477,6 @@
 		"id": "4a51f235-4eb7-4e47-9c44-d85df381447b",
 		"title": "Chemische reacties",
 		"description": "Een proces waarbij stoffen verdwijnen en nieuwe stoffen ontstaan.",
-		"unreleased": true,
 		"replaces": [
 			"3441c28b-ed1a-4ce0-a987-25113138ec88"
 		],
@@ -4645,7 +4502,6 @@
 		"id": "7702f2bc-8efe-4007-b19d-3eb3484966bd",
 		"title": "Bouw van stoffen",
 		"description": "Moleculen. Moleculen (en atomen) en stoffen, fasen en chemische reacties.",
-		"unreleased": true,
 		"replaces": [
 			"fb70add5-b551-41ce-914f-06172e67cbef"
 		],
@@ -4673,7 +4529,6 @@
 		"id": "0d86c40c-fbd2-4918-8c55-e916b8c7ef7f",
 		"title": "Bouw van stoffen",
 		"description": "Moleculen. Moleculen (en atomen) en stoffen, fasen en chemische reacties.",
-		"unreleased": true,
 		"replaces": [
 			"fb70add5-b551-41ce-914f-06172e67cbef"
 		],
@@ -4701,7 +4556,6 @@
 		"id": "d94883ce-215d-4ec5-b6bd-768e227feb3e",
 		"title": "Eigenschappen",
 		"description": "Stoffen en hun eigenschappen. Eigenschappen van gevaarlijke stoffen. Dichtheid (kwalitatief). Geleiding van geluid. Geleiding van warmte. Brandbaarheid.",
-		"unreleased": true,
 		"replaces": [
 			"74c670ef-2b08-49a9-8f7e-4fc77c9dda55"
 		],
@@ -4743,7 +4597,6 @@
 		"id": "f2dfa753-115b-41bf-9e76-bf24298d6694",
 		"title": "Eigenschappen",
 		"description": "Stoffen en hun eigenschappen. Eigenschappen van gevaarlijke stoffen. Dichtheid (kwalitatief). Geleiding van geluid. Geleiding van warmte. Brandbaarheid.",
-		"unreleased": true,
 		"replaces": [
 			"74c670ef-2b08-49a9-8f7e-4fc77c9dda55"
 		],
@@ -4785,7 +4638,6 @@
 		"id": "a13d50be-4869-460a-9142-a086e6cad171",
 		"title": "Eigenschap",
 		"description": "Kenmerken waarin objecten of materialen van elkaar verschilen en dus te herkennen zijn. Eigenschappen worden bepaald door het productieproces of door interacties tussen (meso)structuren, of door chemische bindingen.",
-		"unreleased": true,
 		"replaces": [
 			"74c670ef-2b08-49a9-8f7e-4fc77c9dda55"
 		],
@@ -4816,7 +4668,6 @@
 		"id": "91e04897-12cf-4335-a4e0-533951db378b",
 		"title": "Product",
 		"description": "Materiaalkeuze gerelateerd aan functie, vorm en veiligheid. Ontwerpen en maken van producten.",
-		"unreleased": true,
 		"replaces": [
 			"d8bd3b1c-9ac9-4fd9-add3-1fcabbdf2d1f"
 		],
@@ -4852,7 +4703,6 @@
 		"id": "d6238d8f-e465-44fd-9e46-c0896a6c0e6c",
 		"title": "Product",
 		"description": "Materiaalkeuze gerelateerd aan functie, vorm en veiligheid. Ontwerpen en maken van producten.",
-		"unreleased": true,
 		"replaces": [
 			"d8bd3b1c-9ac9-4fd9-add3-1fcabbdf2d1f"
 		],
@@ -4880,7 +4730,6 @@
 		"id": "40f98f76-258b-4a1d-bed5-c7959a152d18",
 		"title": "Product",
 		"description": "Materiaalkeuze gerelateerd aan functie, vorm en veiligheid. Ontwerpen en maken van producten.",
-		"unreleased": true,
 		"replaces": [
 			"d8bd3b1c-9ac9-4fd9-add3-1fcabbdf2d1f"
 		],
@@ -4900,7 +4749,6 @@
 		"id": "01a49183-86b2-47fe-8fae-875de78c7217",
 		"title": "Stoffen om ons heen",
 		"description": "Watersoorten. Metalen. Zuren en basen. Schoonmaakmiddelen.",
-		"unreleased": true,
 		"replaces": [
 			"46cf2188-61b1-425c-ab9c-7eb0b3f5c830"
 		],
@@ -4946,7 +4794,6 @@
 		"id": "df0da68a-f54a-4074-9ab6-7f1693dbb9c9",
 		"title": "Stoffen om ons heen",
 		"description": "Watersoorten. Metalen. Zuren en basen. Schoonmaakmiddelen.",
-		"unreleased": true,
 		"replaces": [
 			"46cf2188-61b1-425c-ab9c-7eb0b3f5c830"
 		],
@@ -4992,7 +4839,6 @@
 		"id": "d994655f-7e9d-4088-8736-d2bbe9726fa6",
 		"title": "Zuiver of gemengd?",
 		"description": "Zuivere stoffen. Mengsels. Scheidingsmethoden.",
-		"unreleased": true,
 		"replaces": [
 			"51d2ec21-ba26-4e56-8006-9bab70293840"
 		],
@@ -5025,7 +4871,6 @@
 	{
 		"id": "2b872a16-1620-4539-89af-d7630df16d58",
 		"title": "Zuiver of gemengd?",
-		"unreleased": true,
 		"replaces": [
 			"51d2ec21-ba26-4e56-8006-9bab70293840"
 		],
@@ -5059,7 +4904,6 @@
 		"id": "cea2c520-a27a-4527-99da-108102998ced",
 		"title": "Elektriciteit en magnetisme",
 		"description": "Stroomsterkte, spanning, weerstand. Spanningsbron. Stroomkringen. Geleiders, isolatoren. Magnetisme. Dynamo, transformator. Veiligheid, kortsluiting, overbelasting. Sensoren, actuatoren, meet-, stuur- en regelsystemen.",
-		"unreleased": true,
 		"replaces": [
 			"70be315f-9f81-4be6-a7b4-19e34fc740d9"
 		],
@@ -5165,7 +5009,6 @@
 		"id": "c20e951b-0412-4d8d-ae9e-5288328187cb",
 		"title": "Elektriciteit en magnetisme",
 		"description": "Stroomsterkte, spanning, weerstand. Spanningsbron. Stroomkringen. Geleiders, isolatoren. Magnetisme. Dynamo, transformator. Veiligheid, kortsluiting, overbelasting. Sensoren, actuatoren, meet-, stuur- en regelsystemen. Lading. Wet van Ohm. KWh-meter (technisch); KWh-meter (economisch). Veilig met elektriciteit. Elektromagnetisme. Elektromagneten. Besturingstechniek: sensoren, actuatoren, meet- stuur- en regelsystemen.",
-		"unreleased": true,
 		"replaces": [
 			"70be315f-9f81-4be6-a7b4-19e34fc740d9"
 		],
@@ -5235,7 +5078,6 @@
 		"id": "a0be0a5e-a2d4-4582-8b98-b3b3415e6dd1",
 		"title": "Elektriciteit en magnetisme",
 		"description": "Lading. Wet van Ohm. Spanningsbron. Stroomkringen. Geleiders, isolatoren. Veilig met elektriciteit. Magnetisme. Dynamo, transformator. Veiligheid, kortsluiting, overbelasting. Besturingstechniek: sensoren, actuatoren, meet- stuur- en regelsystemen.",
-		"unreleased": true,
 		"replaces": [
 			"70be315f-9f81-4be6-a7b4-19e34fc740d9"
 		],
@@ -5283,7 +5125,6 @@
 		"id": "37a04743-42b6-4bf6-9798-72e1c494f3d2",
 		"title": "Energie in de toekomst",
 		"description": "Alternatieve energiebronnen.",
-		"unreleased": true,
 		"replaces": [
 			"638f9bbd-bb05-4adc-b983-a3346125fc9f"
 		],
@@ -5307,7 +5148,6 @@
 		"id": "012c89e5-54ff-4b75-91a3-286d92be9fbb",
 		"title": "Energie in de toekomst",
 		"description": "Alternatieve energiebronnen. Verdieping alternatieve energiebronnen: (ontstaan, technisch).",
-		"unreleased": true,
 		"replaces": [
 			"638f9bbd-bb05-4adc-b983-a3346125fc9f"
 		],
@@ -5327,7 +5167,6 @@
 		"id": "d6cddc42-43b8-4e66-b1d3-3c8174143f68",
 		"title": "Energie in de toekomst",
 		"description": "Alternatieve energiebronnen.",
-		"unreleased": true,
 		"replaces": [
 			"638f9bbd-bb05-4adc-b983-a3346125fc9f"
 		],
@@ -5343,7 +5182,6 @@
 		"id": "207d2fca-7f60-415e-bd3a-ea564811d9df",
 		"title": "Verbranden en verwarmen",
 		"description": "Transport en isolatie. Brand blussen. Verbranding en milieu. Verbranding. Voorwaarden voor verbranding. Verschijnselen bij verwarmen.",
-		"unreleased": true,
 		"replaces": [
 			"f6925bd8-53b8-4c07-8080-590566542b23"
 		],
@@ -5403,7 +5241,6 @@
 		"id": "c078cc0a-c3c4-417c-a937-88a38da60a74",
 		"title": "Warmte en verbranding",
 		"description": "Transport en isolatie. Brand blussen. Verbranding en milieu. Verbranding. Voorwaarden voor verbranding. Verschijnselen bij verwarmen.",
-		"unreleased": true,
 		"replaces": [
 			"f6925bd8-53b8-4c07-8080-590566542b23"
 		],
@@ -5451,7 +5288,6 @@
 		"id": "3155953a-d56b-4b2c-baae-59310dd6dcd7",
 		"title": "Warmte en verbranding",
 		"description": "Transport, isolatie. Verbranding, blussen.",
-		"unreleased": true,
 		"replaces": [
 			"f6925bd8-53b8-4c07-8080-590566542b23"
 		],
@@ -5475,7 +5311,6 @@
 		"id": "cd0a8552-c015-48ed-bc21-1c59db057d0f",
 		"title": "Vormen van energie, energie-omzetting, transport, opwekking, rendement en vermogen",
 		"description": "Vormen van energie. Energie-omzetting. Energiebronnen; energie-opwekking; energietransport. Vermogen en rendement.",
-		"unreleased": true,
 		"replaces": [
 			"d152556a-4bac-45d2-9f5d-9f2a34c38652"
 		],
@@ -5538,7 +5373,6 @@
 		"id": "0cdcea20-dbb5-424c-b47b-d00fdf57abda",
 		"title": "Energie, rendement en vermogen",
 		"description": "Vormen van energie. Energie-omzetting. Energiebronnen; energie-opwekking; energietransport. Vermogen en rendement. Energiesoorten in diverse contexten. Energie-omzetting, energiebehoud (energiebalans). Energiebronnen; energieopwekking; energietransport; energieopslag. Energievoorziening. Arbeid. Rendement. Vermogen.",
-		"unreleased": true,
 		"replaces": [
 			"d152556a-4bac-45d2-9f5d-9f2a34c38652"
 		],
@@ -5580,7 +5414,6 @@
 		"id": "8754220a-30c0-413b-b131-70a76ccd8c57",
 		"title": "Energie, rendement en vermogen",
 		"description": "Energiesoorten in diverse contexten. Energie-omzetting, energiebehoud (energiebalans). Energiebronnen; energieopwekking; energietransport; energieopslag. Rendement. Vermogen.",
-		"unreleased": true,
 		"replaces": [
 			"d152556a-4bac-45d2-9f5d-9f2a34c38652"
 		],
@@ -5613,7 +5446,6 @@
 		"id": "80ac1ae5-bcd5-4308-9f25-963934a7c318",
 		"title": "Geluid",
 		"description": "Geluidsbron, tussenstof, geluidstrilling, geluidssnelheid. Geluid(shinder) en gezondheid.",
-		"unreleased": true,
 		"replaces": [
 			"7197d2be-8f49-482f-a388-18ca667c69ae"
 		],
@@ -5673,7 +5505,6 @@
 		"id": "3e068552-840c-41a2-ae2f-404d75e3d4ee",
 		"title": "Geluid",
 		"description": "Geluidsbron, tussenstof, geluidstrilling, geluidssnelheid. Geluid(shinder) en gezondheid. Geluidsbronnen, -transport, -snelheid. Toonhoogte, geluidssterkte, geluidsniveau (dB). Geluids(hinder) en gezondheid. Spraak en muziek, oscillogrammen audiogram. Grondtoon, boventonen in muziekinstrumenten. Geluid opnemen, weergeven (toepassingen).",
-		"unreleased": true,
 		"replaces": [
 			"7197d2be-8f49-482f-a388-18ca667c69ae"
 		],
@@ -5711,7 +5542,6 @@
 		"id": "3d2a34ed-82f3-4aa6-b312-a7f2967696c7",
 		"title": "Geluid",
 		"description": "Geluidsbronnen, -transport, -snelheid. Toonhoogte, geluidssterkte, geluidsniveau (dB). Geluids(hinder) en gezondheid. Spraak en muziek, oscillogrammen audiogram.",
-		"unreleased": true,
 		"replaces": [
 			"7197d2be-8f49-482f-a388-18ca667c69ae"
 		],
@@ -5745,7 +5575,6 @@
 		"id": "1faa6f82-66e8-4944-a1ac-9716cd2af81b",
 		"title": "Licht",
 		"description": "Lichtbron, lichtstralen, lichtbundels, schaduwvorming. Lichtsnelheid. Breking en reflectie. Beeldvorming door een bolle lens, brandpuntsafstand, beeld- en voorwerpsafstand, vergroting. Kleurschifting, kleurvorming.",
-		"unreleased": true,
 		"replaces": [
 			"29d82a33-6349-4f96-8567-3c9138607cec"
 		],
@@ -5846,7 +5675,6 @@
 		"id": "ba315993-92a5-4fbc-96f9-fad7c100cfe1",
 		"title": "Licht",
 		"description": "Lichtbron, lichtstralen, lichtbundels, schaduwvorming. Lichtsnelheid. Breking en reflectie. Beeldvorming door een bolle lens, brandpuntsafstand, beeld- en voorwerpsafstand, vergroting. Kleurschifting, kleurvorming. Schaduwvorming. Lensformule. Ooglens, accommoderen, bijziend, verziend, optische instrumenten.",
-		"unreleased": true,
 		"replaces": [
 			"29d82a33-6349-4f96-8567-3c9138607cec"
 		],
@@ -5916,7 +5744,6 @@
 		"id": "8ba87ce1-2898-4517-8c19-784b6fc2c5c7",
 		"title": "Licht",
 		"description": "Lichtbron, lichtstralen, lichtbundels, lichtsnelheid, schaduwvorming. Breking en reflectie. Beeldvorming door een bolle lens, brandpuntsafstand, beeld- en voorwerpsafstand, vergroting. Kleurschifting, kleurvorming.",
-		"unreleased": true,
 		"replaces": [
 			"29d82a33-6349-4f96-8567-3c9138607cec"
 		],
@@ -5959,7 +5786,6 @@
 		"id": "1827f6ad-ff95-43ca-949d-3ca75a569e01",
 		"title": "Straling (niet zichtbaar)",
 		"description": "Stralingsbronnen, frequentie, golflengte en type straling. Het gebruik van straling in communicatie-toepassingen (Informatieoverdracht). Gebruik van straling in diagnostische, medische toepassingen. Veiligheidsmaatregelen tegen ongewenste effecten van straling en radioactieve stoffen.",
-		"unreleased": true,
 		"replaces": [
 			"c68d90a9-c7dc-4d17-ae80-1ab8b79a14c7"
 		],
@@ -5995,7 +5821,6 @@
 		"id": "1b7828b2-3dd7-4237-8ae6-def269268860",
 		"title": "Straling (niet zichtbaar)",
 		"description": "Stralingsbronnen, frequentie, golflengte en type straling. Het gebruik van straling in communicatie-toepassingen (Informatieoverdracht). Gebruik van straling in diagnostische, medische toepassingen. Veiligheidsmaatregelen tegen ongewenste effecten van straling en radioactieve stoffen.",
-		"unreleased": true,
 		"replaces": [
 			"c68d90a9-c7dc-4d17-ae80-1ab8b79a14c7"
 		],
@@ -6031,7 +5856,6 @@
 		"id": "000cb350-7621-4d79-b1a9-a18e346a1492",
 		"title": "Technische systemen en processen in apparaten",
 		"description": "Invoer, verwerking, uitvoer.",
-		"unreleased": true,
 		"replaces": [
 			"598babe3-2d7d-4c21-8f02-520919b2818f"
 		],
@@ -6052,7 +5876,6 @@
 		"id": "c668ed76-46b5-49ed-9a76-ebe1d7bdc5c5",
 		"title": "Technische systemen en processen in apparaten",
 		"description": "Invoer, verwerking, uitvoer. Invoer (sensoren), verwerking, uitvoer (actuatoren). Meet-, stuur- en regelsystemen, terugkoppeling. Meet- en stuursystemen.",
-		"unreleased": true,
 		"replaces": [
 			"598babe3-2d7d-4c21-8f02-520919b2818f"
 		],
@@ -6070,7 +5893,6 @@
 		"id": "3b8a147b-6906-4c93-a3c8-2764956460e9",
 		"title": "Technische systemen en processen in apparaten",
 		"description": "Invoer (sensoren), verwerking, uitvoer (actuatoren).",
-		"unreleased": true,
 		"replaces": [
 			"598babe3-2d7d-4c21-8f02-520919b2818f"
 		],
@@ -6085,7 +5907,6 @@
 		"id": "c132af7e-1192-485e-af33-6da45446ad20",
 		"title": "Kracht",
 		"description": "Soorten krachten. Traagheid, bewegingsverandering.",
-		"unreleased": true,
 		"replaces": [
 			"8875e303-391d-4530-ab8d-313163b697a3"
 		],
@@ -6127,7 +5948,6 @@
 		"id": "31c285cb-8bf7-4c18-80aa-080fdf2278f3",
 		"title": "Kracht",
 		"description": "Soorten krachten. Traagheid, bewegingsverandering. Eigenschappen van krachten (grootte, richting , aangrijpingspunt, samenstellen).",
-		"unreleased": true,
 		"replaces": [
 			"8875e303-391d-4530-ab8d-313163b697a3"
 		],
@@ -6157,7 +5977,6 @@
 		"id": "9f3c2b5d-df4a-4494-90f5-693b64418fe4",
 		"title": "Kracht",
 		"description": "Soorten krachten. Traagheid, bewegingsverandering.",
-		"unreleased": true,
 		"replaces": [
 			"8875e303-391d-4530-ab8d-313163b697a3"
 		],
@@ -6181,7 +6000,6 @@
 		"id": "dc9d623e-4394-4643-92c5-5d16f8699a10",
 		"title": "Kracht/beweging bij mensen, verkeer, transport van goederen en zonnestelsel",
 		"description": "Veiligheidsmaatregelen in het verkeer. Beweging in de context van verkeer en vervoer. Opbouw van ons zonnestelsel.",
-		"unreleased": true,
 		"replaces": [
 			"47bb9998-4827-4a34-b8c1-3828f0a9317e"
 		],
@@ -6240,7 +6058,6 @@
 		"id": "c763c093-200d-48ae-af73-25fbea4185d1",
 		"title": "Kracht/beweging bij mensen, verkeer, transport van goederen en zonnestelsel",
 		"description": "Veiligheidsmaatregelen in het verkeer. Beweging in de context van verkeer en vervoer. Opbouw van ons zonnestelsel.",
-		"unreleased": true,
 		"replaces": [
 			"47bb9998-4827-4a34-b8c1-3828f0a9317e"
 		],
@@ -6280,7 +6097,6 @@
 		"id": "a980c310-a799-4322-a23e-84e58d85873c",
 		"title": "Kracht/beweging bij mensen, verkeer, transport van goederen en zonnestelsel",
 		"description": "Veiligheidsmaatregelen in het verkeer. Beweging in de context van verkeer en vervoer. Opbouw van ons zonnestelsel.",
-		"unreleased": true,
 		"replaces": [
 			"47bb9998-4827-4a34-b8c1-3828f0a9317e"
 		],
@@ -6311,7 +6127,6 @@
 		"id": "b69a29d4-caea-446d-908c-7abe14306586",
 		"title": "Overbrenging, constructies en verbindingen",
 		"description": "Hefboomwet, kracht, arm, draaipunt. Ontwerpen en maken producten.",
-		"unreleased": true,
 		"replaces": [
 			"93006fd3-6ba9-49f5-84b1-c6bb5ce80e8a"
 		],
@@ -6340,7 +6155,6 @@
 		"id": "13d3fe13-dba6-4c03-b254-91a3758b1412",
 		"title": "Overbrenging, constructies en verbindingen",
 		"description": "Hefboomwet, kracht, arm, draaipunt. Ontwerpen en maken producten. Krachten in constructies: druk- en trekkrachten. Probleemoplossend handelen bij constructies, overbrengingen. Overbrenging van krachten.",
-		"unreleased": true,
 		"replaces": [
 			"93006fd3-6ba9-49f5-84b1-c6bb5ce80e8a"
 		],
@@ -6364,7 +6178,6 @@
 		"id": "12017d2e-0805-42d0-8320-d5887b12d855",
 		"title": "Overbrenging, constructies en verbindingen",
 		"description": "Hefboomwet, kracht, arm, draaipunt. Ontwerpen en maken producten.",
-		"unreleased": true,
 		"replaces": [
 			"93006fd3-6ba9-49f5-84b1-c6bb5ce80e8a"
 		],
@@ -6381,7 +6194,6 @@
 		"id": "2441ff22-eb79-4a8b-a2e9-ed91cadcbb1b",
 		"title": "Zakelijk lezen",
 		"description": "1. Lezen van informatieve teksten: naslagwerken, schoolboekteksten, formulieren, populaire tijdschriften, webteksten, schematische informatie, nieuwsberichten.2. Lezen van instructies: routebeschrijvingen, instructies bij opdrachten, recepten, gebruiksaanwijzingen, bijsluiters bij medicijnen.3. Lezen van betogende teksten: huis-aan-huisbladen, reclameteksten, advertenties, folders, brochures, licht opiniërende teksten",
-		"unreleased": true,
 		"replaces": [
 			"29d4646f-9bce-490b-80f2-70dbc8f0df3c"
 		],
@@ -6400,7 +6212,6 @@
 		"id": "7e9a0fcd-f506-41b2-bcdc-3e9fd601d39a",
 		"title": "Gesprekken",
 		"description": "1. Deelnemen aan discussie2. Deelnemen aan overleg3. Informatie uitwisselen in een gesprek",
-		"unreleased": true,
 		"replaces": [
 			"c9987a64-2239-41d3-8575-1fe012b03616"
 		],
@@ -6418,7 +6229,6 @@
 		"id": "4c187cf8-91a2-4c1d-a63d-fa4950f56eda",
 		"title": "Luisteren",
 		"description": "1. Luisteren naar instructies: uitleg, instructies, aanwijzingen.2. Luisteren als lid van een live-publiek: korte, informatieve / instructieve / betogende teksten, voordrachten, les, voorgelezen of verteld verhaal.3. Luisteren naar radio en televisie en naar gesproken tekst op internet: (nieuws)berichten, mededelingen, reclameboodschappen, discussieprogramma's, films, televisieseries.",
-		"unreleased": true,
 		"replaces": [
 			"b6014ece-9504-4256-9659-09db1aec1138"
 		],
@@ -6436,7 +6246,6 @@
 		"id": "7a49724d-8254-4e2c-a9a1-b181e90f7cd1",
 		"title": "Spreken",
 		"description": "Presentatie houden op basis van zelf verzamelde informatie met vragen na afloop",
-		"unreleased": true,
 		"replaces": [
 			"b8fa664c-174b-4293-b496-b5e850ca3a0f"
 		],
@@ -6454,7 +6263,6 @@
 		"id": "c421a6be-372c-4e99-ad63-025854f760af",
 		"title": "Schrijven",
 		"description": "1. Correspondentie: kaarten, e-mails, informele brieven, korte schriftelijke verzoeken.2. Korte teksten: standaardformulieren, advertenties, notities, berichten, instructies, aantekeningen.3. Lange teksten: verslagen, werkstukken, collage, tekst waarin informatie uit verscheidene bronnen is samengevoegd, samenvattingen.4. Vrij schrijven: verhaal, gedicht.",
-		"unreleased": true,
 		"replaces": [
 			"0b50680d-b0d0-45c3-949d-dfd9507c67ca"
 		],
@@ -6472,7 +6280,6 @@
 		"id": "b31cd50c-cdf7-43b8-ae06-637250a8ee19",
 		"title": "Fictie",
 		"description": "1. Prozal lezen: (korte) verhalen, jeugdromans.2. Poëzie lezen: gedichten, liedjes",
-		"unreleased": true,
 		"replaces": [
 			"c650a778-0390-439e-8a37-93596031ad62"
 		],
@@ -6488,7 +6295,6 @@
 	{
 		"id": "4942d876-cbd3-41a9-88f2-9c7cae8dcc50",
 		"title": "Getallen, getalsystemen en -relaties",
-		"unreleased": true,
 		"replaces": [
 			"ea7b2da3-82bd-400c-aea0-59f39532dda2"
 		],
@@ -6515,7 +6321,6 @@
 	{
 		"id": "9010ea58-8fb5-49f3-9d8f-d37dc0920cbd",
 		"title": "Rekenen met getallen",
-		"unreleased": true,
 		"replaces": [
 			"fb7e70e0-e77a-4dee-82b5-068412ec22d3"
 		],
@@ -6540,7 +6345,6 @@
 	{
 		"id": "4caaa49d-128f-4e51-be17-7ab990acfe71",
 		"title": "Rekenen met getallen",
-		"unreleased": true,
 		"replaces": [
 			"fb7e70e0-e77a-4dee-82b5-068412ec22d3"
 		],
@@ -6559,7 +6363,6 @@
 	{
 		"id": "2dd7eea2-d7d6-454c-98a9-f18ad4f1238d",
 		"title": "Rekenen met getallen",
-		"unreleased": true,
 		"replaces": [
 			"fb7e70e0-e77a-4dee-82b5-068412ec22d3"
 		],
@@ -6578,7 +6381,6 @@
 	{
 		"id": "aefa409f-afc3-487e-a0b7-b24bb35c7d2d",
 		"title": "Rekenen met getallen",
-		"unreleased": true,
 		"replaces": [
 			"fb7e70e0-e77a-4dee-82b5-068412ec22d3"
 		],
@@ -6597,7 +6399,6 @@
 	{
 		"id": "d8f5058d-425f-41c5-b9b3-bf121efea1d0",
 		"title": "Rekenen met variabelen",
-		"unreleased": true,
 		"replaces": [
 			"0117b990-87ab-49fa-a379-2e06946be99e"
 		],
@@ -6615,7 +6416,6 @@
 	{
 		"id": "7354e0d5-570c-4822-b0ea-79ed285a9396",
 		"title": "Rekenen met variabelen",
-		"unreleased": true,
 		"replaces": [
 			"0117b990-87ab-49fa-a379-2e06946be99e"
 		],
@@ -6631,7 +6431,6 @@
 	{
 		"id": "3e86fecf-c9e1-42ff-baeb-3c92c3a4fd0c",
 		"title": "Rekenen met variabelen",
-		"unreleased": true,
 		"replaces": [
 			"0117b990-87ab-49fa-a379-2e06946be99e"
 		],
@@ -6647,7 +6446,6 @@
 	{
 		"id": "46b5c0d5-6c65-444c-937e-0994670e7fd7",
 		"title": "Rekenen met variabelen",
-		"unreleased": true,
 		"replaces": [
 			"0117b990-87ab-49fa-a379-2e06946be99e"
 		],
@@ -6663,7 +6461,6 @@
 	{
 		"id": "cf0990de-c89c-4000-8fd8-453b91db1e86",
 		"title": "Tellen",
-		"unreleased": true,
 		"replaces": [
 			"80463ecd-26a1-43ad-9aa9-7506bba383c0"
 		],
@@ -6676,7 +6473,6 @@
 	{
 		"id": "c8803c0c-1064-4ec8-8468-672bf5d65813",
 		"title": "Tellen",
-		"unreleased": true,
 		"replaces": [
 			"80463ecd-26a1-43ad-9aa9-7506bba383c0"
 		],
@@ -6690,7 +6486,6 @@
 	{
 		"id": "637480cf-3f19-4d43-803b-81119f7911fc",
 		"title": "Tellen",
-		"unreleased": true,
 		"replaces": [
 			"80463ecd-26a1-43ad-9aa9-7506bba383c0"
 		],
@@ -6704,7 +6499,6 @@
 	{
 		"id": "71ac57af-be25-4118-a1c7-216f1b763ba3",
 		"title": "Verhoudingsvraagstukken",
-		"unreleased": true,
 		"replaces": [
 			"584a325a-568d-4721-b996-187209c06638"
 		],
@@ -6729,7 +6523,6 @@
 	{
 		"id": "fcb3530f-fa09-4e2e-8e8f-9a5a14aca97b",
 		"title": "Rekenen in de meetkunde",
-		"unreleased": true,
 		"replaces": [
 			"838e5016-cff4-4a1e-8ef6-b57129677d1c"
 		],
@@ -6760,7 +6553,6 @@
 	{
 		"id": "91751d33-b979-40cd-a0d0-8bcc17319a44",
 		"title": "Rekenen in de meetkunde",
-		"unreleased": true,
 		"replaces": [
 			"838e5016-cff4-4a1e-8ef6-b57129677d1c"
 		],
@@ -6774,7 +6566,6 @@
 	{
 		"id": "0d080f3c-d9e0-4fcd-a07d-a241781accf5",
 		"title": "Vormen en figuren",
-		"unreleased": true,
 		"replaces": [
 			"8a80dd01-f006-4855-a140-6202609afbfe"
 		],
@@ -6803,7 +6594,6 @@
 	{
 		"id": "3a0bd85a-278b-4b22-80fa-d9970e90914f",
 		"title": "Vormen en Figuren",
-		"unreleased": true,
 		"replaces": [
 			"8a80dd01-f006-4855-a140-6202609afbfe"
 		],
@@ -6820,7 +6610,6 @@
 	{
 		"id": "f2b14c70-6412-4c2a-ad67-98c02806e6b9",
 		"title": "Vormen en Figuren",
-		"unreleased": true,
 		"replaces": [
 			"8a80dd01-f006-4855-a140-6202609afbfe"
 		],
@@ -6834,7 +6623,6 @@
 	{
 		"id": "f62f5d43-d7aa-419b-8ad6-e1de9a3268cc",
 		"title": "Grafieken, tabellen, verbanden en formules",
-		"unreleased": true,
 		"replaces": [
 			"7578e7c9-fd75-43ee-b87c-d1521e096422"
 		],
@@ -6864,7 +6652,6 @@
 	{
 		"id": "b5ccd8ff-2dbe-486e-bbad-d3fa8e7773ef",
 		"title": "Grafieken, tabellen, verbanden en formules",
-		"unreleased": true,
 		"replaces": [
 			"7578e7c9-fd75-43ee-b87c-d1521e096422"
 		],
@@ -6886,7 +6673,6 @@
 	{
 		"id": "8267cd0b-8d92-4053-a3c6-f63bf97ffc79",
 		"title": "Grafieken, tabellen, verbanden en formules",
-		"unreleased": true,
 		"replaces": [
 			"7578e7c9-fd75-43ee-b87c-d1521e096422"
 		],
@@ -6909,7 +6695,6 @@
 	{
 		"id": "6ad9ea7f-96bc-46a9-af89-e595d1000397",
 		"title": "Grafieken, tabellen, verbanden en formules",
-		"unreleased": true,
 		"replaces": [
 			"7578e7c9-fd75-43ee-b87c-d1521e096422"
 		],
@@ -6949,7 +6734,6 @@
 	{
 		"id": "2299c464-8fc6-4f7f-ae39-83672d036126",
 		"title": "Vergelijkingen en ongelijkheden",
-		"unreleased": true,
 		"replaces": [
 			"699acfa0-a194-4dbc-8273-6d68e8bfbb65"
 		],
@@ -6977,7 +6761,6 @@
 	{
 		"id": "a6b51503-df0c-46be-b797-a31916b07c21",
 		"title": "Vergelijkingen en ongelijkheden",
-		"unreleased": true,
 		"replaces": [
 			"699acfa0-a194-4dbc-8273-6d68e8bfbb65"
 		],
@@ -6995,7 +6778,6 @@
 	{
 		"id": "de0e7288-5648-42f7-9565-4b42b8af93b4",
 		"title": "Vergelijkingen en ongelijkheden",
-		"unreleased": true,
 		"replaces": [
 			"699acfa0-a194-4dbc-8273-6d68e8bfbb65"
 		],
@@ -7018,7 +6800,6 @@
 	{
 		"id": "a6bce214-5d5f-466a-9b9e-c36939d859b3",
 		"title": "Vergelijkingen en ongelijkheden",
-		"unreleased": true,
 		"replaces": [
 			"699acfa0-a194-4dbc-8273-6d68e8bfbb65"
 		],
@@ -7033,7 +6814,6 @@
 	{
 		"id": "71a3b176-3d1b-4ed1-8336-2ddd527abbde",
 		"title": "Exponentiële verbanden",
-		"unreleased": true,
 		"replaces": [
 			"b873ade6-2d97-4ff7-b9d7-be9315046b90"
 		],
@@ -7051,7 +6831,6 @@
 	{
 		"id": "815ca2c2-5376-46d9-ad04-edc4c6424c9e",
 		"title": "Exponentiële verbanden",
-		"unreleased": true,
 		"replaces": [
 			"b873ade6-2d97-4ff7-b9d7-be9315046b90"
 		],
@@ -7069,7 +6848,6 @@
 	{
 		"id": "9937ee92-05b3-48e3-ae28-37ec394bf542",
 		"title": "Exponentiële verbanden",
-		"unreleased": true,
 		"replaces": [
 			"b873ade6-2d97-4ff7-b9d7-be9315046b90"
 		],
@@ -7112,7 +6890,6 @@
 		"id": "7422409c-06c5-4ccb-969c-446ab55422db",
 		"title": "Correspondentie lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"ee9712fb-dd3d-4fcd-bbf2-afbe771b60dd"
 		],
@@ -7128,7 +6905,6 @@
 		"id": "7b15ee48-6590-4261-abb0-27a89b81b48c",
 		"title": "Oriënterend lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"8d57424d-59b6-4605-a725-077fd07dbb62"
 		],
@@ -7144,7 +6920,6 @@
 		"id": "afb072f0-1811-43d4-b42c-4c90cd45d3a9",
 		"title": "Lezen om informatie op te doen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"787021ee-4ce0-48dc-9700-9f4cded51a7b"
 		],
@@ -7160,7 +6935,6 @@
 		"id": "49680c5b-c7a1-440f-be28-45deb013da84",
 		"title": "Instructies lezen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"c3a51243-a54c-44d6-8261-2151fe446f17"
 		],
@@ -7176,7 +6950,6 @@
 		"id": "4bcbe0d7-00ee-4b86-81dc-71e10e9cbca6",
 		"title": "Gesprekken tussen moedertaalsprekers verstaan",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"727db571-0682-467d-a5f0-34e6520ff16e"
 		],
@@ -7192,7 +6965,6 @@
 		"id": "4ac16e47-2c8e-4907-b092-6f3786a8863d",
 		"title": "Luisteren naar aankondigingen en instructies",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"67362ef8-061d-4b86-9558-423c83c95d0a"
 		],
@@ -7208,7 +6980,6 @@
 		"id": "18b5cef5-3ca1-4691-96b8-a6b81e91e13e",
 		"title": "Luisteren naar tv, video- en geluidsopnames",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"dc38972a-196b-44d8-92a8-4a152c82ec29"
 		],
@@ -7224,7 +6995,6 @@
 		"id": "5c5e8457-a719-41dc-8b97-0d1e6f63d384",
 		"title": "Luisteren als lid van een live publiek",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"f6557c4f-3245-4c20-96c6-22158e71511c"
 		],
@@ -7240,7 +7010,6 @@
 		"id": "e656cb5e-d074-4eb7-9e9b-103f01e22ce5",
 		"title": "Informele gesprekken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"9b00f7bc-1f2c-4e48-918c-974cea103ba6"
 		],
@@ -7256,7 +7025,6 @@
 		"id": "37a3a4e7-41ce-4f13-b1e7-ed9311fad432",
 		"title": "Zaken regelen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector; voor havo en vwo ook nog het thema Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"de0ca487-f1b3-4f3f-af1c-5e4aee993380"
 		],
@@ -7272,7 +7040,6 @@
 		"id": "a43826d3-2c73-4f18-b104-d6d109f4a121",
 		"title": "Informatie uitwisselen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"4efdb82e-3293-4c9d-8913-af1145865e0d"
 		],
@@ -7288,7 +7055,6 @@
 		"id": "ebfd2697-fdc7-4805-b083-5323dc349c47",
 		"title": "Bijeenkomsten en vergaderingen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"b030a184-c503-426e-84d2-636f1d23839b"
 		],
@@ -7304,7 +7070,6 @@
 		"id": "b08dbf98-3b4a-401c-859b-66b7e55ae292",
 		"title": "Monologen",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"9e805dc3-78b1-4d4c-9536-3807fe29442f"
 		],
@@ -7320,7 +7085,6 @@
 		"id": "3e6ffa6b-b37a-4ee2-8f61-51f50efa2273",
 		"title": "Publiek toespreken",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"18dffc5f-8f5f-45c9-a0ef-90c83dc79233"
 		],
@@ -7336,7 +7100,6 @@
 		"id": "697371f7-76b8-4a60-b2f5-4c912db66120",
 		"title": "Correspondentie",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"61db502c-678b-454c-b4f3-36d021568e16"
 		],
@@ -7352,7 +7115,6 @@
 		"id": "7a390efb-4b2f-4475-be28-e79993714431",
 		"title": "Aantekeningen, berichten, formulieren",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"1215d717-b545-4084-a473-138befb33953"
 		],
@@ -7368,7 +7130,6 @@
 		"id": "37d8d362-43bc-4ff9-959f-a276e63af12a",
 		"title": "Vrij schrijven",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven en Publieke sector. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten.",
-		"unreleased": true,
 		"replaces": [
 			"6d9f53cb-37e4-45fc-9e23-cb51224d0215"
 		],
@@ -7384,7 +7145,6 @@
 		"id": "0cda0d9f-2423-494c-bafb-758f47532c7c",
 		"title": "Verslagen en rapporten",
 		"description": "Toepassingen op alledaagse en vertrouwde themas als Dagelijks leven, Publieke sector en Opleiding. Bij Dagelijks leven gaat het om de thema's: persoonlijke identificatie, huis, thuis en omgeving, vrije tijd en amusement, relaties met andere mensen, plaatsen, taal en weer. Bij Publiek domein gaat het om de thema's: openbaar amusement zoals: bioscoop, theater, kijksporten, reizen, gezondheid en lichaamsverzorging, winkelen, eten, drinken en diensten. Bij Opleiding gaat het om thema's die horen bij verschillende soorten opleidingen en kwalificaties.",
-		"unreleased": true,
 		"replaces": [
 			"e1c34958-02f4-46bb-ad47-cc3d3bcd8798"
 		],
@@ -8254,7 +8014,6 @@
 	{
 		"id": "67c0b122-2b70-4f97-9a53-2cb4336d4c42",
 		"title": "Getallen, getalsystemen en -relaties",
-		"unreleased": true,
 		"replaces": [
 			"9ba0fc65-4f64-4084-9bfe-09afd086e7e6"
 		],
@@ -8274,7 +8033,6 @@
 	{
 		"id": "89cf06d1-1260-407b-9d4a-6d89aadc584b",
 		"title": "Getallen, getalsystemen en -relaties",
-		"unreleased": true,
 		"replaces": [
 			"9ba0fc65-4f64-4084-9bfe-09afd086e7e6"
 		],
@@ -8295,7 +8053,6 @@
 	{
 		"id": "3b52b611-8be0-4c9f-8b84-865aadd37b0f",
 		"title": "Getallen, getalsystemen en -relaties",
-		"unreleased": true,
 		"replaces": [
 			"9ba0fc65-4f64-4084-9bfe-09afd086e7e6"
 		],
@@ -8316,7 +8073,6 @@
 	{
 		"id": "96c045be-7e31-4680-b91e-497688309487",
 		"title": "Machtsverbanden",
-		"unreleased": true,
 		"replaces": [
 			"2073b900-a629-4cf5-9133-7ffd5752b4ab"
 		],
@@ -8329,7 +8085,6 @@
 	{
 		"id": "717c0700-2154-45a6-a74a-93c70c5c7f54",
 		"title": "Machtsverbanden",
-		"unreleased": true,
 		"replaces": [
 			"2073b900-a629-4cf5-9133-7ffd5752b4ab"
 		],
@@ -8342,7 +8097,6 @@
 	{
 		"id": "3967cce9-ee56-4063-8056-f0e18615f90c",
 		"title": "Machtsverbanden",
-		"unreleased": true,
 		"replaces": [
 			"2073b900-a629-4cf5-9133-7ffd5752b4ab"
 		],
@@ -8407,7 +8161,6 @@
 	{
 		"id": "d3ff6146-6421-47bc-8b6d-1cce7c1bc345",
 		"title": "Veranderingen",
-		"unreleased": true,
 		"replaces": [
 			"801c6544-9be4-4fef-b5b2-c97a1646118d"
 		],
@@ -8421,7 +8174,6 @@
 	{
 		"id": "3fe76718-f3b5-4d2e-bffb-8a73bfae304b",
 		"title": "Veranderingen",
-		"unreleased": true,
 		"replaces": [
 			"801c6544-9be4-4fef-b5b2-c97a1646118d"
 		],
@@ -8437,7 +8189,6 @@
 	{
 		"id": "0099b6eb-6695-4be1-8097-60ee4be1b7b8",
 		"title": "Veranderingen",
-		"unreleased": true,
 		"replaces": [
 			"801c6544-9be4-4fef-b5b2-c97a1646118d"
 		],
@@ -8451,7 +8202,6 @@
 	{
 		"id": "a58bb171-27ce-47b1-b22d-471f355cbbb1",
 		"title": "Afgeleide functies",
-		"unreleased": true,
 		"replaces": [
 			"2959620e-e004-44e5-ad93-20ca63e15436"
 		],
@@ -8465,7 +8215,6 @@
 	{
 		"id": "f80cc99d-a216-4480-aa77-3d79741ef26b",
 		"title": "Afgeleide functies",
-		"unreleased": true,
 		"replaces": [
 			"2959620e-e004-44e5-ad93-20ca63e15436"
 		],
@@ -8479,7 +8228,6 @@
 	{
 		"id": "3ca8949d-472c-42df-8b88-c42edc303a30",
 		"title": "Afgeleide functies",
-		"unreleased": true,
 		"replaces": [
 			"2959620e-e004-44e5-ad93-20ca63e15436"
 		],
@@ -8493,7 +8241,6 @@
 	{
 		"id": "f3ae284c-ac6c-4f0c-b8dc-9fe346b66e69",
 		"title": "Differentiëren",
-		"unreleased": true,
 		"replaces": [
 			"cdd03f19-81a6-466d-922e-bfb1aa3d5472"
 		],
@@ -8507,7 +8254,6 @@
 	{
 		"id": "3bf3cd92-ade5-4dae-a1bf-b763e1e79098",
 		"title": "Differentiëren",
-		"unreleased": true,
 		"replaces": [
 			"cdd03f19-81a6-466d-922e-bfb1aa3d5472"
 		],
@@ -8521,7 +8267,6 @@
 	{
 		"id": "5b1a85a9-9693-4a65-9958-8f42b4461be4",
 		"title": "Differentiëren",
-		"unreleased": true,
 		"replaces": [
 			"cdd03f19-81a6-466d-922e-bfb1aa3d5472"
 		],
@@ -8535,7 +8280,6 @@
 	{
 		"id": "49119e7b-3f64-4d17-b537-bac64a3b8676",
 		"title": "Construeren en bewijzen",
-		"unreleased": true,
 		"replaces": [
 			"4cfb3647-f8ef-4da4-8794-92aaf3e6abfe"
 		],
@@ -8550,7 +8294,6 @@
 	{
 		"id": "22b8f783-22ff-4319-8609-18687a6a76fe",
 		"title": "Construeren en bewijzen",
-		"unreleased": true,
 		"replaces": [
 			"4cfb3647-f8ef-4da4-8794-92aaf3e6abfe"
 		],
@@ -8565,7 +8308,6 @@
 	{
 		"id": "f02aa991-0858-4bd4-88e7-f98b1d1a21b2",
 		"title": "Periodieke functies",
-		"unreleased": true,
 		"replaces": [
 			"19d90546-8ed2-4342-a832-0c5d31f3c0c0"
 		],
@@ -8580,7 +8322,6 @@
 	{
 		"id": "4a170da1-0776-4458-ac29-3abfa9902dd1",
 		"title": "Periodieke functies",
-		"unreleased": true,
 		"replaces": [
 			"19d90546-8ed2-4342-a832-0c5d31f3c0c0"
 		],
@@ -8595,7 +8336,6 @@
 	{
 		"id": "028c7716-1288-41b3-9c53-55b5edf8f1ed",
 		"title": "Integreren",
-		"unreleased": true,
 		"replaces": [
 			"db065a92-0bf8-455b-a762-a9554d1cc7a6"
 		],
@@ -8609,7 +8349,6 @@
 	{
 		"id": "fecda1f8-b677-45ea-8d3b-f1d8337626bd",
 		"title": "Integreren",
-		"unreleased": true,
 		"replaces": [
 			"db065a92-0bf8-455b-a762-a9554d1cc7a6"
 		],
