@@ -4,18 +4,18 @@
 		"title": "Aardrijkskunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
+			"c001f86a-4f8f-4420-bd78-381c615ecedc"
 		],
 		"vakkern_id": [
-			"bk:aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
-			"bk:d7b9af96-3901-420c-9911-1542cd361a09",
-			"bk:5740506b-37d5-456e-9f4f-e4cb789ace32",
-			"bk:3e89bbcb-3ef4-4370-ab61-e6427356b68f",
+			"aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
+			"d7b9af96-3901-420c-9911-1542cd361a09",
+			"5740506b-37d5-456e-9f4f-e4cb789ace32",
+			"3e89bbcb-3ef4-4370-ab61-e6427356b68f",
 			"ab6a460f-3cc6-4ce6-9745-35d86c040ca1",
 			"3f9d61c6-e8a7-46c4-8221-8cc7152273c4",
 			"05f59167-ae46-43ac-abd1-b031ffc3c3f9",
-			"bk:18659e7c-0e13-4da4-825f-5b4ffefec41b",
-			"bk:77463b26-616a-4f36-a82d-ef0ffd951c50"
+			"18659e7c-0e13-4da4-825f-5b4ffefec41b",
+			"77463b26-616a-4f36-a82d-ef0ffd951c50"
 		],
 		"doelniveau_id": []
 	},
@@ -24,7 +24,7 @@
 		"title": "Engels",
 		"unreleased": true,
 		"replaces": [
-			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
+			"18f53978-1118-4051-a778-b8d7f60ca982"
 		],
 		"vakkern_id": [
 			"7d22d252-dff0-4c86-aa69-25f8ba697763",
@@ -32,7 +32,7 @@
 			"82c0161e-88fa-4835-8584-d4acb02b32d4",
 			"9af9bf95-4c27-404e-bd75-57b53070fa75",
 			"cb9afe4b-63c2-43fa-8312-5010902a3a8a",
-			"bk:c671af6a-45d2-4071-9495-c92a94d1c229"
+			"c671af6a-45d2-4071-9495-c92a94d1c229"
 		],
 		"doelniveau_id": []
 	},
@@ -41,7 +41,7 @@
 		"title": "Geschiedenis",
 		"unreleased": true,
 		"replaces": [
-			"bk:ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
+			"ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
 		],
 		"vakkern_id": [
 			"3d7b9318-b633-421c-817b-9046437ac732",
@@ -49,9 +49,9 @@
 			"4c0433e0-c206-4acb-93fb-90455b6d28ac",
 			"cf7dfd46-0d77-4066-96a0-bec792a8a3fa",
 			"5cf43578-a239-4aa6-91d0-4a619bf67f14",
-			"bk:e9ad263e-cf35-4a87-9a1b-444f59c53862",
-			"bk:e4c57a2f-d7fa-4fc7-b293-074c276ab2cf",
-			"bk:dd8751f6-a0c2-445a-b863-89f5294617f1",
+			"e9ad263e-cf35-4a87-9a1b-444f59c53862",
+			"e4c57a2f-d7fa-4fc7-b293-074c276ab2cf",
+			"dd8751f6-a0c2-445a-b863-89f5294617f1",
 			"1209b893-0164-437e-8440-ed7497813ffa",
 			"180279cc-3b90-4c42-b448-6f92044cf38b"
 		],
@@ -62,7 +62,7 @@
 		"title": "Rekenen",
 		"unreleased": true,
 		"replaces": [
-			"bk:b48fa351-4561-44c7-a071-ebfd6103eec3"
+			"b48fa351-4561-44c7-a071-ebfd6103eec3"
 		],
 		"vakkern_id": [
 			"08085c6e-cf7d-425e-a1ac-a2bee7f01abc",
@@ -78,7 +78,7 @@
 		"title": "Biologie",
 		"unreleased": true,
 		"replaces": [
-			"bk:2b363227-8633-4652-ad57-c61f1efc02c8"
+			"2b363227-8633-4652-ad57-c61f1efc02c8"
 		],
 		"vakkern_id": [
 			"b380cd5f-1750-424e-beb4-e02547c57eab",
@@ -97,7 +97,7 @@
 		"title": "Duits",
 		"unreleased": true,
 		"replaces": [
-			"bk:81a1f605-db58-448d-a1dc-da682316c505"
+			"81a1f605-db58-448d-a1dc-da682316c505"
 		],
 		"vakkern_id": [
 			"49904b8c-5534-4485-8e8c-1f7453845328",
@@ -113,19 +113,19 @@
 		"title": "Economie",
 		"unreleased": true,
 		"replaces": [
-			"bk:4ba5583f-b147-42cc-a083-ce5ebfd53746"
+			"4ba5583f-b147-42cc-a083-ce5ebfd53746"
 		],
 		"vakkern_id": [
 			"e86fc798-16ac-4c2b-a053-cddb04c3dfb1",
-			"bk:477447a3-d683-43e0-b19e-75c07fbaf9ff",
-			"bk:8f588da8-e133-4b39-a6e0-f1b1290dff53",
+			"477447a3-d683-43e0-b19e-75c07fbaf9ff",
+			"8f588da8-e133-4b39-a6e0-f1b1290dff53",
 			"074df8e6-5f3c-4a5a-bd9b-6fc264104c36",
-			"bk:ea6a1df1-8a41-40d6-8504-dc0b26c3f7be",
+			"ea6a1df1-8a41-40d6-8504-dc0b26c3f7be",
 			"8cf060ee-2968-4f3b-b329-837a0e69d286",
 			"c604334f-af65-48b5-908e-4116a5a26588",
 			"ae50de1e-b42a-4238-bc05-8e9ffab58198",
 			"a540e55d-439f-4b0e-be29-e83e7c744f3b",
-			"bk:0a715024-bacd-41ed-9ac8-134be6c03f70",
+			"0a715024-bacd-41ed-9ac8-134be6c03f70",
 			"5f62e4d8-8fe1-408c-9118-4722577dbd1a",
 			"3b265a70-7e23-4a9f-981a-59c46a2b6b7f",
 			"42115a46-4bb6-42f2-a1bc-658677489bd9"
@@ -137,7 +137,7 @@
 		"title": "Frans",
 		"unreleased": true,
 		"replaces": [
-			"bk:9f4710e3-f173-404e-b12e-577657a5da04"
+			"9f4710e3-f173-404e-b12e-577657a5da04"
 		],
 		"vakkern_id": [
 			"8645e481-cb7e-46d2-ae6f-5df181eb0119",
@@ -154,7 +154,7 @@
 		"description": "Leergebied volgend uit de VO kerndoelen.",
 		"unreleased": true,
 		"replaces": [
-			"bk:3a8e841e-ee9a-4790-b6ac-747f54d19ea1"
+			"3a8e841e-ee9a-4790-b6ac-747f54d19ea1"
 		],
 		"vakkern_id": [
 			"11491146-ac73-4d0d-97a5-b1b1d109220d",
@@ -171,7 +171,7 @@
 		"title": "NaSk",
 		"unreleased": true,
 		"replaces": [
-			"bk:186717b2-1504-496f-88e5-45c4a1f0a620"
+			"186717b2-1504-496f-88e5-45c4a1f0a620"
 		],
 		"vakkern_id": [
 			"b2e3fe84-ecaf-4f29-8899-f7b65ca03a53",
@@ -186,7 +186,7 @@
 		"title": "Nederlands",
 		"unreleased": true,
 		"replaces": [
-			"bk:3401cf6e-82e4-404c-b216-b980ff407159"
+			"3401cf6e-82e4-404c-b216-b980ff407159"
 		],
 		"vakkern_id": [
 			"39c7e122-6a3c-4cf8-a5f0-ccdc7a13034b",
@@ -201,7 +201,7 @@
 		"title": "Rekenen/wiskunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
+			"7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
 		],
 		"vakkern_id": [
 			"5b01ff84-39a9-42dd-87fd-fc2df3893c68",
@@ -218,7 +218,7 @@
 		"title": "Spaans",
 		"unreleased": true,
 		"replaces": [
-			"bk:952bf604-cc38-44e3-889a-a9e74a18da8e"
+			"952bf604-cc38-44e3-889a-a9e74a18da8e"
 		],
 		"vakkern_id": [
 			"fdd32c9b-b2f4-44f7-8659-159ad318e7e5",
@@ -234,14 +234,14 @@
 		"title": "Natuurkunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:e98be5ad-4bd2-4768-a9eb-7e24026e360c"
+			"e98be5ad-4bd2-4768-a9eb-7e24026e360c"
 		],
 		"vakkern_id": [
 			"bf0c4ff7-3155-410d-a1a0-b42c07357c77",
 			"1b5dfd90-f2a1-4721-87b4-59bf10d4390a",
 			"01b3a64f-d7d0-4995-b410-8a561e8d634f",
 			"e9c539b2-4fdc-4849-b298-c35bffcb886f",
-			"bk:11279be6-5119-4331-a31d-361b1be3af29"
+			"11279be6-5119-4331-a31d-361b1be3af29"
 		],
 		"doelniveau_id": []
 	},
@@ -250,11 +250,11 @@
 		"title": "Scheikunde",
 		"unreleased": true,
 		"replaces": [
-			"bk:3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
+			"3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
 		],
 		"vakkern_id": [
-			"bk:12f47ba7-60f4-4ac5-966e-9aa0ea6827f5",
-			"bk:2605ae96-3548-4000-bd54-85144f891b4b",
+			"12f47ba7-60f4-4ac5-966e-9aa0ea6827f5",
+			"2605ae96-3548-4000-bd54-85144f891b4b",
 			"00436b45-07fa-4a57-b6ee-5ddd288c739d",
 			"8d1be2a4-fd55-43d8-a04f-03f3c31619cd",
 			"d65e508a-27b2-4d33-a34f-fc9ed876be0d",
@@ -267,7 +267,7 @@
 		"title": "Wiskunde A",
 		"unreleased": true,
 		"replaces": [
-			"bk:800ec6a9-f9aa-4e04-9fbd-563c64c1066b"
+			"800ec6a9-f9aa-4e04-9fbd-563c64c1066b"
 		],
 		"vakkern_id": [
 			"763e075b-45ab-4751-ae47-a2aab959ae5b",
@@ -283,7 +283,7 @@
 		"title": "Wiskunde B",
 		"unreleased": true,
 		"replaces": [
-			"bk:e9608ec2-0070-484a-865a-a33ea0829939"
+			"e9608ec2-0070-484a-865a-a33ea0829939"
 		],
 		"vakkern_id": [
 			"c19e54f8-49ea-4121-861a-4df85d7c3e39",
@@ -299,7 +299,7 @@
 		"title": "Wiskunde C",
 		"unreleased": true,
 		"replaces": [
-			"bk:e82663b8-5685-4f28-ba2e-1f3f5df59097"
+			"e82663b8-5685-4f28-ba2e-1f3f5df59097"
 		],
 		"vakkern_id": [
 			"1ea4b73c-e7b8-424b-b747-6961bf05fb18",
@@ -311,403 +311,403 @@
 		"doelniveau_id": []
 	},
 	{
-		"id": "bk:df874fdf-deb6-4b84-b0b1-7ab162fbe789",
+		"id": "df874fdf-deb6-4b84-b0b1-7ab162fbe789",
 		"title": "administratie"
 	},
 	{
-		"id": "bk:ad7e37a9-fe80-4b2c-a130-12af95499137",
+		"id": "ad7e37a9-fe80-4b2c-a130-12af95499137",
 		"title": "agrarische bedrijfseconomie"
 	},
 	{
-		"id": "bk:62aac92b-00ad-4d0c-8aec-98713cbfea25",
+		"id": "62aac92b-00ad-4d0c-8aec-98713cbfea25",
 		"title": "agrarische techniek"
 	},
 	{
-		"id": "bk:3b49e7f7-00cc-47ad-8403-32adb3ec31ee",
+		"id": "3b49e7f7-00cc-47ad-8403-32adb3ec31ee",
 		"title": "algemene natuurwetenschappen"
 	},
 	{
-		"id": "bk:455d527a-bfd0-4460-919e-12e0478a54cf",
+		"id": "455d527a-bfd0-4460-919e-12e0478a54cf",
 		"title": "Arabisch"
 	},
 	{
-		"id": "bk:570aef95-9d43-401d-bac2-b40a6dab4082",
+		"id": "570aef95-9d43-401d-bac2-b40a6dab4082",
 		"title": "audiovisuele vormgeving"
 	},
 	{
-		"id": "bk:4c8a3378-6616-459d-acc4-83ee5a9b91a2",
+		"id": "4c8a3378-6616-459d-acc4-83ee5a9b91a2",
 		"title": "beeldende vormgeving"
 	},
 	{
-		"id": "bk:34f8bed2-b9f1-4de9-8db7-ee3d9bbb10f2",
+		"id": "34f8bed2-b9f1-4de9-8db7-ee3d9bbb10f2",
 		"title": "bewegen, sport en maatschappij"
 	},
 	{
-		"id": "bk:351cd58e-1ec2-4bac-8b6f-9dc555b1c96d",
+		"id": "351cd58e-1ec2-4bac-8b6f-9dc555b1c96d",
 		"title": "bloembinden en -schikken"
 	},
 	{
-		"id": "bk:a0bc5d77-7231-46d0-8157-7d46f44c09a9",
+		"id": "a0bc5d77-7231-46d0-8157-7d46f44c09a9",
 		"title": "bouw - breed"
 	},
 	{
-		"id": "bk:37c5f10a-30a8-43b0-b2dd-60bf1721abcf",
+		"id": "37c5f10a-30a8-43b0-b2dd-60bf1721abcf",
 		"title": "bouwtechniek - fijnhoutbewerking"
 	},
 	{
-		"id": "bk:3f02457c-0944-4ec3-b519-9c0132cce73b",
+		"id": "3f02457c-0944-4ec3-b519-9c0132cce73b",
 		"title": "bouwtechniek - metselen"
 	},
 	{
-		"id": "bk:797704ac-6c19-4029-999d-41b5434770cf",
+		"id": "797704ac-6c19-4029-999d-41b5434770cf",
 		"title": "bouwtechniek - schilderen\/afwerkingstechnieken"
 	},
 	{
-		"id": "bk:31926035-10da-4f58-bf5b-6ba6a8084f90",
+		"id": "31926035-10da-4f58-bf5b-6ba6a8084f90",
 		"title": "bouwtechniek - timmeren"
 	},
 	{
-		"id": "bk:aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
+		"id": "aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
 		"title": "burgerschapsvorming"
 	},
 	{
-		"id": "bk:1f7aa29f-38d8-4dab-91db-3be52669951f",
+		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"title": "Chinees"
 	},
 	{
-		"id": "bk:e8e7fa96-dfc6-4d6d-a41b-a44c1b5b4138",
+		"id": "e8e7fa96-dfc6-4d6d-a41b-a44c1b5b4138",
 		"title": "computervaardigheden\/ ICT"
 	},
 	{
-		"id": "bk:ac42c9d5-7bcc-4769-862a-d9e83a075829",
+		"id": "ac42c9d5-7bcc-4769-862a-d9e83a075829",
 		"title": "consumptief - bakken"
 	},
 	{
-		"id": "bk:bab47390-8396-4099-bd7f-b52ca838aa13",
+		"id": "bab47390-8396-4099-bd7f-b52ca838aa13",
 		"title": "consumptief - breed"
 	},
 	{
-		"id": "bk:bcc5ccd8-6f9e-4462-9f3e-b48d8471288a",
+		"id": "bcc5ccd8-6f9e-4462-9f3e-b48d8471288a",
 		"title": "consumptief - horeca"
 	},
 	{
-		"id": "bk:1773b48b-1cce-4a77-bec2-5fd3aa0e2ec2",
+		"id": "1773b48b-1cce-4a77-bec2-5fd3aa0e2ec2",
 		"title": "culturele en kunstzinnige vorming"
 	},
 	{
-		"id": "bk:0b1fbf62-4eb4-4af3-a267-3cd3215d6aac",
+		"id": "0b1fbf62-4eb4-4af3-a267-3cd3215d6aac",
 		"title": "dans"
 	},
 	{
-		"id": "bk:59e44cb3-6e06-4c2d-a4a1-fa254a708f64",
+		"id": "59e44cb3-6e06-4c2d-a4a1-fa254a708f64",
 		"title": "dierhouderij en verzorging"
 	},
 	{
-		"id": "bk:904a6dbc-c236-42c8-aaa9-a5d7eaa9639f",
+		"id": "904a6dbc-c236-42c8-aaa9-a5d7eaa9639f",
 		"title": "drama"
 	},
 	{
-		"id": "bk:8cfb914a-ead0-4125-b389-d5d9816afb95",
+		"id": "8cfb914a-ead0-4125-b389-d5d9816afb95",
 		"title": "elektrotechniek"
 	},
 	{
-		"id": "bk:d35b903f-1598-4bdd-a2fa-8aba854df762",
+		"id": "d35b903f-1598-4bdd-a2fa-8aba854df762",
 		"title": "filosofie"
 	},
 	{
-		"id": "bk:93a7126d-7307-4b6a-b55a-f4f78e92f680",
+		"id": "93a7126d-7307-4b6a-b55a-f4f78e92f680",
 		"title": "Fries"
 	},
 	{
-		"id": "bk:fbf55a0b-41b6-4dc7-848d-ec41378c9c53",
+		"id": "fbf55a0b-41b6-4dc7-848d-ec41378c9c53",
 		"title": "geestelijke stromingen"
 	},
 	{
-		"id": "bk:04058361-4e9e-4c02-a057-41605a7f37b5",
+		"id": "04058361-4e9e-4c02-a057-41605a7f37b5",
 		"title": "gezond en redzaam gedrag"
 	},
 	{
-		"id": "bk:e605402f-4cc2-46bb-9026-d1d49bde17bf",
+		"id": "e605402f-4cc2-46bb-9026-d1d49bde17bf",
 		"title": "godsdienst"
 	},
 	{
-		"id": "bk:3e4c4a78-565c-4e1a-8553-4267ef05b40c",
+		"id": "3e4c4a78-565c-4e1a-8553-4267ef05b40c",
 		"title": "grafimedia"
 	},
 	{
-		"id": "bk:c92a4d95-f2bb-4eb0-8861-0691365f15b1",
+		"id": "c92a4d95-f2bb-4eb0-8861-0691365f15b1",
 		"title": "Grieks"
 	},
 	{
-		"id": "bk:07af53ba-bb6e-4fae-a82d-34a489cffe01",
+		"id": "07af53ba-bb6e-4fae-a82d-34a489cffe01",
 		"title": "groene ruimte"
 	},
 	{
-		"id": "bk:9ce440de-6f00-41f0-88f4-b414314e2ce8",
+		"id": "9ce440de-6f00-41f0-88f4-b414314e2ce8",
 		"title": "handel en administratie"
 	},
 	{
-		"id": "bk:d4ed648e-9542-4092-b6e3-727abdd2ea51",
+		"id": "d4ed648e-9542-4092-b6e3-727abdd2ea51",
 		"title": "handel en verkoop"
 	},
 	{
-		"id": "bk:f1116b34-14c9-4098-85fb-aed1b9473894",
+		"id": "f1116b34-14c9-4098-85fb-aed1b9473894",
 		"title": "handvaardigheid"
 	},
 	{
-		"id": "bk:5ec16b90-0106-43e2-a791-0ed1dc78512c",
+		"id": "5ec16b90-0106-43e2-a791-0ed1dc78512c",
 		"title": "ict-route"
 	},
 	{
-		"id": "bk:2845473d-ce18-450a-9135-6738abbdc129",
+		"id": "2845473d-ce18-450a-9135-6738abbdc129",
 		"title": "informatica"
 	},
 	{
-		"id": "bk:285da8d5-0407-49bf-8f30-d01cb286ec36",
+		"id": "285da8d5-0407-49bf-8f30-d01cb286ec36",
 		"title": "instalektro"
 	},
 	{
-		"id": "bk:2bc0df5e-8a3e-4327-993d-7e7d785866b7",
+		"id": "2bc0df5e-8a3e-4327-993d-7e7d785866b7",
 		"title": "installatietechniek"
 	},
 	{
-		"id": "bk:47429a1c-d46c-4e30-8184-3281787e112a",
+		"id": "47429a1c-d46c-4e30-8184-3281787e112a",
 		"title": "Intersectoraal dienstverlening en commercie"
 	},
 	{
-		"id": "bk:d3202d19-52f2-4d88-a0b2-3e8482e2dd19",
+		"id": "d3202d19-52f2-4d88-a0b2-3e8482e2dd19",
 		"title": "Intersectoraal technologie en commercie"
 	},
 	{
-		"id": "bk:23ac7ece-a00c-483a-8d4b-1d9de2adecb4",
+		"id": "23ac7ece-a00c-483a-8d4b-1d9de2adecb4",
 		"title": "Intersectoraal technologie en dienstverlening"
 	},
 	{
-		"id": "bk:aedcfc1c-a676-4f40-8587-4a5f43a354b5",
+		"id": "aedcfc1c-a676-4f40-8587-4a5f43a354b5",
 		"title": "Italiaans"
 	},
 	{
-		"id": "bk:42e5a6c8-3d23-4a02-a409-aeaa9fc01721",
+		"id": "42e5a6c8-3d23-4a02-a409-aeaa9fc01721",
 		"title": "klassieke culturele vorming"
 	},
 	{
-		"id": "bk:4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
 		"title": "kunst algemeen"
 	},
 	{
-		"id": "bk:4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
 		"title": "kunst en cultuur"
 	},
 	{
-		"id": "bk:4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "4aa16ae7-48c6-4f96-b48d-a67389a7050d",
 		"title": "kunstzinnige ori\u00c3\u00abntatie"
 	},
 	{
-		"id": "bk:db5b20c4-4e94-4554-8137-a45acb130ad2",
+		"id": "db5b20c4-4e94-4554-8137-a45acb130ad2",
 		"title": "landbouw breed"
 	},
 	{
-		"id": "bk:1cb06441-fc86-49fa-9347-a5869acb3778",
+		"id": "1cb06441-fc86-49fa-9347-a5869acb3778",
 		"title": "Latijn"
 	},
 	{
-		"id": "bk:37ca9dc8-2560-42de-9aac-590143932b63",
+		"id": "37ca9dc8-2560-42de-9aac-590143932b63",
 		"title": "levensbeschouwing"
 	},
 	{
-		"id": "bk:534ac9f4-f71d-4b46-89e0-dc3f6813da6d",
+		"id": "534ac9f4-f71d-4b46-89e0-dc3f6813da6d",
 		"title": "lezen"
 	},
 	{
-		"id": "bk:bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
 		"title": "lichamelijke opvoeding"
 	},
 	{
-		"id": "bk:bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
 		"title": "lichamelijke opvoeding (gemeenschappelijk deel)"
 	},
 	{
-		"id": "bk:8a76cdab-36e7-4c96-9150-96f9c97251da",
+		"id": "8a76cdab-36e7-4c96-9150-96f9c97251da",
 		"title": "lichamelijke opvoeding 2"
 	},
 	{
-		"id": "bk:b3f61346-92c4-4fb5-9207-6a4142b64122",
+		"id": "b3f61346-92c4-4fb5-9207-6a4142b64122",
 		"title": "literatuur"
 	},
 	{
-		"id": "bk:7596e435-d417-4de8-a32e-8e61f11ee1d2",
+		"id": "7596e435-d417-4de8-a32e-8e61f11ee1d2",
 		"title": "maatschappijleer"
 	},
 	{
-		"id": "bk:7596e435-d417-4de8-a32e-8e61f11ee1d2",
+		"id": "7596e435-d417-4de8-a32e-8e61f11ee1d2",
 		"title": "maatschappijleer (gemeenschappelijk deel)"
 	},
 	{
-		"id": "bk:eda31d34-d75f-4386-a567-2efe72935125",
+		"id": "eda31d34-d75f-4386-a567-2efe72935125",
 		"title": "maatschappijleer II"
 	},
 	{
-		"id": "bk:04f6fd49-a81d-4142-9eac-66502c87f744",
+		"id": "04f6fd49-a81d-4142-9eac-66502c87f744",
 		"title": "maatschappijwetenschappen"
 	},
 	{
-		"id": "bk:fd3988c5-9648-4c39-9122-93a7260c8bbe",
+		"id": "fd3988c5-9648-4c39-9122-93a7260c8bbe",
 		"title": "management en organisatie"
 	},
 	{
-		"id": "bk:de3e7b4c-e4f5-4976-9b8b-65b66bd22635",
+		"id": "de3e7b4c-e4f5-4976-9b8b-65b66bd22635",
 		"title": "metaaltechniek"
 	},
 	{
-		"id": "bk:11255639-ada3-4df4-99a0-9a6cfdfd7934",
+		"id": "11255639-ada3-4df4-99a0-9a6cfdfd7934",
 		"title": "metalektro"
 	},
 	{
-		"id": "bk:80de344b-6c8d-4594-8413-ee33f9a2bc4b",
+		"id": "80de344b-6c8d-4594-8413-ee33f9a2bc4b",
 		"title": "mode en commercie"
 	},
 	{
-		"id": "bk:e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
+		"id": "e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
 		"title": "motorische oefening"
 	},
 	{
-		"id": "bk:7aa6f577-b02d-484a-90d6-72fc80199f9a",
+		"id": "7aa6f577-b02d-484a-90d6-72fc80199f9a",
 		"title": "muziek"
 	},
 	{
-		"id": "bk:f97e788f-5aa6-4ab4-9448-9e27b79daa9e",
+		"id": "f97e788f-5aa6-4ab4-9448-9e27b79daa9e",
 		"title": "natuur"
 	},
 	{
-		"id": "bk:08a3212d-1360-406b-ac95-61b16578a75d",
+		"id": "08a3212d-1360-406b-ac95-61b16578a75d",
 		"title": "natuur, leven en technologie"
 	},
 	{
-		"id": "bk:e7ef4fc3-5bd3-4907-aacb-a0d5f74cef69",
+		"id": "e7ef4fc3-5bd3-4907-aacb-a0d5f74cef69",
 		"title": "Nederlands als tweede taal"
 	},
 	{
-		"id": "bk:c85887b4-c7bb-46ae-882d-3215a3c0411f",
+		"id": "c85887b4-c7bb-46ae-882d-3215a3c0411f",
 		"title": "plantenteelt"
 	},
 	{
-		"id": "bk:dabf3753-248a-495b-b861-bcd36e2b55cb",
+		"id": "dabf3753-248a-495b-b861-bcd36e2b55cb",
 		"title": "Portugees"
 	},
 	{
-		"id": "bk:116fbfd6-77d8-4676-8634-8cfd686942c9",
+		"id": "116fbfd6-77d8-4676-8634-8cfd686942c9",
 		"title": "Russisch"
 	},
 	{
-		"id": "bk:35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
+		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
 		"title": "sociaal-emotionele ontwikkeling"
 	},
 	{
-		"id": "bk:7dacea7f-411e-4e4e-aacb-e667af077679",
+		"id": "7dacea7f-411e-4e4e-aacb-e667af077679",
 		"title": "spelontwikkeling"
 	},
 	{
-		"id": "bk:8aa21fc6-4da8-4bdf-9de2-d9e5e707d003",
+		"id": "8aa21fc6-4da8-4bdf-9de2-d9e5e707d003",
 		"title": "sport, dienstverlening en veiligheid"
 	},
 	{
-		"id": "bk:c6971373-aa44-4de9-91ef-aca886d42a6a",
+		"id": "c6971373-aa44-4de9-91ef-aca886d42a6a",
 		"title": "techniek"
 	},
 	{
-		"id": "bk:391cc969-81fa-4d30-940b-68714fb50b5e",
+		"id": "391cc969-81fa-4d30-940b-68714fb50b5e",
 		"title": "techniek breed"
 	},
 	{
-		"id": "bk:ddae0006-230f-4f00-b407-9d358a90a27e",
+		"id": "ddae0006-230f-4f00-b407-9d358a90a27e",
 		"title": "technisch schrijven"
 	},
 	{
-		"id": "bk:433a3b22-32a2-4136-93f4-35bd369f9b1b",
+		"id": "433a3b22-32a2-4136-93f4-35bd369f9b1b",
 		"title": "technologie in de gemengde leerweg"
 	},
 	{
-		"id": "bk:5cb7f440-c370-4056-b30d-f57130cccede",
+		"id": "5cb7f440-c370-4056-b30d-f57130cccede",
 		"title": "tekenen"
 	},
 	{
-		"id": "bk:5fa492c3-7f83-4e2f-8931-87fc1a2d0048",
+		"id": "5fa492c3-7f83-4e2f-8931-87fc1a2d0048",
 		"title": "textiele vormgeving"
 	},
 	{
-		"id": "bk:9ca10565-ec88-44b7-abc2-582dfdea5abc",
+		"id": "9ca10565-ec88-44b7-abc2-582dfdea5abc",
 		"title": "transport en logistiek"
 	},
 	{
-		"id": "bk:96ff821f-148d-46fd-bc0e-ddb5e8f7d7c9",
+		"id": "96ff821f-148d-46fd-bc0e-ddb5e8f7d7c9",
 		"title": "Turks"
 	},
 	{
-		"id": "bk:4c5ca35d-a5b7-4408-af1f-9bbbcf96caa6",
+		"id": "4c5ca35d-a5b7-4408-af1f-9bbbcf96caa6",
 		"title": "uiterlijke verzorging"
 	},
 	{
-		"id": "bk:d45cf1d7-3d8e-476a-a4ef-a39440820199",
+		"id": "d45cf1d7-3d8e-476a-a4ef-a39440820199",
 		"title": "verkeer"
 	},
 	{
-		"id": "bk:a583552a-1732-435b-9354-21bb39646b1f",
+		"id": "a583552a-1732-435b-9354-21bb39646b1f",
 		"title": "verwerking agrarische producten\/levensmiddelen technologie"
 	},
 	{
-		"id": "bk:3e1f23da-ab74-440d-a2e2-6856cd5c51a8",
+		"id": "3e1f23da-ab74-440d-a2e2-6856cd5c51a8",
 		"title": "verzorging"
 	},
 	{
-		"id": "bk:3e1f23da-ab74-440d-a2e2-6856cd5c51a8",
+		"id": "3e1f23da-ab74-440d-a2e2-6856cd5c51a8",
 		"title": "verzorging"
 	},
 	{
-		"id": "bk:ab706abb-1f4a-4860-93c1-1d5ef63ea3b5",
+		"id": "ab706abb-1f4a-4860-93c1-1d5ef63ea3b5",
 		"title": "voertuigentechniek"
 	},
 	{
-		"id": "bk:8b194f4d-d757-440d-b8a2-e7427849a6db",
+		"id": "8b194f4d-d757-440d-b8a2-e7427849a6db",
 		"title": "wereldori\u00ebntatie"
 	},
 	{
-		"id": "bk:dd0cf4aa-f2f1-4b56-bcbf-5e5293bac0b6",
+		"id": "dd0cf4aa-f2f1-4b56-bcbf-5e5293bac0b6",
 		"title": "wiskunde D"
 	},
 	{
-		"id": "bk:ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
+		"id": "ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
 		"title": "zintuiglijke oefening"
 	},
 	{
-		"id": "bk:750580b3-11c3-46a8-9bc2-dd5a6e7612b6",
+		"id": "750580b3-11c3-46a8-9bc2-dd5a6e7612b6",
 		"title": "zorg en welzijn breed"
 	},
 	{
-		"id": "bk:4c8a3378-6616-459d-acc4-83ee5a9b91a2",
+		"id": "4c8a3378-6616-459d-acc4-83ee5a9b91a2",
 		"title": "beeldende vorming"
 	},
 	{
-		"id": "bk:157a7262-bdfc-4714-9f9a-b75fef94c8a2",
+		"id": "157a7262-bdfc-4714-9f9a-b75fef94c8a2",
 		"title": "beroepenori\u00ebntatie"
 	},
 	{
-		"id": "bk:bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"id": "bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
 		"title": "bewegen en sport"
 	},
 	{
-		"id": "bk:1f73da5d-4118-4330-9e3d-597693bd8e10",
+		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
 		"title": "leren leren"
 	},
 	{
-		"id": "bk:bba8a4f1-ad94-484f-9927-e65a3ff1754a",
+		"id": "bba8a4f1-ad94-484f-9927-e65a3ff1754a",
 		"title": "milieueducatie"
 	},
 	{
-		"id": "bk:e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
+		"id": "e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
 		"title": "motorische ontwikkeling"
 	},
 	{
-		"id": "bk:04058361-4e9e-4c02-a057-41605a7f37b5",
+		"id": "04058361-4e9e-4c02-a057-41605a7f37b5",
 		"title": "praktische redzaamheid"
 	},
 	{
@@ -715,11 +715,11 @@
 		"title": "tekenen en handvaardigheid"
 	},
 	{
-		"id": "bk:ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
+		"id": "ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
 		"title": "zintuigelijke ontwikkeling"
 	},
 	{
-		"id": "bk:afae9f70-1823-415a-be58-35289f5b116d",
+		"id": "afae9f70-1823-415a-be58-35289f5b116d",
 		"title": "Mens en maatschappij"
 	}
 ]
