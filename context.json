@@ -35,14 +35,6 @@
                     "uniqueItems": true
                 }
             },
-            "anyOf": [
-                {
-                    "required": ["id","title","vakkern_id"]
-                },
-                {
-                    "required": ["id","title","doelniveau_id"]
-                }
-            ],
             "not": {
                 "anyOf": [
                     {
