@@ -132,44 +132,64 @@
                     }
                 ]
             }
+        },
+        "allEntities" : {
+            "properties" : {
+                "vak_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "itemTypeReference": "#/definitions/vak"
+		},
+                "vakkern_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "itemTypeReference": "#/definitions/vakkern"
+		},
+                "vaksubkern_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "itemTypeReference": "#/definitions/vaksubkern"
+		},
+                "vakinhoud_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "itemTypeReference": "#/definitions/vakinhoud"
+		}
+            }
         }
     },
     "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
-        "vak": {
-            "#file": "data/vakken.json",
-            "type": "array",
-            "items": {
-                "$ref": "#/definitions/vak"
-            }
-        },
-        "vakkern": {
-            "#file": "data/vakkernen.json",
-            "type": "array",
-            "items": {
-                "$ref": "#/definitions/vakkern"
-            }
-        },
-        "vaksubkern": {
-            "#file": "data/vaksubkernen.json",
-            "type": "array",
-            "items": {
-                "$ref": "#/definitions/vaksubkern"
-            }
-        },
-        "vakinhoud": {
-            "#file": "data/vakinhouden.json",
-            "type": "array",
-            "items": {
-                "$ref": "#/definitions/vakinhoud"
-            }
-        },
-        "deprecated": {
-            "#file": "data/deprecated.json",
-            "type": "array"
-        }
+	"vak": {
+	    "#file": "data/vakken.json",
+	    "type": "array",
+	    "items": {
+		"$ref": "#/definitions/vak"
+	    }
+	},
+	"vakkern": {
+	    "#file": "data/vakkernen.json",
+	    "type": "array",
+	    "items": {
+		"$ref": "#/definitions/vakkern"
+	    }
+	},
+	"vaksubkern": {
+	    "#file": "data/vaksubkernen.json",
+	    "type": "array",
+	    "items": {
+		"$ref": "#/definitions/vaksubkern"
+	    }
+	},
+	"vakinhoud": {
+	    "#file": "data/vakinhouden.json",
+	    "type": "array",
+	    "items": {
+		"$ref": "#/definitions/vakinhoud"
+	    }
+	},
+	"deprecated": {
+	    "#file": "data/deprecated.json",
+	    "type": "array"
+	}
     },
     "required": ["vak","vakkern","vaksubkern","vakinhoud"]
 }
