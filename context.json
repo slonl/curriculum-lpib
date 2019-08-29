@@ -60,11 +60,26 @@
                             }
                         }
                     ]
+                },
+                "vakinhoud_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/vakinhoud"
+                            }
+                        }
+                    ]
                 }
             },
             "anyOf": [
                 {
                     "required": ["vaksubkern_id"]
+                },
+                {
+                    "required": ["vakinhoud_id"]
                 },
                 {
                     "required": ["doelniveau_id"]
@@ -74,9 +89,6 @@
                 "anyOf": [
                     {
                         "required": ["vakkern_id"]
-                    },
-                    {
-                        "required": ["vakinhoud_id"]
                     }
                 ]
             }
