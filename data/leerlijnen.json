@@ -97,7 +97,7 @@
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
 			"d7115cea-37e8-46e1-b176-8cbd2e8cd26c"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
@@ -114,7 +114,7 @@
 		"vak_id": [
 			"26eb622d-6239-4f26-bdef-0c9662891285"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"8c8cb720-342c-4f38-bc00-9bcaab5891da",
 			"13286e52-c85f-4b7a-af3f-cda7d5548cdc",
 			"e2e375b2-c46c-43c4-8c2c-c445836c0b8b",
@@ -720,7 +720,7 @@
 			"3c1a9414-d16b-4008-9876-453cb9428cd0",
 			"df1c70d0-3ad3-4658-b6ea-73cbfc170e6a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"ff739ab3-fe0c-4fd2-8afb-572bf3ecd574",
 			"0fb96ace-642b-4e47-9a97-a3e7e6802806",
 			"de5d93d4-ccfe-4ecc-b1cf-38db17f5cd4d",
@@ -1151,7 +1151,7 @@
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"e4f99f05-edfb-4fba-8757-74b0bbabfecc",
 			"5c5b37fc-ae3c-48f9-b7d9-5568ea8910db",
 			"6fcd1334-d01c-40f3-acbc-23eaf4d99650",
@@ -1276,7 +1276,7 @@
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5a77fa7c-c33f-4934-9c3e-5ef5450c7a40",
 			"8cd810aa-4583-4508-837b-9a7b9427e140",
 			"59693f75-2431-4bba-99a3-00e2167bfd02",
@@ -1409,7 +1409,7 @@
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"7353c12f-090b-446e-afcb-bf63bdff0e13",
 			"4a364c47-41b2-46cd-9e92-fcb036155791",
 			"c81d7c67-1bab-4f60-b826-81872c356709",
@@ -1499,7 +1499,7 @@
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"7353c12f-090b-446e-afcb-bf63bdff0e13",
 			"4a364c47-41b2-46cd-9e92-fcb036155791",
 			"c81d7c67-1bab-4f60-b826-81872c356709",
@@ -1596,7 +1596,7 @@
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5a77fa7c-c33f-4934-9c3e-5ef5450c7a40",
 			"8cd810aa-4583-4508-837b-9a7b9427e140",
 			"59693f75-2431-4bba-99a3-00e2167bfd02",
@@ -1877,7 +1877,7 @@
 			"7fa10ff9-6643-4808-ac63-bc3339289877",
 			"9a343683-525f-48f0-962f-1fb9a0183d0f"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"45deb274-a231-4710-9cc9-3c53d4fa810b",
 			"918cf061-0c17-47e5-aaca-4d71bb8ee937",
 			"9f4de582-e212-4fc0-9b08-605faa4ffcc1",
@@ -1955,7 +1955,7 @@
 			"4c78ac37-1937-4cc4-86e4-aa3192ef44db",
 			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"45deb274-a231-4710-9cc9-3c53d4fa810b",
 			"918cf061-0c17-47e5-aaca-4d71bb8ee937",
 			"9f4de582-e212-4fc0-9b08-605faa4ffcc1",
@@ -2197,7 +2197,7 @@
 			"965f9355-863e-4dae-a21a-8d875d1632e4",
 			"15823c99-6179-4c7a-926c-b06017eadb2a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"f9ac3242-37d2-467a-a74a-c4e1c4a9fe62",
 			"c9712f4d-436b-44b0-990a-0f43105f41a8",
 			"db32088e-a8c0-4f29-944f-7205660e4086",
@@ -2299,7 +2299,7 @@
 		"vak_id": [
 			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"f9ac3242-37d2-467a-a74a-c4e1c4a9fe62",
 			"7535f456-d392-4e92-bb67-542454dcdb21",
 			"54104552-70a6-4400-a4ff-1206eb19fae8",
@@ -2470,7 +2470,7 @@
 		"vak_id": [
 			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"7f51879a-d9e3-4b50-be27-d019114349b1",
 			"e01afc66-d634-49d2-9241-ec07776bc2cf",
 			"8682f0a5-395a-443b-8c8b-06c9acc4b555",
@@ -2625,7 +2625,7 @@
 			"9015d71f-603a-4a71-bfd8-6a3fc97b0be3",
 			"2be38a8a-d393-4b64-8010-e386695f6c8a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
 			"67cb15e0-8251-4808-acc0-c168a4a65561",
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
@@ -2710,7 +2710,7 @@
 		"vak_id": [
 			"7316c15e-d1d1-4d73-b4df-94b46b04aadd"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -2755,7 +2755,7 @@
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
 			"3ba00477-6186-4b1b-a853-665e609f584c"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -2868,7 +2868,7 @@
 		"vak_id": [
 			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"4979c1d7-8e74-42c9-8b15-d4ef1a447099",
 			"199b7b9e-fc96-4688-861d-e752aae67dcc",
 			"e3c8b6b0-93a4-41fc-9078-89b35695bdec",
@@ -2920,7 +2920,7 @@
 			"938cdf5e-18cf-4b18-b0a0-aa531379087d",
 			"644a0a37-604f-4a40-ab21-4eefa6a99d85"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
 		]
@@ -2938,7 +2938,7 @@
 		"vak_id": [
 			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"doelniveau_id": [
@@ -2963,7 +2963,7 @@
 		"vak_id": [
 			"8755f202-3f28-405d-929e-990ee4fdc521"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5f89632c-adfb-4ed1-bbb3-119ef202a142",
 			"818c3271-b9db-4045-a1eb-ce4ccb21e9aa",
 			"e2c799ae-7d03-4b38-921f-061fda59d0f7",
@@ -3072,7 +3072,7 @@
 		"vak_id": [
 			"8755f202-3f28-405d-929e-990ee4fdc521"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"615b675b-d080-4fd9-afb6-86d99950f030",
 			"a26f6daa-4546-41bc-99fd-cbc816bf4bdb",
 			"8cfcf6c3-393e-4cba-9592-7f5ffac177c4",
@@ -3364,7 +3364,7 @@
 		"vak_id": [
 			"18126dde-b79b-4231-826d-b902a6fa70db"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"d2e97444-c6d7-4cb4-b153-0d9f3708cf4d",
 			"78f056f7-6d3e-40cc-9c97-31d4b62455f6",
 			"4a2d76c7-cedf-41af-86c5-a396dc41d715",
@@ -3392,7 +3392,7 @@
 		"vak_id": [
 			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1f360caa-6e66-406b-b68d-d34be15db371",
@@ -3431,7 +3431,7 @@
 			"ccf0e418-70f7-4827-a41e-be49d59abfe9",
 			"9fa4ce3f-584e-4712-8e65-93e0c3d10923"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
@@ -3549,7 +3549,7 @@
 			"938cdf5e-18cf-4b18-b0a0-aa531379087d",
 			"644a0a37-604f-4a40-ab21-4eefa6a99d85"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
 		]
@@ -3567,7 +3567,7 @@
 		"vak_id": [
 			"f851676e-b541-42db-986a-5c468974f65e"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"doelniveau_id": [
@@ -3735,7 +3735,7 @@
 		"vak_id": [
 			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"c3c84000-49ca-4645-93b7-6e29d1773760",
 			"8470b90c-85e8-4655-88e0-652e1ad85a34",
 			"86d462f8-9cb7-4c38-b86c-deec8478ac4c",
@@ -3905,7 +3905,7 @@
 		"vak_id": [
 			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"9080973c-b399-4379-b657-c9be44915a70",
 			"599da982-6531-406c-b048-ac814cbac4b0",
 			"a85c8fb7-df62-4033-b1e1-ee399b4b3657",
@@ -4082,7 +4082,7 @@
 		"vak_id": [
 			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"740e0d58-1cdb-436e-877f-1d4eed0b4ebd",
 			"b505f5f7-2e1e-4adc-94db-28fe6b23353b",
 			"22f7947d-b7a7-4fed-a685-88aa7d115874",
@@ -4113,7 +4113,7 @@
 		"vak_id": [
 			"797f5fdf-8e35-43e9-b290-772c84f1761e"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"58184ebe-796b-4893-8d73-adb2b66c3761",
 			"1c270f1d-fc01-4c3b-9a5d-ee396e61b57d",
 			"8ba658e1-2737-4729-a9c5-8c0e728af013",
@@ -4156,7 +4156,7 @@
 		"vak_id": [
 			"797f5fdf-8e35-43e9-b290-772c84f1761e"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"d6ebfee9-788a-45db-8097-d6439145bc16",
 			"d7d447fa-c599-4ecc-ba38-d66269490222",
 			"ef796778-a058-4227-8c0c-426329b7ff40",
@@ -4312,7 +4312,7 @@
 		"vak_id": [
 			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"fef14f9b-e581-4fb9-8c7b-f18a903e281b",
 			"e08cd29b-68f8-4e8b-b414-6ad1149bede5",
 			"cfa7f5fc-431b-4c08-8653-0b96f1983749",
@@ -4446,7 +4446,7 @@
 		"vak_id": [
 			"430c341c-d861-4076-bbce-b8adcda81555"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"e58f53d2-037d-489f-81f2-b4a0be9a59f1",
 			"f08f5a02-f8ab-4150-8ae3-6ba77e423465",
 			"639b5d7d-9258-4e27-a6ab-dd49694aa991",
@@ -4501,7 +4501,7 @@
 		"vak_id": [
 			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		],
 		"doelniveau_id": [
@@ -4613,7 +4613,7 @@
 			"95f3cc60-3418-4d46-ad55-a5b379a2f71d",
 			"d6b25bf4-718d-4204-9870-cb40416ec81d"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4696,7 +4696,7 @@
 			"4bc4164a-f208-4f68-97b8-4401f2f49fb1",
 			"ee89657e-53c3-425f-8372-c6f3c16ca8f5"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68",
 			"3b33f09a-a276-46c9-8ae2-faaab73a8405"
 		]
@@ -4724,7 +4724,7 @@
 			"c0a7c822-70c1-4516-b64d-499a9b15c14f",
 			"37f27fd0-4fa3-4e71-bf56-88ccaefc7698"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4760,7 +4760,7 @@
 			"aa57bcb3-aef4-4873-bca3-fce8783a081f",
 			"95f3cc60-3418-4d46-ad55-a5b379a2f71d"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4787,7 +4787,7 @@
 			"0b30f941-00e5-4561-96cf-adcbc8e09813",
 			"62d09b39-3025-45a3-8cef-21fca22f9b67"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4825,7 +4825,7 @@
 			"9746adc1-f96f-47ab-a288-6b9bc6e25ead",
 			"3ba00477-6186-4b1b-a853-665e609f584c"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4855,7 +4855,7 @@
 			"9c205e88-c901-4ea1-b53e-439434713b93",
 			"5e5e0704-966d-41cd-a8df-7834b2af8655"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4891,7 +4891,7 @@
 			"f93f50b5-1885-4e4b-a0c7-3bfa6621932e",
 			"d6b25bf4-718d-4204-9870-cb40416ec81d"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4920,7 +4920,7 @@
 			"7320649e-bc8b-478f-9325-5aa4a1ef0813",
 			"bf449211-c6b4-408d-8756-af91a4ec02a9"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4936,7 +4936,7 @@
 		"vak_id": [
 			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"65d2107c-2f41-4bd1-854c-adfec12d7efd",
 			"9ac01261-c94a-4f59-8c4e-fe6f289521f0",
 			"6b0465b4-17d6-4f8d-88ea-ad45e779bec4",
@@ -4985,7 +4985,7 @@
 		"vak_id": [
 			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"cf63d386-7c45-4da2-b99d-eb20d780f2ea",
 			"761d3ef4-6e66-4235-b481-79f87b49b256",
 			"f1dc8ee0-903f-47a3-8406-cff931163692",
@@ -5312,7 +5312,7 @@
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
 			"d7115cea-37e8-46e1-b176-8cbd2e8cd26c"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -5330,7 +5330,7 @@
 		"vak_id": [
 			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"19e0bb3c-2766-4782-8e9d-1101e0c798c7",
 			"e1df828e-8dbd-410f-98f7-fbd24400a8b2",
 			"8fbeb10d-122d-47e6-9a3a-37857b8c1396",
@@ -5484,7 +5484,7 @@
 			"880b33e9-7cad-45bc-84f0-e91d715c8f9e",
 			"23a5c702-5814-4c55-aaca-38a67265554a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -5502,7 +5502,7 @@
 		"vak_id": [
 			"f4848ad5-47b5-4539-8d50-437d15385368"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"83c32ee5-8857-4c5d-b94e-ce6c48dd3afa",
 			"5461f8eb-c387-4204-8748-da4990c0f5f2",
 			"2150a7c7-c62c-4d59-ae95-7e01ff4f6094",
@@ -5599,7 +5599,7 @@
 			"dd6e5e04-943f-4057-86e5-a5346deda677",
 			"55858989-db4b-4bb7-8767-2ba903499ddb"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"4e511c71-b915-43d8-b9e8-3b975ce6928d",
 			"a8ee85f8-e2d1-43df-8cdd-1149f87d533c",
 			"1af3b909-ea9e-4ccc-bb4d-35df460a2080",
@@ -5863,7 +5863,7 @@
 			"af39c464-af48-4999-a3f7-211beec25171",
 			"c94a71b1-2671-435e-bd60-6f5dfdf55c84"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"d2587e01-6df3-4eb2-b045-5b3d534da9c3",
 			"09add71c-da58-4286-a0e8-14b759694a4d",
 			"10edcc49-50ff-404c-b10d-c247bc0ca651",
@@ -5982,7 +5982,7 @@
 			"0bfdf80b-1789-4af4-b707-7b643864e195",
 			"c0e6c56e-ba72-401c-9bdf-d70f509a5981"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"d05680f4-64e2-458e-9ea7-8ab00fefca91",
 			"67c1ee6f-1ea2-45dd-a7ec-8f0c80addfa2",
 			"5bcc873e-645b-4c20-9a89-61ccd203145b",
@@ -6110,7 +6110,7 @@
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -6128,7 +6128,7 @@
 		"vak_id": [
 			"aa197275-236f-451e-85be-ed0902848f08"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"7e45866b-277e-4a3e-ae6f-b892fca10f2f",
 			"579c75db-df74-46e3-a460-0992cc1f3d99",
 			"35441ea7-3fde-4a1f-a6e5-72f3ed632ac3",
@@ -6158,7 +6158,7 @@
 		"vak_id": [
 			"b362c478-90c9-45ac-855a-79421d23ed07"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"2a5a712e-ed3a-40fa-844a-af26cf849e1e",
 			"495bf58a-8f73-48f7-ba05-4bc8fda9f47b",
 			"30ecb80b-46e2-42d2-b8d0-b5fc1d7306c7",
@@ -6411,7 +6411,7 @@
 		"vak_id": [
 			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"2a2d7bfc-c23b-46f9-a3e8-f2206584cb6a",
 			"e761623c-d131-47f9-b65f-de993229248d",
 			"b0445b53-d4fb-497c-934b-bf876d001550",
@@ -6483,7 +6483,7 @@
 		"vak_id": [
 			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"7e5524e1-f5af-4429-9194-f77b36959ddb",
 			"9fd29757-b556-4c30-9167-136f32cb2923",
 			"b5b0b173-c06b-4378-8162-87161d9da9c7",
@@ -6752,7 +6752,7 @@
 			"d3113753-e6e5-4484-a0b2-ce7b171e006d",
 			"5eea4a99-13b8-4080-8565-c5fd133f32ba"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"b2a1d9a5-f432-42c3-8bf1-7435c3a0d016",
 			"ccf1cad9-555e-40ee-ab53-1aae80ddb9a0",
 			"507a79df-f0bc-48b0-99a5-403eddf81638",
@@ -6884,7 +6884,7 @@
 		"vak_id": [
 			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
 			"de511ca3-cb8d-44c1-a69a-444c3749939f",
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
@@ -6999,7 +6999,7 @@
 			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
 		"doelniveau_id": [],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"940ccf89-54a5-42a8-97db-5d574a68e6d4",
 			"08dc4339-1d21-4096-9d2d-e2c7c32bf8db",
 			"eac96d21-872a-4476-a0bc-b529990893c1",
@@ -7074,7 +7074,7 @@
 		"vak_id": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"b3346f8a-99fc-4bae-abf3-c385964bb9a3",
 			"60a9e28c-adb8-4f6a-b48f-992d383ac5a0",
 			"2445e3c2-d92e-40c1-8a2d-82ba8654db15",
@@ -7154,7 +7154,7 @@
 		"vak_id": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"2445e3c2-d92e-40c1-8a2d-82ba8654db15",
 			"e1e5b890-80ec-4dca-9474-2195d029600f",
 			"30b48137-9af6-49d2-9054-49ea045d288a",
@@ -7275,7 +7275,7 @@
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -7293,7 +7293,7 @@
 		"vak_id": [
 			"b8f15528-dedb-4db8-81ee-c820da8453bc"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"23ce22c8-d3eb-4552-b55f-0e05e28c103b",
 			"4a43bbe2-8a9a-43ed-a18f-f095d21c5875",
 			"04f4f1e5-7b27-47b8-85de-b70c8cb66cb2",
@@ -7324,7 +7324,7 @@
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
 			"3ac8faa4-551e-463b-9003-a8107444311a"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"4627428a-d0ea-4810-8e7d-a371a44371e1",
 			"4d784cd6-97af-4a5d-879a-a4ede319bd19",
 			"1b084598-c122-47eb-892c-550e0d29d311",
@@ -7380,7 +7380,7 @@
 		"vak_id": [
 			"364c2519-7d9e-47d8-b3bd-371cee8583df"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
 			"de511ca3-cb8d-44c1-a69a-444c3749939f",
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
@@ -7499,7 +7499,7 @@
 			"938cdf5e-18cf-4b18-b0a0-aa531379087d",
 			"644a0a37-604f-4a40-ab21-4eefa6a99d85"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -7516,7 +7516,7 @@
 		"vak_id": [
 			"73abc618-988a-4409-b2ae-ff16febf68ee"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"doelniveau_id": [
@@ -7540,7 +7540,7 @@
 		"vak_id": [
 			"70d7c26b-9e49-481a-b40b-188e2d538943"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"9b4e0ed0-7829-4190-b924-4f3d7cbc0f7a",
 			"eee8ada0-5380-45bc-924c-3243b77e39e5",
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
@@ -7561,7 +7561,7 @@
 		"vak_id": [
 			"70d7c26b-9e49-481a-b40b-188e2d538943"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"9b4e0ed0-7829-4190-b924-4f3d7cbc0f7a",
 			"eee8ada0-5380-45bc-924c-3243b77e39e5",
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
@@ -7586,7 +7586,7 @@
 			"12209d8b-24d3-440a-8e2e-e85bfebc1e13",
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"45850ac0-4bdc-4a51-b597-7a4c35780f59",
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
@@ -7842,7 +7842,7 @@
 			"12209d8b-24d3-440a-8e2e-e85bfebc1e13",
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
 			"691c6603-320f-45ee-b701-acbf3c37def5",
 			"8e4e0096-e20a-4eca-83ea-aff49dfa2356",
@@ -8197,7 +8197,7 @@
 			"5e2c7455-100f-4742-9b38-17b0eb5fa1f7",
 			"27b885ce-1767-4026-a027-b79e8fd250ac"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"517bcbcd-aedf-448f-8f8a-d449db267eea",
 			"5b001cdf-a5da-43e3-a30a-9f6d2666e176",
 			"7369043a-634d-4f65-b9ab-d43ed70464ae",
@@ -8339,7 +8339,7 @@
 		"vak_id": [
 			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"dd406037-306d-49fd-8658-671a8e2ff842",
 			"20c20e07-81b9-41d5-b4e0-67816c6bbe29",
 			"ff23fa9a-f620-4146-a570-c07ac7c56370",
@@ -8445,7 +8445,7 @@
 		"vak_id": [
 			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
 			"691c6603-320f-45ee-b701-acbf3c37def5",
 			"8d1eaca7-6318-4324-b885-82bb9a65b6cd",
@@ -8617,7 +8617,7 @@
 		"vak_id": [
 			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
 			"23e94633-c77d-41ff-8c13-63c5b0fbd0c8",
@@ -8843,7 +8843,7 @@
 		"vak_id": [
 			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"8e4e0096-e20a-4eca-83ea-aff49dfa2356",
 			"691c6603-320f-45ee-b701-acbf3c37def5",
 			"8d1eaca7-6318-4324-b885-82bb9a65b6cd",
@@ -9012,7 +9012,7 @@
 		"vak_id": [
 			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
 			"23e94633-c77d-41ff-8c13-63c5b0fbd0c8",
@@ -9226,7 +9226,7 @@
 		"vak_id": [
 			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
 			"b502f499-9c19-4577-8126-db28506a5fd4",
 			"8d1eaca7-6318-4324-b885-82bb9a65b6cd",
@@ -9376,7 +9376,7 @@
 		"vak_id": [
 			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
 			"23e94633-c77d-41ff-8c13-63c5b0fbd0c8",
@@ -9562,7 +9562,7 @@
 			"59d5ffc1-08a4-4a1e-a259-a5be98e0bf2b",
 			"9864335c-fcc0-4cbd-ac92-93ecc532884e"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
 			"23e94633-c77d-41ff-8c13-63c5b0fbd0c8",
@@ -9664,7 +9664,7 @@
 		"vak_id": [
 			"6be72775-5689-4aa4-bb5a-38899b174915"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
 			"23e94633-c77d-41ff-8c13-63c5b0fbd0c8",
@@ -9849,7 +9849,7 @@
 			"3fe19ab1-e181-40d4-ae8c-7b5ea73cd770",
 			"9a464562-ee63-4169-a58a-71c2e8c2449d"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"9fe0765e-110f-4e8b-a6d0-48387ccb1f3e",
 			"7644dfe2-773b-4fcb-84e6-0a63b58265c5",
 			"95c975ce-88db-4312-9530-bbd374e996a7"
@@ -9866,7 +9866,7 @@
 		"vak_id": [
 			"73cef23f-df24-4015-8516-072a13dcd369"
 		],
-		"inhoud_id": [
+		"vakinhoud_id": [
 			"4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
 			"78ed9eda-53f5-4de4-90ed-a59599823aad",
 			"8bb8ee2f-7aea-4c9b-ae7d-1f74f12e910e",
