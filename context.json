@@ -20,6 +20,97 @@
                 }
             }
         },
+        "vakkencluster": {
+            "allOf": [ { "$ref": "#/definitions/inhoud" } ],
+            "properties": {
+                "vak_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/vak"
+                            }
+                        }
+                    ]
+                },
+                "niveau_id": {
+                    "allOf": [
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                            }
+                        }
+                    ]
+                },
+                "doelniveau_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/doelniveau"
+                            }
+                        }
+                    ]
+                }
+            },
+            "not": {
+                "anyOf": [
+                    {
+                        "required": ["vakkern_id"]
+                    },
+                    {
+                        "required": ["vaksubkern_id"]
+                    },
+                    {
+                        "required": ["vakinhoud_id"]
+                    }
+                ]
+            }
+        },
+        "leerlijn": {
+            "allOf": [ { "$ref": "#/definitions/inhoud" } ],
+            "properties": {
+                "vak_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/vak"
+                            }
+                        }
+                    ]
+                },
+                "doelniveau_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/doelniveau"
+                            }
+                        }
+                    ]
+		},
+                "niveau_id": {
+                    "allOf": [
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
         "vak": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
@@ -29,7 +120,7 @@
                         "type": "string",
                         "anyOf": [
                             { "format": "uuid" },
-                            { "pattern": "^bk:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
+                            { "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
                         ]
                     },
                     "uniqueItems": true
@@ -150,6 +241,20 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
+        "vakkencluster": {
+            "#file": "data/vakkenclusters.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/vakkencluster"
+            }
+        },
+        "leerlijn": {
+            "#file": "data/leerlijnen.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/leerlijn"
+            }
+        },
         "vak": {
             "#file": "data/vakken.json",
             "type": "array",
