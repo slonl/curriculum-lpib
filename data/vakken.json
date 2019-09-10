@@ -917,5 +917,41 @@
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"title": "Chinees"
+	},
+	{
+		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
+		"replaces": [
+			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
+		],
+		"title": "zintuigelijke ontwikkeling"
+	},
+	{
+		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
+		"title": "leren leren"
+	},
+	{
+		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
+		"replaces": [
+			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
+		],
+		"title": "motorische ontwikkeling"
+	},
+	{
+		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
+		"replaces": [
+			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
+		],
+		"title": "bewegen en sport"
+	},
+	{
+		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
+		"title": "sociaal-emotionele ontwikkeling",
+	},
+	{
+		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
+		"replaces": [
+			"04058361-4e9e-4c02-a057-41605a7f37b5"
+		],
+		"title": "praktische redzaamheid"
 	}
 ]

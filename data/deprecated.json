@@ -11604,14 +11604,6 @@
 		"replacedBy": []
 	},
 	{
-		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
-		"title": "sociaal-emotionele ontwikkeling",
-		"types": [
-			"vak"
-		],
-		"replacedBy": []
-	},
-	{
 		"id": "7dacea7f-411e-4e4e-aacb-e667af077679",
 		"title": "spelontwikkeling",
 		"types": [
@@ -11786,25 +11778,6 @@
 		"replacedBy": []
 	},
 	{
-		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
-		"replaces": [
-			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
-		],
-		"title": "bewegen en sport",
-		"types": [
-			"vak"
-		],
-		"replacedBy": []
-	},
-	{
-		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
-		"title": "leren leren",
-		"types": [
-			"vak"
-		],
-		"replacedBy": []
-	},
-	{
 		"id": "bba8a4f1-ad94-484f-9927-e65a3ff1754a",
 		"title": "milieueducatie",
 		"types": [
@@ -11813,41 +11786,8 @@
 		"replacedBy": []
 	},
 	{
-		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
-		"replaces": [
-			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
-		],
-		"title": "motorische ontwikkeling",
-		"types": [
-			"vak"
-		],
-		"replacedBy": []
-	},
-	{
-		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
-		"replaces": [
-			"04058361-4e9e-4c02-a057-41605a7f37b5"
-		],
-		"title": "praktische redzaamheid",
-		"types": [
-			"vak"
-		],
-		"replacedBy": []
-	},
-	{
 		"id": "f3630665-d033-4dd4-a9f0-fc1c14cdf3c7",
 		"title": "tekenen en handvaardigheid",
-		"types": [
-			"vak"
-		],
-		"replacedBy": []
-	},
-	{
-		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
-		"replaces": [
-			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
-		],
-		"title": "zintuigelijke ontwikkeling",
 		"types": [
 			"vak"
 		],
