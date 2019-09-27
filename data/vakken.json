@@ -42,7 +42,9 @@
 		],
 		"description": "",
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"section": "vak",
+		"parents": []
 	},
 	{
 		"id": "182462b2-662f-42e5-8464-f9075afee3ba",
@@ -1047,9 +1049,8 @@
 	},
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
-		"title": "informatica",
-		"section": "vak",
-		"parents": []
+		"title": "Informatica",
+		"dirty": 0
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
