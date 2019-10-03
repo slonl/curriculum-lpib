@@ -64,7 +64,7 @@
 		"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
 		"unreleased": true,
 		"sloID": "57",
-		"title": "Bedrijfseconomie",
+		"title": "Bedrijfseconomie test",
 		"vakkern_id": [
 			"c516b0c6-75f2-4017-8a60-fc78373ca0ff",
 			"87512196-3d6b-49de-9c22-3a4b6ab8d41c",
@@ -75,8 +75,9 @@
 			"991b7180-071c-4913-bcbb-5dadac8f52b2",
 			"d9b40ac7-ba78-4bd5-a108-337d2be35827"
 		],
-		"section": "vak",
-		"parents": []
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
@@ -1050,7 +1051,9 @@
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
 		"title": "Informatica",
-		"dirty": 0
+		"dirty": 0,
+		"section": "vak",
+		"parents": []
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
