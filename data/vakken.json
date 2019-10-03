@@ -77,7 +77,9 @@
 		],
 		"description": "",
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"section": "vak",
+		"parents": []
 	},
 	{
 		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
@@ -1072,41 +1074,51 @@
 	},
 	{
 		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
-		"title": "leren leren",
-		"section": "vak",
-		"parents": []
+		"title": "Leren leren",
+		"description": "",
+		"vakkern_id": [],
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
 		"replaces": [
 			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
 		],
-		"title": "motorische ontwikkeling",
-		"section": "vak",
-		"parents": []
+		"title": "Motorische ontwikkeling",
+		"description": "",
+		"vakkern_id": [],
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
 		"replaces": [
 			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
 		],
-		"title": "bewegen en sport",
-		"section": "vak",
-		"parents": []
+		"title": "Bewegen en sport",
+		"description": "",
+		"vakkern_id": [],
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
-		"title": "sociaal-emotionele ontwikkeling",
-		"section": "vak",
-		"parents": []
+		"title": "Sociaal-emotionele ontwikkeling",
+		"description": "",
+		"vakkern_id": [],
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
 		"replaces": [
 			"04058361-4e9e-4c02-a057-41605a7f37b5"
 		],
-		"title": "praktische redzaamheid",
-		"section": "vak",
-		"parents": []
+		"title": "Praktische redzaamheid",
+		"description": "",
+		"vakkern_id": [],
+		"doelniveau_id": [],
+		"dirty": 0
 	}
 ]
