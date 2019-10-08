@@ -41,6 +41,12 @@
 			"5e29ff60-596d-4b1a-9c3f-c9e591cc750a",
 			"2c9c7044-0d7c-4c9e-936b-34d00b067a82",
 			"4307032d-fbb5-4f82-9196-5fef80c07584"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -192,6 +198,12 @@
 			"d60bf01e-8561-44ac-9988-fe3b1d447a0a",
 			"74b9c24c-06fa-4a12-bb89-4ce8b2b07b3b",
 			"83235632-d7c8-4a4e-b229-79768970cc2b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -225,6 +237,12 @@
 			"abf976e5-a22d-4305-a2dc-e83f760ae608",
 			"0f391900-65f8-4549-b0ba-ce2da58e791d",
 			"6d722254-eab8-4ec0-be1b-e146682ea44b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -327,6 +345,12 @@
 			"2fcb6790-b8af-439a-b496-8b0fc45e9877",
 			"d399d140-4da8-4f75-b23b-f8f8a439b1b5",
 			"b5067b54-a6d3-4668-9889-bb2b7e852a5f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -406,6 +430,12 @@
 			"3cdbb2ea-57c5-49e2-9301-2b97fc93f553",
 			"f0ffe85f-4e62-40d9-829f-198223e63312",
 			"7d5b350a-f994-4701-b553-24127bda167d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -474,6 +504,12 @@
 			"61dbbddb-219e-4ca2-ad24-93d4cf531a61",
 			"a2967c5b-6a34-4e65-a920-69c4349403ae",
 			"c8480230-30c4-41ee-b6ae-05474017cb77"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -589,6 +625,12 @@
 			"817013f5-3879-4a2b-923e-7407a228d63f",
 			"d43a99e2-d603-4cbf-aea1-35d195a885e8",
 			"2400b6e0-0642-4342-9195-649772864747"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -641,6 +683,12 @@
 			"aa0f77ff-be8d-44fc-9e53-5e552fde9686",
 			"cd9dbf90-a210-40c8-b6e2-63b2bca55427",
 			"2068e6fc-74b9-4322-a711-74977ba8ef92"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -697,6 +745,12 @@
 			"73929ab1-0253-4dfc-9580-3fc6194fd35c",
 			"6a116496-772a-4914-afa9-f1aa3444232e",
 			"a17d852d-48d7-4f00-b7ac-056201d2ba2c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -741,6 +795,12 @@
 			"366c9db6-99ad-4f90-9f06-9066ddcea72e",
 			"73b45940-98a7-467d-8c16-76c570376aaf",
 			"ec54c55f-918f-4ea6-9c3c-ed78897c96e9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -793,6 +853,12 @@
 			"ec98f359-60fd-4124-bd28-5102d7b8460f",
 			"3c1a9414-d16b-4008-9876-453cb9428cd0",
 			"df1c70d0-3ad3-4658-b6ea-73cbfc170e6a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c0f3b769-606e-488a-aeb1-405bf46df24a"
+			}
 		]
 	},
 	{
@@ -830,6 +896,12 @@
 			"015f39e5-9c3d-4019-a618-9f99860515fa",
 			"219bff27-7632-4b67-9125-a71bf705e41f",
 			"3b58c874-8fa3-41c9-aed1-d457de8cd0dd"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -856,6 +928,12 @@
 			"8c251563-c4b3-47ce-bb89-ba30b6c3f0ec",
 			"381be88d-8909-42b2-85df-92bede27d003",
 			"a6db0ff7-d755-4c05-be09-8fd39ff995b6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -903,6 +981,12 @@
 			"49a302f4-4e1b-42d5-8ef6-e363c9bea816",
 			"453964d7-7594-4593-9038-9e9fe89ec6b4",
 			"e3a3262f-6610-4a38-b5cc-a2f514f8874a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -931,6 +1015,12 @@
 			"3e7da5a2-b1fc-4d72-9234-d51ebe2ea366",
 			"b4c30ecb-2fdc-467a-933a-f29cd1e7d36d",
 			"e0414c21-ebef-4e5f-abce-224c2608e422"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -974,6 +1064,12 @@
 			"83170f77-2f37-4f89-90a7-a5b15872caf6",
 			"1385d83f-2c1b-4f6b-8332-3f102bc24bca",
 			"b65179b9-1207-42ef-9c95-39c302f63656"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1028,6 +1124,12 @@
 			"f084bcc8-125d-4775-b99b-6485136648e6",
 			"58926048-6227-476d-a2f5-a9b4fb2466b6",
 			"55a07626-7e13-4775-a890-2e2c29ff98f4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1063,6 +1165,12 @@
 			"0071d417-f855-4e9f-b10c-188928d83139",
 			"ec5f130d-eaeb-452d-84de-83fe86b29e56",
 			"0f76295b-7a87-4d46-9e26-f49d0772346d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1093,6 +1201,12 @@
 			"de80534c-d7ee-4757-962f-b9e2e373dabe",
 			"94be3c05-37c8-48a0-832b-460bb132e865",
 			"fb924693-f6ed-44ad-b9f2-0a5ed69806f5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1120,7 +1234,13 @@
 			"2af5035b-26e3-402f-a4d0-ac087e6d1a76",
 			"8cc54a86-1db1-4f93-b4fe-42e39b7fdb91"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
+		]
 	},
 	{
 		"id": "e75e604d-3040-443e-8450-7e03dfe916fe",
@@ -1170,6 +1290,12 @@
 			"e8b72dc2-5424-4edf-b624-9698ad84f288",
 			"faee856b-7014-4f3d-bdfc-30c9f9c6fcc1",
 			"33d8e509-b0c5-49c4-8d78-ac7bbba1edec"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1224,7 +1350,13 @@
 			"f772d19a-a44d-4b55-b120-1a2c198f1b14",
 			"1d25ed4f-adc9-415a-8b8f-f4feb15e17f1"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
+		]
 	},
 	{
 		"id": "e463d6a7-cd43-4d10-b9e2-7466158ab22e",
@@ -1257,6 +1389,12 @@
 			"545ea41d-ea4e-46d1-a8dc-adb718c94a49",
 			"2289a322-4fc1-46d7-acb2-fd1edfca92ff",
 			"ff708a3c-5683-4c1b-a492-fb3a87678399"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1303,6 +1441,12 @@
 			"af295e99-5203-4763-923d-581d0a336405",
 			"f79a9905-a459-481b-8a45-b8ec4d46cd9c",
 			"072d0992-a574-4707-8055-e9f8cdd92def"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			}
 		]
 	},
 	{
@@ -1316,6 +1460,12 @@
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"413e7f77-04e3-40dc-80d3-efec14875edd"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "182462b2-662f-42e5-8464-f9075afee3ba"
+			}
 		]
 	},
 	{
@@ -1332,6 +1482,12 @@
 			"1e510b1c-9666-4539-9755-6b45addfb678",
 			"94a82ef8-775c-44f2-b5bf-1000f9693547",
 			"34254e99-ec56-4dd9-b47b-78d88322a939"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "182462b2-662f-42e5-8464-f9075afee3ba"
+			}
 		]
 	},
 	{
@@ -1346,6 +1502,12 @@
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"af39c464-af48-4999-a3f7-211beec25171"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "182462b2-662f-42e5-8464-f9075afee3ba"
+			}
 		]
 	},
 	{
@@ -1360,6 +1522,12 @@
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"2f250582-1a35-44bd-afa5-42ff3a092774"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "182462b2-662f-42e5-8464-f9075afee3ba"
+			}
 		]
 	},
 	{
@@ -1370,6 +1538,12 @@
 		"doelniveau_id": [
 			"1192aa88-9c24-4aae-af64-cc1c80497aaf",
 			"453e77b6-b098-4157-b5a3-14fa5d7769e8"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1380,6 +1554,12 @@
 		"doelniveau_id": [
 			"9d4708c2-448a-4c18-9bb9-1f2f46bdde91",
 			"fa07bc45-1d72-4d91-b4ba-fbb59b971c89"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1390,6 +1570,12 @@
 		"doelniveau_id": [
 			"79e05024-06d2-4804-8cd1-3204bf18036c",
 			"51bd7884-5095-499d-ae76-7b6e3db95d7a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1400,6 +1586,12 @@
 		"doelniveau_id": [
 			"a04ca946-f53c-4348-bc15-3f5cf6c454b3",
 			"e2250ddf-8a52-4779-85ca-aa825fc95b3d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1410,6 +1602,12 @@
 		"doelniveau_id": [
 			"e47971cf-1b72-409e-8cbc-fa668267a790",
 			"caeace86-4d72-4906-b9ce-901515a091d9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1420,6 +1618,12 @@
 		"doelniveau_id": [
 			"7f509b03-da78-4160-be3c-df1f4fba0a4d",
 			"2b09ccb8-77ac-433c-b8e8-88baceb8c708"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1430,6 +1634,12 @@
 		"doelniveau_id": [
 			"c1c0c88e-ed41-40c4-b203-34be378a5f45",
 			"88da1ea4-962b-4bbc-9fed-3311a0f8f746"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1440,6 +1650,12 @@
 		"doelniveau_id": [
 			"2e75c944-5ad6-4820-9320-c865b51644f9",
 			"47f099c4-4a90-4c09-ab6f-4b112af3ca38"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+			}
 		]
 	},
 	{
@@ -1478,6 +1694,12 @@
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"d6076792-98bc-46db-8cfd-a7794e947602",
 			"8dca375b-606c-4dd6-876a-68ca16ee9d40"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc"
+			}
 		]
 	},
 	{
@@ -1503,6 +1725,12 @@
 			"674be362-8ad6-4447-b8b2-5e9bb230ac35",
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"4d952d08-ed76-498d-9838-dc284556261d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc"
+			}
 		]
 	},
 	{
@@ -1595,6 +1823,12 @@
 			"7fa10ff9-6643-4808-ac63-bc3339289877",
 			"68d3c5be-4912-489a-a189-6ae440d5111b",
 			"d4b62e5b-0532-4188-89b8-c2b721d8368c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc"
+			}
 		]
 	},
 	{
@@ -1616,6 +1850,12 @@
 			"a1b48015-9462-4dac-b5d8-6de493fd9f34",
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"2e499648-18dc-4c74-aeaf-4eb548b21526"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc"
+			}
 		]
 	},
 	{
@@ -1729,6 +1969,12 @@
 			"bdf85f2b-e8c5-406d-992f-d230c7d30eb1",
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -1793,6 +2039,12 @@
 			"cf99beb6-fb9f-4776-81e1-91b56107cdc1",
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -1837,6 +2089,12 @@
 			"ecd791e1-f442-4029-963b-0bb0cb7f12c2",
 			"51e061e1-33cb-465c-a061-7967b5e4e038",
 			"363c032f-14dd-46e5-9c3f-96726954f574"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -1882,6 +2140,12 @@
 			"3d16c981-abec-4040-9858-770540436d64",
 			"bc9b5138-998f-40df-adf5-35cbb6e71aa6",
 			"aef19865-433c-4d5c-aa69-bc6868bfb3fd"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2009,6 +2273,12 @@
 			"b3a32568-5d84-48e9-966c-0a76960c5116",
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2085,6 +2355,12 @@
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2110,6 +2386,12 @@
 			"904d5444-16fe-49a5-8226-bd18143104d6",
 			"736920c1-416f-48d3-b8a0-fc46e10aa376",
 			"7916e68d-13eb-4afd-9c50-de90b97da950"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2134,6 +2416,12 @@
 			"4d451960-2976-4334-8952-baf2689d9747",
 			"93f1eef5-e5f9-410f-b81d-ec9535aaf456",
 			"0ed5e60f-0c8c-44f0-ab3a-525054fd814c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2175,6 +2463,12 @@
 			"e44d8a5a-73a0-45cf-a3f7-cb240527b3c6",
 			"8d440ef2-6946-4284-893e-41f72bde5a27",
 			"43f15ad1-1e36-4581-b6f6-1eceed1c470f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2240,6 +2534,12 @@
 			"f3b08c9e-4748-4872-b656-7b70792e4d4d",
 			"6cf69141-2ace-43c2-b4ed-c9c72acd1605",
 			"ace227c0-9aef-43b9-b72b-34e7617ad681"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2274,6 +2574,12 @@
 			"ce5c1897-9242-4f42-822d-f2e0ab8d29ac",
 			"9d49610e-1af6-49e7-bf9a-8a905decafb8",
 			"7641b76e-240b-4525-8ddf-0519523a3ee1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2307,6 +2613,12 @@
 			"38d43b61-e489-4e14-83d2-c078c88d372b",
 			"77606aae-3f68-4829-ac3b-6916684eb907",
 			"c3a1a7b2-eafc-4255-8b96-5aca40b4d2e3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2325,6 +2637,12 @@
 			"bbc792ca-c1f3-4ef3-ae31-dbc90350cd5e",
 			"0c56364b-5688-4b70-8db4-6107b91d4772",
 			"24dcedae-98e3-4e2e-9394-6e607556eb36"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2421,6 +2739,12 @@
 			"15823c99-6179-4c7a-926c-b06017eadb2a",
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2462,6 +2786,12 @@
 			"ba046298-d5ed-450c-8d9d-9d4ffc52f797",
 			"7873d436-213d-4efd-94f8-a9e345285cfa",
 			"009f601a-1bc0-45bb-9038-affa4fc76143"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "41dd7292-3cce-411b-8097-11db8c875a89"
+			}
 		]
 	},
 	{
@@ -2525,6 +2855,12 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"dec6a11e-15a2-4d9d-bd3b-83c57c2da92f",
 			"7593543a-cbf1-4db9-83ff-4d53283960d6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2544,6 +2880,12 @@
 			"1ba54e4a-c3f1-4862-b43f-f800b5f0e7d2",
 			"e8fd066a-25a2-42e9-9ca2-f4c4e60ec9bd",
 			"6e2b7e24-d31d-47f0-9264-341f61f8dfa1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2555,6 +2897,12 @@
 			"8c8cb720-342c-4f38-bc00-9bcaab5891da",
 			"13286e52-c85f-4b7a-af3f-cda7d5548cdc",
 			"e2e375b2-c46c-43c4-8c2c-c445836c0b8b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2567,6 +2915,12 @@
 			"e1eb1ad3-6720-4943-9227-43dc845f4755",
 			"e579625e-9c45-4e92-819f-2034b6d0abc5",
 			"c112638c-4ea2-45da-a8af-d82154dfb6dd"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2577,6 +2931,12 @@
 		"vakinhoud_id": [
 			"e676a645-5dab-45cd-9119-c5d2450c3cca",
 			"970c3c67-d552-4204-b088-5b8f6ebc91da"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2589,6 +2949,12 @@
 			"e5c8db85-9edb-4fb0-8dca-0fd12ae29176",
 			"b744891e-b2b7-462e-aee8-4482e2023d99",
 			"a9315ada-6ce5-4c86-ae5e-448c009638e1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2621,6 +2987,12 @@
 			"f42f5529-aebb-4d10-96e8-559b5bc43fb6",
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
 			"d7115cea-37e8-46e1-b176-8cbd2e8cd26c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "26eb622d-6239-4f26-bdef-0c9662891285"
+			}
 		]
 	},
 	{
@@ -2632,6 +3004,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd"
+			}
 		]
 	},
 	{
@@ -2643,6 +3021,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd"
+			}
 		]
 	},
 	{
@@ -2654,6 +3038,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd"
+			}
 		]
 	},
 	{
@@ -2665,6 +3055,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd"
+			}
 		]
 	},
 	{
@@ -2674,6 +3070,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "a70b035e-2c79-4b7d-81de-03678354cdc1"
+			}
 		]
 	},
 	{
@@ -2684,6 +3086,12 @@
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "a70b035e-2c79-4b7d-81de-03678354cdc1"
+			}
 		]
 	},
 	{
@@ -2693,6 +3101,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3ba00477-6186-4b1b-a853-665e609f584c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "a70b035e-2c79-4b7d-81de-03678354cdc1"
+			}
 		]
 	},
 	{
@@ -2702,6 +3116,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "a70b035e-2c79-4b7d-81de-03678354cdc1"
+			}
 		]
 	},
 	{
@@ -2761,6 +3181,12 @@
 			"e3b0106d-2fc2-4f28-a9bd-60765c30c984",
 			"e3d98fa5-13ce-45bd-bed7-6ad5525961fb",
 			"2e009eb2-b573-45d5-a7a4-a1c6d5a45d11"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
@@ -2778,6 +3204,12 @@
 			"b1dc18bf-f682-4bfc-a5df-f8fdbad6e84e",
 			"b85804e2-6ed3-45c9-a5b8-e8acf3b55ead",
 			"8ab2a0f5-8b15-479e-9d88-8865819c3e7e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
@@ -2790,6 +3222,12 @@
 			"199b7b9e-fc96-4688-861d-e752aae67dcc",
 			"e3c8b6b0-93a4-41fc-9078-89b35695bdec",
 			"43eeb051-6146-4352-b275-c59c023476f2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
@@ -2801,6 +3239,12 @@
 			"0ba970c7-3f68-455f-a1e7-4277e27fd75a",
 			"9a78cd71-50f0-4c71-a5c6-28dc9fd60497",
 			"3e81c867-2ac9-4f2f-9129-7c1bbbbc7c2d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
@@ -2811,6 +3255,12 @@
 		"vakinhoud_id": [
 			"99d5afcc-97f5-43c4-af2c-d9f973892fa3",
 			"fa376787-1c49-46bc-b467-cf8bbb8a2770"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
@@ -2823,6 +3273,12 @@
 			"e99187ce-d8b4-45a5-8d08-0a825ced67c4",
 			"6d6c7d42-6cce-48bf-a58a-d553e9820772",
 			"74d19c86-384c-4146-9858-72c0d19042d5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
@@ -2855,12 +3311,18 @@
 			"7d3227c4-a1d5-4b34-9e77-b54566c9ff6b",
 			"955cf8d8-c4a7-4c27-a4c3-dfb6bfb57698",
 			"59b35693-f0a8-45e4-93b4-5bbef0f2a913"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+			}
 		]
 	},
 	{
 		"id": "2affa696-9540-4448-8897-683b28fcb493",
 		"unreleased": true,
-		"title": "Gesprekken voeren",
+		"title": "Gesprekken voeren (Duits)",
 		"vaksubkern_id": [
 			"1a587fce-a2cf-4162-8d56-3a2f47ef1ac2",
 			"edea9979-ad27-4f51-ad4b-8e54d346c6bc",
@@ -2875,12 +3337,13 @@
 			"f6cced08-cced-4eeb-a46d-a9fc27f5fdd8",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc",
 			"be75f136-c791-4d44-9c8a-1e14a325218d"
-		]
+		],
+		"dirty": 0
 	},
 	{
 		"id": "f1d8fa8b-0f94-4f3d-b059-ce9f1d14e73f",
 		"unreleased": true,
-		"title": "Kijken en luisteren",
+		"title": "Kijken en luisteren (Duits)",
 		"vaksubkern_id": [
 			"f2a05ea9-731c-4979-8082-673a07a1d9ef",
 			"66df8221-9d5a-4c8e-9f54-1ae7c1f03556",
@@ -2895,12 +3358,14 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"description": "",
+		"dirty": 0
 	},
 	{
 		"id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
 		"unreleased": true,
-		"title": "Lezen",
+		"title": "Lezen(Duits)",
 		"vaksubkern_id": [
 			"cd4cd8e4-b417-4ab6-bbd1-6407cb85c39b",
 			"8cedfe42-5884-4299-9f02-c93a22e4a367",
@@ -2918,12 +3383,13 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"dirty": 0
 	},
 	{
 		"id": "201fe4a2-9c23-40e9-b4a2-44ae070b513f",
 		"unreleased": true,
-		"title": "Schrijven",
+		"title": "Schrijven (Duits)",
 		"vaksubkern_id": [
 			"f79af863-b536-4af8-8041-a052489a470b",
 			"48770b09-8825-4c13-a2d0-96016b96540d",
@@ -2938,12 +3404,13 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"dirty": 0
 	},
 	{
 		"id": "33f70664-17d2-40d4-b85a-52c6ea16d19d",
 		"unreleased": true,
-		"title": "Spreken",
+		"title": "Spreken (Duits)",
 		"vaksubkern_id": [
 			"2841f5fa-109c-4542-a73f-430de655418e",
 			"a54d0ea4-a052-4fa7-bee7-f7fa8cbd89b3"
@@ -2963,7 +3430,8 @@
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
-		]
+		],
+		"dirty": 0
 	},
 	{
 		"id": "87d62f23-1d59-4823-a4d7-e9bd034eaa3f",
@@ -3006,6 +3474,12 @@
 			"3d5ab5c5-7f3f-4a39-8926-1a79fb785051",
 			"8a538832-e02c-4c86-a552-b65408e06a22",
 			"96dff1e1-177e-4d25-ba23-b19b08c025cd"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3019,6 +3493,12 @@
 		"vakinhoud_id": [
 			"615b675b-d080-4fd9-afb6-86d99950f030",
 			"a26f6daa-4546-41bc-99fd-cbc816bf4bdb"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3099,6 +3579,12 @@
 			"75c64ea6-b2be-432a-bb8c-e1e4ddd6ac77",
 			"943debb9-8efb-4746-b731-66dd92be4520",
 			"e1be5162-17e2-4491-914a-a5ccb915188f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3133,6 +3619,12 @@
 			"08439de1-427b-4deb-aad4-8f3c3308d991",
 			"3fcf2a43-e1f1-47ef-9a0c-9a8fb34eca8a",
 			"81cfa1bb-5e8b-4da3-97b2-aeb403673b04"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3163,6 +3655,12 @@
 			"382115ac-8791-4b5d-9222-259ab674c390",
 			"697e4fdf-dc0c-4c0b-830b-ba7b68bb7aca",
 			"f99eb7da-321f-43e4-b767-fa1afae1ccc4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3189,6 +3687,12 @@
 			"df9a3339-1b57-48e9-8c89-227bd7900ae9",
 			"8f1b1e31-57e7-410e-800c-5abd47e685ee",
 			"d8e64651-a8cf-491c-99bb-d7cd421565a4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3244,6 +3748,12 @@
 			"3d10b5a9-8528-4fa6-85b7-cb55966cda3e",
 			"8be2b677-4026-4ef5-a257-ee5b611ffa5f",
 			"0d0d68d5-cdd8-49de-b8d1-e20545e2ee07"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3263,6 +3773,12 @@
 			"86ac9e87-6ea8-454e-8804-7485e6f1ee9c",
 			"6e34e4d3-ede0-4193-9e4c-7cee6456edf0",
 			"d120715f-c717-4b66-87a8-3d0e4faacfe8"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3296,6 +3812,12 @@
 			"a3dc3c50-4ef2-45b0-b06f-c061c82e1968",
 			"97595953-ed65-4157-b030-e95a93821cbd",
 			"bbdd8ee5-55d7-4b0f-a20c-435cd65f1225"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3333,6 +3855,12 @@
 			"3b88ec50-a988-4fee-a8c8-5d54320fa749",
 			"08015415-0e31-49fb-a91c-d5a15144531a",
 			"20a09c14-b771-48ee-a5fb-590ab3d6f1de"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3365,6 +3893,12 @@
 			"89588dbd-164c-4f86-9270-1d2170eac45e",
 			"4093bbe3-0c09-442a-b2d9-f7efc73d5030",
 			"141f80fe-5076-4b60-8819-7b4378583ec9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3398,6 +3932,12 @@
 			"68df4d7a-7e63-4f28-bc80-e9b12a6a2b63",
 			"ae6d2fd2-bd2e-46f2-ae7c-2c5f9ffd309f",
 			"3768913f-6697-4ca0-af97-f1cdb3289d47"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3429,6 +3969,12 @@
 			"6fcfbdbc-fcae-44a7-b0b1-e43de9e25434",
 			"a7e89bac-e513-4e4e-a755-55ac6bf3c429",
 			"fd2a4aa6-d8ca-44cc-9805-98d18874d3ab"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3447,6 +3993,12 @@
 			"de141a28-f791-4392-ba94-c30d35cb13e6",
 			"8c657f06-0cc0-42d5-9fba-7692039c17b3",
 			"703a6c1b-f91e-4212-ad01-7e6fc859d580"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3457,6 +4009,12 @@
 		"doelniveau_id": [
 			"48cc0005-27bd-4609-ba7c-6802665c80de",
 			"ebfba243-cc62-4363-b9a3-4e60ec152c4c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3469,6 +4027,12 @@
 			"8ea6508d-49b8-4d43-a587-faef7e657938",
 			"ecffcde0-a939-4721-bc66-6723c494b735",
 			"21172672-ac20-4731-a862-f2ec8dd9b3ff"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3495,6 +4059,12 @@
 			"a761b345-f315-450a-a0d3-e3f9baa07e61",
 			"980961ee-ed05-41f3-8a33-1a01d0627181",
 			"2290daea-a710-4fea-9090-2d5364554e91"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8755f202-3f28-405d-929e-990ee4fdc521"
+			}
 		]
 	},
 	{
@@ -3554,6 +4124,12 @@
 			"4ac237ce-5a4f-4777-b8b2-f14117630c00",
 			"1533ef39-f27a-43ff-87cd-6b2ee3e58895",
 			"95f1934e-10c8-470e-8d35-12c46ec80c66"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
@@ -3571,6 +4147,12 @@
 			"71728d1a-dea8-42cf-9ddc-7fb8aef2cb59",
 			"251a36d6-5e98-47f0-baad-6f92a70d6cd5",
 			"3e19edee-b4d4-4679-a96c-556fcfa50649"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
@@ -3581,6 +4163,12 @@
 		"vakinhoud_id": [
 			"d2e97444-c6d7-4cb4-b153-0d9f3708cf4d",
 			"78f056f7-6d3e-40cc-9c97-31d4b62455f6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
@@ -3591,6 +4179,12 @@
 		"vakinhoud_id": [
 			"4a2d76c7-cedf-41af-86c5-a396dc41d715",
 			"a2ee0016-cb26-46ba-b086-3f4b41a12f80"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
@@ -3602,6 +4196,12 @@
 			"a27289b9-2c4a-44fe-9034-b54c53abe365",
 			"c17b67c0-4828-46e9-b5a8-debfeb62f442",
 			"b6f076ee-0001-40e0-9ef7-63cf6fc105ac"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
@@ -3612,6 +4212,12 @@
 		"vakinhoud_id": [
 			"e34550fd-52fc-45cf-acd2-8df46e1714aa",
 			"23cb1887-1141-4ab3-bba0-3c4fbf0ba4d0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
@@ -3641,12 +4247,18 @@
 			"d0b30207-6799-4fdc-93b0-a0a4b7f37302",
 			"d313d395-499d-44ad-8b80-5023f1ea037e",
 			"b07e19a0-18ed-422d-acfe-3574988ff0ca"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "18126dde-b79b-4231-826d-b902a6fa70db"
+			}
 		]
 	},
 	{
 		"id": "7427a6d7-678b-4dc4-a977-618c81072e85",
 		"unreleased": true,
-		"title": "Gesprekken voeren",
+		"title": "Gesprekken voeren (Engels)",
 		"vaksubkern_id": [
 			"557e5213-d1bb-4354-a887-6c5207396c2d",
 			"2a346ae5-2876-4621-94a4-c533c6ced7b8",
@@ -3671,12 +4283,13 @@
 			"6da60ff5-ed47-4629-8463-1c97f957f039",
 			"a7a850c4-d1d1-45a1-acb9-e31e5aec2671",
 			"981d576f-5250-4b31-ae38-8677cd4fdec2"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
 		"unreleased": true,
-		"title": "Kijken en luisteren",
+		"title": "Kijken en luisteren (Engels)",
 		"vaksubkern_id": [
 			"0c4fce66-c34f-4190-9556-97a4d0b1f30f",
 			"169e9f5d-5a74-4706-9ba9-ab4f1e87d8ab",
@@ -3703,12 +4316,13 @@
 			"8085a148-b7b3-46cf-a3ab-156982672c1e",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "256fbcbc-cc70-4694-a216-974abdeb6063",
 		"unreleased": true,
-		"title": "Lezen",
+		"title": "Lezen (Engels)",
 		"vaksubkern_id": [
 			"453fff53-87b7-4521-97cf-a6d5467b9a12",
 			"fc5ba67b-81a3-4a8c-99b6-5b980866ab99",
@@ -3748,7 +4362,8 @@
 			"7fe8d5b6-bb89-433e-8a84-fe4722554025",
 			"d982e735-82b0-4db7-b438-2d2272489f46",
 			"8085a148-b7b3-46cf-a3ab-156982672c1e"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9bf68d75-4270-47ee-8aa2-0087defd1767",
@@ -3776,6 +4391,12 @@
 			"f7a80859-56ac-40c2-a4b8-7fff127f9ede",
 			"207afd8c-682b-4f2a-9826-305ed49a7419",
 			"ccf0e418-70f7-4827-a41e-be49d59abfe9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2"
+			}
 		]
 	},
 	{
@@ -3806,12 +4427,18 @@
 			"981d576f-5250-4b31-ae38-8677cd4fdec2",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2"
+			}
 		]
 	},
 	{
 		"id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
 		"unreleased": true,
-		"title": "Spreken",
+		"title": "Spreken (Engels)",
 		"vaksubkern_id": [
 			"8a5b1637-52ee-4851-9f74-f1c19793369e",
 			"6dc0f5eb-2463-4634-a61a-9610e98113f7",
@@ -3835,7 +4462,9 @@
 			"981d576f-5250-4b31-ae38-8677cd4fdec2",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
-		]
+		],
+		"description": "",
+		"dirty": 0
 	},
 	{
 		"id": "826d3765-668f-4759-a470-a4bf0f475f71",
@@ -3845,6 +4474,12 @@
 		"doelniveau_id": [
 			"be1baadd-635b-4a33-94a0-4cbd8ea8829b",
 			"a80c2e1d-f7ea-44bc-b459-27593c015b8d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "15292864-cba8-4af5-90ef-da51cb2d22e1"
+			}
 		]
 	},
 	{
@@ -3855,6 +4490,12 @@
 		"doelniveau_id": [
 			"4cb85573-4de1-41f2-9993-87f1c7a7622f",
 			"b875e606-fc43-4db2-8a3e-757cd09094ba"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "15292864-cba8-4af5-90ef-da51cb2d22e1"
+			}
 		]
 	},
 	{
@@ -3865,6 +4506,12 @@
 		"doelniveau_id": [
 			"e0bc0141-9e1c-4536-9f1a-ee9e31fef1e5",
 			"a4d975b3-4f29-4b89-837b-8461cf1e63a3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "15292864-cba8-4af5-90ef-da51cb2d22e1"
+			}
 		]
 	},
 	{
@@ -3875,6 +4522,12 @@
 		"doelniveau_id": [
 			"bd5c422b-e6de-4b79-bd67-54bfd8c22127",
 			"39aea961-685a-46df-970c-b84338895eaf"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "15292864-cba8-4af5-90ef-da51cb2d22e1"
+			}
 		]
 	},
 	{
@@ -3884,6 +4537,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9b7505d0-84f5-4256-8566-df3b6239be45"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "15292864-cba8-4af5-90ef-da51cb2d22e1"
+			}
 		]
 	},
 	{
@@ -3904,6 +4563,12 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f851676e-b541-42db-986a-5c468974f65e"
+			}
 		]
 	},
 	{
@@ -3924,6 +4589,12 @@
 			"03844aec-098d-475d-b0ab-39292a501a03",
 			"f99dd6d2-d5e3-407d-a331-16bce33e4f44",
 			"b5dbdc02-9724-4fa9-9a24-b6659beda640"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f851676e-b541-42db-986a-5c468974f65e"
+			}
 		]
 	},
 	{
@@ -3947,6 +4618,12 @@
 			"8d304405-dfd8-48fa-b4ff-9f9ebbb93e5b",
 			"fa6969ec-a84c-4620-b825-31cfa058eec5",
 			"c79e89d3-8453-4c95-a223-7a4ebaf3ff38"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f851676e-b541-42db-986a-5c468974f65e"
+			}
 		]
 	},
 	{
@@ -3967,12 +4644,18 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f851676e-b541-42db-986a-5c468974f65e"
+			}
 		]
 	},
 	{
 		"id": "17bd7545-5834-4d39-be2f-58f8363639de",
 		"unreleased": true,
-		"title": "Spreken",
+		"title": "Spreken(Frans)",
 		"vaksubkern_id": [
 			"cc64b990-ce63-458e-abe9-850ba8eed6fd",
 			"79f91f68-1629-4a36-ba2b-c8cc3f28ae03"
@@ -3992,7 +4675,9 @@
 			"f6cced08-cced-4eeb-a46d-a9fc27f5fdd8",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc",
 			"be75f136-c791-4d44-9c8a-1e14a325218d"
-		]
+		],
+		"description": "",
+		"dirty": 0
 	},
 	{
 		"id": "1724a10d-1152-4317-b261-ab69b6d23df0",
@@ -4117,6 +4802,12 @@
 			"1e4bcbba-55d2-4d73-bcf5-6271cd2b769a",
 			"b416f1f1-dcdf-41dd-9ed7-9d1ff3b549a0",
 			"ffcec2ff-78ef-444b-8dbd-3ea93d94725f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "58fe0010-9685-4dae-ba70-2e47d94ad844"
+			}
 		]
 	},
 	{
@@ -4129,6 +4820,12 @@
 		"vakinhoud_id": [
 			"740e0d58-1cdb-436e-877f-1d4eed0b4ebd",
 			"b505f5f7-2e1e-4adc-94db-28fe6b23353b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4201,6 +4898,12 @@
 			"a451d223-a28e-4881-94fd-f60727baf854",
 			"faba5d0c-0452-4014-a76c-63fae00cd511",
 			"f3f94833-c4f2-4f6d-916a-1d4952868ddf"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4262,6 +4965,12 @@
 			"46877813-1a92-4687-b0c3-68857e98a654",
 			"2a4be5ed-a7a2-435f-a6fe-896989708dfd",
 			"f13b014e-f0b9-44ab-a351-527c07dd15d9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4281,6 +4990,12 @@
 			"7c2865e9-6984-41c2-b584-6a250b25c2ce",
 			"1953df3a-b8aa-4f98-97a4-693c5629ff26",
 			"972c93a7-facc-4a84-92ea-dbdea4d826c3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4313,6 +5028,12 @@
 			"b1d1f2e5-d742-4020-8383-2fc31e4ff019",
 			"c7946242-c485-4c77-bbc0-b487ee546bd2",
 			"a3320d6a-7b61-4b6a-aea0-9774a69fa986"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4328,6 +5049,12 @@
 			"0b2ce756-3968-4771-9bd5-5f5b060cf7c7",
 			"6747b7bc-6a6e-4055-b429-8d8966b5cc37",
 			"d6a1f31f-e085-45b7-ac59-283f45d80380"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4355,6 +5082,12 @@
 			"759751b1-d509-4636-b947-7aa678457b3b",
 			"5201bb0f-2383-44f2-95f1-7a343cec4664",
 			"ab0b5dac-5eba-4114-8224-5f695e400c17"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4377,6 +5110,12 @@
 			"aee7bcd3-dbe6-4bf7-884c-cd4097dce547",
 			"4c092b6f-e1c0-4edb-a3be-1abf4774e991",
 			"a4408090-deb2-42d1-b394-e415114cd64a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4392,6 +5131,12 @@
 			"931a9148-bc6f-486e-871e-862044125097",
 			"e89cdf6e-2356-4b6f-aaca-bbfe1aaf1915",
 			"5e2c24e1-c962-4d83-a741-69c8dca4a50f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4399,7 +5144,13 @@
 		"unreleased": true,
 		"title": "Monniken en Ridders",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
+		]
 	},
 	{
 		"id": "98c50995-986f-4e92-8eb6-20ed2fe6eb76",
@@ -4430,7 +5181,13 @@
 			"c23c2435-e962-4aa9-8f02-71bd9bfd4062",
 			"de2e1c07-aea4-4bdf-bddc-7fc771249903"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
+		]
 	},
 	{
 		"id": "8468158a-c55d-47a0-95d0-94f3cd0b67ac",
@@ -4452,6 +5209,12 @@
 			"20242c65-8efd-474d-ac1b-227a6547d392",
 			"1cd086e4-7cf9-43d8-8c47-97bfd6f0ca66",
 			"a253a716-d2fb-461b-a15e-9432282cd254"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4491,6 +5254,12 @@
 			"cbdb41b4-e00a-453c-aba6-3472763e1854",
 			"9bf55c23-1aba-4b59-ad5f-feef0ba2cb52",
 			"879c3982-1b19-42c2-8a1f-c4ed9fb8b68d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4524,6 +5293,12 @@
 		"doelniveau_id": [
 			"b87daee5-344e-4f92-abfd-16e3de743eac",
 			"255a77e1-eae7-4f51-b084-377f2af06241"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4557,6 +5332,12 @@
 			"6f70d7d0-abfd-4ec6-94d3-d3a4e317fc04",
 			"92eef062-6a91-4dbd-aa44-3f0fd8fddb9d",
 			"d949726e-f036-4a4f-bf53-9838e319f462"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4589,6 +5370,12 @@
 			"792ca9c0-c21e-4757-8d5d-55cae29f43a7",
 			"5ed00868-5368-4ddc-9683-6ad8613b49da",
 			"dc58c2d2-e116-4cd8-9210-089a3c81fc6b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4670,6 +5457,12 @@
 			"9c22174e-c277-4b75-8084-073e47e5a1cf",
 			"1ad3bdd8-5ba3-4249-9e71-d83d3901fcf3",
 			"59637327-3526-4c14-bfe6-d32e237345d6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4715,6 +5508,12 @@
 		"doelniveau_id": [
 			"a922554b-4370-43da-ba3e-e51aba4eece6",
 			"553af5a5-f874-4486-864d-32ce11424707"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "1c445505-16f2-4d3f-b6cf-8623ca317140"
+			}
 		]
 	},
 	{
@@ -4734,6 +5533,12 @@
 			"8ba658e1-2737-4729-a9c5-8c0e728af013",
 			"a9a7386a-611f-4828-8283-e1875342c224",
 			"f17bfefa-f7f0-4118-8d06-6ad292ad5cfe"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4757,6 +5562,12 @@
 			"5d3bef6f-ba9d-4051-a2ab-682dc467f7f5",
 			"38106ec1-9747-4ca3-a5c4-64f7db3d43e4",
 			"054c0f17-7f41-42e5-8187-7f1b86c36881"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4788,6 +5599,12 @@
 			"5d63ade6-3ed0-4ffd-aea8-93ab2a3f6082",
 			"667651b2-db33-4da9-87f6-acfc6c4bbbca",
 			"6dbac3d7-48ac-4992-824c-9674ae31efb6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4806,6 +5623,12 @@
 			"4588de57-5d32-47f9-9ab3-538cd7e075be",
 			"fb94c373-5d2f-4f6c-a6db-37a039407edc",
 			"7849e35c-7d21-4e4e-a6fa-71ee26c5998b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4828,6 +5651,12 @@
 			"f6901cae-3fa3-4834-a7ce-3c01d0de6233",
 			"31e1c211-dd00-4979-9740-c82c2c8e163b",
 			"b27fd6bf-010a-43ef-afe3-20532ef907c9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4853,6 +5682,12 @@
 			"f8099582-5e3c-4b53-b07e-f385ed12894f",
 			"2a96d4c5-9d31-4700-8f54-d61e19535c38",
 			"4aaa45bd-76ca-44d7-8618-569cf61c8b97"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4876,6 +5711,12 @@
 			"f8099582-5e3c-4b53-b07e-f385ed12894f",
 			"2a96d4c5-9d31-4700-8f54-d61e19535c38",
 			"48bf1c5e-03ea-48c3-8595-c9c9d2cdc0c5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4900,6 +5741,12 @@
 			"8be4f780-b286-4cbe-aca4-3caea3a6e5f3",
 			"7408c4fa-ba71-46a8-86f3-35abec2c57e0",
 			"433a6e9e-3009-4cc3-b448-4e1e157dd506"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4924,6 +5771,12 @@
 			"e6dc52a4-d101-4f22-8a55-c7f001ddf604",
 			"88b4b40b-fc3a-4615-81e5-cd39821dd0d5",
 			"099fe1ab-b28a-4091-932a-ac4b5e71b981"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "797f5fdf-8e35-43e9-b290-772c84f1761e"
+			}
 		]
 	},
 	{
@@ -4989,6 +5842,12 @@
 			"ee6b1624-217a-4f18-ab4d-7cf2706d5f63",
 			"66de6311-326a-46ce-a15d-d887e25add97",
 			"2011d718-2a9c-4dee-958b-8f651a025f8d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5006,6 +5865,12 @@
 			"cc9afedd-d495-4f76-b5d9-9a1593ec260c",
 			"9dde51bc-fc8d-42b2-a196-56d88bad12f3",
 			"51d647a6-2955-462c-ae44-65d41af67eb7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5017,6 +5882,12 @@
 			"fef14f9b-e581-4fb9-8c7b-f18a903e281b",
 			"e08cd29b-68f8-4e8b-b414-6ad1149bede5",
 			"cfa7f5fc-431b-4c08-8653-0b96f1983749"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5028,6 +5899,12 @@
 			"ed54af4e-3b32-4d5e-a0bd-ebc74d7d34dd",
 			"110dff33-78a6-4d71-b2a3-c311ba0bcc95",
 			"5f8dbc86-f675-45fc-b7dc-02d1d459326b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5040,6 +5917,12 @@
 			"7ca71086-5b54-45f0-8774-615d3296661c",
 			"41b7c8c4-9675-4721-bfe7-a8918e5d894c",
 			"a21c24b1-6c7e-41df-a1f5-083ee2315f34"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5051,6 +5934,12 @@
 			"df634203-7b91-4874-9849-3cfc80f2cd47",
 			"7e5baa05-ceaf-48f2-b951-ef1e8b0cd353",
 			"ce772fee-ed5d-4282-939f-acdc1f7d7c98"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5086,6 +5975,12 @@
 			"b269afb9-0e14-4267-880e-4b6eb0ee431f",
 			"f4c1e426-7303-413d-b6e4-90875cfd4dc2",
 			"c3a1ddeb-5fa0-418f-9358-9fea5d72be7a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f"
+			}
 		]
 	},
 	{
@@ -5145,6 +6040,12 @@
 			"835fb42a-76dc-4c12-9128-8a5a3a709c2d",
 			"4af0f9d4-340d-42b7-b70c-b40b7533c6ad",
 			"e39f59de-c2bf-4664-b039-324badafd2c4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5162,6 +6063,12 @@
 			"8b5b873b-3879-43a8-ae38-7f457a9ddd25",
 			"352a85fb-4d7d-479a-a930-3bce47b8c11b",
 			"38d8b09b-e178-44db-b3fc-b71e1372010f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5174,6 +6081,12 @@
 			"f08f5a02-f8ab-4150-8ae3-6ba77e423465",
 			"639b5d7d-9258-4e27-a6ab-dd49694aa991",
 			"dbe81455-8351-485f-a7cf-0f7025ef868c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5184,6 +6097,12 @@
 		"vakinhoud_id": [
 			"98ecb36f-c072-4e57-a56f-1b3a3e83b230",
 			"7838a534-44e0-4f66-bf03-893b2fc404b0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5194,6 +6113,12 @@
 		"vakinhoud_id": [
 			"18939798-18d2-457e-9f0c-3dd65c8f2d3e",
 			"5fa59fc9-e961-43a2-a86e-4cd189217273"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5203,6 +6128,12 @@
 		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4126fa11-6f91-4a49-a78e-a0899fa3f340"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5244,6 +6175,12 @@
 			"6b4b3185-0023-4e38-a1eb-bcbdbaa07daf",
 			"b3b4eb9e-aa8e-4f56-9394-1cbc03e8f60e",
 			"1ba3840c-b9b2-4889-8c92-cc8a13825fe3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "430c341c-d861-4076-bbce-b8adcda81555"
+			}
 		]
 	},
 	{
@@ -5273,6 +6210,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e"
+			}
 		]
 	},
 	{
@@ -5327,6 +6270,12 @@
 			"25a97587-a371-4252-8480-b18a9dd2d976",
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e"
+			}
 		]
 	},
 	{
@@ -5383,6 +6332,12 @@
 			"f93f50b5-1885-4e4b-a0c7-3bfa6621932e",
 			"c919cffb-5913-45b1-b154-23b4e3177368",
 			"3ba00477-6186-4b1b-a853-665e609f584c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e"
+			}
 		]
 	},
 	{
@@ -5433,6 +6388,12 @@
 			"7320649e-bc8b-478f-9325-5aa4a1ef0813",
 			"bf449211-c6b4-408d-8756-af91a4ec02a9",
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e"
+			}
 		]
 	},
 	{
@@ -5447,6 +6408,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			}
 		]
 	},
 	{
@@ -5464,6 +6431,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			}
 		]
 	},
 	{
@@ -5479,6 +6452,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			}
 		]
 	},
 	{
@@ -5496,6 +6475,12 @@
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68",
 			"3b33f09a-a276-46c9-8ae2-faaab73a8405"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			}
 		]
 	},
 	{
@@ -5507,6 +6492,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "fbf18b56-2d01-4fc0-975d-af7122af4052"
+			}
 		]
 	},
 	{
@@ -5518,6 +6509,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "fbf18b56-2d01-4fc0-975d-af7122af4052"
+			}
 		]
 	},
 	{
@@ -5529,6 +6526,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "fbf18b56-2d01-4fc0-975d-af7122af4052"
+			}
 		]
 	},
 	{
@@ -5540,6 +6543,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "fbf18b56-2d01-4fc0-975d-af7122af4052"
+			}
 		]
 	},
 	{
@@ -5551,6 +6560,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb"
+			}
 		]
 	},
 	{
@@ -5562,6 +6577,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb"
+			}
 		]
 	},
 	{
@@ -5573,6 +6594,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb"
+			}
 		]
 	},
 	{
@@ -5584,6 +6611,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb"
+			}
 		]
 	},
 	{
@@ -5598,6 +6631,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa9da88c-189f-4857-b067-7cbdc929c905"
+			}
 		]
 	},
 	{
@@ -5615,6 +6654,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa9da88c-189f-4857-b067-7cbdc929c905"
+			}
 		]
 	},
 	{
@@ -5630,6 +6675,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa9da88c-189f-4857-b067-7cbdc929c905"
+			}
 		]
 	},
 	{
@@ -5637,7 +6688,13 @@
 		"unreleased": true,
 		"title": "Producren en presenteren",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa9da88c-189f-4857-b067-7cbdc929c905"
+			}
+		]
 	},
 	{
 		"id": "12d774dd-f581-4fe5-885c-10c585f3547e",
@@ -5653,6 +6710,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa9da88c-189f-4857-b067-7cbdc929c905"
+			}
 		]
 	},
 	{
@@ -5664,6 +6727,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
+			}
 		]
 	},
 	{
@@ -5675,6 +6744,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
+			}
 		]
 	},
 	{
@@ -5686,6 +6761,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
+			}
 		]
 	},
 	{
@@ -5697,6 +6778,12 @@
 		],
 		"vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
+			}
 		]
 	},
 	{
@@ -5718,6 +6805,12 @@
 			"a2b5f26f-87dc-4f62-beb3-9e3622cbd898",
 			"00b9c351-f701-400e-8877-7d1d8e140042",
 			"f2aa881f-0448-4e7e-9b68-aa22f125c66b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5743,6 +6836,12 @@
 			"312b4449-3e88-46e1-963b-85b7e5f07e77",
 			"589c405d-6ae1-46c3-96ac-92c08f8e9fd6",
 			"4fbf01c9-8473-4308-8ea5-f598baafde7e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5777,6 +6876,12 @@
 			"81b04ab1-e5c8-4119-8525-190ff5bb905d",
 			"b22c4298-3173-4ac3-9679-c52e3b88969d",
 			"02d250cf-56b6-4dab-94f0-956ac56bfa36"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5799,6 +6904,12 @@
 			"310d8355-bada-4a47-9e34-5ccf7f3bc723",
 			"4588de57-5d32-47f9-9ab3-538cd7e075be",
 			"b0e47a7a-ba3b-43b0-aa5e-f6c9f454b6c0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5820,6 +6931,12 @@
 			"879a5b6b-9e73-4ad3-968b-b168474208a3",
 			"d9d493c8-d463-4f33-a4f4-096c392c3b3f",
 			"4d0805e5-1144-4c7b-95ab-a1d638ed4c0b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5855,6 +6972,12 @@
 			"3cac5f27-1f94-4aa7-9782-3a066f9222fb",
 			"350f8cb1-0f93-44bc-9159-7e37d169752a",
 			"3472e92f-0ded-4fd0-b636-d91371fefed2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5881,6 +7004,12 @@
 			"6567dbee-d7b3-4355-b1e4-e98d681d8014",
 			"433a6e9e-3009-4cc3-b448-4e1e157dd506",
 			"02d80e97-e69f-4e48-bec8-abd777dc9ab5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5906,6 +7035,12 @@
 			"31ec8574-9108-41f7-aa9c-be5bdd80f791",
 			"099fe1ab-b28a-4091-932a-ac4b5e71b981",
 			"623d0ba8-052a-454b-ba56-0d6d4ff09491"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+			}
 		]
 	},
 	{
@@ -5916,6 +7051,12 @@
 		"doelniveau_id": [
 			"714bd234-e7c9-485c-bdb2-da9722be4e6c",
 			"5a71abab-f06c-445a-919b-55e11d362fbb"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b4459aa1-0dbb-409d-a675-8ca914234028"
+			}
 		]
 	},
 	{
@@ -5928,6 +7069,12 @@
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"5cd59819-d34b-4cbe-b2ee-a9b1e86daf9a",
 			"a16c65cd-5144-40a1-8e04-246e2a47933c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b4459aa1-0dbb-409d-a675-8ca914234028"
+			}
 		]
 	},
 	{
@@ -5939,6 +7086,12 @@
 			"364ad223-5c1a-4fe4-ac96-1ade66aa94ab",
 			"59b7f8fd-e072-4478-b8d8-487a966874a4",
 			"08913719-88de-4a98-aedb-5314cdf7d6ca"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b4459aa1-0dbb-409d-a675-8ca914234028"
+			}
 		]
 	},
 	{
@@ -5953,6 +7106,12 @@
 			"42c8640f-544a-42df-b5a6-5c8f7f33cd72",
 			"59b7f8fd-e072-4478-b8d8-487a966874a4",
 			"08913719-88de-4a98-aedb-5314cdf7d6ca"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b4459aa1-0dbb-409d-a675-8ca914234028"
+			}
 		]
 	},
 	{
@@ -5967,6 +7126,12 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"637e9b8d-ac19-4230-92ed-11bc769b0a15",
 			"82ba0f9a-d80c-497b-850c-f80aaf328bc0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b4459aa1-0dbb-409d-a675-8ca914234028"
+			}
 		]
 	},
 	{
@@ -5978,6 +7143,12 @@
 			"dfde8138-1629-4202-b99c-6b4b3cc68cd2",
 			"dc54666c-85ca-480c-9c0a-02b0a2b563c9",
 			"abcc8a48-0cbc-4dc8-911c-19107f97540e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c960fcb7-2c47-4822-88a3-68822f031c40"
+			}
 		]
 	},
 	{
@@ -5993,6 +7164,12 @@
 			"ee32b616-8cf7-405d-aab6-97e236059ce5",
 			"dc54666c-85ca-480c-9c0a-02b0a2b563c9",
 			"abcc8a48-0cbc-4dc8-911c-19107f97540e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c960fcb7-2c47-4822-88a3-68822f031c40"
+			}
 		]
 	},
 	{
@@ -6006,6 +7183,12 @@
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"5f57937f-f35c-4e22-9aca-75ce503cfa52",
 			"8a69f714-45a0-479f-889d-bd54b146ea71"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ef5159b3-ead9-4a86-9324-e80cd867856c"
+			}
 		]
 	},
 	{
@@ -6022,6 +7205,12 @@
 			"181d6a82-d59d-4e36-a5c7-f7a0e47b991a",
 			"8faca8a9-1fb3-481f-9aaf-88c1437bfa71",
 			"46188e29-5158-4dfb-a3d6-c8f9a1764dc0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c960fcb7-2c47-4822-88a3-68822f031c40"
+			}
 		]
 	},
 	{
@@ -6038,6 +7227,12 @@
 			"2d42b458-093a-4be8-8ad0-bbc25054421a",
 			"ff10d637-6645-48b4-b97a-6c64d985ebdf",
 			"4e56cb7b-42b6-466d-a7a6-456284659c45"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ef5159b3-ead9-4a86-9324-e80cd867856c"
+			}
 		]
 	},
 	{
@@ -6052,6 +7247,12 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"8faca8a9-1fb3-481f-9aaf-88c1437bfa71",
 			"46188e29-5158-4dfb-a3d6-c8f9a1764dc0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "c960fcb7-2c47-4822-88a3-68822f031c40"
+			}
 		]
 	},
 	{
@@ -6066,6 +7267,12 @@
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc",
 			"cb5e9eb2-154d-4bd2-a4fc-36c2f19983a4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ef5159b3-ead9-4a86-9324-e80cd867856c"
+			}
 		]
 	},
 	{
@@ -6076,6 +7283,12 @@
 		"doelniveau_id": [
 			"d10189b4-3c52-41f8-8082-dc52585022a4",
 			"c37c2c49-cea2-41b4-ab21-b482b0eb4d31"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			}
 		]
 	},
 	{
@@ -6089,6 +7302,12 @@
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"5f57937f-f35c-4e22-9aca-75ce503cfa52"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			}
 		]
 	},
 	{
@@ -6102,6 +7321,12 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"5bbaceaa-d7a1-4de8-b08f-3a8ff9cfe1aa"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			}
 		]
 	},
 	{
@@ -6113,6 +7338,12 @@
 			"7fd7ced4-a23c-4307-b512-b12d94d95db3",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc",
 			"351c2901-013e-4d58-b59a-dc9b49c4a4b4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			}
 		]
 	},
 	{
@@ -6127,6 +7358,12 @@
 			"a036b03f-03af-4d0d-8255-2922914df267",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a",
 			"ff10d637-6645-48b4-b97a-6c64d985ebdf"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			}
 		]
 	},
 	{
@@ -6141,6 +7378,12 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			}
 		]
 	},
 	{
@@ -6152,6 +7395,12 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"05671ab8-ac8d-406e-8f6d-5e0229641855",
 			"8bdfde1b-c2af-4ba4-9cb5-7b8fbd1e0013"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			}
 		]
 	},
 	{
@@ -6163,6 +7412,12 @@
 			"d7a5e3c7-d35c-4d99-9d17-be4ee356479a",
 			"465bf31e-c2f6-4843-bc2e-0717e1ea2a19",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			}
 		]
 	},
 	{
@@ -6176,6 +7431,12 @@
 			"751fa062-f0e9-4433-acf7-a6ace82a6586",
 			"dc0df034-1554-461d-b98d-e6580a686009",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			}
 		]
 	},
 	{
@@ -6188,6 +7449,12 @@
 			"b2bc35d2-e285-4499-8536-e52ab480e320",
 			"c3413bba-8a98-4ee6-8ee4-55993db1720c",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			}
 		]
 	},
 	{
@@ -6201,6 +7468,12 @@
 			"f0ff634f-4356-411f-b232-a49bc6c85d78",
 			"f782a375-c6fb-4a4c-938c-9182e098a53c",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			}
 		]
 	},
 	{
@@ -6214,6 +7487,12 @@
 			"fa22e53d-cf55-460c-8c12-8484658c6899",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			}
 		]
 	},
 	{
@@ -6277,6 +7556,12 @@
 			"7593543a-cbf1-4db9-83ff-4d53283960d6",
 			"21dfdecd-7405-4bdf-9bb8-9e4b987ea630",
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6296,6 +7581,12 @@
 			"9fa77c0a-f8a5-4097-9cc5-87f4cfa4bf54",
 			"e8fd066a-25a2-42e9-9ca2-f4c4e60ec9bd",
 			"6e2b7e24-d31d-47f0-9264-341f61f8dfa1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6325,6 +7616,12 @@
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6360,6 +7657,12 @@
 			"4c4b2cf8-cb76-4182-bc50-7b4054dad6f4",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6383,6 +7686,12 @@
 			"27b885ce-1767-4026-a027-b79e8fd250ac",
 			"619c654b-b1ee-4a2a-969a-6fdce9b521a3",
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6419,6 +7728,12 @@
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"f4946e7b-cc1b-40e4-86a9-aec65f90d612",
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6452,6 +7767,12 @@
 			"f42f5529-aebb-4d10-96e8-559b5bc43fb6",
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
 			"d7115cea-37e8-46e1-b176-8cbd2e8cd26c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+			}
 		]
 	},
 	{
@@ -6515,6 +7836,12 @@
 			"7593543a-cbf1-4db9-83ff-4d53283960d6",
 			"21dfdecd-7405-4bdf-9bb8-9e4b987ea630",
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6534,6 +7861,12 @@
 			"ad5534ac-37ee-47ed-b31b-714525967739",
 			"e8fd066a-25a2-42e9-9ca2-f4c4e60ec9bd",
 			"6e2b7e24-d31d-47f0-9264-341f61f8dfa1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6550,6 +7883,12 @@
 			"cceb35a8-830d-4836-ae29-53bbc50b8eae",
 			"49593c3c-d4eb-4e75-a058-0df73e46927b",
 			"892a1c5d-95c6-44f1-ae98-0de7cfe1a1e7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6562,6 +7901,12 @@
 			"2751a215-72cc-4c2c-8ca3-77b4bb1dfad7",
 			"95b91bc9-dd01-4ea3-9083-14bb78d71558",
 			"d1c3da1b-a547-4977-a462-6f2a9e67371c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6574,6 +7919,12 @@
 			"8dee36a6-1bac-46e0-94e3-a2a6f62de085",
 			"04cb4859-b631-4db4-8c15-4c77141ad197",
 			"ee127388-8afd-4ef3-8b0a-be81b16635e1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6586,6 +7937,12 @@
 			"6145eed4-9274-4bc4-b922-d7a16a1eacbd",
 			"57ffcce6-f129-468c-bd34-22f112a20b44",
 			"54ae7bd7-8347-48e4-b369-d8a0157605fa"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6619,6 +7976,12 @@
 			"dbcbe075-22c6-42fb-b8b9-428822771c92",
 			"880b33e9-7cad-45bc-84f0-e91d715c8f9e",
 			"23a5c702-5814-4c55-aaca-38a67265554a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "f4848ad5-47b5-4539-8d50-437d15385368"
+			}
 		]
 	},
 	{
@@ -6654,6 +8017,12 @@
 		"vakinhoud_id": [
 			"4e511c71-b915-43d8-b9e8-3b975ce6928d",
 			"a8ee85f8-e2d1-43df-8cdd-1149f87d533c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6712,6 +8081,12 @@
 			"98401c3f-6c24-413d-8076-78319ffe4083",
 			"d9c4a07f-a54b-4dda-944e-d8442fdd5d80",
 			"4e511c71-b915-43d8-b9e8-3b975ce6928d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6738,6 +8113,12 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6763,6 +8144,12 @@
 			"04370a60-8410-480c-a494-0f128a3ca6cc",
 			"c38a493d-c6e4-4ce8-bb65-c43728983484",
 			"7687b251-c2a7-47ef-99e0-047b10c41ebc"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6780,6 +8167,12 @@
 			"aa0f4e08-7b76-4a77-900a-c994441c0059",
 			"a1a45325-a0f7-4381-8cea-dd399adf23aa",
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6804,6 +8197,12 @@
 			"a1a45325-a0f7-4381-8cea-dd399adf23aa",
 			"1df1d2cb-b63a-458a-b5d6-429f57f1c8a4",
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6826,6 +8225,12 @@
 			"1df1d2cb-b63a-458a-b5d6-429f57f1c8a4",
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06",
 			"3a0b3101-f541-4bd9-b730-7eb018403633"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6851,6 +8256,12 @@
 			"a1a45325-a0f7-4381-8cea-dd399adf23aa",
 			"1df1d2cb-b63a-458a-b5d6-429f57f1c8a4",
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6874,6 +8285,12 @@
 			"06e202bd-1e12-42f8-aa9f-f3fe641c61b1",
 			"f431b154-9706-4112-8f25-e6879f9c0b45",
 			"2d4037b1-aa99-4637-89d3-f182444a89ca"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -6942,6 +8359,12 @@
 			"4e511c71-b915-43d8-b9e8-3b975ce6928d",
 			"15c3aeca-0921-45bf-8915-b4ffcbcbfd35",
 			"c2b276ac-bff5-49c4-8731-b6d42a5fe668"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -7017,6 +8440,12 @@
 			"6a050bfc-3938-4bcb-8e78-8e911bee7309",
 			"31dbb21b-d81b-4538-80c2-823c82bf7ad2",
 			"c9509fa5-ef68-4f92-814b-fbf8c2bb0382"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -7032,6 +8461,12 @@
 			"dcfa532e-edcd-4c9b-88ad-364b0bf2bab4",
 			"d18a4d7e-b75b-4c0d-bea5-4689e9310b1f",
 			"3a0b3101-f541-4bd9-b730-7eb018403633"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -7079,6 +8514,12 @@
 			"2a9a558d-7005-4b07-a69d-7ccbd157b9ee",
 			"f42f5529-aebb-4d10-96e8-559b5bc43fb6",
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -7138,6 +8579,12 @@
 			"19cbcbee-a873-440f-9767-8943133c923a",
 			"ee659c2d-9682-4810-8268-0efd8c1a73a4",
 			"b30ff41c-a4d1-49a3-9a87-55ec676634ab"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -7180,6 +8627,12 @@
 			"9b7505d0-84f5-4256-8566-df3b6239be45",
 			"3cba3996-788f-48d2-8993-09d14484bd6f",
 			"dcacbf96-bd6f-41cc-ab35-45b81457686c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0"
+			}
 		]
 	},
 	{
@@ -7230,6 +8683,12 @@
 			"98e17bf5-c4e7-46f9-a30a-3ca12a359367",
 			"a9e9a11c-3b9a-4d0a-ac6b-f0db6d2fac5f",
 			"180928ab-6443-4cd3-a076-09feb10186d9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7237,7 +8696,13 @@
 		"unreleased": true,
 		"title": "De invloed van natuurwetenschap en techniek",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "49362cb8-2b4b-4102-828e-488e81be4a41",
@@ -7289,6 +8754,12 @@
 			"dbee589b-7627-450b-96b8-3fcdab32f483",
 			"1c1b0676-16a4-4263-a57c-cb7e146f98fc",
 			"9c2a269e-ba0f-4247-869e-3b7b31f92af9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7296,21 +8767,39 @@
 		"unreleased": true,
 		"title": "Informatievaardigheden",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "c92abc05-537b-49cc-bd16-8e4b0fc323f2",
 		"unreleased": true,
 		"title": "Kennis en technologie",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "b71c3c36-1d12-4d1b-8f65-25c112342415",
 		"unreleased": true,
 		"title": "Kennisvorming",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "a8f153bb-42d9-4665-a00b-eba2711e4d32",
@@ -7341,6 +8830,12 @@
 			"2187ff04-651f-4fca-a383-1c99263d1fcb",
 			"68f6c448-af37-45ab-b67a-bfdf06c183ea",
 			"454a7c50-a44f-4e27-ad31-12cb79d7d74c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7396,6 +8891,12 @@
 			"eb91eb9f-8265-45ef-8235-72996c31de39",
 			"d4a0769e-67a3-4633-8633-82eb01085779",
 			"1939379b-8ffc-495a-9d7c-40336c611806"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7405,6 +8906,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"34254e99-ec56-4dd9-b47b-78d88322a939"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7423,6 +8930,12 @@
 		"vakinhoud_id": [
 			"dd47c655-15ff-4ed5-bba2-6d31196dc2d3",
 			"5284aa3a-1f43-4bb0-af3c-d441b57973c5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7430,7 +8943,13 @@
 		"unreleased": true,
 		"title": "Modelvorming",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "82c004f8-2a05-45f7-b52c-87c336962110",
@@ -7452,6 +8971,12 @@
 			"41365ef1-f728-424a-902c-50df544bd29a",
 			"7ba62429-032d-437e-8969-b7eee97c3291",
 			"ae28a8da-19f6-4d3e-ac0a-520e1135602e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7459,7 +8984,13 @@
 		"unreleased": true,
 		"title": "Onderzoek doen",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "32d3f21a-da6a-47a0-9b86-2f9831559ccf",
@@ -7468,6 +8999,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"c94a71b1-2671-435e-bd60-6f5dfdf55c84"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7475,21 +9012,39 @@
 		"unreleased": true,
 		"title": "Ontwerpen",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "b2391bdc-aab9-4739-bdbf-01ff9e0189db",
 		"unreleased": true,
 		"title": "Redeneren",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "62ad3a72-491f-4bb0-b7e0-4bc74a3e6514",
 		"unreleased": true,
 		"title": "Rekenkundige en wiskundige vaardigheden",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "ae8e47c7-5ad9-4ead-8a32-aa57d40ecb10",
@@ -7513,6 +9068,12 @@
 			"65e03de8-22fc-4c51-b190-fddcb2bc604a",
 			"014facc5-feed-482a-a2d0-3d3303258ec7",
 			"3e584263-1527-485a-b2bf-1303f80ba2ec"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7538,6 +9099,12 @@
 			"e829c8f7-ac6d-42ca-8fbb-ab1e87ac93c8",
 			"42b1040e-67d0-4079-93b8-9a8619050b2f",
 			"16403a4d-6a19-4f0c-a7f4-679c7d1d3597"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
 		]
 	},
 	{
@@ -7545,14 +9112,26 @@
 		"unreleased": true,
 		"title": "Toepassen van kennis",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "4de21626-8e8a-492f-bb97-3a9a4345b15c",
 		"unreleased": true,
 		"title": "Waarderen en oordelen",
 		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2795bfff-8566-4e69-b70c-12efba965dc8"
+			}
+		]
 	},
 	{
 		"id": "a240137d-665a-4e03-84ff-46d2f5fb584b",
@@ -7615,6 +9194,12 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"dec6a11e-15a2-4d9d-bd3b-83c57c2da92f",
 			"7593543a-cbf1-4db9-83ff-4d53283960d6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7634,6 +9219,12 @@
 			"d0eca067-d9bb-4c77-8d93-7452a9330df2",
 			"e8fd066a-25a2-42e9-9ca2-f4c4e60ec9bd",
 			"6e2b7e24-d31d-47f0-9264-341f61f8dfa1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7645,6 +9236,12 @@
 			"7e45866b-277e-4a3e-ae6f-b892fca10f2f",
 			"579c75db-df74-46e3-a460-0992cc1f3d99",
 			"35441ea7-3fde-4a1f-a6e5-72f3ed632ac3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7656,6 +9253,12 @@
 			"6acdefa5-af94-49cc-a6aa-f654502b32bd",
 			"135aa394-9d3e-467e-8ba8-6d0f0ade794f",
 			"e58e3500-8a68-4228-9978-d1752af3a870"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7667,6 +9270,12 @@
 			"70175f42-f7b7-4ad1-b20e-9e750f8fb4fc",
 			"7d581668-0039-4b0b-91ea-84d92d0a4db0",
 			"f22982aa-b642-4954-9ca3-1f1cdbcea4f0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7679,6 +9288,12 @@
 			"4f0ec92a-b81f-427c-a1bb-74dc0401bf9f",
 			"67815d87-3fc4-4e80-b526-7c1cc55424a3",
 			"6fee716b-093c-4eab-86a6-1d317ad9a6ec"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7712,6 +9327,12 @@
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "aa197275-236f-451e-85be-ed0902848f08"
+			}
 		]
 	},
 	{
@@ -7721,6 +9342,12 @@
 		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"0523976c-9cfe-46da-979a-bd237a78a094"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "11aef2d5-ae09-49c8-9485-e7b93e3f9fda"
+			}
 		]
 	},
 	{
@@ -7829,6 +9456,12 @@
 			"c3ae7c1c-a4c4-4ba2-a6c6-6ef3598c63e1",
 			"f4395715-a062-4da8-ae7e-d57634cb9caa",
 			"6823e5bc-5aa1-4d4d-b648-646c177de0ff"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b362c478-90c9-45ac-855a-79421d23ed07"
+			}
 		]
 	},
 	{
@@ -7892,6 +9525,12 @@
 			"9393f7b0-11b3-43da-9a50-9dc350f57ac7",
 			"760f70c1-1e6e-41a2-a17d-658950f1a097",
 			"4a102bd7-5985-4583-b15a-b286a25b20a7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b362c478-90c9-45ac-855a-79421d23ed07"
+			}
 		]
 	},
 	{
@@ -7976,6 +9615,12 @@
 			"ea30899b-b58c-4f48-b96f-9b48f4885032",
 			"31899251-04c0-4e0e-b592-78158b19f8fb",
 			"64d51763-8f59-4dd3-84e3-65909322ff2b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b362c478-90c9-45ac-855a-79421d23ed07"
+			}
 		]
 	},
 	{
@@ -8038,6 +9683,12 @@
 			"5f3a6da7-2f5e-4b19-a21a-82a69f22f805",
 			"17f998dc-cc69-4ae3-adf7-b7e7e3b9ad30",
 			"1614be43-8956-4fb3-bdcf-baf2b05f885c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b362c478-90c9-45ac-855a-79421d23ed07"
+			}
 		]
 	},
 	{
@@ -8066,6 +9717,12 @@
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"f4946e7b-cc1b-40e4-86a9-aec65f90d612"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b362c478-90c9-45ac-855a-79421d23ed07"
+			}
 		]
 	},
 	{
@@ -8092,6 +9749,12 @@
 			"58bf0bfd-6877-43b3-81bf-e202059ffc85",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b362c478-90c9-45ac-855a-79421d23ed07"
+			}
 		]
 	},
 	{
@@ -8112,6 +9775,12 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8130,6 +9799,12 @@
 			"b5b0b173-c06b-4378-8162-87161d9da9c7",
 			"bb415e3d-770a-48fb-b27f-296d607921f1",
 			"58cc2343-662f-4df6-9fe8-26171782d519"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8179,6 +9854,12 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8202,6 +9883,12 @@
 			"d1744c86-3acf-46c0-a094-3f583eda60f3",
 			"e03f4432-737d-4d0e-a804-aa3213058d97",
 			"a839bbbd-a4e9-4471-aa0a-4a6ba1cd1251"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8221,6 +9908,12 @@
 			"571d44f4-02a1-40f9-976b-058fa96a33c6",
 			"74882039-c046-4d98-9fe9-40e8d52da456",
 			"796a6429-caa0-4604-af12-c45293bcc663"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8264,6 +9957,12 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8277,6 +9976,12 @@
 		"vakinhoud_id": [
 			"28bb6c2a-f96b-4caa-917e-44ea0069747e",
 			"23694fb4-c369-49f1-b5dc-c007904e1855"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8297,6 +10002,12 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8312,6 +10023,12 @@
 			"153789f7-8706-4dab-a304-814bcd4f917c",
 			"958a8489-9deb-40a6-9c57-43a24ced3457",
 			"bd3bd544-197f-4333-bf0f-dee8bd6b2a61"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			}
 		]
 	},
 	{
@@ -8341,6 +10058,12 @@
 			"ba034549-4fb3-4be1-8b3b-039082c85d71",
 			"1354e794-76fc-40d6-8bb2-d4536a97724f",
 			"d4a73921-9cf6-4a11-9a1a-ebd4d84633c3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "956d0d86-90f3-443b-a418-52fd9b912661"
+			}
 		]
 	},
 	{
@@ -8364,6 +10087,12 @@
 			"512fc2c8-ba34-450d-99f4-694ce49d681d",
 			"ba034549-4fb3-4be1-8b3b-039082c85d71",
 			"b3f35c69-4a0d-43ae-966c-993320c6543a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "956d0d86-90f3-443b-a418-52fd9b912661"
+			}
 		]
 	},
 	{
@@ -8386,6 +10115,12 @@
 			"94a82ef8-775c-44f2-b5bf-1000f9693547",
 			"996e1df9-3d4e-4d6f-9e8d-777b4d499fa2",
 			"b7c4c09d-6332-4436-8a72-10941256ac96"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "956d0d86-90f3-443b-a418-52fd9b912661"
+			}
 		]
 	},
 	{
@@ -8409,6 +10144,12 @@
 			"ba034549-4fb3-4be1-8b3b-039082c85d71",
 			"b82d1ee2-2771-4732-bec2-15049e939f21",
 			"d261ecba-4fe9-4221-8ad7-90b8c403478c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "956d0d86-90f3-443b-a418-52fd9b912661"
+			}
 		]
 	},
 	{
@@ -8431,6 +10172,12 @@
 			"512fc2c8-ba34-450d-99f4-694ce49d681d",
 			"2c2945ee-14fe-417a-930a-d9c7bdab5ff7",
 			"1e6e7f6d-b0f9-436b-b623-2e6558295446"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "956d0d86-90f3-443b-a418-52fd9b912661"
+			}
 		]
 	},
 	{
@@ -8446,6 +10193,12 @@
 			"512fc2c8-ba34-450d-99f4-694ce49d681d",
 			"b82d1ee2-2771-4732-bec2-15049e939f21",
 			"d261ecba-4fe9-4221-8ad7-90b8c403478c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "956d0d86-90f3-443b-a418-52fd9b912661"
+			}
 		]
 	},
 	{
@@ -8561,6 +10314,12 @@
 			"7fe61efe-75cd-4b9c-9520-460e8a78ee93",
 			"f5630b05-d772-45cc-93ed-7d259e332746",
 			"176d1740-1b10-43c5-b579-6437479404b1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8583,6 +10342,12 @@
 			"4fd5b309-73c8-4bfe-9cbb-18ff1584f5b4",
 			"986eea5c-52d4-49a7-846d-3ea4e13513f0",
 			"67cb15e0-8251-4808-acc0-c168a4a65561"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8656,6 +10421,12 @@
 			"0497bfae-88db-43c6-9912-a1e0c8e25b93",
 			"ad9939ba-e97b-45dd-98dd-43ff8b8529ec",
 			"beecdd15-cb77-4a9c-acaa-5d43ae29af11"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8766,6 +10537,12 @@
 			"a468e786-d833-4bd2-b081-5630e2db9525",
 			"bd1a5eb8-a9ab-42c2-9056-86de381fa8a2",
 			"fbd57709-7840-481a-8269-d37fbf1b76e6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8840,6 +10617,12 @@
 			"efefccc4-823f-463e-b875-ef045090af88",
 			"3117ca8a-b2f3-472c-9370-3229a70a7eee",
 			"1b3c11d8-ec47-4802-978f-3a6e4cdd5980"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8867,6 +10650,12 @@
 			"7916e68d-13eb-4afd-9c50-de90b97da950",
 			"9180a0b0-a9c6-49d5-b7ba-27ce376ef4b1",
 			"c7749ca0-dd1d-4dce-852d-4ac567cdae09"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8927,6 +10716,12 @@
 			"ed1ed57f-8958-492a-9768-d487754c5ed6",
 			"21059c4f-5b6f-4e29-8c01-3036b9be40c8",
 			"b828c4f2-d988-4a4a-9124-a8c3e99e8c7e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8959,6 +10754,12 @@
 			"73282796-6fda-4dee-9b80-4a28a564c74a",
 			"5a7593b8-d8c4-43a7-9fe6-dc4501381ff3",
 			"9180a0b0-a9c6-49d5-b7ba-27ce376ef4b1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -8989,6 +10790,12 @@
 			"73282796-6fda-4dee-9b80-4a28a564c74a",
 			"5a7593b8-d8c4-43a7-9fe6-dc4501381ff3",
 			"e080cada-25b8-4a83-a4ac-629d34b9b2be"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -9002,6 +10809,12 @@
 			"ed1ed57f-8958-492a-9768-d487754c5ed6",
 			"21059c4f-5b6f-4e29-8c01-3036b9be40c8",
 			"b828c4f2-d988-4a4a-9124-a8c3e99e8c7e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -9050,6 +10863,12 @@
 			"c0b3b77c-7166-4e42-9bc2-96bffec8d8d0",
 			"b4e42cf5-d136-4f7d-895b-da7add8c72ca",
 			"e13bc15b-98b6-4e3e-ad13-fc3ba560cbbc"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -9079,6 +10898,12 @@
 			"e829c8f7-ac6d-42ca-8fbb-ab1e87ac93c8",
 			"42b1040e-67d0-4079-93b8-9a8619050b2f",
 			"16403a4d-6a19-4f0c-a7f4-679c7d1d3597"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -9097,6 +10922,12 @@
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707",
 			"35cdbdec-df68-4a12-8de6-0645bbf4ca36"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			}
 		]
 	},
 	{
@@ -9108,6 +10939,12 @@
 			"b3346f8a-99fc-4bae-abf3-c385964bb9a3",
 			"60a9e28c-adb8-4f6a-b48f-992d383ac5a0",
 			"2445e3c2-d92e-40c1-8a2d-82ba8654db15"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "96b622d6-264d-4f7a-9875-681ded824e21"
+			}
 		]
 	},
 	{
@@ -9124,6 +10961,12 @@
 			"08dc4339-1d21-4096-9d2d-e2c7c32bf8db",
 			"eac96d21-872a-4476-a0bc-b529990893c1",
 			"e638fb89-bc22-4746-bb43-9c3ecdd9a8d1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "96b622d6-264d-4f7a-9875-681ded824e21"
+			}
 		]
 	},
 	{
@@ -9169,6 +11012,12 @@
 			"02ce045b-c3bb-4de6-9ddb-eeed092bf124",
 			"5aeb8809-7f68-48f7-a750-9c2c3e47b26a",
 			"e96d4f7d-57b0-4576-8f94-324ce96b01a9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "96b622d6-264d-4f7a-9875-681ded824e21"
+			}
 		]
 	},
 	{
@@ -9229,6 +11078,12 @@
 		"doelniveau_id": [
 			"34df4bb5-6d5f-40a0-b111-383405fb6ca3",
 			"92fcc90b-bb77-4334-a302-4e8070de7e42"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "96b622d6-264d-4f7a-9875-681ded824e21"
+			}
 		]
 	},
 	{
@@ -9258,6 +11113,12 @@
 			"b457d8fd-a567-49a5-ab77-a6848cdaf0d5",
 			"85f7a468-edee-493b-b521-b0b55930176d",
 			"b890ce1b-8d3e-4d1f-bec6-efacc002c28e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "96b622d6-264d-4f7a-9875-681ded824e21"
+			}
 		]
 	},
 	{
@@ -9321,6 +11182,12 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"dec6a11e-15a2-4d9d-bd3b-83c57c2da92f",
 			"7593543a-cbf1-4db9-83ff-4d53283960d6"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9340,6 +11207,12 @@
 			"805ba6b7-2eb9-49b8-b081-c2c9160dee78",
 			"e8fd066a-25a2-42e9-9ca2-f4c4e60ec9bd",
 			"6e2b7e24-d31d-47f0-9264-341f61f8dfa1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9352,6 +11225,12 @@
 			"4a43bbe2-8a9a-43ed-a18f-f095d21c5875",
 			"04f4f1e5-7b27-47b8-85de-b70c8cb66cb2",
 			"29a1507b-612a-4881-815e-f3f0b261579c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9362,6 +11241,12 @@
 		"vakinhoud_id": [
 			"03b9b720-bc46-428f-812b-a5d5c9233e74",
 			"83e6c4b3-09e0-441d-8160-d1ad9bd13ff9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9373,6 +11258,12 @@
 			"1ab6da2c-fc5d-40ca-ac62-453ab39f7431",
 			"0db50339-3059-487f-b53c-782cbbfdc47f",
 			"2dec8c72-4c98-4d53-991d-e467395ffef0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9383,6 +11274,12 @@
 		"vakinhoud_id": [
 			"c34749e3-bade-4af3-a574-b6158c4aa0ba",
 			"2563d4d0-f5cf-426a-9a43-e13871b948c7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9416,6 +11313,12 @@
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "b8f15528-dedb-4db8-81ee-c820da8453bc"
+			}
 		]
 	},
 	{
@@ -9438,6 +11341,12 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9456,6 +11365,12 @@
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
 			"7e695ed7-2c5d-42e7-a0d4-ef742d43b3e7",
 			"4fd5b309-73c8-4bfe-9cbb-18ff1584f5b4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9488,6 +11403,12 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9509,6 +11430,12 @@
 			"c34cc544-0805-4b4f-93ab-6117a144c0f2",
 			"736920c1-416f-48d3-b8a0-fc46e10aa376",
 			"7e0e5ae0-a06e-49a1-8553-97a835239fa4"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9543,6 +11470,12 @@
 			"08a2887d-54c5-47da-9a86-9babc6a9b49d",
 			"364c5e53-47dd-490e-acf0-4f6dadf7c09a",
 			"45fe5180-44c2-4516-a932-127a0bec82d8"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9569,6 +11502,12 @@
 			"d8f539d0-5993-43bb-8e31-68e9b13462e8",
 			"2bec7af6-c946-4833-a71c-52c115778d78",
 			"b455f260-5347-4c96-8068-94ae1eff79ce"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9593,6 +11532,12 @@
 			"ce5c1897-9242-4f42-822d-f2e0ab8d29ac",
 			"9d49610e-1af6-49e7-bf9a-8a905decafb8",
 			"57e06c1c-3ee3-4c71-9236-0a94d9180fe9"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9628,6 +11573,12 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9659,6 +11610,12 @@
 			"e7f3fee5-ee31-4bff-9d93-52db41587f70",
 			"8b15f12c-c4eb-4d31-9c1e-1afb8618e6ba",
 			"fe21335a-f5ac-4387-be0c-2f278e4d2a07"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9683,6 +11640,12 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9703,6 +11666,12 @@
 			"990d0141-1617-4583-8314-af9045446c28",
 			"d2ed52b1-26ec-4f86-b12b-8b1d377e1cd2",
 			"64c247e6-d640-4c62-9aab-819801a63c89"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9714,6 +11683,12 @@
 		],
 		"vakinhoud_id": [
 			"5f6d3c58-0e77-434a-95d1-3902ceee8cf7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9733,6 +11708,12 @@
 			"e1445c34-51a4-4cc3-af19-ee0cd1565924",
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "364c2519-7d9e-47d8-b3bd-371cee8583df"
+			}
 		]
 	},
 	{
@@ -9753,6 +11734,12 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73abc618-988a-4409-b2ae-ff16febf68ee"
+			}
 		]
 	},
 	{
@@ -9773,6 +11760,12 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73abc618-988a-4409-b2ae-ff16febf68ee"
+			}
 		]
 	},
 	{
@@ -9796,6 +11789,12 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73abc618-988a-4409-b2ae-ff16febf68ee"
+			}
 		]
 	},
 	{
@@ -9816,6 +11815,12 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73abc618-988a-4409-b2ae-ff16febf68ee"
+			}
 		]
 	},
 	{
@@ -9840,6 +11845,12 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73abc618-988a-4409-b2ae-ff16febf68ee"
+			}
 		]
 	},
 	{
@@ -9859,6 +11870,12 @@
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
 			"2438db14-ea60-43b8-a5f4-be70cfdd99f1",
 			"4e01b3bc-cbb5-424a-911c-dd57fa260d42"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "70d7c26b-9e49-481a-b40b-188e2d538943"
+			}
 		]
 	},
 	{
@@ -9882,6 +11899,12 @@
 			"b502f499-9c19-4577-8126-db28506a5fd4",
 			"c15669c5-6c4f-4258-87a0-fb1c12463e7c",
 			"5a21bfdd-2f68-49bc-919e-c1679ee971a7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -9893,6 +11916,12 @@
 		],
 		"vakinhoud_id": [
 			"45850ac0-4bdc-4a51-b597-7a4c35780f59"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -9948,6 +11977,12 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10071,6 +12106,12 @@
 			"ab384d5c-ce0a-4bd4-a551-78cd1323b2d6",
 			"9323c312-a94a-414e-a89e-9344327a7b66",
 			"47e45e81-8d3a-453e-b987-ecdcacd3376a"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10129,6 +12170,12 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10169,6 +12216,12 @@
 			"a5d843a6-3c77-4689-9de0-1017cabc2f53",
 			"7ca57193-d9bb-454e-9b5b-9c9d20c1543c",
 			"79d51e67-8f7c-4adc-91bc-d3537309912b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10216,6 +12269,12 @@
 			"fd07d7d7-783a-44a7-afba-0d0a9198bdd2",
 			"47d1b58f-0a19-4db9-9733-db979198d1d4",
 			"abac23af-770f-485c-8c08-1734e3189a2f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10308,6 +12367,12 @@
 			"e9b2ed72-671d-478d-80a0-fdeb1a1b1944",
 			"763230ab-94ff-4628-b0d7-060c4e6192c7",
 			"ecde787f-51e7-488e-9728-dd53840b9cff"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10366,6 +12431,12 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10425,6 +12496,12 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10476,6 +12553,12 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10608,6 +12691,12 @@
 			"bed7c919-5a60-4ca6-8532-885d8299b76d",
 			"b224fed9-a9ec-4847-ad94-0ab2eb4458f6",
 			"27b885ce-1767-4026-a027-b79e8fd250ac"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10668,6 +12757,12 @@
 			"e8b014b0-90b6-4167-b0b9-6ab303efb63f",
 			"f0f7569c-4655-430e-9f9e-d74f90feade2",
 			"c5f964a7-fd26-4e08-9d2d-1b860a4c1983"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			}
 		]
 	},
 	{
@@ -10696,6 +12791,12 @@
 			"c1eb2b6d-4b7f-4b29-a02f-b16febe8942c",
 			"113e60a7-d92d-4ffd-b128-0b57920eb388",
 			"3740b953-fbfd-44fe-9a49-4a0392b25649"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			}
 		]
 	},
 	{
@@ -10721,6 +12822,12 @@
 			"87b0a378-de7c-4871-b0f0-9453d015b048",
 			"a7ef246b-d897-44d7-a3c1-2a95076b57a6",
 			"1ca03856-9d24-4a74-89f0-b616fc1cd3e5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			}
 		]
 	},
 	{
@@ -10759,6 +12866,12 @@
 			"3f02aec8-f99c-48c8-867f-ff28c65cb1e1",
 			"7ff84c82-7f54-435c-ad8d-a72734dd20c7",
 			"b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			}
 		]
 	},
 	{
@@ -10786,6 +12899,12 @@
 			"78eae074-25d4-46d7-acd9-718f0cd022bb",
 			"28b2b9b5-bf28-41ec-a7a8-304d120ae3c0",
 			"9e23ea12-7e25-465f-99fa-4eff2b7752ab"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			}
 		]
 	},
 	{
@@ -10858,6 +12977,12 @@
 			"224f9d43-379f-4b55-a2e4-cc6fab8dea76",
 			"20a02cd1-05c3-4193-a69e-9f0fa36391ea",
 			"fed519d6-8ba2-4664-9651-5ef7ac527c52"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			}
 		]
 	},
 	{
@@ -10873,6 +12998,12 @@
 			"e63740bd-2eab-4a62-8292-24b6af229efa",
 			"a9e0b5d5-0e19-4182-9e08-2339923e84e0",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			}
 		]
 	},
 	{
@@ -10907,6 +13038,12 @@
 			"f2c45148-bd63-4511-94be-bf9102cd2604",
 			"569183f6-86f5-4424-9c10-2e645e173c90",
 			"1c686696-72dc-4e18-b4da-b4a765917429"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0"
+			}
 		]
 	},
 	{
@@ -10922,6 +13059,12 @@
 			"96080b58-9e48-4b98-a8cb-c821b74fe03e",
 			"89231857-9ff2-4dd5-80b2-382ef9de2a23",
 			"3281d066-4c87-46f6-aa39-bc5d161e62c7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0"
+			}
 		]
 	},
 	{
@@ -10949,6 +13092,12 @@
 			"78eae074-25d4-46d7-acd9-718f0cd022bb",
 			"28b2b9b5-bf28-41ec-a7a8-304d120ae3c0",
 			"9e23ea12-7e25-465f-99fa-4eff2b7752ab"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0"
+			}
 		]
 	},
 	{
@@ -10993,6 +13142,12 @@
 			"0623132a-e4d3-4d60-b549-4f1d5ce26359",
 			"4aa309a1-f42d-4270-b2c5-c664169f12ba",
 			"a4a0f443-4297-49f1-871d-bdf3032d13b3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0"
+			}
 		]
 	},
 	{
@@ -11052,6 +13207,12 @@
 			"0b4ef89d-c9ba-41cf-99c7-f22acccb7042",
 			"429ab309-9ca4-460a-bea2-408cbfdaf958",
 			"6ab100cd-206d-4d17-9520-e7ffb750a16e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0"
+			}
 		]
 	},
 	{
@@ -11070,6 +13231,12 @@
 			"6d9b28a5-d8a2-4c07-81c0-45064aa93a3f",
 			"e0d2f490-7916-41ad-992a-9a2ac3277c1c",
 			"dee09f34-ebe1-4aee-9e54-9e302a20eb6e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11093,6 +13260,12 @@
 			"f4f05142-4f7f-4899-a87f-d6d87023c428",
 			"b1b896f8-0e73-403d-aaaf-0250fbf104de",
 			"4088aeec-e9c9-4693-9b73-905cdd25e638"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11110,6 +13283,12 @@
 			"a1954a64-339e-458f-a722-a3fbafec5aaa",
 			"7ff84c82-7f54-435c-ad8d-a72734dd20c7",
 			"b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11138,6 +13317,12 @@
 			"f1111721-e66e-40c5-8033-4a089aca937c",
 			"49070f03-dbff-45cf-b1d7-9778c4239247",
 			"9e23ea12-7e25-465f-99fa-4eff2b7752ab"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11156,6 +13341,12 @@
 			"4f37c1ca-3d9e-4601-90d9-5b6968328055",
 			"14744cf0-c3f4-42a4-a22b-ecd0f7988b08",
 			"5e6d1577-0a9b-42f2-b4cc-e64eb4e28da1"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11178,6 +13369,12 @@
 			"fb965505-9577-401c-9d65-4f7085dcd577",
 			"d2b52af3-be74-46f9-a88d-2ca91911ada8",
 			"3c134e96-c3cb-4542-b033-82b74da709f3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11212,6 +13409,12 @@
 			"58e7f618-7df9-436b-b5a4-0cfd6ab1ac69",
 			"fad99e80-2dc3-4f2f-a82a-dce1aaa1a6b4",
 			"df294674-c74e-4964-9328-1f325119a2d3"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11224,6 +13427,12 @@
 		"vakinhoud_id": [
 			"5019f250-0506-47a3-8b30-ea35357cf919",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			}
 		]
 	},
 	{
@@ -11236,6 +13445,12 @@
 		"vakinhoud_id": [
 			"7fe89d33-ed40-431a-a735-1c22890235c5",
 			"1a1edbfb-e718-4b39-9f9f-3c4dbe0283a0"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6be72775-5689-4aa4-bb5a-38899b174915"
+			}
 		]
 	},
 	{
@@ -11248,6 +13463,12 @@
 		"vakinhoud_id": [
 			"dfda8007-731a-4fc5-9273-7831250da0e0",
 			"d7ac195e-71f1-4b05-a6a6-6e3a33dd842b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6be72775-5689-4aa4-bb5a-38899b174915"
+			}
 		]
 	},
 	{
@@ -11267,6 +13488,12 @@
 			"b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5",
 			"7ca57193-d9bb-454e-9b5b-9c9d20c1543c",
 			"e6ad9bce-6bde-40a5-a233-83a0dda30bdb"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6be72775-5689-4aa4-bb5a-38899b174915"
+			}
 		]
 	},
 	{
@@ -11283,6 +13510,12 @@
 			"d52b10dd-fbda-4974-8cb3-6c17f97a5e0a",
 			"152f24d8-463c-4b54-ba41-bfcdd907fb72",
 			"64c2e787-b7c6-405a-994a-bd0b2e7d3faa"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6be72775-5689-4aa4-bb5a-38899b174915"
+			}
 		]
 	},
 	{
@@ -11304,6 +13537,12 @@
 			"29839ec6-eb50-4da7-a273-fb3548acb658",
 			"b688ac5f-72e5-412e-b7f5-e7ed0fbc9505",
 			"50535a93-ce70-460f-af77-204c4014a702"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "6be72775-5689-4aa4-bb5a-38899b174915"
+			}
 		]
 	},
 	{
@@ -11363,6 +13602,12 @@
 			"ac9d604b-680a-40b4-bf87-401b60511143",
 			"467aee1b-10cc-41d9-9c65-7ae8a934e940",
 			"2b6276f3-3937-4431-b755-3ba407aeaa8f"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	},
 	{
@@ -11380,6 +13625,12 @@
 			"0d503955-a0b0-47f6-9c22-0dc944426ab5",
 			"3fe19ab1-e181-40d4-ae8c-7b5ea73cd770",
 			"9a464562-ee63-4169-a58a-71c2e8c2449d"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	},
 	{
@@ -11391,6 +13642,12 @@
 			"4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
 			"78ed9eda-53f5-4de4-90ed-a59599823aad",
 			"8bb8ee2f-7aea-4c9b-ae7d-1f74f12e910e"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	},
 	{
@@ -11404,6 +13661,12 @@
 			"e4c2aeb3-839e-4df7-86aa-786ce8f96f4c",
 			"96da3009-4d95-492a-933f-a9249895ecf5",
 			"a344cd86-1cb2-42bf-8cbd-52beae141d5b"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	},
 	{
@@ -11415,6 +13678,12 @@
 			"4b34f4f6-60bd-4ac6-8ebb-8edb06073956",
 			"2beb1a8c-aa1b-41e1-b1f0-7001674bb21a",
 			"0d68f57c-d3b3-4b03-a01d-580a36f2b77c"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	},
 	{
@@ -11428,6 +13697,12 @@
 			"3720777c-6cfb-4c50-be3c-ee80b8c7b72b",
 			"3478c24f-8647-4284-9f22-d60046f36bf7",
 			"f9a94a3f-5aba-47af-82b7-f9685132ecb7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	},
 	{
@@ -11439,6 +13714,12 @@
 			"9fe0765e-110f-4e8b-a6d0-48387ccb1f3e",
 			"7644dfe2-773b-4fcb-84e6-0a63b58265c5",
 			"95c975ce-88db-4312-9530-bbd374e996a7"
+		],
+		"section": "vakkern",
+		"parents": [
+			{
+				"id": "73cef23f-df24-4015-8516-072a13dcd369"
+			}
 		]
 	}
 ]
