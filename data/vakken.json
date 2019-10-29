@@ -17,14 +17,15 @@
 			"282711be-bdf7-43d6-8829-2f5062db9b71",
 			"56dc5fe8-514d-4eb5-bbf2-96757f946740"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
+		"title": "Aardrijkskunde Anders",
 		"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
 		"unreleased": true,
 		"sloID": "1",
-		"title": "Aardrijkskunde",
 		"vakkern_id": [
 			"6e8db1e8-d4ad-48fe-b3a2-8e927a665665",
 			"2fce5bd6-f19b-4601-b3fe-30c52ebeb539",
@@ -43,8 +44,7 @@
 		"description": "",
 		"doelniveau_id": [],
 		"dirty": 0,
-		"section": "vak",
-		"parents": []
+		"prefix": ""
 	},
 	{
 		"id": "182462b2-662f-42e5-8464-f9075afee3ba",
@@ -57,8 +57,9 @@
 			"1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
 			"9db0a453-76cb-49ea-8690-551bfd579825"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
@@ -78,8 +79,9 @@
 		"description": "",
 		"doelniveau_id": [],
 		"dirty": 0,
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
@@ -92,8 +94,9 @@
 			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
 			"7d71171d-3ec7-4961-8931-bfaaddd62082"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
@@ -101,8 +104,9 @@
 		"sloID": "4",
 		"title": "Bewegen, sport en maatschappij",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
@@ -110,8 +114,9 @@
 		"sloID": "5",
 		"title": "Bewegingsonderwijs",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -135,8 +140,9 @@
 			"bb200f23-88b5-4132-b80a-f113a1eff1fa",
 			"1788c7c2-91df-45d3-b1d4-55bfbf283162"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "26eb622d-6239-4f26-bdef-0c9662891285",
@@ -152,8 +158,9 @@
 			"88c9707b-920d-454d-9b80-b7dc879a31fc",
 			"8f8a5f29-44f5-4fc1-9423-de45204cebc1"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "7316c15e-d1d1-4d73-b4df-94b46b04aadd",
@@ -166,8 +173,9 @@
 			"eca40860-d20d-41c2-9fc0-bdfe09993581",
 			"d4e1ef6f-ce81-43fe-a122-f00ad58657b7"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "a70b035e-2c79-4b7d-81de-03678354cdc1",
@@ -180,8 +188,9 @@
 			"2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
 			"b352ebb7-4d34-4ac0-bb87-c792317064dc"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2",
@@ -197,8 +206,9 @@
 			"73fc01b1-8845-4633-935e-eb0bf9cfa274",
 			"3ec37fff-610e-48ba-8815-d63fd0688591"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
@@ -212,8 +222,9 @@
 			"201fe4a2-9c23-40e9-b4a2-44ae070b513f",
 			"33f70664-17d2-40d4-b85a-52c6ea16d19d"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "8755f202-3f28-405d-929e-990ee4fdc521",
@@ -239,8 +250,9 @@
 			"cad889f0-6f6c-4ea6-a430-8fead4832ec6",
 			"71399584-e6c4-40bc-a1d2-5e924b1b66e8"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "18126dde-b79b-4231-826d-b902a6fa70db",
@@ -256,8 +268,9 @@
 			"b5ff8aa1-f089-4b03-a24b-65af57271f25",
 			"38b0cb63-3ede-46c5-b01b-c9d42630ccd6"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
@@ -272,8 +285,9 @@
 			"f60c14af-2b8b-425d-9aec-fbbd5aa04933",
 			"1a4f280a-d3d9-4d88-9d53-f7056e766194"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "15292864-cba8-4af5-90ef-da51cb2d22e1",
@@ -287,8 +301,9 @@
 			"c33e4030-f47a-465c-92ad-c0cf87176d27",
 			"c3b401a0-7256-454c-b400-3e9eb97c28d2"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "f851676e-b541-42db-986a-5c468974f65e",
@@ -302,8 +317,9 @@
 			"b8e9876e-ed25-4c96-a676-e247eb6395f8",
 			"17bd7545-5834-4d39-be2f-58f8363639de"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
@@ -311,8 +327,9 @@
 		"sloID": "12",
 		"title": "Friese taal",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
@@ -322,8 +339,9 @@
 		"vakkern_id": [
 			"1724a10d-1152-4317-b261-ab69b6d23df0"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
@@ -350,8 +368,9 @@
 			"865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e",
 			"880dde81-63eb-4c01-a8fc-6a2547fa0439"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
@@ -369,8 +388,9 @@
 			"626487cd-8668-46a6-9663-96d8806aec98",
 			"987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "c17db255-88b0-450b-bf3f-235ad7eaf65f",
@@ -386,8 +406,9 @@
 			"d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
 			"2b33dd1e-8c01-407b-aeb6-c54739b06867"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "430c341c-d861-4076-bbce-b8adcda81555",
@@ -403,8 +424,9 @@
 			"ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
 			"351b3ed3-7b30-4071-bce0-d342976d1353"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "21e34b16-1187-4ebb-967e-ae309993cb58",
@@ -412,8 +434,9 @@
 		"sloID": "46",
 		"title": "Kennisbasis natuurwetenschappen en technologie",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "ef872885-1953-4008-9dcc-32281274446a",
@@ -421,8 +444,9 @@
 		"sloID": "14",
 		"title": "Klassieke culturele vorming",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
@@ -435,8 +459,9 @@
 			"78ba030e-b2cb-4c89-b342-ae22b88d1b85",
 			"a59e16c3-59f4-4a6e-85d0-ee12f0a69716"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
@@ -444,8 +469,9 @@
 		"sloID": "16",
 		"title": "Kunst: algemeen",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
@@ -458,8 +484,9 @@
 			"77635153-5140-4225-aeb2-5afbd08e4372",
 			"82ed19f6-d418-467b-8642-b6dded97fa29"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "fbf18b56-2d01-4fc0-975d-af7122af4052",
@@ -472,8 +499,9 @@
 			"f4fb416c-b350-4001-a4e4-b9289ab55212",
 			"135c6dfe-4caa-48aa-b402-c7e8f2a13020"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "b63165ce-21a3-45d5-8b89-83d48f980cfb",
@@ -486,8 +514,9 @@
 			"faaca156-af80-470c-b351-66a86d10d1b7",
 			"eca9e066-a3a0-4fa3-81cd-394ff7456c85"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "aa9da88c-189f-4857-b067-7cbdc929c905",
@@ -501,8 +530,9 @@
 			"141d7f7d-187a-4318-b318-4e299fba41aa",
 			"12d774dd-f581-4fe5-885c-10c585f3547e"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
@@ -510,8 +540,9 @@
 		"sloID": "51",
 		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
@@ -524,8 +555,9 @@
 			"0cd80f19-1795-4233-8bf7-b6a706fd851e",
 			"4b96c375-2d86-4d4e-ad30-d11d8f6da36c"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
@@ -542,8 +574,9 @@
 			"115a47dd-b8b6-4bf3-a404-66eab48da8ec",
 			"edd68785-7124-4de0-bf66-9d964704ff02"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
@@ -551,8 +584,9 @@
 		"sloID": "22",
 		"title": "Lichamelijke opvoeding",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
@@ -560,8 +594,9 @@
 		"sloID": "23",
 		"title": "Lichamelijke opvoeding 1",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
@@ -569,8 +604,9 @@
 		"sloID": "24",
 		"title": "Lichamelijke opvoeding 2",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "b4459aa1-0dbb-409d-a675-8ca914234028",
@@ -584,8 +620,9 @@
 			"a498c991-fd28-4933-a53c-9f96d7f28cbd",
 			"c7906e60-6e7b-4be8-ba61-997a41860d3d"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "ef5159b3-ead9-4a86-9324-e80cd867856c",
@@ -597,8 +634,9 @@
 			"598c4574-5a08-4473-b3b6-e45df89f210e",
 			"123d6698-7e1d-40d9-b219-eb0068e53db1"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "c960fcb7-2c47-4822-88a3-68822f031c40",
@@ -611,8 +649,9 @@
 			"0898ad98-f70a-4f25-a9a3-a11422140952",
 			"9fda2c80-6727-43cb-b7cb-974efc7a08f2"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "b21832a9-69eb-4c10-9a3e-c8cdc60314bb",
@@ -627,8 +666,9 @@
 			"ef712b1f-a5b4-4671-8de7-03d789168697",
 			"cb0fd542-c990-4cb4-8372-042944c80963"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b",
@@ -643,8 +683,9 @@
 			"78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
 			"41df4043-9ba9-4a03-bf59-19f7b936b0b3"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "36b0661f-9ec6-4b0d-b8b8-8a983eb536d5",
@@ -660,8 +701,9 @@
 			"42e39944-f2b4-45d5-b30c-44dc3310cda0",
 			"84582908-21ae-4623-853f-c01c4602a7d7"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "f4848ad5-47b5-4539-8d50-437d15385368",
@@ -677,8 +719,9 @@
 			"28e6f73e-0cb7-425e-a5e6-175121946008",
 			"1a373a1d-9182-4720-bf17-e702455adb3e"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "8ee02a5b-5e70-4260-b104-96538d8d0cb0",
@@ -702,8 +745,9 @@
 			"af3b47e3-a390-41c6-b0a9-89ed27373314",
 			"6c6b6180-d664-46c5-aa02-3e0f79e7f227"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "2795bfff-8566-4e69-b70c-12efba965dc8",
@@ -733,8 +777,9 @@
 			"f9264c4e-27e6-406d-ad62-13bd235a9f8b",
 			"4de21626-8e8a-492f-bb97-3a9a4345b15c"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "aa197275-236f-451e-85be-ed0902848f08",
@@ -750,8 +795,9 @@
 			"c5c6c136-2d81-4482-9337-f3ce4eaaf671",
 			"cd368f01-bcf5-4c3b-9191-05747e44d894"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "11aef2d5-ae09-49c8-9485-e7b93e3f9fda",
@@ -761,8 +807,9 @@
 		"vakkern_id": [
 			"b48f127e-b6c4-4e4d-bfaf-009d63789361"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "b362c478-90c9-45ac-855a-79421d23ed07",
@@ -777,8 +824,9 @@
 			"a2e75d11-1608-4122-b080-c687b9ffc208",
 			"d2cb98f4-9f9b-431b-a39d-96ba9422dfc2"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
@@ -796,8 +844,9 @@
 			"33e606c4-5386-4781-9e04-0d92eae38244",
 			"419e9f2f-7f0f-49d1-a05a-84243d1c6257"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "956d0d86-90f3-443b-a418-52fd9b912661",
@@ -812,8 +861,9 @@
 			"cb9731b7-5221-4984-ba0a-c69f95a65cb4",
 			"52a367e3-b04b-4bbd-8287-f3c8c6e65134"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
@@ -835,8 +885,9 @@
 			"82187447-5392-433b-940d-fd49f6f8d669",
 			"6bfb5344-c28f-4fe3-81f6-04d4dd3d58be"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "96b622d6-264d-4f7a-9875-681ded824e21",
@@ -850,8 +901,9 @@
 			"239d5303-1bbd-4a9d-9aee-b35301f57121",
 			"6077e507-a882-4692-b0f1-3d34857a0d3e"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
@@ -859,8 +911,9 @@
 		"sloID": "37",
 		"title": "Oriëntatie op jezelf en de wereld",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
@@ -876,8 +929,9 @@
 			"d5e55c37-9894-44cc-be37-a93f852b28ab",
 			"8d39b484-7ed6-49c0-ba50-0476c266555c"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
@@ -885,8 +939,9 @@
 		"sloID": "38",
 		"title": "Rekenen en wiskunde",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
@@ -908,8 +963,9 @@
 			"8635a166-23c5-435d-8f12-d27d0f565d94",
 			"283b005e-0bd2-442a-bd32-55c466f52f73"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "73abc618-988a-4409-b2ae-ff16febf68ee",
@@ -923,8 +979,9 @@
 			"ca929c5d-6644-46ac-8217-a5ee298406d1",
 			"4c037ea4-2640-46c9-97fd-293d37aa2c92"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "70d7c26b-9e49-481a-b40b-188e2d538943",
@@ -934,8 +991,9 @@
 		"vakkern_id": [
 			"9e95f81f-f65b-45a4-bb4c-83e619d04522"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
@@ -943,8 +1001,9 @@
 		"sloID": "49",
 		"title": "Tekenen, handvaardigheid en textiele vormgeving",
 		"vakkern_id": [],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
@@ -966,8 +1025,9 @@
 			"aefdd771-208d-40e1-9e09-4cba6dfc406a",
 			"39b37b0c-217a-47ed-89be-25051737e780"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
@@ -982,8 +1042,9 @@
 			"a337989c-f3de-429a-9537-fd5daa62098a",
 			"941616c0-5ae2-4f2a-9e88-1ce1d14e7275"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
@@ -997,8 +1058,9 @@
 			"86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
 			"88c79dcc-74cf-43fb-84ab-8711f63943ab"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "2573e278-9c8a-4787-bce9-8b7df670d4dd",
@@ -1015,8 +1077,9 @@
 			"b2b0a114-9e28-4769-9a14-1da57ef66793",
 			"9956fcbe-af76-41ce-a344-de3095487d66"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "6be72775-5689-4aa4-bb5a-38899b174915",
@@ -1030,8 +1093,9 @@
 			"25249ccb-5ecf-4f69-b830-17d277e5c3b2",
 			"c5834a3e-ebdc-4821-b799-24caa6403bfd"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "73cef23f-df24-4015-8516-072a13dcd369",
@@ -1047,21 +1111,24 @@
 			"73d150de-58f2-40bc-96bd-d9e3ca07206d",
 			"0a8b96f5-752c-4589-b9d1-a7a60ee8dba6"
 		],
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
 		"title": "Informatica",
 		"dirty": 0,
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"title": "Chinees",
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
@@ -1069,8 +1136,9 @@
 			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
 		],
 		"title": "zintuigelijke ontwikkeling",
-		"section": "vak",
-		"parents": []
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
@@ -1078,7 +1146,10 @@
 		"description": "",
 		"vakkern_id": [],
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
@@ -1089,7 +1160,10 @@
 		"description": "",
 		"vakkern_id": [],
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
@@ -1100,7 +1174,10 @@
 		"description": "",
 		"vakkern_id": [],
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
@@ -1108,7 +1185,10 @@
 		"description": "",
 		"vakkern_id": [],
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	},
 	{
 		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
@@ -1119,6 +1199,9 @@
 		"description": "",
 		"vakkern_id": [],
 		"doelniveau_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"data-simply-template": "vak",
+		"selected": 0,
+		"prefix": ""
 	}
 ]
