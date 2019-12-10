@@ -5859,18 +5859,24 @@
 	{
 		"id": "912cccc5-f15f-4d52-b503-fa667791fdf0",
 		"unreleased": true,
-		"title": "31. de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving",
+		"title": "De industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving",
 		"vakinhoud_id": [
 			"986bbf93-57e5-4291-9258-60cbcb0fd4f1"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "3b2c0354-3e28-471c-8e4f-c9eae71c4c23",
 		"unreleased": true,
-		"title": "32. discussies over de ‘sociale kwestie’",
+		"title": "Discussies over de ‘sociale kwestie’",
 		"vakinhoud_id": [
 			"88fb35e6-6203-4869-99bc-ece94a379592"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "32da3329-afbd-4b8a-999c-1664fceb3453",
@@ -5884,10 +5890,13 @@
 	{
 		"id": "4500ade5-7148-44f5-8a56-684d5ae79acd",
 		"unreleased": true,
-		"title": "34. de opkomst van emancipatiebewegingen",
+		"title": "De opkomst van emancipatiebewegingen",
 		"vakinhoud_id": [
 			"b5a46941-c0b8-454e-8048-dec19c0c4685"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "2cdb3d1f-e9a6-424d-94be-8f05e7ae551e",
@@ -5900,10 +5909,13 @@
 	{
 		"id": "46ae6b4f-4dcc-4d4f-b0df-4a32cb513642",
 		"unreleased": true,
-		"title": "36. de opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme",
+		"title": "De opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme",
 		"vakinhoud_id": [
 			"43a03e8b-4684-4083-8a16-d6466ed1ea6f"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "8856938a-62f1-4979-8c41-57493c461dd6",
@@ -6406,38 +6418,50 @@
 	{
 		"id": "8b1d2af0-57e9-4edf-a3b5-61d39489a4ce",
 		"unreleased": true,
-		"title": "19. het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling",
+		"title": "Het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling",
 		"vakinhoud_id": [
 			"0e965c95-125a-47c7-a0f7-93b102a63933",
 			"a23564dd-9eed-4e85-9fae-5a16980876e8"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "670be449-1c93-475f-bce1-530dfe807655",
 		"unreleased": true,
-		"title": "20. de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid",
+		"title": "De hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid",
 		"vakinhoud_id": [
 			"578099c8-7e86-45a4-a39a-b508b93b960b"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "3b627780-34b4-4410-9660-0d6f8552d920",
 		"unreleased": true,
-		"title": "21. de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had",
+		"title": "De protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had",
 		"vakinhoud_id": [
 			"92a25c42-2833-4d82-9d18-513dc0bed3d9",
 			"3ea66cef-216f-4da2-b469-2309e4a5e73d"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "47b69a4b-826b-4e04-b08f-3dbbb9eef36b",
 		"unreleased": true,
-		"title": "22. het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat",
+		"title": "Het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat",
 		"vakinhoud_id": [
 			"cbdb41b4-e00a-453c-aba6-3472763e1854",
 			"9bf55c23-1aba-4b59-ad5f-feef0ba2cb52",
 			"879c3982-1b19-42c2-8a1f-c4ed9fb8b68d"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "dec40ce1-1dc5-44aa-8123-6db4332cf468",
@@ -6475,37 +6499,49 @@
 	{
 		"id": "15b243b7-8272-4f30-b20b-21462faed58c",
 		"unreleased": true,
-		"title": "27. rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen",
+		"title": "Rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen",
 		"vakinhoud_id": [
 			"d8f6843a-0228-47ec-9d2a-6927c54fb0fa",
 			"e9d89847-989b-4bd8-a1f9-131ae32670db"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "70f8544f-36da-4690-a8a8-e6fe411935bf",
 		"unreleased": true,
-		"title": "28. voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme)",
+		"title": "Voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme)",
 		"vakinhoud_id": [
 			"9f7d8a31-30dc-452b-91be-d76325ac0031"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "87acc18c-0a5f-4474-bb72-6870ecdff751",
 		"unreleased": true,
-		"title": "29. uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme",
+		"title": "Uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme",
 		"vakinhoud_id": [
 			"956b02c5-14c7-4b17-a202-a84036ca6663"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "255337e2-2ee0-4feb-8d70-7ead6bf3825c",
 		"unreleased": true,
-		"title": "30. de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap",
+		"title": "De democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap",
 		"vakinhoud_id": [
 			"3d443511-18a7-4346-b04f-3238ce5583aa",
 			"b7d390d8-e1d7-437b-a684-7c257a1adccf",
 			"5ecd98f0-6a25-4600-80a6-1a8255a8e6a2"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "a61615ef-1f2d-4e58-a1c7-1f0756467d7f",
@@ -6561,21 +6597,27 @@
 	{
 		"id": "5b4d196b-184d-4026-87e0-364e9291c63b",
 		"unreleased": true,
-		"title": "24. de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek",
+		"title": "De bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek",
 		"vakinhoud_id": [
 			"a5f78166-6fdb-4664-8f33-8af21f4d77de",
 			"1682143f-aba6-4c73-91e6-c4efa5a24404",
 			"8113512e-5cf0-4fa6-b075-163831a9c4ab"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "e54e3750-c44c-43c7-b1f6-e3cca80d5760",
 		"unreleased": true,
-		"title": "25. wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie",
+		"title": "Wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie",
 		"vakinhoud_id": [
 			"6f70d7d0-abfd-4ec6-94d3-d3a4e317fc04",
 			"92eef062-6a91-4dbd-aa44-3f0fd8fddb9d"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "295a98df-48b7-4c19-b868-57b52d33783f",
@@ -6623,43 +6665,58 @@
 	{
 		"id": "a54ad903-e25a-43cf-9527-2ac1ab56a187",
 		"unreleased": true,
-		"title": "13. de opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving",
+		"title": "De opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving",
 		"vakinhoud_id": [
 			"32071a52-3a0d-47d6-98cd-e77dec8ccc82"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "1df4622e-d21a-4cfd-b0f8-cce9a2f67286",
 		"unreleased": true,
-		"title": "14. de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden",
+		"title": "De opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden",
 		"vakinhoud_id": [
 			"7d979ca3-9b6d-45d0-8776-268ba6af61aa"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "349e988d-9e19-4c6c-bb8f-ba70643c2977",
 		"unreleased": true,
-		"title": "15. het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben",
+		"title": "Het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben",
 		"vakinhoud_id": [
 			"416ea4d0-a2ba-4918-b5f5-bac17520ada8"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "c82a8ee3-405d-4643-abc7-f4e3420ab706",
 		"unreleased": true,
-		"title": "16. de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten",
+		"title": "De expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten",
 		"vakinhoud_id": [
 			"792ca9c0-c21e-4757-8d5d-55cae29f43a7"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "2c40631b-c61c-4dd8-97a3-7d79573ca44d",
 		"unreleased": true,
-		"title": "17. het begin van staatsvorming en centralisatie",
+		"title": "Het begin van staatsvorming en centralisatie",
 		"vakinhoud_id": [
 			"5ed00868-5368-4ddc-9683-6ad8613b49da",
 			"dc58c2d2-e116-4cd8-9210-089a3c81fc6b"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "ae78f98f-e82e-4975-89e2-a26a95a38929",
@@ -6822,46 +6879,61 @@
 	{
 		"id": "c0d42915-6dc7-4de2-bdfc-ba633cee96f9",
 		"unreleased": true,
-		"title": "45. de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog",
+		"title": "De verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog",
 		"vakinhoud_id": [
 			"56980a81-356c-4e53-bc70-c1f743796946",
 			"67aaca9c-7460-47eb-9584-791a4cd18abe",
 			"9f13e278-bfb5-4b1f-b53d-f350f416c991",
 			"962ebf67-5e50-43a7-81d1-f46686eaa6a2",
 			"90d7e06a-0396-47b2-adcf-323c9f217296"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "8b4763bd-0868-4e87-b8d5-1102000c00b5",
 		"unreleased": true,
-		"title": "46. de dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld",
+		"title": "De dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld",
 		"vakinhoud_id": [
 			"1ed4f2c0-479e-4795-9e43-78ddf8757a8f"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "76c0587c-5570-4e41-9dc8-9c666af00251",
 		"unreleased": true,
-		"title": "47. de eenwording van Europa",
+		"title": "De eenwording van Europa",
 		"vakinhoud_id": [
 			"cc6722ce-0c62-49f9-bb3f-090a7db88ee8"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "76e031bd-c1ae-445b-a916-9ba8d8cfe0f8",
 		"unreleased": true,
-		"title": "48. toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen",
+		"title": "Toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen",
 		"vakinhoud_id": [
 			"45f9aad6-0442-436b-9969-fb5dc2eb8bfb"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "41a22f57-82fd-4c59-beb0-099b85f51ecd",
 		"unreleased": true,
-		"title": "49. de ontwikkeling van pluriforme en multiculturele samenlevingen",
+		"title": "De ontwikkeling van pluriforme en multiculturele samenlevingen",
 		"vakinhoud_id": [
 			"b47e52c4-e394-4f69-89d7-c4ee12d14b20"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "a22f383b-514b-4339-a3af-d83f36827aff",
@@ -6901,71 +6973,95 @@
 	{
 		"id": "9bf90730-d548-42b7-8edb-1814a742b965",
 		"unreleased": true,
-		"title": "37. de rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie",
+		"title": "De rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie",
 		"vakinhoud_id": [
 			"ca06e345-f8ef-468a-860e-37304d1186c0"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "900370d8-cded-4e04-9d4f-53326fb7df45",
 		"unreleased": true,
-		"title": "38. het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme",
+		"title": "Het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme",
 		"vakinhoud_id": [
 			"f483bdab-f529-4b07-81fc-5356139d8629",
 			"0993a40a-21cf-4b9d-92f5-7a3c669b59b9",
 			"0fb8540b-c96c-49e2-bcc0-4d399e8891c7"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "5df4b605-ceab-48dc-92d1-e4c9771066b9",
 		"unreleased": true,
-		"title": "39. de crisis van het wereldkapitalisme",
+		"title": "De crisis van het wereldkapitalisme",
 		"vakinhoud_id": [
 			"706a3f9a-4545-4ed4-813b-c3bca4dc8dc8"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "e538f4c6-e56a-42b4-970d-68a8d6395363",
 		"unreleased": true,
-		"title": "40. het voeren van twee wereldoorlogen",
+		"title": "Het voeren van twee wereldoorlogen",
 		"vakinhoud_id": [
 			"184a6fe3-7f2a-43a5-a511-5404243d3840",
 			"36150efc-490c-440f-b262-47f61436171e",
 			"f575805f-2de6-4f5d-be1b-12ff58ecddf0"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "88cde31b-a6ce-4990-a5e8-a3a3d8d4a4b8",
 		"unreleased": true,
-		"title": "41. racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden",
+		"title": "Racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden",
 		"vakinhoud_id": [
 			"9e10300f-e902-431e-b97a-b0655c5e507a"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "2ba8e4df-2d10-484a-b50b-8229a647162b",
 		"unreleased": true,
-		"title": "42. de Duitse bezetting van Nederland",
+		"title": "De Duitse bezetting van Nederland",
 		"vakinhoud_id": [
 			"88279340-676c-41d5-a70c-c997ee16bf46"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "dc0437d8-d402-43db-9575-13b41d4088e4",
 		"unreleased": true,
-		"title": "43. verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering",
+		"title": "Verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering",
 		"vakinhoud_id": [
 			"5d6e9b4f-7f1b-4bd6-b44b-87f0c63e6341",
 			"03818f23-d17e-42b9-be1f-10a0fe39d794"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "d74986a9-8f69-41d6-8a1d-93835fd23880",
 		"unreleased": true,
-		"title": "44. vormen van verzet tegen het West-Europese imperialisme",
+		"title": "Vormen van verzet tegen het West-Europese imperialisme",
 		"vakinhoud_id": [
 			"a2b60d40-aa15-4c46-81ea-dfca8025fa8c"
-		]
+		],
+		"description": "",
+		"doelniveau_id": [],
+		"dirty": 0
 	},
 	{
 		"id": "c6c894ec-12fb-4d98-96da-13951c80a2c1",
