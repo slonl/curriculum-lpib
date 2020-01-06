@@ -39,8 +39,21 @@
 			"62075821-bf43-4d10-8deb-9e405c828757"
 		],
 		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"niveau_id": [
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"deleted": "0"
 	},
 	{
 		"id": "182462b2-662f-42e5-8464-f9075afee3ba",
@@ -69,9 +82,7 @@
 			"991b7180-071c-4913-bcbb-5dadac8f52b2",
 			"d9b40ac7-ba78-4bd5-a108-337d2be35827"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
@@ -89,15 +100,13 @@
 		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
 		"unreleased": true,
 		"sloID": "4",
-		"title": "Bewegen, sport en maatschappij",
-		"vakkern_id": []
+		"title": "Bewegen, sport en maatschappij"
 	},
 	{
 		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
 		"unreleased": true,
 		"sloID": "5",
-		"title": "Bewegingsonderwijs",
-		"vakkern_id": []
+		"title": "Bewegingsonderwijs"
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -273,8 +282,7 @@
 		"id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
 		"unreleased": true,
 		"sloID": "12",
-		"title": "Friese taal",
-		"vakkern_id": []
+		"title": "Friese taal"
 	},
 	{
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
@@ -362,15 +370,13 @@
 		"id": "21e34b16-1187-4ebb-967e-ae309993cb58",
 		"unreleased": true,
 		"sloID": "46",
-		"title": "Kennisbasis natuurwetenschappen en technologie",
-		"vakkern_id": []
+		"title": "Kennisbasis natuurwetenschappen en technologie"
 	},
 	{
 		"id": "ef872885-1953-4008-9dcc-32281274446a",
 		"unreleased": true,
 		"sloID": "14",
-		"title": "Klassieke culturele vorming",
-		"vakkern_id": []
+		"title": "Klassieke culturele vorming"
 	},
 	{
 		"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
@@ -388,8 +394,7 @@
 		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
 		"unreleased": true,
 		"sloID": "16",
-		"title": "Kunst: algemeen",
-		"vakkern_id": []
+		"title": "Kunst: algemeen"
 	},
 	{
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
@@ -444,8 +449,7 @@
 		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
 		"unreleased": true,
 		"sloID": "51",
-		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
-		"vakkern_id": []
+		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming"
 	},
 	{
 		"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
@@ -479,22 +483,19 @@
 		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
 		"unreleased": true,
 		"sloID": "22",
-		"title": "Lichamelijke opvoeding",
-		"vakkern_id": []
+		"title": "Lichamelijke opvoeding"
 	},
 	{
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
 		"unreleased": true,
 		"sloID": "23",
-		"title": "Lichamelijke opvoeding 1",
-		"vakkern_id": []
+		"title": "Lichamelijke opvoeding 1"
 	},
 	{
 		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
 		"unreleased": true,
 		"sloID": "24",
-		"title": "Lichamelijke opvoeding 2",
-		"vakkern_id": []
+		"title": "Lichamelijke opvoeding 2"
 	},
 	{
 		"id": "b4459aa1-0dbb-409d-a675-8ca914234028",
@@ -749,8 +750,7 @@
 		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
 		"unreleased": true,
 		"sloID": "37",
-		"title": "Oriëntatie op jezelf en de wereld",
-		"vakkern_id": []
+		"title": "Oriëntatie op jezelf en de wereld"
 	},
 	{
 		"id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
@@ -771,8 +771,7 @@
 		"id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
 		"unreleased": true,
 		"sloID": "38",
-		"title": "Rekenen en wiskunde",
-		"vakkern_id": []
+		"title": "Rekenen en wiskunde"
 	},
 	{
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
@@ -821,8 +820,7 @@
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
 		"unreleased": true,
 		"sloID": "49",
-		"title": "Tekenen, handvaardigheid en textiele vormgeving",
-		"vakkern_id": []
+		"title": "Tekenen, handvaardigheid en textiele vormgeving"
 	},
 	{
 		"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
@@ -918,8 +916,7 @@
 	},
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
-		"title": "Informatica",
-		"dirty": 0
+		"title": "Informatica"
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
@@ -935,10 +932,7 @@
 	{
 		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
 		"title": "Leren leren",
-		"description": "",
-		"vakkern_id": [],
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
@@ -946,10 +940,7 @@
 			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
 		],
 		"title": "Motorische ontwikkeling",
-		"description": "",
-		"vakkern_id": [],
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
@@ -957,18 +948,12 @@
 			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
 		],
 		"title": "Bewegen en sport",
-		"description": "",
-		"vakkern_id": [],
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
 		"title": "Sociaal-emotionele ontwikkeling",
-		"description": "",
-		"vakkern_id": [],
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
@@ -976,9 +961,6 @@
 			"04058361-4e9e-4c02-a057-41605a7f37b5"
 		],
 		"title": "Praktische redzaamheid",
-		"description": "",
-		"vakkern_id": [],
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	}
 ]
