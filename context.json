@@ -124,7 +124,17 @@
                         ]
                     },
                     "uniqueItems": true
-                }
+                },
+                "niveau_id": {
+                    "allOf": [
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                            }
+                        }
+                    ]
+                },
             },
             "not": {
                 "anyOf": [
