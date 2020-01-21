@@ -1024,7 +1024,12 @@
 	},
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
-		"title": "Informatica"
+		"title": "Informatica",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
