@@ -54,10 +54,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"512e4729-03a4-43a2-95ba-758071d1b725"
 		],
-		"deleted": "0",
-		"doelniveau_id": [],
-		"dirty": "",
-		"commit": "1"
+		"deleted": "0"
 	},
 	{
 		"id": "182462b2-662f-42e5-8464-f9075afee3ba",
@@ -69,7 +66,13 @@
 			"59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
 			"1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
 			"9db0a453-76cb-49ea-8690-551bfd579825"
-		]
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"deleted": "0"
 	},
 	{
 		"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
@@ -86,7 +89,11 @@
 			"991b7180-071c-4913-bcbb-5dadac8f52b2",
 			"d9b40ac7-ba78-4bd5-a108-337d2be35827"
 		],
-		"description": ""
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "f7bbb238-929b-4f7e-b147-3b082baf2ddc",
@@ -98,6 +105,13 @@
 			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
 			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
 			"7d71171d-3ec7-4961-8931-bfaaddd62082"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -152,9 +166,6 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"doelniveau_id": [],
-		"dirty": 0,
-		"commit": "1",
 		"deleted": "0"
 	},
 	{
@@ -170,6 +181,12 @@
 			"09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
 			"88c9707b-920d-454d-9b80-b7dc879a31fc",
 			"8f8a5f29-44f5-4fc1-9423-de45204cebc1"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -237,9 +254,6 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"doelniveau_id": [],
-		"dirty": 0,
-		"commit": "1",
 		"deleted": "0"
 	},
 	{
@@ -597,10 +611,7 @@
 			"2a1401e9-c223-493b-9b86-78f6993b1a8d",
 			"a3ddbe60-8478-4204-b769-6f5e9f4cbca2",
 			"ad9872e5-edc4-4a62-9ee7-ba7daceba2e0"
-		],
-		"doelniveau_id": [],
-		"dirty": 0,
-		"commit": "1"
+		]
 	},
 	{
 		"id": "8413a8ee-e0e3-4d85-ad62-f869c001ac3b",
@@ -825,10 +836,7 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		],
-		"doelniveau_id": [],
-		"dirty": 0,
-		"commit": "1"
+		]
 	},
 	{
 		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
