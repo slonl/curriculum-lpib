@@ -124,7 +124,12 @@
 		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
 		"unreleased": true,
 		"sloID": "5",
-		"title": "Bewegingsonderwijs"
+		"title": "Bewegingsonderwijs",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"deleted": "0"
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -199,6 +204,10 @@
 			"bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
 			"eca40860-d20d-41c2-9fc0-bdfe09993581",
 			"d4e1ef6f-ce81-43fe-a122-f00ad58657b7"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -226,6 +235,12 @@
 			"0823481b-e4de-4dd0-9467-9ea47220a6e1",
 			"73fc01b1-8845-4633-935e-eb0bf9cfa274",
 			"3ec37fff-610e-48ba-8815-d63fd0688591"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -242,17 +257,18 @@
 		],
 		"description": "",
 		"niveau_id": [
-			"2a1401e9-c223-493b-9b86-78f6993b1a8d",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		],
 		"deleted": "0"
 	},
