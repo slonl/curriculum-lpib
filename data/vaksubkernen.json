@@ -1789,8 +1789,7 @@
 	{
 		"id": "ae15748d-1c4f-491e-87dc-a8e6f51f381b",
 		"unreleased": true,
-		"title": "Nederlandse landschappen",
-		"doelniveau_id": []
+		"title": "Nederlandse landschappen"
 	},
 	{
 		"id": "a6d738bd-81ae-4cd5-a66a-3cf78d3a31bd",
@@ -1945,7 +1944,6 @@
 		"id": "b2689735-9233-4443-a7a4-92bae395deab",
 		"unreleased": true,
 		"title": "Endogene krachten",
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"9621bb7d-488e-45ab-8c1a-11d808f2c4b8",
 			"a91132bd-ae7d-41a8-a436-89f67bcf1567"
@@ -1955,7 +1953,6 @@
 		"id": "131fad53-81e4-47a5-b3a9-1198602418ad",
 		"unreleased": true,
 		"title": "Exogene krachten",
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"80fb2608-42b1-4b68-b61d-3b216add16f4"
 		]
@@ -5863,9 +5860,7 @@
 		"vakinhoud_id": [
 			"986bbf93-57e5-4291-9258-60cbcb0fd4f1"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "3b2c0354-3e28-471c-8e4f-c9eae71c4c23",
@@ -5874,9 +5869,7 @@
 		"vakinhoud_id": [
 			"88fb35e6-6203-4869-99bc-ece94a379592"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "32da3329-afbd-4b8a-999c-1664fceb3453",
@@ -5894,9 +5887,7 @@
 		"vakinhoud_id": [
 			"b5a46941-c0b8-454e-8048-dec19c0c4685"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "2cdb3d1f-e9a6-424d-94be-8f05e7ae551e",
@@ -5913,9 +5904,7 @@
 		"vakinhoud_id": [
 			"43a03e8b-4684-4083-8a16-d6466ed1ea6f"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "8856938a-62f1-4979-8c41-57493c461dd6",
@@ -6423,9 +6412,7 @@
 			"0e965c95-125a-47c7-a0f7-93b102a63933",
 			"a23564dd-9eed-4e85-9fae-5a16980876e8"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "670be449-1c93-475f-bce1-530dfe807655",
@@ -6434,9 +6421,7 @@
 		"vakinhoud_id": [
 			"578099c8-7e86-45a4-a39a-b508b93b960b"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "3b627780-34b4-4410-9660-0d6f8552d920",
@@ -6446,9 +6431,7 @@
 			"92a25c42-2833-4d82-9d18-513dc0bed3d9",
 			"3ea66cef-216f-4da2-b469-2309e4a5e73d"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "47b69a4b-826b-4e04-b08f-3dbbb9eef36b",
@@ -6459,9 +6442,7 @@
 			"9bf55c23-1aba-4b59-ad5f-feef0ba2cb52",
 			"879c3982-1b19-42c2-8a1f-c4ed9fb8b68d"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "dec40ce1-1dc5-44aa-8123-6db4332cf468",
@@ -6504,9 +6485,7 @@
 			"d8f6843a-0228-47ec-9d2a-6927c54fb0fa",
 			"e9d89847-989b-4bd8-a1f9-131ae32670db"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "70f8544f-36da-4690-a8a8-e6fe411935bf",
@@ -6515,9 +6494,7 @@
 		"vakinhoud_id": [
 			"9f7d8a31-30dc-452b-91be-d76325ac0031"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "87acc18c-0a5f-4474-bb72-6870ecdff751",
@@ -6526,9 +6503,7 @@
 		"vakinhoud_id": [
 			"956b02c5-14c7-4b17-a202-a84036ca6663"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "255337e2-2ee0-4feb-8d70-7ead6bf3825c",
@@ -6539,9 +6514,7 @@
 			"b7d390d8-e1d7-437b-a684-7c257a1adccf",
 			"5ecd98f0-6a25-4600-80a6-1a8255a8e6a2"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "a61615ef-1f2d-4e58-a1c7-1f0756467d7f",
@@ -6603,9 +6576,7 @@
 			"1682143f-aba6-4c73-91e6-c4efa5a24404",
 			"8113512e-5cf0-4fa6-b075-163831a9c4ab"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "e54e3750-c44c-43c7-b1f6-e3cca80d5760",
@@ -6615,9 +6586,7 @@
 			"6f70d7d0-abfd-4ec6-94d3-d3a4e317fc04",
 			"92eef062-6a91-4dbd-aa44-3f0fd8fddb9d"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "295a98df-48b7-4c19-b868-57b52d33783f",
@@ -6669,9 +6638,7 @@
 		"vakinhoud_id": [
 			"32071a52-3a0d-47d6-98cd-e77dec8ccc82"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "1df4622e-d21a-4cfd-b0f8-cce9a2f67286",
@@ -6680,9 +6647,7 @@
 		"vakinhoud_id": [
 			"7d979ca3-9b6d-45d0-8776-268ba6af61aa"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "349e988d-9e19-4c6c-bb8f-ba70643c2977",
@@ -6691,9 +6656,7 @@
 		"vakinhoud_id": [
 			"416ea4d0-a2ba-4918-b5f5-bac17520ada8"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "c82a8ee3-405d-4643-abc7-f4e3420ab706",
@@ -6702,9 +6665,7 @@
 		"vakinhoud_id": [
 			"792ca9c0-c21e-4757-8d5d-55cae29f43a7"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "2c40631b-c61c-4dd8-97a3-7d79573ca44d",
@@ -6714,9 +6675,7 @@
 			"5ed00868-5368-4ddc-9683-6ad8613b49da",
 			"dc58c2d2-e116-4cd8-9210-089a3c81fc6b"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "ae78f98f-e82e-4975-89e2-a26a95a38929",
@@ -6887,9 +6846,7 @@
 			"962ebf67-5e50-43a7-81d1-f46686eaa6a2",
 			"90d7e06a-0396-47b2-adcf-323c9f217296"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "8b4763bd-0868-4e87-b8d5-1102000c00b5",
@@ -6898,9 +6855,7 @@
 		"vakinhoud_id": [
 			"1ed4f2c0-479e-4795-9e43-78ddf8757a8f"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "76c0587c-5570-4e41-9dc8-9c666af00251",
@@ -6909,9 +6864,7 @@
 		"vakinhoud_id": [
 			"cc6722ce-0c62-49f9-bb3f-090a7db88ee8"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "76e031bd-c1ae-445b-a916-9ba8d8cfe0f8",
@@ -6920,9 +6873,7 @@
 		"vakinhoud_id": [
 			"45f9aad6-0442-436b-9969-fb5dc2eb8bfb"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "41a22f57-82fd-4c59-beb0-099b85f51ecd",
@@ -6931,9 +6882,7 @@
 		"vakinhoud_id": [
 			"b47e52c4-e394-4f69-89d7-c4ee12d14b20"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "a22f383b-514b-4339-a3af-d83f36827aff",
@@ -6977,9 +6926,7 @@
 		"vakinhoud_id": [
 			"ca06e345-f8ef-468a-860e-37304d1186c0"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "900370d8-cded-4e04-9d4f-53326fb7df45",
@@ -6990,9 +6937,7 @@
 			"0993a40a-21cf-4b9d-92f5-7a3c669b59b9",
 			"0fb8540b-c96c-49e2-bcc0-4d399e8891c7"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "5df4b605-ceab-48dc-92d1-e4c9771066b9",
@@ -7001,9 +6946,7 @@
 		"vakinhoud_id": [
 			"706a3f9a-4545-4ed4-813b-c3bca4dc8dc8"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "e538f4c6-e56a-42b4-970d-68a8d6395363",
@@ -7014,9 +6957,7 @@
 			"36150efc-490c-440f-b262-47f61436171e",
 			"f575805f-2de6-4f5d-be1b-12ff58ecddf0"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "88cde31b-a6ce-4990-a5e8-a3a3d8d4a4b8",
@@ -7025,9 +6966,7 @@
 		"vakinhoud_id": [
 			"9e10300f-e902-431e-b97a-b0655c5e507a"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "2ba8e4df-2d10-484a-b50b-8229a647162b",
@@ -7036,9 +6975,7 @@
 		"vakinhoud_id": [
 			"88279340-676c-41d5-a70c-c997ee16bf46"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "dc0437d8-d402-43db-9575-13b41d4088e4",
@@ -7048,9 +6985,7 @@
 			"5d6e9b4f-7f1b-4bd6-b44b-87f0c63e6341",
 			"03818f23-d17e-42b9-be1f-10a0fe39d794"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "d74986a9-8f69-41d6-8a1d-93835fd23880",
@@ -7059,9 +6994,7 @@
 		"vakinhoud_id": [
 			"a2b60d40-aa15-4c46-81ea-dfca8025fa8c"
 		],
-		"description": "",
-		"doelniveau_id": [],
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "c6c894ec-12fb-4d98-96da-13951c80a2c1",
@@ -8777,10 +8710,11 @@
 	{
 		"id": "892f0d61-f9f9-4316-99b2-115fb3424bce",
 		"unreleased": true,
-		"title": "Elektriciteit en magnetisme",
+		"title": "Elektriciteit en magnetisme (Mens en natuur)",
 		"vakinhoud_id": [
 			"046962b3-cf63-4033-a4e0-c5d0ef0aa87f"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "daaca83c-99be-41e8-ba9a-17b76a250420",
@@ -8835,10 +8769,11 @@
 	{
 		"id": "f73f2505-d629-4596-9b37-0a44dad50ec3",
 		"unreleased": true,
-		"title": "energieomzetting",
+		"title": "Energieomzetting (Mens en natuur)",
 		"vakinhoud_id": [
 			"4e132698-60fa-4a54-857c-ce9cbe2de020"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "1b3e9cf1-b876-46cf-8387-68a5a7e8634e",
@@ -9143,11 +9078,12 @@
 	{
 		"id": "95c78c57-23e0-4c53-9f36-1901b1b1f684",
 		"unreleased": true,
-		"title": "Energieomzetting",
+		"title": "Energieomzetting (Nask1)",
 		"vakinhoud_id": [
 			"495bf58a-8f73-48f7-ba05-4bc8fda9f47b",
 			"4e132698-60fa-4a54-857c-ce9cbe2de020"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3cef741f-227f-49f6-bb6f-68214d9861fd",
@@ -9196,7 +9132,7 @@
 	{
 		"id": "9ac35b30-4f7a-4f2d-ab61-c0c466724fbf",
 		"unreleased": true,
-		"title": "Elektriciteit en magnetisme",
+		"title": "Elektriciteit en magnetisme (Nask 1)",
 		"vakinhoud_id": [
 			"5db5a8c6-b432-4d81-af92-ef6d98a563b5",
 			"f951592d-3ef2-4df3-9c25-3b994ef4d626",
@@ -9232,7 +9168,8 @@
 			"5079b768-8229-4147-b0a7-24c08ea865d5",
 			"32f48076-4fef-4edf-bcba-ac15d586acb8",
 			"c3ae7c1c-a4c4-4ba2-a6c6-6ef3598c63e1"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "18695eb9-4d55-4241-895d-524c9bd767db",
@@ -9493,13 +9430,14 @@
 	{
 		"id": "5184a004-f25b-4e81-8c0d-40b44efd1a72",
 		"unreleased": true,
-		"title": "Straling en stralingsbescherming",
+		"title": "Straling en stralingsbescherming (nask1)",
 		"vakinhoud_id": [
 			"55729842-73b6-48d9-b6b7-0f636462c138",
 			"7a2a641a-375b-42fd-8e2e-f6e225d9ac8b",
 			"02f99ae9-192c-43d0-866f-2ff122334d75",
 			"4d69f19f-e892-4117-a7a8-d1b9cd2a4202"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3b612578-e5ed-4e86-8578-114a70815c7b",
@@ -10347,7 +10285,7 @@
 	{
 		"id": "3536b856-0c37-4d04-8df7-0fd04831b66b",
 		"unreleased": true,
-		"title": "Elektriciteit en magnetisme",
+		"title": "Elektriciteit en magnetisme (Natuurkunde)",
 		"doelniveau_id": [
 			"8d8e1c3d-9725-4aad-9675-243e36670d51",
 			"d70bf4a9-e3fc-4d4f-9cf3-1b5360a0c687",
@@ -10375,7 +10313,8 @@
 			"cbe5bf5a-43b2-4ef0-b621-83c524b0fa55",
 			"661c2b55-2787-4fbd-80cd-63c28e2a0dae",
 			"82a9628c-b8fd-470e-a87e-408ed2ee7a9f"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e7b20c68-6b0f-485b-97dc-9c5ef1a9420a",
@@ -11273,7 +11212,6 @@
 		"id": "4a388c3e-1b3c-4de7-a0d5-ad126a0831ab",
 		"unreleased": true,
 		"title": "Begrippenlijst",
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"940ccf89-54a5-42a8-97db-5d574a68e6d4"
 		]
@@ -11282,7 +11220,6 @@
 		"id": "4213d747-5073-4618-b487-f5c730edaa2a",
 		"unreleased": true,
 		"title": "Taalverzorging",
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"08dc4339-1d21-4096-9d2d-e2c7c32bf8db",
 			"eac96d21-872a-4476-a0bc-b529990893c1",
