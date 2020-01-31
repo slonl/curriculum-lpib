@@ -1119,8 +1119,7 @@
 			"a715f1aa-5002-4dce-a9cf-db3eefdd55cb",
 			"2af5035b-26e3-402f-a4d0-ac087e6d1a76",
 			"8cc54a86-1db1-4f93-b4fe-42e39b7fdb91"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "e75e604d-3040-443e-8450-7e03dfe916fe",
@@ -1223,8 +1222,7 @@
 			"5fc2243c-fc31-4890-9eec-fe0221797a67",
 			"f772d19a-a44d-4b55-b120-1a2c198f1b14",
 			"1d25ed4f-adc9-415a-8b8f-f4feb15e17f1"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "e463d6a7-cd43-4d10-b9e2-7466158ab22e",
@@ -1309,7 +1307,6 @@
 		"id": "f97c1a1e-d308-412b-b32a-94da1f565fa9",
 		"unreleased": true,
 		"title": "Biosfeer",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"dcacbf96-bd6f-41cc-ab35-45b81457686c",
@@ -1322,7 +1319,6 @@
 		"id": "59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
 		"unreleased": true,
 		"title": "Leven",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
@@ -1338,7 +1334,6 @@
 		"id": "1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
 		"unreleased": true,
 		"title": "Materie",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
@@ -1352,7 +1347,6 @@
 		"id": "9db0a453-76cb-49ea-8690-551bfd579825",
 		"unreleased": true,
 		"title": "Zonnestelsel en heelal",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"0bfdf80b-1789-4af4-b707-7b643864e195",
@@ -1366,7 +1360,6 @@
 		"id": "c516b0c6-75f2-4017-8a60-fc78373ca0ff",
 		"unreleased": true,
 		"title": "Financieel beleid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"1192aa88-9c24-4aae-af64-cc1c80497aaf",
 			"453e77b6-b098-4157-b5a3-14fa5d7769e8"
@@ -1376,7 +1369,6 @@
 		"id": "87512196-3d6b-49de-9c22-3a4b6ab8d41c",
 		"unreleased": true,
 		"title": "Interne organisatie en personeelsbeleid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9d4708c2-448a-4c18-9bb9-1f2f46bdde91",
 			"fa07bc45-1d72-4d91-b4ba-fbb59b971c89"
@@ -1386,7 +1378,6 @@
 		"id": "5862c3cc-823d-464c-8393-bab36d3fd91d",
 		"unreleased": true,
 		"title": "Investeren en financieren",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"79e05024-06d2-4804-8cd1-3204bf18036c",
 			"51bd7884-5095-499d-ae76-7b6e3db95d7a"
@@ -1396,7 +1387,6 @@
 		"id": "c50eb58e-56bb-4a72-af02-8a0cfe8da8a2",
 		"unreleased": true,
 		"title": "Keuze-onderwerpen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"a04ca946-f53c-4348-bc15-3f5cf6c454b3",
 			"e2250ddf-8a52-4779-85ca-aa825fc95b3d"
@@ -1406,7 +1396,6 @@
 		"id": "097a5c80-54ff-43fd-9963-9e5d50f0be0e",
 		"unreleased": true,
 		"title": "Marketing",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"e47971cf-1b72-409e-8cbc-fa668267a790",
 			"caeace86-4d72-4906-b9ce-901515a091d9"
@@ -1416,7 +1405,6 @@
 		"id": "17f209b5-d4c3-42df-96d8-b472ed6e7eee",
 		"unreleased": true,
 		"title": "Vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"7f509b03-da78-4160-be3c-df1f4fba0a4d",
 			"2b09ccb8-77ac-433c-b8e8-88baceb8c708"
@@ -1426,7 +1414,6 @@
 		"id": "991b7180-071c-4913-bcbb-5dadac8f52b2",
 		"unreleased": true,
 		"title": "Van persoon naar rechtspersoon",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"c1c0c88e-ed41-40c4-b203-34be378a5f45",
 			"88da1ea4-962b-4bbc-9fed-3311a0f8f746"
@@ -1436,7 +1423,6 @@
 		"id": "d9b40ac7-ba78-4bd5-a108-337d2be35827",
 		"unreleased": true,
 		"title": "Verslaggeving",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"2e75c944-5ad6-4820-9320-c865b51644f9",
 			"47f099c4-4a90-4c09-ab6f-4b112af3ca38"
@@ -1484,7 +1470,6 @@
 		"id": "364f3648-ed5a-45c8-8aa8-a6f796ee0505",
 		"unreleased": true,
 		"title": "Bewegen regelen",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"51464326-f4f0-43a6-8edf-732fb35dbe9f",
 			"37e862db-828a-4e51-913f-74f43b1d2dba",
@@ -1601,7 +1586,6 @@
 		"id": "7d71171d-3ec7-4961-8931-bfaaddd62082",
 		"unreleased": true,
 		"title": "Gezond bewegen",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"83bcb3e6-9c0a-4f72-8656-01145c9843c2",
 			"44725cba-4810-4599-9d77-ecd2ee0909fd",
@@ -2116,7 +2100,6 @@
 		"id": "4a5b8ba8-30bc-4a66-b672-95e14dc667b3",
 		"unreleased": true,
 		"title": "Modelontwikkeling en -gebruik",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"5a440751-e762-4a70-88a9-6dd725e7f3a9",
@@ -2313,7 +2296,6 @@
 		"id": "ae1ac7ed-4c29-4985-b5ff-7e94136b42db",
 		"unreleased": true,
 		"title": "Reken- en wiskundige vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"37950d8b-c086-4240-8d10-c33504687c0f",
 			"9f764080-e51c-4d2d-86c8-3049b5e57574",
@@ -2468,7 +2450,6 @@
 		"id": "5aee87c0-28a0-490f-aada-a8ddea52310d",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"fdf46b0d-ba4b-4e50-82d3-6eeff87fb358",
 			"ef960026-8e23-44da-93ca-ff1d92e8e58a",
@@ -2531,7 +2512,6 @@
 		"id": "261c775c-2726-4edd-b471-dbfdeb9fa77c",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9824710e-3623-48be-bfd4-0a2cfb35cd3c",
 			"fb1aebc5-0d55-4927-ba32-ab829effa60c",
@@ -2550,7 +2530,6 @@
 		"id": "37d33cd1-3457-4d0a-8543-e25af5629f93",
 		"unreleased": true,
 		"title": "Module 1 Bouwproces en bouwvoorbereiding (1201)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"8c8cb720-342c-4f38-bc00-9bcaab5891da",
 			"13286e52-c85f-4b7a-af3f-cda7d5548cdc",
@@ -2561,7 +2540,6 @@
 		"id": "48b2e1d0-22fb-46ff-83ff-1c6364c26e67",
 		"unreleased": true,
 		"title": "Module 2 Bouwen vanaf de fundering (1202)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"9070056a-ff72-44c3-ae70-fc7ea57491a9",
 			"e1eb1ad3-6720-4943-9227-43dc845f4755",
@@ -2573,7 +2551,6 @@
 		"id": "09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
 		"unreleased": true,
 		"title": "Module 3 Hout en meubelverbindingen (1203)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"e676a645-5dab-45cd-9119-c5d2450c3cca",
 			"970c3c67-d552-4204-b088-5b8f6ebc91da"
@@ -2583,7 +2560,6 @@
 		"id": "88c9707b-920d-454d-9b80-b7dc879a31fc",
 		"unreleased": true,
 		"title": "Module 4 Design en decoratie (1204)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4fb18b16-0f3c-49a5-aa54-af64e40b2e7d",
 			"e5c8db85-9edb-4fb0-8dca-0fd12ae29176",
@@ -2595,7 +2571,6 @@
 		"id": "8f8a5f29-44f5-4fc1-9423-de45204cebc1",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -2671,7 +2646,6 @@
 		"id": "66158df9-33c7-456f-8cac-73450a2a9d9b",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
 		]
@@ -2680,7 +2654,6 @@
 		"id": "2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e"
@@ -2690,7 +2663,6 @@
 		"id": "2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3ba00477-6186-4b1b-a853-665e609f584c"
 		]
@@ -2699,7 +2671,6 @@
 		"id": "b352ebb7-4d34-4ac0-bb87-c792317064dc",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
 		]
@@ -2708,7 +2679,6 @@
 		"id": "15dc2637-9e78-4161-82a1-2f3f16b17ac2",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"336bccb4-d4d8-4c43-8297-46765741de47",
 			"f3722df9-64b1-4144-9ebc-5b240e0862cf",
@@ -2767,7 +2737,6 @@
 		"id": "80332363-e7bd-441b-a2d7-c8e770cfcbd9",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"414e2d72-f192-4859-b0b1-25a6b5f04991",
 			"f6a30d7b-e5f8-4bd4-97a8-943b0b6cfed3",
@@ -2784,7 +2753,6 @@
 		"id": "76842c70-6ad3-42d3-8559-4142c7b282fe",
 		"unreleased": true,
 		"title": "Module 1 Organiseren van een activiteit (1915)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4979c1d7-8e74-42c9-8b15-d4ef1a447099",
 			"199b7b9e-fc96-4688-861d-e752aae67dcc",
@@ -2796,7 +2764,6 @@
 		"id": "2d722f58-4481-4c49-b4df-357f755c4f9c",
 		"unreleased": true,
 		"title": "Module 2 Presenteren, promoten en verkopen (1902)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"0ba970c7-3f68-455f-a1e7-4277e27fd75a",
 			"9a78cd71-50f0-4c71-a5c6-28dc9fd60497",
@@ -2807,7 +2774,6 @@
 		"id": "0823481b-e4de-4dd0-9467-9ea47220a6e1",
 		"unreleased": true,
 		"title": "Module 3 Een product maken en verbeteren (1903)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"99d5afcc-97f5-43c4-af2c-d9f973892fa3",
 			"fa376787-1c49-46bc-b467-cf8bbb8a2770"
@@ -2817,7 +2783,6 @@
 		"id": "73fc01b1-8845-4633-935e-eb0bf9cfa274",
 		"unreleased": true,
 		"title": "Module 4 Multimediale productie maken (1904)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"ee3254fb-8507-4493-b835-1974f8e50834",
 			"e99187ce-d8b4-45a5-8d08-0a825ced67c4",
@@ -2829,7 +2794,6 @@
 		"id": "3ec37fff-610e-48ba-8815-d63fd0688591",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"4765d3e8-b5f0-486f-8121-7a160e781788",
 			"5e34deb2-3df1-4fa1-ac45-6694d8f821ed",
@@ -2875,8 +2839,7 @@
 			"f6cced08-cced-4eeb-a46d-a9fc27f5fdd8",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc",
 			"be75f136-c791-4d44-9c8a-1e14a325218d"
-		],
-		"dirty": 0
+		]
 	},
 	{
 		"id": "f1d8fa8b-0f94-4f3d-b059-ce9f1d14e73f",
@@ -2897,8 +2860,7 @@
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"description": "",
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
@@ -2921,8 +2883,7 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		],
-		"dirty": 0
+		]
 	},
 	{
 		"id": "201fe4a2-9c23-40e9-b4a2-44ae070b513f",
@@ -2942,8 +2903,7 @@
 		],
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		],
-		"dirty": 0
+		]
 	},
 	{
 		"id": "33f70664-17d2-40d4-b85a-52c6ea16d19d",
@@ -2968,8 +2928,7 @@
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
-		],
-		"dirty": 0
+		]
 	},
 	{
 		"id": "87d62f23-1d59-4823-a4d7-e9bd034eaa3f",
@@ -3459,7 +3418,6 @@
 		"id": "820340bf-f670-4d96-b3bd-5a4b4db6f6a9",
 		"unreleased": true,
 		"title": "Vaardigheden in samenhang",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"48cc0005-27bd-4609-ba7c-6802665c80de",
 			"ebfba243-cc62-4363-b9a3-4e60ec152c4c"
@@ -3469,7 +3427,6 @@
 		"id": "cad889f0-6f6c-4ea6-a430-8fead4832ec6",
 		"unreleased": true,
 		"title": "Verwerven, verwerken en verstrekken van informatie",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"83331027-ac8c-407b-95eb-3ee9d14458bb",
 			"8ea6508d-49b8-4d43-a587-faef7e657938",
@@ -3507,7 +3464,6 @@
 		"id": "17c334dd-ca5e-4c1d-8fc6-0d2444e667a5",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"13035291-99aa-4508-96c4-d8fb3564f7ed",
 			"555bb744-5ed3-4286-82c3-5bd51d26221e",
@@ -3566,7 +3522,6 @@
 		"id": "761755fc-29da-4a26-8528-2ffa9d172179",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"6f653019-dc3f-4cf5-9101-44fce0c1d6ef",
 			"06880c33-31b6-4be9-8915-e7a9fb53a0c5",
@@ -3583,7 +3538,6 @@
 		"id": "77d415c5-399b-408a-8005-7656247e7458",
 		"unreleased": true,
 		"title": "Module 1 Commercieel (1701)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"d2e97444-c6d7-4cb4-b153-0d9f3708cf4d",
 			"78f056f7-6d3e-40cc-9c97-31d4b62455f6"
@@ -3593,7 +3547,6 @@
 		"id": "8c1c0974-c454-447f-aedb-6dbaa230572d",
 		"unreleased": true,
 		"title": "Module 2 Secretarieel (1702)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4a2d76c7-cedf-41af-86c5-a396dc41d715",
 			"a2ee0016-cb26-46ba-b086-3f4b41a12f80"
@@ -3603,7 +3556,6 @@
 		"id": "275cabc0-d8ad-4820-aa58-f8e7aed54a25",
 		"unreleased": true,
 		"title": "Module 3 Logistiek (1703)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"a27289b9-2c4a-44fe-9034-b54c53abe365",
 			"c17b67c0-4828-46e9-b5a8-debfeb62f442",
@@ -3614,7 +3566,6 @@
 		"id": "b5ff8aa1-f089-4b03-a24b-65af57271f25",
 		"unreleased": true,
 		"title": "Module 4 Administratie (1704)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"e34550fd-52fc-45cf-acd2-8df46e1714aa",
 			"23cb1887-1141-4ab3-bba0-3c4fbf0ba4d0"
@@ -3624,7 +3575,6 @@
 		"id": "38b0cb63-3ede-46c5-b01b-c9d42630ccd6",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"0eb49187-9416-4d19-ae4e-13c4432b2159",
 			"deb8148d-6de5-4dd0-a715-1787893eda02",
@@ -3845,14 +3795,12 @@
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
 		],
-		"description": "",
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "826d3765-668f-4759-a470-a4bf0f475f71",
 		"unreleased": true,
 		"title": "Domein A Vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"be1baadd-635b-4a33-94a0-4cbd8ea8829b",
 			"a80c2e1d-f7ea-44bc-b459-27593c015b8d"
@@ -3862,7 +3810,6 @@
 		"id": "7d37a831-6250-4fc5-886f-8cbd39af74c5",
 		"unreleased": true,
 		"title": "Domein B Wijsgerige antropologie",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"4cb85573-4de1-41f2-9993-87f1c7a7622f",
 			"b875e606-fc43-4db2-8a3e-757cd09094ba"
@@ -3872,7 +3819,6 @@
 		"id": "ed55a6c7-88cf-4aa9-b31b-d7dc24ec8308",
 		"unreleased": true,
 		"title": "Domein C Ethiek",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"e0bc0141-9e1c-4536-9f1a-ee9e31fef1e5",
 			"a4d975b3-4f29-4b89-837b-8461cf1e63a3"
@@ -3882,7 +3828,6 @@
 		"id": "c33e4030-f47a-465c-92ad-c0cf87176d27",
 		"unreleased": true,
 		"title": "Domein D Kennisleer",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"bd5c422b-e6de-4b79-bd67-54bfd8c22127",
 			"39aea961-685a-46df-970c-b84338895eaf"
@@ -3892,7 +3837,6 @@
 		"id": "c3b401a0-7256-454c-b400-3e9eb97c28d2",
 		"unreleased": true,
 		"title": "Domein E Wetenschapsfilosofie.",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9b7505d0-84f5-4256-8566-df3b6239be45"
 		]
@@ -3916,8 +3860,7 @@
 		"vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"description": "",
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "4bc5655c-f85c-4b18-8f5e-03d0d25c9291",
@@ -4006,8 +3949,7 @@
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc",
 			"be75f136-c791-4d44-9c8a-1e14a325218d"
 		],
-		"description": "",
-		"dirty": 0
+		"description": ""
 	},
 	{
 		"id": "1724a10d-1152-4317-b261-ab69b6d23df0",
@@ -4312,7 +4254,6 @@
 			"ef581439-156b-4501-9b9b-8d137fda1b9d",
 			"8c30a8e5-7199-449f-8dfa-efb3b4b2c9b0"
 		],
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"0d3bb822-e2f9-4748-8ef2-f0133753665a",
 			"09a6c037-decd-40ec-911d-70eca1ef0ddc",
@@ -4357,7 +4298,6 @@
 			"b012031b-e5d2-4bb5-aec4-7974939a2984",
 			"1fcf432c-27a8-4033-804f-af5389e2497a"
 		],
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"7d0e2ef6-d1ae-4785-bc58-a2aad8df353b",
 			"7cdd7348-43df-42cc-9c0c-cdb58ae23e9f",
@@ -4370,7 +4310,8 @@
 			"759751b1-d509-4636-b947-7aa678457b3b",
 			"5201bb0f-2383-44f2-95f1-7a343cec4664",
 			"ab0b5dac-5eba-4114-8224-5f695e400c17"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
@@ -4398,7 +4339,6 @@
 		"id": "4b03c9da-dfc8-4136-998a-0aa4a97dc574",
 		"unreleased": true,
 		"title": "Keuzethema",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"777cc604-dbfe-43a5-9bcf-381a37fbb982"
 		],
@@ -4412,9 +4352,7 @@
 	{
 		"id": "7895e64e-44b6-41be-8a3d-f77c68dd742e",
 		"unreleased": true,
-		"title": "Monniken en Ridders",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Monniken en Ridders"
 	},
 	{
 		"id": "98c50995-986f-4e92-8eb6-20ed2fe6eb76",
@@ -4444,8 +4382,7 @@
 			"df1f6a23-0255-47b1-a854-e2accdae8874",
 			"c23c2435-e962-4aa9-8f02-71bd9bfd4062",
 			"de2e1c07-aea4-4bdf-bddc-7fc771249903"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "8468158a-c55d-47a0-95d0-94f3cd0b67ac",
@@ -4589,7 +4526,6 @@
 			"c82a8ee3-405d-4643-abc7-f4e3420ab706",
 			"2c40631b-c61c-4dd8-97a3-7d79573ca44d"
 		],
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"d92443b0-eb07-4d3f-ba22-6851cff0ad9e",
 			"b92e168b-75ca-47e5-b4fb-066120f1b9ee",
@@ -4945,7 +4881,6 @@
 		"id": "2d5440a9-340e-4b22-b712-cde98457b989",
 		"unreleased": true,
 		"title": "Competenties",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"8029706b-6a59-4efb-8f33-b1a22666239e",
 			"995c8c10-d4a5-40fb-b2bf-c08399b22b04",
@@ -5010,7 +4945,6 @@
 		"id": "e76efe71-f320-49ce-8da0-98fe581cb906",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"901fd93e-dae6-4d2f-8afe-914de6f73eb3",
 			"80a74959-fa90-438f-8ef6-d0b30b44111b",
@@ -5027,7 +4961,6 @@
 		"id": "b73aaab6-fe02-431a-bc93-6f2db3a65558",
 		"unreleased": true,
 		"title": "Module 1 Groene productie (2001)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"fef14f9b-e581-4fb9-8c7b-f18a903e281b",
 			"e08cd29b-68f8-4e8b-b414-6ad1149bede5",
@@ -5038,7 +4971,6 @@
 		"id": "294bbf47-0ade-47d7-a230-83be4da5a949",
 		"unreleased": true,
 		"title": "Module 2 Tussen productie en verkoop (2002)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"ed54af4e-3b32-4d5e-a0bd-ebc74d7d34dd",
 			"110dff33-78a6-4d71-b2a3-c311ba0bcc95",
@@ -5049,7 +4981,6 @@
 		"id": "7f0a46aa-0bae-449e-902c-2a2db79785a8",
 		"unreleased": true,
 		"title": "Module 3 Vergroening stedelijke omgeving (2018)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"cba02deb-ed34-4b26-b497-cab39db92859",
 			"7ca71086-5b54-45f0-8774-615d3296661c",
@@ -5061,7 +4992,6 @@
 		"id": "d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
 		"unreleased": true,
 		"title": "Module 4 Groene vormgeving en verkoop (2004)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"df634203-7b91-4874-9849-3cfc80f2cd47",
 			"7e5baa05-ceaf-48f2-b951-ef1e8b0cd353",
@@ -5072,7 +5002,6 @@
 		"id": "2b33dd1e-8c01-407b-aeb6-c54739b06867",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"2a2e0ac3-e2cf-4dbb-85d0-ee7d6e5f1f3b",
 			"885196c2-14b7-4ce9-b47a-3f97f9dcbea5",
@@ -5107,7 +5036,6 @@
 		"id": "40f76224-59b0-4033-8788-4fbadc0d329d",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"7937d884-9fa0-4b7d-83b5-3cc9112c9b53",
 			"487fb3b7-4067-4891-91e7-efa69ccfb849",
@@ -5166,7 +5094,6 @@
 		"id": "860bc1dc-8e40-4e32-86a1-40c3168b0662",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"370a33ed-5c0d-4ec8-aa5c-0f33bc1a9779",
 			"b52ef6a8-29ca-47e8-bc66-31f92c7835b4",
@@ -5183,7 +5110,6 @@
 		"id": "b9cc573b-20cc-4709-bcc4-08312ef35ba9",
 		"unreleased": true,
 		"title": "Module 1 Gastheerschap (1801)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"e58f53d2-037d-489f-81f2-b4a0be9a59f1",
 			"f08f5a02-f8ab-4150-8ae3-6ba77e423465",
@@ -5195,7 +5121,6 @@
 		"id": "45d37c51-ae10-4df7-86a7-57187f7dcb4e",
 		"unreleased": true,
 		"title": "Module 2 Bakkerij (1802)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"98ecb36f-c072-4e57-a56f-1b3a3e83b230",
 			"7838a534-44e0-4f66-bf03-893b2fc404b0"
@@ -5205,7 +5130,6 @@
 		"id": "1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
 		"unreleased": true,
 		"title": "Module 3 Keuken (1803)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"18939798-18d2-457e-9f0c-3dd65c8f2d3e",
 			"5fa59fc9-e961-43a2-a86e-4cd189217273"
@@ -5215,7 +5139,6 @@
 		"id": "ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
 		"unreleased": true,
 		"title": "Module 4 Recreatie (1804)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4126fa11-6f91-4a49-a78e-a0899fa3f340"
 		]
@@ -5224,7 +5147,6 @@
 		"id": "351b3ed3-7b30-4071-bce0-d342976d1353",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"978f0f75-b827-4a03-b04a-e1e0428b8f9e",
 			"3c8219e6-e3f2-49e9-87f8-557ad8d270dc",
@@ -5650,9 +5572,7 @@
 	{
 		"id": "141d7f7d-187a-4318-b318-4e299fba41aa",
 		"unreleased": true,
-		"title": "Producren en presenteren",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Producren en presenteren"
 	},
 	{
 		"id": "12d774dd-f581-4fe5-885c-10c585f3547e",
@@ -5927,7 +5847,6 @@
 		"id": "cadc1b2c-bc73-4700-a4e7-8d985b640c01",
 		"unreleased": true,
 		"title": "Communicatie en samenleving",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"714bd234-e7c9-485c-bdb2-da9722be4e6c",
 			"5a71abab-f06c-445a-919b-55e11d362fbb"
@@ -5937,7 +5856,6 @@
 		"id": "92735469-e696-4633-b930-4d99dc8ad86c",
 		"unreleased": true,
 		"title": "Cultuur, levensbeschouwing en identiteit",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
@@ -5949,7 +5867,6 @@
 		"id": "111be74f-e6e4-4dd2-999d-a496b433d36a",
 		"unreleased": true,
 		"title": "Internationale verhoudingen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"364ad223-5c1a-4fe4-ac96-1ade66aa94ab",
 			"59b7f8fd-e072-4478-b8d8-487a966874a4",
@@ -5960,7 +5877,6 @@
 		"id": "a498c991-fd28-4933-a53c-9f96d7f28cbd",
 		"unreleased": true,
 		"title": "Macht, gezag en bestuur",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9a3f1512-3418-4718-8b4d-643c4b4753d6",
 			"364ad223-5c1a-4fe4-ac96-1ade66aa94ab",
@@ -5974,7 +5890,6 @@
 		"id": "c7906e60-6e7b-4be8-ba61-997a41860d3d",
 		"unreleased": true,
 		"title": "Werk, welzijn en welvaart",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737",
 			"fc6210d9-ffde-4163-8f74-f878b7523d84",
@@ -5988,7 +5903,6 @@
 		"id": "9e3f5dfa-b81e-48f4-aefe-22bdce581481",
 		"unreleased": true,
 		"title": "Communicatie en samenleving",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"dfde8138-1629-4202-b99c-6b4b3cc68cd2",
 			"dc54666c-85ca-480c-9c0a-02b0a2b563c9",
@@ -5999,7 +5913,6 @@
 		"id": "21cf83b4-ac81-4d66-b272-92659004a5d5",
 		"unreleased": true,
 		"title": "Cultuur, levensbeschouwing en identiteit",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9f844b2f-67ed-4ecd-9b30-8817e649f4d8",
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
@@ -6014,7 +5927,6 @@
 		"id": "7682e990-7245-45c2-89d1-83b431b3743c",
 		"unreleased": true,
 		"title": "Cultuur, levensbeschouwing en identiteit",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"a99a8f98-69e3-47bb-8785-a13037cacc8a",
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
@@ -6027,7 +5939,6 @@
 		"id": "0898ad98-f70a-4f25-a9a3-a11422140952",
 		"unreleased": true,
 		"title": "Macht, gezag en bestuur",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9a3f1512-3418-4718-8b4d-643c4b4753d6",
 			"364ad223-5c1a-4fe4-ac96-1ade66aa94ab",
@@ -6043,7 +5954,6 @@
 		"id": "598c4574-5a08-4473-b3b6-e45df89f210e",
 		"unreleased": true,
 		"title": "Macht, gezag en bestuur",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"f9270f83-501b-47ea-bc98-89d6607d061e",
 			"ce8c01c3-902a-4d11-a326-32499af381b5",
@@ -6059,7 +5969,6 @@
 		"id": "9fda2c80-6727-43cb-b7cb-974efc7a08f2",
 		"unreleased": true,
 		"title": "Werk, welzijn en welvaart",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737",
 			"fc6210d9-ffde-4163-8f74-f878b7523d84",
@@ -6073,7 +5982,6 @@
 		"id": "123d6698-7e1d-40d9-b219-eb0068e53db1",
 		"unreleased": true,
 		"title": "Werk, welzijn en welvaart",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"50cac0b3-b8cd-4caf-bc91-ebf15d8afd06",
 			"8de1c77f-d703-409f-a431-6764cd414353",
@@ -6087,7 +5995,6 @@
 		"id": "d873781f-8309-4bf2-a432-aae5b44c7eac",
 		"unreleased": true,
 		"title": "Communicatie en samenleving",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"d10189b4-3c52-41f8-8082-dc52585022a4",
 			"c37c2c49-cea2-41b4-ab21-b482b0eb4d31"
@@ -6097,7 +6004,6 @@
 		"id": "59c3a146-b829-473f-9f35-3ee7b1530a50",
 		"unreleased": true,
 		"title": "Cultuur, levensbeschouwing en identiteit",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"5b8f6ea2-a4f7-4e99-8d05-9f2c52949c87",
 			"ba7144ea-87fc-438b-8f81-209fe50e5e3e",
@@ -6110,7 +6016,6 @@
 		"id": "deb18f72-cae3-4ffb-9380-3a8ba2b13a7a",
 		"unreleased": true,
 		"title": "De mens en zijn fysieke- en ruimtelijke leefomgeving (duurzaamheid, ruimtelijke inrichting en milieu)",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"d908b013-5835-480f-8e24-2b31f8eae37a",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
@@ -6123,7 +6028,6 @@
 		"id": "309f4ea4-d987-48a4-8aaa-b446e3dd0b7f",
 		"unreleased": true,
 		"title": "Internationale verhoudingen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"7fd7ced4-a23c-4307-b512-b12d94d95db3",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc",
@@ -6134,7 +6038,6 @@
 		"id": "ef712b1f-a5b4-4671-8de7-03d789168697",
 		"unreleased": true,
 		"title": "Macht, gezag en bestuur",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"7fd7ced4-a23c-4307-b512-b12d94d95db3",
 			"351c2901-013e-4d58-b59a-dc9b49c4a4b4",
@@ -6148,7 +6051,6 @@
 		"id": "cb0fd542-c990-4cb4-8372-042944c80963",
 		"unreleased": true,
 		"title": "Werk, welzijn en welvaart",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"9154d638-6a27-4897-91f8-f3f122cfa6b5",
 			"04301b0a-e321-4cc5-a19a-d6584bb8866e",
@@ -6162,7 +6064,6 @@
 		"id": "233414bc-ea75-42ca-ae10-86f977ce059c",
 		"unreleased": true,
 		"title": "Externe financiële verslaggeving",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"05671ab8-ac8d-406e-8f6d-5e0229641855",
@@ -6173,7 +6074,6 @@
 		"id": "87950611-ffc3-4bd4-8b95-682498ed6025",
 		"unreleased": true,
 		"title": "Financieel beleid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"d7a5e3c7-d35c-4d99-9d17-be4ee356479a",
 			"465bf31e-c2f6-4843-bc2e-0717e1ea2a19",
@@ -6184,7 +6084,6 @@
 		"id": "67c1fa5c-26b1-4b88-878a-4f429b6e0852",
 		"unreleased": true,
 		"title": "Financiering van activiteiten",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a",
@@ -6197,7 +6096,6 @@
 		"id": "9518593c-9a3d-4c47-83de-c9d0eb5d71a5",
 		"unreleased": true,
 		"title": "Informatievoorziening m.b.v. ICT",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"b2bc35d2-e285-4499-8536-e52ab480e320",
@@ -6209,7 +6107,6 @@
 		"id": "78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
 		"unreleased": true,
 		"title": "Marketingbeleid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc",
@@ -6222,7 +6119,6 @@
 		"id": "41df4043-9ba9-4a03-bf59-19f7b936b0b3",
 		"unreleased": true,
 		"title": "Organisatie en personeelsbeleid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"ec10d7f4-597d-4e90-868f-d6c77e4dc58c",
@@ -6235,7 +6131,6 @@
 		"id": "dc4da797-abe7-49a6-8111-62ffc4685d35",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"26ed1222-c03f-4b6b-b859-0c4fa3cc7f98",
 			"a8a7b1b5-546c-427b-a34b-d25be4a21637",
@@ -6298,7 +6193,6 @@
 		"id": "377af2a9-4cb1-4178-988d-5c3fa7cb8d3a",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"c8d799d6-c89b-4101-b069-3dc134e7e721",
 			"400714fa-4ad1-4655-8096-4bd2fa665115",
@@ -6317,7 +6211,6 @@
 		"id": "0f6c24e3-9dc3-4293-a6a7-f45663915ef8",
 		"unreleased": true,
 		"title": "Module 1 Maritieme logistiek en communicatie (2101)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"19e0bb3c-2766-4782-8e9d-1101e0c798c7",
 			"e1df828e-8dbd-410f-98f7-fbd24400a8b2",
@@ -6346,7 +6239,6 @@
 		"id": "43dea6d3-ae1a-4d19-b2ab-c5db0e65e0b5",
 		"unreleased": true,
 		"title": "Module 2 Maritieme veiligheid (2102)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"83ae36a3-29c6-4362-a6e8-0bece9d29566",
 			"d8cbdef0-ff3b-4af1-943d-233315bbfc60",
@@ -6381,7 +6273,6 @@
 		"id": "71078d96-0cad-409a-adff-f2eecf09fd4e",
 		"unreleased": true,
 		"title": "Module 3 Maritieme installaties (2103)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"e6fc873f-4697-4172-8bf6-c1af7d1fcd78",
 			"b7c36ead-1133-40a4-9712-275ce79624f5",
@@ -6404,7 +6295,6 @@
 		"id": "42e39944-f2b4-45d5-b30c-44dc3310cda0",
 		"unreleased": true,
 		"title": "Module 4 Reparatie en onderhoud (2104)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"93cbbf25-a33e-4d59-bded-e0ecb5f13929",
 			"8ca486c3-a8d5-4d33-9e85-3e50ccc3f490",
@@ -6440,7 +6330,6 @@
 		"id": "84582908-21ae-4623-853f-c01c4602a7d7",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
@@ -6473,7 +6362,6 @@
 		"id": "bbd47460-a34e-4d6c-89c2-dfc31d049333",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"71dd0aa9-714d-4587-88ea-0e837012d3b6",
 			"8cbfd3e8-dc59-4a9f-ab0e-2b1d55bacd92",
@@ -6536,7 +6424,6 @@
 		"id": "0c38a3d5-8704-4a53-9743-c96fa881af0a",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"fc3ca247-233c-4814-8553-b966651e83f7",
 			"9a7683f5-8e2b-429e-b1d6-cfcfdb3c91d1",
@@ -6555,7 +6442,6 @@
 		"id": "8198f844-e5b8-4738-85b8-d3e739309bcb",
 		"unreleased": true,
 		"title": "Module 1 Audiovisuele vormgeving en productie (1501)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"83c32ee5-8857-4c5d-b94e-ce6c48dd3afa",
 			"5461f8eb-c387-4204-8748-da4990c0f5f2",
@@ -6571,7 +6457,6 @@
 		"id": "31f9e8ab-bd8a-4b89-b55a-3f48058f3192",
 		"unreleased": true,
 		"title": "Module 2 2D- en 3D-vormgeving en -productie (1502)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1affef6e-35d4-4ce1-bfea-f6c92f00228c",
 			"2751a215-72cc-4c2c-8ca3-77b4bb1dfad7",
@@ -6583,7 +6468,6 @@
 		"id": "34bebd1a-68b9-418e-82c5-877a16bdc556",
 		"unreleased": true,
 		"title": "Module 3 ICT (1503)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"d517722b-cc52-48d3-823d-4ffb2f7154bc",
 			"8dee36a6-1bac-46e0-94e3-a2a6f62de085",
@@ -6595,7 +6479,6 @@
 		"id": "28e6f73e-0cb7-425e-a5e6-175121946008",
 		"unreleased": true,
 		"title": "Module 4 Interactieve vormgeving en productie (1504)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1d5d2715-8b83-4f0f-b9cc-eb9209780518",
 			"6145eed4-9274-4bc4-b922-d7a16a1eacbd",
@@ -6607,7 +6490,6 @@
 		"id": "1a373a1d-9182-4720-bf17-e702455adb3e",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
@@ -6733,7 +6615,6 @@
 		"id": "a457d0d4-0df6-4eb9-b067-804f584f5c83",
 		"unreleased": true,
 		"title": "De mens en zijn fysieke- en ruimtelijke leefomgeving (duurzaamheid, ruimtelijke inrichting en milieu)",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"2ed8ea1d-ff38-4b08-b0b9-e0b6d34915b0",
 			"50215d6a-b8e3-4560-8626-29427cf3cd83",
@@ -6784,7 +6665,6 @@
 		"id": "c90627c2-6e89-4fc1-87e1-9fbf48d33bfe",
 		"unreleased": true,
 		"title": "Hoofdvraag en deelvragen formuleren",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"6b9b2257-58b4-49f4-99d9-e75e647bf419",
 			"54873baf-7f87-4db4-be13-f9aa94386c5d",
@@ -6801,7 +6681,6 @@
 		"id": "04bd722a-982a-45a5-adfc-ad622fe48886",
 		"unreleased": true,
 		"title": "Informatie bewerken en conclusies trekken",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"f6d6aef2-ae45-432b-8a0d-f41afe720ec3",
 			"ba034549-4fb3-4be1-8b3b-039082c85d71",
@@ -6825,7 +6704,6 @@
 		"id": "e2c2ca01-1544-4095-9281-4e35e87f063b",
 		"unreleased": true,
 		"title": "Informatie overdragen, presenteren en evalueren",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"ec0b42a1-3fab-422f-9123-18d2f4f93a96",
 			"eafb56fa-a62e-4229-8a5f-5bcf78bbaa36",
@@ -6847,7 +6725,6 @@
 		"id": "f7d7b4a7-f4b7-4cde-b3b5-10c076297a90",
 		"unreleased": true,
 		"title": "Informatie verwerven, selecteren en op bruikbaarheid/ betrouwbaarheid toetsen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
 			"880b33e9-7cad-45bc-84f0-e91d715c8f9e",
@@ -6872,7 +6749,6 @@
 		"id": "01e7d179-aee7-4079-b90f-e1de47393307",
 		"unreleased": true,
 		"title": "Informatievaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"cbd3fd7e-e125-4a74-a941-bd0dde2e6407",
 			"4ebbe692-a648-4002-8151-cb9a0d432502",
@@ -7038,7 +6914,6 @@
 		"id": "f22a42c9-33df-49aa-aebd-d91b4d8ae984",
 		"unreleased": true,
 		"title": "Onderzoek doen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"4ebbe692-a648-4002-8151-cb9a0d432502",
 			"dde0043e-af01-4cf6-b48c-d8dfaf55a498",
@@ -7053,7 +6928,6 @@
 		"id": "674f3d39-4b03-4c3d-84dd-236e7eb8b270",
 		"unreleased": true,
 		"title": "Redeneervaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"64583e0b-6ec2-40b6-80f6-bc8b7a59cedd",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
@@ -7159,7 +7033,6 @@
 		"id": "6c6b6180-d664-46c5-aa02-3e0f79e7f227",
 		"unreleased": true,
 		"title": "Wetenschap, technologie",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"cb5e9eb2-154d-4bd2-a4fc-36c2f19983a4",
 			"8161a3bc-97c4-43c5-b28e-639c2298049a",
@@ -7250,9 +7123,7 @@
 	{
 		"id": "cd92cbdf-ea00-49f3-b0b9-b829703866b5",
 		"unreleased": true,
-		"title": "De invloed van natuurwetenschap en techniek",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "De invloed van natuurwetenschap en techniek"
 	},
 	{
 		"id": "49362cb8-2b4b-4102-828e-488e81be4a41",
@@ -7309,23 +7180,17 @@
 	{
 		"id": "e390e388-c3eb-4e20-83a1-2a7b79ff8343",
 		"unreleased": true,
-		"title": "Informatievaardigheden",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Informatievaardigheden"
 	},
 	{
 		"id": "c92abc05-537b-49cc-bd16-8e4b0fc323f2",
 		"unreleased": true,
-		"title": "Kennis en technologie",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Kennis en technologie"
 	},
 	{
 		"id": "b71c3c36-1d12-4d1b-8f65-25c112342415",
 		"unreleased": true,
-		"title": "Kennisvorming",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Kennisvorming"
 	},
 	{
 		"id": "a8f153bb-42d9-4665-a00b-eba2711e4d32",
@@ -7417,7 +7282,6 @@
 		"id": "a74c56f7-d26f-4b97-b599-3044a3a6418a",
 		"unreleased": true,
 		"title": "Mens en gezondheid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"34254e99-ec56-4dd9-b47b-78d88322a939"
 		]
@@ -7443,9 +7307,7 @@
 	{
 		"id": "453edc81-0a89-4c22-86d9-fd4a3640ec29",
 		"unreleased": true,
-		"title": "Modelvorming",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Modelvorming"
 	},
 	{
 		"id": "82c004f8-2a05-45f7-b52c-87c336962110",
@@ -7472,15 +7334,12 @@
 	{
 		"id": "10c2b874-d067-48b2-b253-1ac155b8f485",
 		"unreleased": true,
-		"title": "Onderzoek doen",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Onderzoek doen"
 	},
 	{
 		"id": "32d3f21a-da6a-47a0-9b86-2f9831559ccf",
 		"unreleased": true,
 		"title": "Ontstaan van heelal, aarde en leven",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"c94a71b1-2671-435e-bd60-6f5dfdf55c84"
 		]
@@ -7488,23 +7347,17 @@
 	{
 		"id": "f70d9d3a-5374-480b-9442-98eea3993e2b",
 		"unreleased": true,
-		"title": "Ontwerpen",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Ontwerpen"
 	},
 	{
 		"id": "b2391bdc-aab9-4739-bdbf-01ff9e0189db",
 		"unreleased": true,
-		"title": "Redeneren",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Redeneren"
 	},
 	{
 		"id": "62ad3a72-491f-4bb0-b7e0-4bc74a3e6514",
 		"unreleased": true,
-		"title": "Rekenkundige en wiskundige vaardigheden",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Rekenkundige en wiskundige vaardigheden"
 	},
 	{
 		"id": "ae8e47c7-5ad9-4ead-8a32-aa57d40ecb10",
@@ -7558,22 +7411,17 @@
 	{
 		"id": "f9264c4e-27e6-406d-ad62-13bd235a9f8b",
 		"unreleased": true,
-		"title": "Toepassen van kennis",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Toepassen van kennis"
 	},
 	{
 		"id": "4de21626-8e8a-492f-bb97-3a9a4345b15c",
 		"unreleased": true,
-		"title": "Waarderen en oordelen",
-		"vaksubkern_id": [],
-		"doelniveau_id": []
+		"title": "Waarderen en oordelen"
 	},
 	{
 		"id": "a240137d-665a-4e03-84ff-46d2f5fb584b",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"2b0e0f96-e723-4f3d-a9d8-f2e78bbb20d3",
 			"22813895-5194-47c8-97ad-d8b02c4d0c7e",
@@ -7636,7 +7484,6 @@
 		"id": "29b81129-37cb-410d-98c4-730dca16869b",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"13ee0f30-f74f-4603-bd5b-5008c8d5c456",
 			"68f6f81a-36c0-4b4a-811f-bd5528573bb4",
@@ -7655,7 +7502,6 @@
 		"id": "dc8057b0-f3ba-48a0-9cb0-191bb47fd86c",
 		"unreleased": true,
 		"title": "Moduele 4 Mobiliteit en Transport (1404)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"7e45866b-277e-4a3e-ae6f-b892fca10f2f",
 			"579c75db-df74-46e3-a460-0992cc1f3d99",
@@ -7666,7 +7512,6 @@
 		"id": "9b1b27b5-6505-456c-9868-207e8f14257a",
 		"unreleased": true,
 		"title": "Module 1 Motorconditie testen (1401)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"6acdefa5-af94-49cc-a6aa-f654502b32bd",
 			"135aa394-9d3e-467e-8ba8-6d0f0ade794f",
@@ -7677,7 +7522,6 @@
 		"id": "3276402a-d121-49d6-92b8-05b96694b802",
 		"unreleased": true,
 		"title": "Module 2 Wielophanging en carrosserie (1402)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"70175f42-f7b7-4ad1-b20e-9e750f8fb4fc",
 			"7d581668-0039-4b0b-91ea-84d92d0a4db0",
@@ -7688,7 +7532,6 @@
 		"id": "c5c6c136-2d81-4482-9337-f3ce4eaaf671",
 		"unreleased": true,
 		"title": "Module 3 Verlichting en comfortsystemen (1403)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"d219f885-efd6-4691-8bcc-2f5b410de400",
 			"4f0ec92a-b81f-427c-a1bb-74dc0401bf9f",
@@ -7700,7 +7543,6 @@
 		"id": "cd368f01-bcf5-4c3b-9191-05747e44d894",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
@@ -7733,7 +7575,6 @@
 		"id": "b48f127e-b6c4-4e4d-bfaf-009d63789361",
 		"unreleased": true,
 		"title": "Lezen",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"0523976c-9cfe-46da-979a-bd237a78a094"
 		]
@@ -8333,7 +8174,6 @@
 		"id": "75e1a0a4-b743-440e-a32e-cdd0b8f78648",
 		"unreleased": true,
 		"title": "Aarde, natuur en heelal",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
 			"48113b09-40a4-4ce0-821f-e5ecbe87af90",
@@ -8362,7 +8202,6 @@
 		"id": "ddcb8d79-cdc8-4f5a-8789-3ca29bbdcc6c",
 		"unreleased": true,
 		"title": "Fundamenten van natuurwetenschap en technologie",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
 			"48113b09-40a4-4ce0-821f-e5ecbe87af90",
@@ -8385,7 +8224,6 @@
 		"id": "98f1c9c6-543b-4dd5-af41-2613248ff708",
 		"unreleased": true,
 		"title": "Gezondheid, bescherming en veiligheid",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
 			"48113b09-40a4-4ce0-821f-e5ecbe87af90",
@@ -8407,7 +8245,6 @@
 		"id": "76130125-e591-42be-a06e-ca7f7def1fea",
 		"unreleased": true,
 		"title": "Interdisciplinariteit",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
 			"48113b09-40a4-4ce0-821f-e5ecbe87af90",
@@ -8430,7 +8267,6 @@
 		"id": "cb9731b7-5221-4984-ba0a-c69f95a65cb4",
 		"unreleased": true,
 		"title": "Technologische ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
 			"48113b09-40a4-4ce0-821f-e5ecbe87af90",
@@ -8452,7 +8288,6 @@
 		"id": "52a367e3-b04b-4bbd-8287-f3c8c6e65134",
 		"unreleased": true,
 		"title": "Wisselwerking tussen natuurwetenschap en technologie",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
@@ -9118,7 +8953,6 @@
 		"id": "a4d8079e-d007-4033-9da8-d8345065e3ab",
 		"unreleased": true,
 		"title": "Argumentatieve vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"b3346f8a-99fc-4bae-abf3-c385964bb9a3",
 			"60a9e28c-adb8-4f6a-b48f-992d383ac5a0",
@@ -9133,7 +8967,6 @@
 			"4a388c3e-1b3c-4de7-a0d5-ad126a0831ab",
 			"4213d747-5073-4618-b487-f5c730edaa2a"
 		],
-		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"940ccf89-54a5-42a8-97db-5d574a68e6d4",
 			"08dc4339-1d21-4096-9d2d-e2c7c32bf8db",
@@ -9279,7 +9112,6 @@
 		"id": "e99f1a6c-b8d3-436a-9ce3-6d57cdf07bd9",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"737b2fb2-1cdd-4834-a0cd-23b61690b364",
 			"291db50e-e466-407c-b696-93c7443e0a12",
@@ -9342,7 +9174,6 @@
 		"id": "d103a74c-750e-4522-9d3e-dd7709a5518c",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"e211aa59-2a43-42c3-9abb-bf951acdd076",
 			"57a5ffea-b6a3-4845-aabc-d2822b9d1c72",
@@ -9361,7 +9192,6 @@
 		"id": "4c86fb4e-6f6c-4ed4-b4a0-ebbe7b657bcb",
 		"unreleased": true,
 		"title": "Module 1 Ontwerpen en maken (1301)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"23ce22c8-d3eb-4552-b55f-0e05e28c103b",
 			"4a43bbe2-8a9a-43ed-a18f-f095d21c5875",
@@ -9373,7 +9203,6 @@
 		"id": "87c7b213-4495-4028-84b2-8184592b49fc",
 		"unreleased": true,
 		"title": "Module 2 Bewerken en verbinden van materialen (1302)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"03b9b720-bc46-428f-812b-a5d5c9233e74",
 			"83e6c4b3-09e0-441d-8160-d1ad9bd13ff9"
@@ -9383,7 +9212,6 @@
 		"id": "c4c5839b-44b6-4464-b776-631e684a62e3",
 		"unreleased": true,
 		"title": "Module 3 Besturen en automatiseren (1303)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1ab6da2c-fc5d-40ca-ac62-453ab39f7431",
 			"0db50339-3059-487f-b53c-782cbbfdc47f",
@@ -9394,7 +9222,6 @@
 		"id": "d5e55c37-9894-44cc-be37-a93f852b28ab",
 		"unreleased": true,
 		"title": "Module 4 Installeren en monteren (1304)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"c34749e3-bade-4af3-a574-b6158c4aa0ba",
 			"2563d4d0-f5cf-426a-9a43-e13871b948c7"
@@ -9404,7 +9231,6 @@
 		"id": "8d39b484-7ed6-49c0-ba50-0476c266555c",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
@@ -11325,7 +11151,6 @@
 		"id": "4ed6f351-ef2b-4208-9692-ce6734b400e5",
 		"unreleased": true,
 		"title": "Algemene kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"ecadc61b-c447-4787-a849-5bfe7eb2efb5",
 			"65f54aab-3baf-4b29-90b6-44dcf28d2bf7",
@@ -11384,7 +11209,6 @@
 		"id": "e3a34409-3de8-42e9-981c-39e97483583c",
 		"unreleased": true,
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
-		"vaksubkern_id": [],
 		"doelniveau_id": [
 			"3bd2ef03-28ac-45d8-be7d-5d6de6bec884",
 			"88fe78f2-2d4e-47a3-965d-07bd548282ce",
@@ -11401,7 +11225,6 @@
 		"id": "92403fee-f16f-40e2-96b5-bc8203598117",
 		"unreleased": true,
 		"title": "Module 1 Mens en gezondheid (1601)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
 			"78ed9eda-53f5-4de4-90ed-a59599823aad",
@@ -11412,7 +11235,6 @@
 		"id": "dd2d1dc1-1e5f-4b2f-9ab9-c299e41ecc65",
 		"unreleased": true,
 		"title": "Module 2 Mens en omgeving (1602)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"742d61c5-929c-4d4a-b598-ef2c1819112b",
 			"2bffa45f-8b9e-4979-b125-2b56e0bb4702",
@@ -11425,7 +11247,6 @@
 		"id": "35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
 		"unreleased": true,
 		"title": "Module 3 Mens en activiteit (1603)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4b34f4f6-60bd-4ac6-8ebb-8edb06073956",
 			"2beb1a8c-aa1b-41e1-b1f0-7001674bb21a",
@@ -11436,7 +11257,6 @@
 		"id": "73d150de-58f2-40bc-96bd-d9e3ca07206d",
 		"unreleased": true,
 		"title": "Module 4 Mens en zorg (1604)",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"4389fed4-dd71-4f90-8fdf-773c66e4abe6",
 			"ba62af3a-fe58-4e75-995e-4f14fe327969",
@@ -11449,7 +11269,6 @@
 		"id": "0a8b96f5-752c-4589-b9d1-a7a60ee8dba6",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vaksubkern_id": [],
 		"vakinhoud_id": [
 			"9fe0765e-110f-4e8b-a6d0-48387ccb1f3e",
 			"7644dfe2-773b-4fcb-84e6-0a63b58265c5",
