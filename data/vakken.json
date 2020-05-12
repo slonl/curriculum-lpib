@@ -342,6 +342,12 @@
 			"275cabc0-d8ad-4820-aa58-f8e7aed54a25",
 			"b5ff8aa1-f089-4b03-a24b-65af57271f25",
 			"38b0cb63-3ede-46c5-b01b-c9d42630ccd6"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -1334,12 +1340,7 @@
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
-		"title": "Chinees",
-		"description": "",
-		"niveau_id": [
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		"title": "Chinees"
 	},
 	{
 		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
