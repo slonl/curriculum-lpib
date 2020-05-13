@@ -127,14 +127,28 @@
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		]
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+		],
+		"deleted": "0"
 	},
 	{
 		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
 		"unreleased": true,
 		"sloID": "4",
-		"title": "Bewegen, sport en maatschappij"
+		"title": "Bewegen, sport en maatschappij",
+		"description": "",
+		"vakkern_id": [
+			"711d8468-c31b-42ae-a9b2-169958353afb",
+			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
+			"7d71171d-3ec7-4961-8931-bfaaddd62082"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
@@ -145,7 +159,13 @@
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
 		],
-		"deleted": "0"
+		"deleted": "0",
+		"vakkern_id": [
+			"711d8468-c31b-42ae-a9b2-169958353afb",
+			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
+			"7d71171d-3ec7-4961-8931-bfaaddd62082"
+		]
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -236,6 +256,11 @@
 			"2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
 			"2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
 			"b352ebb7-4d34-4ac0-bb87-c792317064dc"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -430,7 +455,19 @@
 		"id": "eaabd632-abdd-499d-9d72-cdfaa4bff2eb",
 		"unreleased": true,
 		"sloID": "12",
-		"title": "Friese taal"
+		"title": "Friese taal",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
@@ -551,7 +588,16 @@
 		"id": "21e34b16-1187-4ebb-967e-ae309993cb58",
 		"unreleased": true,
 		"sloID": "46",
-		"title": "Kennisbasis natuurwetenschappen en technologie"
+		"title": "Kennisbasis natuurwetenschappen en technologie",
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+		]
 	},
 	{
 		"id": "ef872885-1953-4008-9dcc-32281274446a",
@@ -584,7 +630,10 @@
 		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
 		"unreleased": true,
 		"sloID": "16",
-		"title": "Kunst: algemeen"
+		"title": "Kunst: algemeen",
+		"vakkern_id": [
+			"c67ec9b9-4fab-4251-9488-8df4b2bb00fb"
+		]
 	},
 	{
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
@@ -740,7 +789,18 @@
 		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
 		"unreleased": true,
 		"sloID": "22",
-		"title": "Lichamelijke opvoeding"
+		"title": "Lichamelijke opvoeding",
+		"description": "",
+		"vakkern_id": [
+			"711d8468-c31b-42ae-a9b2-169958353afb",
+			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
+			"7d71171d-3ec7-4961-8931-bfaaddd62082"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
@@ -898,6 +958,15 @@
 			"674f3d39-4b03-4c3d-84dd-236e7eb8b270",
 			"af3b47e3-a390-41c6-b0a9-89ed27373314",
 			"6c6b6180-d664-46c5-aa02-3e0f79e7f227"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -927,6 +996,15 @@
 			"2162d9fc-3043-42a1-976b-ad6fae650ea3",
 			"f9264c4e-27e6-406d-ad62-13bd235a9f8b",
 			"4de21626-8e8a-492f-bb97-3a9a4345b15c"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -963,7 +1041,7 @@
 		"id": "b362c478-90c9-45ac-855a-79421d23ed07",
 		"unreleased": true,
 		"sloID": "32",
-		"title": "Nask1",
+		"title": "Natuur- en scheikunde I",
 		"vakkern_id": [
 			"b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
 			"e162e77e-7a1c-4045-8e91-b03325eb47ce",
@@ -988,7 +1066,7 @@
 		"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
 		"unreleased": true,
 		"sloID": "33",
-		"title": "Nask2",
+		"title": "Natuur- en scheikunde II",
 		"vakkern_id": [
 			"b01acef9-436e-40ab-940a-7984363fd307",
 			"cc95c860-4e07-4fb5-9e1f-d9ab05802699",
@@ -1100,7 +1178,11 @@
 		"id": "86be4684-a214-432b-9622-dd97491e6ce2",
 		"unreleased": true,
 		"sloID": "37",
-		"title": "Oriëntatie op jezelf en de wereld"
+		"title": "Oriëntatie op jezelf en de wereld",
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		]
 	},
 	{
 		"id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
@@ -1198,7 +1280,12 @@
 		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
 		"unreleased": true,
 		"sloID": "49",
-		"title": "Tekenen, handvaardigheid en textiele vormgeving"
+		"title": "Tekenen, handvaardigheid en textiele vormgeving",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
