@@ -6177,8 +6177,10 @@
 			"7cdd7348-43df-42cc-9c0c-cdb58ae23e9f",
 			"c6011669-9a41-4178-aa19-507dbb4ee7d3",
 			"fee11ecd-5e0c-4f1b-bd1b-3c9994bfe7d1",
-			"6f793216-0648-45fd-8578-d6b8a362c3de"
-		]
+			"6f793216-0648-45fd-8578-d6b8a362c3de",
+			"759751b1-d509-4636-b947-7aa678457b3b"
+		],
+		"description": ""
 	},
 	{
 		"id": "e0b00d9e-c060-42c7-af95-09f42cc7ed99",
@@ -6207,11 +6209,12 @@
 	{
 		"id": "1fcf432c-27a8-4033-804f-af5389e2497a",
 		"unreleased": true,
-		"title": "3. het ontstaan van de eerste stedelijke gemeenschappen",
+		"title": "Het ontstaan van de eerste stedelijke gemeenschappen",
 		"vakinhoud_id": [
 			"5201bb0f-2383-44f2-95f1-7a343cec4664",
 			"ab0b5dac-5eba-4114-8224-5f695e400c17"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3b791474-f9c7-4d63-b01e-7a904ef4bdba",
