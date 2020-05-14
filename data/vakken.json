@@ -449,14 +449,12 @@
 		"vakkern_id": [
 			"f283b770-cbf2-45d6-920f-5033edf43c05",
 			"c76a6e48-510d-4c79-bac3-61bc40f12a45",
-			"446e556f-4fc5-41c5-a958-f01d1433bba5",
 			"01650f76-5639-406c-88c5-b0cae31af947",
 			"e79074aa-b358-4c1f-8c49-80e4a0f184a2",
 			"6e30481c-29ee-42fd-b648-53727a31006e",
 			"1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7",
 			"a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
 			"4b03c9da-dfc8-4136-998a-0aa4a97dc574",
-			"7895e64e-44b6-41be-8a3d-f77c68dd742e",
 			"98c50995-986f-4e92-8eb6-20ed2fe6eb76",
 			"8468158a-c55d-47a0-95d0-94f3cd0b67ac",
 			"7a89fa90-ff5a-4132-849a-c69d6c6f3733",
@@ -1369,7 +1367,10 @@
 		],
 		"title": "Bewegen en sport",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vak"
+		]
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
