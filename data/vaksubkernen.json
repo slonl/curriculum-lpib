@@ -6281,8 +6281,11 @@
 		"unreleased": true,
 		"title": "De verspreiding van het christendom in Europa",
 		"vakinhoud_id": [
-			"e96a9cd1-e039-4bb6-b6ad-707d6e17a092"
-		]
+			"e96a9cd1-e039-4bb6-b6ad-707d6e17a092",
+			"4617e886-fec2-4c1a-89c4-0f9b1f86f631"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "c80a6d8f-2f4c-4098-bd16-a4e71dcd22ab",
@@ -6291,8 +6294,11 @@
 		"vakinhoud_id": [
 			"85ba18ef-4be8-4e1b-b7a1-aac6c09aec59",
 			"9dbe0833-d86a-44e5-922c-accf1d29b1f1",
-			"6f0f0da1-f893-4910-8bce-6c4693d7028f"
-		]
+			"6f0f0da1-f893-4910-8bce-6c4693d7028f",
+			"df1f6a23-0255-47b1-a854-e2accdae8874"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "e9a3524f-fe6b-4aa7-a7b5-9f52b460d51e",
@@ -6321,18 +6327,20 @@
 	{
 		"id": "589baba3-64ad-46ca-a231-f138f0c48666",
 		"unreleased": true,
-		"title": "11. de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid",
+		"title": "De vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid",
 		"vakinhoud_id": [
 			"c23c2435-e962-4aa9-8f02-71bd9bfd4062"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "01489dd4-2485-4604-b32a-fa22ccee396d",
 		"unreleased": true,
-		"title": "12. het ontstaan van feodale verhoudingen in het bestuur",
+		"title": "Het ontstaan van feodale verhoudingen in het bestuur",
 		"vakinhoud_id": [
 			"de2e1c07-aea4-4bdf-bddc-7fc771249903"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4333c6de-a8be-45d2-8c2f-a69963ae564b",
