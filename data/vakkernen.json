@@ -3740,7 +3740,7 @@
 	{
 		"id": "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
 		"unreleased": true,
-		"title": "Schrijven",
+		"title": "Schrijven (Engels)",
 		"vaksubkern_id": [
 			"7df89a7e-a36d-4089-9a56-46c4983056dc",
 			"8c1ca8e4-ee78-4b00-ad4f-d04058a22c1a",
@@ -3765,7 +3765,8 @@
 			"981d576f-5250-4b31-ae38-8677cd4fdec2",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
