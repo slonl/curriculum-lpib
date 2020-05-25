@@ -69,8 +69,7 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "182462b2-662f-42e5-8464-f9075afee3ba",
@@ -87,8 +86,7 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
@@ -144,8 +142,7 @@
 		"description": "",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -186,8 +183,7 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "26eb622d-6239-4f26-bdef-0c9662891285",
@@ -285,8 +281,7 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "8755f202-3f28-405d-929e-990ee4fdc521",
@@ -326,8 +321,7 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "18126dde-b79b-4231-826d-b902a6fa70db",
@@ -1228,8 +1222,7 @@
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
@@ -1338,7 +1331,12 @@
 	},
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
-		"title": "Chinees"
+		"title": "Chinees",
+		"description": "",
+		"niveau_id": [
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
