@@ -1339,7 +1339,11 @@
 	{
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
 		"description": "",
-		"title": "Chinees"
+		"title": "Chinees",
+		"niveau_id": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+		]
 	},
 	{
 		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
