@@ -11951,11 +11951,12 @@
 		"title": "Produceren en productiefactoren",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
 			"71e2b70d-e99c-4485-9233-3963e0248415",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"c4db72e8-b4d0-41bf-b38e-f689f3f54419"
-		]
+			"c13ee7ba-179a-41d5-a182-4679cddcc99d",
+			"eb66fb31-20b9-4ec4-80e4-b40ee20c1e99",
+			"abc7de49-0d5a-4e20-b2bd-2a022a030ee8"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "818c3271-b9db-4045-a1eb-ce4ccb21e9aa",
@@ -11963,11 +11964,12 @@
 		"title": "Toegevoegde waarde",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
 			"6d3715df-7bb5-4557-8dd4-5a2efc287267",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"e2e65dc9-c401-4828-8bc1-1728d507f88d"
-		]
+			"08def345-d887-4ba6-9461-5d639772afd8",
+			"f1937802-60e4-41e5-ae76-a7e8f7233b93",
+			"dcd89ee2-5dc8-4348-838a-ffd352ecb5d5"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "e2c799ae-7d03-4b38-921f-061fda59d0f7",
@@ -11975,11 +11977,12 @@
 		"title": "Break even Point",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
 			"5cc2353b-a169-476d-84d0-79497b42443d",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"ba58bc26-b280-471d-b066-5c1aaa2aac52"
-		]
+			"a540e83e-7cc6-4366-a704-5176c2d652c1",
+			"d5873661-3a05-4df8-8726-ce78203369ec",
+			"2a297f4e-fe80-4bef-9d8e-c00cf55db89d"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "744235fd-ce44-4234-b81a-6957934bf53d",
@@ -11987,11 +11990,12 @@
 		"title": "Arbeidsproductiviteit",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
 			"998c7b9b-051b-44b9-8528-fc9974d8271e",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"d510ccf1-3ac5-4263-86cc-180bd8e517ea"
-		]
+			"5cb6806f-1862-4037-a074-f6ac5dfbfc70",
+			"c0b7ff74-dc1f-4532-b650-41e3cb5ea37f",
+			"29ff9441-618a-495b-8a92-72730e49afe6"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "832f83bd-ad30-4e59-9e75-84b15b929c09",
@@ -11999,11 +12003,12 @@
 		"title": "Vraag en aanbod",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
 			"dfbed022-bc64-4542-ba12-4ad0b107eaf7",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"520cdcf6-666a-47a3-b934-2526f3cfe66a"
-		]
+			"6f806a10-3406-404d-858c-1fb6c341bd75",
+			"e1e59bc5-ca3d-4276-a9cd-eee488713d48",
+			"f9775122-722e-4fd3-8af6-7eb27b9ca88d"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "8d4225c2-cb90-4dba-a95d-a21aec88144d",
@@ -12243,11 +12248,11 @@
 		"title": "Schaarste van middelen en tijd en urgentie van behoeften",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"8a10d80a-e66b-4d62-9ecb-e90db2acaffb",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"4a51f260-c494-4cf1-afd6-2c5d1ec45bc9"
-		]
+			"28cebae8-035f-40c7-8473-30c7aa5d517e",
+			"72ba1ff9-3d50-4ea6-9952-45e6905ebd20",
+			"6681734c-863f-4555-bee0-3fb9584af924"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "383a89c2-bd69-41c0-9ef1-f53f371d4d63",
@@ -12255,11 +12260,12 @@
 		"title": "Inkomsten en Uitgaven",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"5bddc7eb-44ae-4865-a784-990169674576",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"874e245b-1263-4180-a41a-7e0e6759706e"
-		]
+			"874e245b-1263-4180-a41a-7e0e6759706e",
+			"314d0b89-197d-4ed7-9580-cdf570254c7c",
+			"5fba4913-0860-475e-b852-75dadb14127f",
+			"2e279a68-6fac-4039-af06-03693ffa1f46"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "8591e535-6c63-4eea-a498-40e77ac22d84",
@@ -12267,11 +12273,12 @@
 		"title": "Verandering van consumptie, patronen en prikkels",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"43a9b32e-c63a-4cda-ad8c-1a34e32669e8",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"28f4b58e-2d3d-479f-adfa-81ada1b3edef"
-		]
+			"28f4b58e-2d3d-479f-adfa-81ada1b3edef",
+			"b950b58f-152e-49c2-bc7a-854ee58e3361",
+			"e04f37d0-c412-4fd9-8463-2bdcc6e51260",
+			"22799aa2-cb7f-4c22-b932-742f8e4da804"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "120548d7-cec8-4061-a26c-b4923dfbf5b4",
@@ -12279,11 +12286,12 @@
 		"title": "De rechten en plichten van de consument",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"ff065394-a7bf-4a6c-bfcc-88fdffc8176d",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"4e78fbfd-384f-4fad-bacd-9dfadc29b5cc"
-		]
+			"4e78fbfd-384f-4fad-bacd-9dfadc29b5cc",
+			"19052975-197c-41f8-adf0-9b159b911e34",
+			"2084a646-93e5-43bf-b977-3568e6d5cafd",
+			"c79c5bd1-1855-4cc1-b391-c58bedcda116"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "5ecded6a-7b7a-45fe-a3eb-8266caf6e466",
@@ -12291,11 +12299,12 @@
 		"title": "Betalingsverkeer",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"101033ce-1fc8-4478-a7ce-a2a3ebf2b6c4",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"0498b91a-f4b2-4280-90a5-f17037c8dbc4"
-		]
+			"0498b91a-f4b2-4280-90a5-f17037c8dbc4",
+			"78496b1b-b53c-4bdf-860a-7687c511e47e",
+			"8093a6d8-a68a-4f78-8cfd-9660d616e254",
+			"d5b52dab-2c66-4b23-9d1b-72cedf9c42d6"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "85ebd9e4-607e-4a7b-8c5e-1744bb0f6200",
@@ -12303,11 +12312,12 @@
 		"title": "Risico nemen of vermijden",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"2133d066-9a6d-46d2-923b-d41821caed40",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"8a14326c-c8cd-48c8-8f03-e2511e29c837"
-		]
+			"8a14326c-c8cd-48c8-8f03-e2511e29c837",
+			"b77649b9-0026-4ea6-8fd2-0840122dfd96",
+			"e66d89bf-9ed3-4c9f-8892-3ce8e5a7fd7a",
+			"3a2e6c35-bc5c-48ad-bff0-8bd8830a2e8a"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "e061c80f-ecd9-4b2e-a33e-d6f0c7fa34fa",
@@ -13018,13 +13028,12 @@
 		"title": "De Europese Unie en Nederland",
 		"description": "",
 		"doelniveau_id": [
-			"32ce9124-f7b7-41e2-9d36-57adef808083",
-			"0bf3dff8-b86e-40a6-8b73-ab8e99a29ae5",
 			"4cf0a9a7-9ba9-46bc-82fe-c1e653b32fb7",
-			"99889288-2b2a-4e4c-aeb9-f51cc5fa1109",
-			"dae22d11-77a7-436a-8535-e1d096325675",
-			"a011751d-0ea9-42fa-aae0-cfbbbbffcdc9"
-		]
+			"c69ec24e-b2b2-403d-9650-ff92734e5edc",
+			"fce132d7-2928-4c40-807c-a26801766453",
+			"aead7e0a-46a4-41b8-ba59-dbd7b6290640"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "a43781ac-9a11-4031-9af2-6648d6cc505c",
@@ -13619,11 +13628,12 @@
 		"title": "Productie en externe effecten",
 		"description": "",
 		"doelniveau_id": [
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
 			"ae9539f2-d5f7-4c70-aedb-7b0dcc5ddf0c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"9fc2039f-4c87-4271-b2ac-4b924d41ec6f"
-		]
+			"65cbcaef-d580-4be3-bf3f-b3376bf4e487",
+			"99b9f090-b18a-42b4-beea-f6ef76f3c106",
+			"a473b8f6-803b-4b3b-a70a-7e144973b818"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "7f877934-f644-4d4b-847e-43c1493b4144",
@@ -13691,11 +13701,12 @@
 		"title": "Ontstaan van collectieve goederen",
 		"description": "",
 		"doelniveau_id": [
-			"73d5cec7-04ae-4a7b-8aab-3002d27f1070",
 			"005d2459-ab0f-4d8a-9027-ee51dce52078",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
-			"bd4f2e5e-a12e-45fb-b7e6-422568ea4297"
-		]
+			"fd77264f-0379-4413-b6fb-1dc4d95aad2f",
+			"ab93e595-af79-4110-8e36-7ca33e26167b",
+			"ac76a07d-2906-47de-970a-dfb5637a252c"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "aa89c0f5-4a04-41bf-bfa0-011d0ec909c1",
@@ -13703,11 +13714,12 @@
 		"title": "De overheid als actor",
 		"description": "",
 		"doelniveau_id": [
-			"73d5cec7-04ae-4a7b-8aab-3002d27f1070",
 			"14e206cc-d687-400d-8442-96bdebd17e6a",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
-			"7b824b92-cc66-4b30-870e-d7bef41ff4f9"
-		]
+			"33f8c434-492f-4602-a515-a6b74e765c1f",
+			"66af07d3-2315-484d-b3f0-4fad9f3941b3",
+			"d43d5bd3-ce5b-4570-8136-f6933d77b205"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "3d4cf934-179a-4897-bb02-0fc89a907783",
@@ -17283,19 +17295,16 @@
 			"0b4a6f18-722d-42cf-b3ce-17a84a87957c",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"3e9edf7f-8d68-4039-a3a5-59d61430bae3",
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"a69f80fe-b0bc-41a1-85ad-674929f140cc",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"c1133a20-4662-4ccd-af1b-d84760b0efe7",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"0264085a-82d7-4d8f-86ac-b64ff1de4ea1",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"ac73daa1-5192-4a51-8a87-efefa5f1bdbb"
-		]
+			"ac73daa1-5192-4a51-8a87-efefa5f1bdbb",
+			"49d5fae4-c447-4df0-92ca-6e87898c97ba",
+			"2f83bf79-4ff1-4f8d-a8c9-298e7c867568",
+			"4fcc4cfb-fcfa-4230-bc0e-cfce8cc33e24",
+			"3794fe8f-575d-4025-a255-a27cac1fe69f"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "09a6c037-decd-40ec-911d-70eca1ef0ddc",
@@ -17307,19 +17316,15 @@
 			"0b4a6f18-722d-42cf-b3ce-17a84a87957c",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"b2094871-2335-4f0d-bede-a283fdaa4e83",
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"00ce8e5e-8e10-4868-a8c3-c998d69eafb7",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"82a5bd18-096f-41bf-b224-8d8fa4833025",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"cefefc9f-4773-43d1-a087-c0694aeaa9b0",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"ba139ef9-70c9-479d-abd6-881491f910f2"
-		]
+			"ba139ef9-70c9-479d-abd6-881491f910f2",
+			"b03eac47-a050-4b3e-982c-bfa08862f7d1",
+			"546ad8c5-15d7-4f39-b508-015b4c588aa8",
+			"55d2c866-9b26-4267-b556-21a66ce16484"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "f9071c25-0a34-4662-b356-713c88fdcad1",
@@ -17373,19 +17378,16 @@
 		"title": "De leer van het christendom",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"25a3c44f-0288-49bc-bd21-86a9c0f145ef",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"50e46d3d-d6fb-42b3-9853-d478fe4a03fd",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"3d9114ed-ab3f-423b-837e-32e486a2c0c0",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"b3f4cdaf-8a90-4aee-aa0c-bd86163dc1bb"
-		]
+			"b3f4cdaf-8a90-4aee-aa0c-bd86163dc1bb",
+			"49e29d56-2a6b-4cb1-9341-598d47368403",
+			"d2b4fac2-f05c-4719-855d-c3c0f174c82f",
+			"067abf33-28cc-44fe-b60a-dec5fbb6c3e0",
+			"fa7d873e-00f8-4ad7-8229-de9c2d2e9ac5"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "fd09a1d4-087d-4166-a0a0-0f9e9589f1f7",
@@ -17393,23 +17395,21 @@
 		"title": "De verspreiding van het christendom in het Romeinse Rijk",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"31cbb051-19ab-47bf-82a1-5eafa7c4c3d3",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
 			"0c8b37c7-7f8c-4f25-8333-d9e880f7d38f",
 			"880b33e9-7cad-45bc-84f0-e91d715c8f9e",
 			"0b4a6f18-722d-42cf-b3ce-17a84a87957c",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"7097dd4e-0b0e-4f51-b386-8e38a09a94cf",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"b8693d86-2804-476d-b3d4-d5e0a22b73ca",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"6b41ce6a-609d-46ab-a796-c771b19cd00c"
-		]
+			"6b41ce6a-609d-46ab-a796-c771b19cd00c",
+			"17489cea-1485-4545-b3f7-5345d07ea06d",
+			"cdc79847-4f45-4841-a268-6017f7071e02",
+			"baef2a45-5406-4a19-87c8-6daf710789c9",
+			"daefa204-759b-4a83-8ce6-7f9b470f3e4d"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "f56c7a5d-89de-48c0-88e0-f9e0f56ea0d1",
@@ -17591,19 +17591,16 @@
 		"title": "Het leven van jagers in de prehistorie",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"e3b813ac-46f7-4e00-904b-878a630fb3f7",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"fa0e7dc5-c24c-4ffc-8cc6-b664d78f2f74",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"20e923c5-0099-4bb8-94ee-b99cd4db0d88",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
-			"863dbbb4-99d8-4b81-8034-56a5f36a3481"
-		]
+			"863dbbb4-99d8-4b81-8034-56a5f36a3481",
+			"297ff894-fe53-488d-af13-5884bc8e91f5",
+			"15d9afc7-4354-4ff0-bd3a-b99b016a1bcb",
+			"07ecc690-81bd-41c7-92b7-f132c9c7a0a6",
+			"f834e400-9e93-4077-b38f-81eba4131284"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "fee11ecd-5e0c-4f1b-bd1b-3c9994bfe7d1",
@@ -17611,19 +17608,16 @@
 		"title": "Het leven van boeren",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"5497e318-fcad-4a92-90c4-79a5d7e06b95",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"3da25a12-baa8-4a7d-bff9-24a0bc54615b",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"a7274013-8d3b-4d49-b386-2bb2494fd2ce",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
-			"2a9e581b-076b-4fb5-abf7-259f5041d3a8"
-		]
+			"2a9e581b-076b-4fb5-abf7-259f5041d3a8",
+			"e05aeecd-8cb0-4600-b8df-2bc1cd0f46f6",
+			"59525776-0297-4886-b7b1-6e332c150e2d",
+			"8328fbce-29e9-4e3e-a6d2-dfef66282d1f",
+			"67e6cefe-715f-4911-aa95-f6dd837a7311"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "6f793216-0648-45fd-8578-d6b8a362c3de",
@@ -17731,23 +17725,18 @@
 		"title": "De verspreiding van het christendom in Europa",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"fc39e741-9ff4-4ded-87ec-16325649fa0d",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"ab563af8-1bf7-48c0-8789-4da33feef529",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"c2b2b655-6e9e-422e-bc86-c8b739db19d1",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"040e92a8-7fd5-4717-b42e-87de6ac74c8a"
-		]
+			"040e92a8-7fd5-4717-b42e-87de6ac74c8a",
+			"d746bfd6-b175-4681-8067-ee41c5abee69",
+			"a133708a-4d2c-4e3c-b876-6666044a6114",
+			"c060b5fc-60e4-48af-996f-db124ef75953",
+			"4faff9d1-2597-48e8-935a-9abdc7610569"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "85ba18ef-4be8-4e1b-b7a1-aac6c09aec59",
@@ -17755,23 +17744,16 @@
 		"title": "Het ontstaan van de islam",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"7b0d34e8-814b-4c7f-8150-cbdda9bbc9f6",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"26a71a2f-567a-4160-aec9-72c53497bf4a",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"88e194c9-a9ad-4fe2-ad2b-96f92c207970",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"fc3482f4-7480-4eac-b45f-55f043efa464"
-		]
+			"fc3482f4-7480-4eac-b45f-55f043efa464",
+			"c3b3f8d2-782b-4a8b-b92b-48d7bc05611e",
+			"62d2794c-ac30-4839-8816-0d3d4996fb1a"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "9dbe0833-d86a-44e5-922c-accf1d29b1f1",
@@ -17779,23 +17761,18 @@
 		"title": "De leer van de islam",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"283a68ac-d1e0-4baf-bfba-4398f710a23b",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"ebe99432-c0dd-4e3a-8a7a-1650b3fe03d9",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"187b55fa-f045-4af0-b8be-f8b9f8cafc8e",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"423b9597-79e0-4f6a-87bc-537bcb921860"
-		]
+			"423b9597-79e0-4f6a-87bc-537bcb921860",
+			"41865e33-bcd5-4d2f-b9ba-571aa1fcf746",
+			"8f19004f-bdf9-4f55-8be6-8ecfaf49df59",
+			"c8fa4802-dcf1-4ecd-82ef-96ee9cbe6e8d",
+			"4de6e7c0-9318-4868-8654-22d6d3d6f7a6"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "6f0f0da1-f893-4910-8bce-6c4693d7028f",
@@ -17803,23 +17780,18 @@
 		"title": "De verspeiding van de islam",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"1898197b-6ecd-4e6e-a3ea-77fa5b7a0d52",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"2efa6d69-bfb3-4654-974c-b9084e94b08b",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"ccaf9a27-6ec8-406a-9bb4-03babdb9179d",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"4489b7a6-c908-41af-9018-60a5bcf11e4c"
-		]
+			"4489b7a6-c908-41af-9018-60a5bcf11e4c",
+			"7352f090-44ac-4a41-a1db-a4f7d590d397",
+			"ad1d8c70-eaa0-4d8c-b9ed-5b3612ab9d32",
+			"c90f7cd7-c58f-42e2-aa05-d5f3fc845b16",
+			"8c856e36-138d-4c4e-9c2c-c9c2f39d6ae9"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "928be0d1-ac66-4db0-abe4-a149601f3ebb",
@@ -17827,23 +17799,18 @@
 		"title": "Hofstelsel en horigheid",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"a817feae-d3a3-4a69-87c8-3251f45d776e",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"d32ee49f-ecfe-4020-b7f8-a806de2d1d5e",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"c45035cc-91d3-452a-bf38-916ada9d118f",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"b7fbeb44-4432-4ff9-8910-c872b0e733bc"
-		]
+			"b7fbeb44-4432-4ff9-8910-c872b0e733bc",
+			"d8ef2ade-f0f6-4926-9a81-d9eeb3f96e2f",
+			"ff5fb54f-2caf-4105-9759-0fb54d2b8544",
+			"e9d709b6-1958-451c-bf03-f96d1d96a05d",
+			"efabc5f0-5788-4ba4-9e5f-6ebdfd74a646"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "bdea2c01-3c1b-4676-a5df-8934385393c5",
@@ -18048,19 +18015,15 @@
 			"0b4a6f18-722d-42cf-b3ce-17a84a87957c",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"d6aef804-09e9-4f0c-b26e-8d6a72b87863",
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"5566e934-ff1a-47f0-9bb9-ba66710fe12e",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"fbd2924f-282c-4247-9a36-b7c6c9d1c155",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"b4482f62-f977-4d1c-81d4-97602393d52c",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"0fb017a4-0301-4ba1-a394-993748fe64b4"
-		]
+			"0fb017a4-0301-4ba1-a394-993748fe64b4",
+			"a6e18857-4b60-473f-a622-ee922c43d278",
+			"45624169-8cbc-4396-befa-6c050cb2a935",
+			"da4bd64e-bf1f-4213-b070-09b1b8d4c97e"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "c19e30e0-eac4-49c8-bf73-1cb557a4fb00",
@@ -18106,23 +18069,21 @@
 		"title": "Ontdekkingsreizen",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
 			"7c763ee7-a1f2-45fd-81aa-25de85acc455",
-			"0789d898-e73e-4f02-b6c3-11764ef7bafc",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"0ac8c21e-01e8-4c9f-bd7d-cf14d22b73a0",
-			"cefef4bf-594a-4a55-bbc8-6f7a7cfa4294",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"8e668235-e59f-425d-ac4f-63d559004053",
 			"5cd673d2-1075-4534-bf3d-afe6d0d81fd2",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
 			"93dd65e3-70c4-4253-acda-dc0922a5cd04",
-			"3bf3b180-8327-408e-8d89-453ccce824cf"
-		]
+			"3bf3b180-8327-408e-8d89-453ccce824cf",
+			"54d15b88-00c9-4bf1-8a06-bb9facfaf32d",
+			"9eb5ba95-0a28-4dff-8a8a-f9b4fd6141bd",
+			"59876c0f-bed8-416e-affb-dc0bce25bb3f",
+			"792bc4c2-7287-4a55-8867-cdcc48e7561e",
+			"f214f7ce-4cb4-494b-8845-9ce24041317b",
+			"0dda1c0e-564d-4af1-8124-8ce18dae080a"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "f34af665-fcd4-4690-a5e0-14c36f8d7b48",
@@ -18130,19 +18091,16 @@
 		"title": "De reformatie",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
 			"50836049-f8e0-41c9-b4e6-e38d832f7037",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"1a6dbaac-6926-4d3e-905a-b30449f582e1",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"81b90f51-16d9-4bad-9e59-baf7bca061fc",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"e82dbd64-6fce-4689-9322-73de7852a9f8"
-		]
+			"e82dbd64-6fce-4689-9322-73de7852a9f8",
+			"9d2acfa8-53fb-41cb-bd33-a8e4fbb36544",
+			"f8cb3743-7b6b-40fe-92e6-10b776433a7f",
+			"75291762-bdec-4da4-a6f4-727e53e7917a"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "70a40774-415d-4a82-aed8-7998c75faad1",
@@ -18150,16 +18108,14 @@
 		"title": "De gevolgen van de reformatie",
 		"description": "",
 		"doelniveau_id": [
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"d770b8e8-b10f-41e3-9738-683ed3e96a8c",
-			"26fd4541-94ec-47b2-ab4c-4ea5d024b1b6",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"272d73db-3274-430d-8d8f-2305bd497c65",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
-			"15ef73bf-32bb-4532-81ad-67beb4c471f3"
-		]
+			"15ef73bf-32bb-4532-81ad-67beb4c471f3",
+			"01f669d9-d650-4e12-abed-1439df49c7cf",
+			"32710a65-df2e-4666-98a4-dca70a0064d1"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "72e363c4-b87b-4737-b5a2-6802b862bb39",
@@ -18654,23 +18610,18 @@
 			"0b4a6f18-722d-42cf-b3ce-17a84a87957c",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"8bf5f9fc-b797-4717-bb62-e791579f4247",
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
 			"906fe5fe-f53b-4d8b-bd1b-d6df17839f40",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"73d5cec7-04ae-4a7b-8aab-3002d27f1070",
-			"b9c021bd-b3a1-4c6d-a6d8-66bdc0a92ecd",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"81a64ca2-4475-499e-a040-c3940f7027d7",
 			"63efc057-695f-4537-b969-8d82994eded9",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"8aa35a7e-79bb-44b5-b557-b6264d7e2c0d",
-			"fabccdda-0d59-49bd-a49b-438f31492ef6"
-		]
+			"fabccdda-0d59-49bd-a49b-438f31492ef6",
+			"c1b065e1-1a1b-4fd4-99cf-95536522acab",
+			"e2327a41-3384-42cc-a3cd-c8f9931a4c24",
+			"496a4dfc-bea9-4a9e-a72f-923ed32a11bf"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "b92e168b-75ca-47e5-b4fb-066120f1b9ee",
@@ -18734,23 +18685,18 @@
 		"title": "Het ontstaan van staten en de centralisatiepolitiek",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
 			"721b4256-d3db-48ac-ae1c-3b2fe58703f3",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"73d5cec7-04ae-4a7b-8aab-3002d27f1070",
-			"871fb4b5-7210-40d2-ae7f-9230c0b0b8a4",
-			"19c998a5-f57b-4df6-b64b-daf26b2f4e09",
 			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
 			"81a64ca2-4475-499e-a040-c3940f7027d7",
 			"99bfc949-1d03-4dc0-ad16-3ec0f1628062",
-			"2c7f9ae5-a5c0-4667-9125-ab4ff06ec4a7",
 			"4771b4cb-9131-468a-b691-1e842952f0dc",
 			"8aa35a7e-79bb-44b5-b557-b6264d7e2c0d",
-			"76d9a7db-af3b-4393-b218-eb68a6fcd7c2"
-		]
+			"76d9a7db-af3b-4393-b218-eb68a6fcd7c2",
+			"58c4d8c8-7925-4ee2-b2cc-8a2bc8f61b77",
+			"3e98f8e5-a422-4740-a66c-313b113a0131",
+			"173e8e42-f783-4f08-b1ca-abb991a807ad"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "93f417fb-4988-4017-b480-58ea4cef9ff9",
@@ -18758,17 +18704,14 @@
 		"title": "De opkomst van de stedelijke burgerij",
 		"description": "",
 		"doelniveau_id": [
-			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"04252430-8588-4817-b567-eb2555d1a76f",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
-			"06ac69b3-43fd-4d07-b739-4722d312bade",
-			"b49b4ed2-755e-41fa-8a3c-006a28b38250",
-			"42de6f59-02e2-4ee3-b26f-84527ef3a6c5",
-			"166a2882-d5e3-4b3d-94a4-234c45302dde",
-			"73d5cec7-04ae-4a7b-8aab-3002d27f1070",
-			"3b269902-59b2-4089-a6f7-b809a7a2e425",
-			"ef9d3fba-bd3b-45eb-870e-9de13cb6459f"
-		]
+			"3d80bde3-5842-4585-9497-ff81a1959bc5",
+			"1a36f0eb-c13b-4135-8dab-051205d0b3bf",
+			"b755776e-d650-40f8-8652-4ba688265dfe",
+			"2c5c8632-eeee-4289-8dd3-42318310f32f",
+			"7b4d53f7-62a5-4af2-a6cc-873cd694870c",
+			"5fee3e73-34b9-4cf4-b934-cd50baa457e3"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "32071a52-3a0d-47d6-98cd-e77dec8ccc82",
