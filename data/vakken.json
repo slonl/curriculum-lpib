@@ -1306,8 +1306,10 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -1429,12 +1431,15 @@
 		"title": "Zintuigelijke ontwikkeling",
 		"replaces": [
 			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
 		"title": "Leren leren",
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
@@ -1455,6 +1460,7 @@
 			"04058361-4e9e-4c02-a057-41605a7f37b5"
 		],
 		"title": "Praktische redzaamheid",
-		"description": ""
+		"description": "",
+		"deleted": 1
 	}
 ]
