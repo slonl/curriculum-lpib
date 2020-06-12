@@ -1443,8 +1443,6 @@
 			"a61f9699-7ff1-42d2-b30e-36d34172f453"
 		],
 		"doelniveau_id": [
-			"32d0c3a3-ed19-494f-977f-b5b40a2de29b",
-			"54ddf47f-2f09-44af-853c-946c082a0ad4",
 			"49a302f4-4e1b-42d5-8ef6-e363c9bea816",
 			"453964d7-7594-4593-9038-9e9fe89ec6b4",
 			"e3a3262f-6610-4a38-b5cc-a2f514f8874a"
@@ -4440,56 +4438,31 @@
 		"id": "2694b771-00c6-484a-824d-08cef8d77b44",
 		"unreleased": true,
 		"title": "Economische verschijnselen, vraagstukken en ontwikkelingen beschrijven en/of verklaren",
-		"doelniveau_id": [
-			"7c29bc63-b938-4577-b781-bd595426526e",
-			"a76bfeb1-5314-483d-9223-cdaf123223bf",
-			"a14efff9-defa-4369-b6ba-597cc288e035",
-			"0ef1dfce-fe8d-4ff5-972b-db48ab3085c5"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "8cb223eb-cc8f-4144-9e38-0e4cb052d46b",
 		"unreleased": true,
 		"title": "relevante economische vragen herkennen en zelfstandig vragen formuleren met het oog op het verwerven van kennis en inzicht",
-		"doelniveau_id": [
-			"7c29bc63-b938-4577-b781-bd595426526e",
-			"e425e120-d8af-43d9-8ccf-2fdfefbb2a1f",
-			"a14efff9-defa-4369-b6ba-597cc288e035",
-			"850dc2a0-3313-490f-a6a9-ab72200e3def"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "fa328d8b-e1b8-43b8-a701-285310c706c7",
 		"unreleased": true,
 		"title": "verworven en/of aangeboden informatie over economische verschijnselen, ontwikkelingen en vraagstukken verwerken",
-		"doelniveau_id": [
-			"7c29bc63-b938-4577-b781-bd595426526e",
-			"9af11932-ffeb-49ff-abd9-5d13f93a25ed",
-			"a14efff9-defa-4369-b6ba-597cc288e035",
-			"df9a3339-1b57-48e9-8c89-227bd7900ae9"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "7c733584-e885-4db3-9f13-095cfecb31d7",
 		"unreleased": true,
 		"title": "Een beargumenteerd standpunt bepalen over een gegeven of zelf geformuleerde economische vraag",
-		"doelniveau_id": [
-			"7c29bc63-b938-4577-b781-bd595426526e",
-			"a58929cd-fa9f-4491-bffe-3c369d9e59c0",
-			"a14efff9-defa-4369-b6ba-597cc288e035",
-			"8f1b1e31-57e7-410e-800c-5abd47e685ee"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "083d90fa-aecf-4247-afe8-72ea10972c89",
 		"unreleased": true,
 		"title": "Een eenvoudig onderzoek verrichten op het terrein van consumptie en/of het terrein van arbeid en productie en/of op het terrien van economische- maatschappelijke vraagstukken",
-		"doelniveau_id": [
-			"7c29bc63-b938-4577-b781-bd595426526e",
-			"55ff6776-0e7f-45fc-a3b4-43b6b38c4dab",
-			"a14efff9-defa-4369-b6ba-597cc288e035",
-			"d8e64651-a8cf-491c-99bb-d7cd421565a4"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "66e713bc-0f8c-4723-b3a4-e1a149f530bf",
@@ -5034,9 +5007,7 @@
 		"id": "557e5213-d1bb-4354-a887-6c5207396c2d",
 		"unreleased": true,
 		"title": "Informele gesprekken",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
@@ -5047,25 +5018,19 @@
 		"id": "2a346ae5-2876-4621-94a4-c533c6ced7b8",
 		"unreleased": true,
 		"title": "Formele discussies en bijeenkomsten",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "fa10c8cc-3b8a-4b99-81ff-e637dcfba5be",
 		"unreleased": true,
 		"title": "Doelgerichte samenwerking",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "3f9ccff3-b55a-43fb-98fd-2f1aa28f1768",
 		"unreleased": true,
 		"title": "Zaken regelen",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1f360caa-6e66-406b-b68d-d34be15db371",
@@ -5076,9 +5041,7 @@
 		"id": "e2fcb3d0-a1b5-4d85-a01a-9b81c1d780a2",
 		"unreleased": true,
 		"title": "Informatie uitwisselen",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
 			"1f360caa-6e66-406b-b68d-d34be15db371",
@@ -5089,9 +5052,7 @@
 		"id": "39ec3979-2333-4e57-9eaa-a9076b96b20c",
 		"unreleased": true,
 		"title": "Tekstkenmerken",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
 			"01081841-20dd-463f-b41f-33cca90f3677",
@@ -5116,49 +5077,37 @@
 		"id": "0c4fce66-c34f-4190-9556-97a4d0b1f30f",
 		"unreleased": true,
 		"title": "Een moedertaalspreker als gesprekspartner begrijpen",
-		"doelniveau_id": [
-			"e9bcd6b8-b1a9-4030-8396-a7839b718e9d"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "169e9f5d-5a74-4706-9ba9-ab4f1e87d8ab",
 		"unreleased": true,
 		"title": "Gesprekken tussen moedertaalsprekers begrijpen",
-		"doelniveau_id": [
-			"f55b8392-00bd-4712-9686-fbcc9bacb0ed"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "5ed86579-f4e0-4dfd-9356-e94afc6e12e5",
 		"unreleased": true,
 		"title": "Luisteren als lid van het aanwezige publiek",
-		"doelniveau_id": [
-			"f55b8392-00bd-4712-9686-fbcc9bacb0ed"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "7d57a894-62ca-46d2-8b8d-26d1cb9349b5",
 		"unreleased": true,
 		"title": "Luisteren naar mededelingen en instructies",
-		"doelniveau_id": [
-			"f55b8392-00bd-4712-9686-fbcc9bacb0ed"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "8e6f4a5d-70aa-4486-87df-f66c6ca4d819",
 		"unreleased": true,
 		"title": "Kijken en luisteren naar audiovisuele media",
-		"doelniveau_id": [
-			"f55b8392-00bd-4712-9686-fbcc9bacb0ed"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "f8a14b5d-dba7-47a1-99bf-b1d60deef90b",
 		"unreleased": true,
 		"title": "Tekstkenmerken",
-		"doelniveau_id": [
-			"f55b8392-00bd-4712-9686-fbcc9bacb0ed"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
 			"ff57a70b-4b43-4aaf-88d3-9004b61edef7",
@@ -5213,9 +5162,7 @@
 		"id": "453fff53-87b7-4521-97cf-a6d5467b9a12",
 		"unreleased": true,
 		"title": "Correspondentie lezen",
-		"doelniveau_id": [
-			"e9bcd6b8-b1a9-4030-8396-a7839b718e9d"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
@@ -5226,9 +5173,7 @@
 		"id": "fc5ba67b-81a3-4a8c-99b6-5b980866ab99",
 		"unreleased": true,
 		"title": "Oriënterend lezen",
-		"doelniveau_id": [
-			"e9bcd6b8-b1a9-4030-8396-a7839b718e9d"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
@@ -5239,9 +5184,7 @@
 		"id": "5de7dfd4-2888-4246-a027-02bececb4184",
 		"unreleased": true,
 		"title": "Lezen om informatie op te doen",
-		"doelniveau_id": [
-			"e9bcd6b8-b1a9-4030-8396-a7839b718e9d"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
@@ -5252,9 +5195,7 @@
 		"id": "c109f9a2-562b-4f77-920e-ba5a985fd6fe",
 		"unreleased": true,
 		"title": "Instructies lezen",
-		"doelniveau_id": [
-			"e9bcd6b8-b1a9-4030-8396-a7839b718e9d"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
@@ -5265,9 +5206,7 @@
 		"id": "9b197775-1d97-4277-ace6-8282c9dfdabb",
 		"unreleased": true,
 		"title": "Tekstkenmerken",
-		"doelniveau_id": [
-			"e9bcd6b8-b1a9-4030-8396-a7839b718e9d"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
 			"ff57a70b-4b43-4aaf-88d3-9004b61edef7",
@@ -5313,33 +5252,25 @@
 		"id": "318834d5-5b2b-4eca-97b3-877dd60c0d82",
 		"unreleased": true,
 		"title": "Fictie begrijpen",
-		"doelniveau_id": [
-			"408c74e6-6217-4489-87ed-33a9a5934cbd"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "54264523-e4e0-4636-aac3-ba928cd7f5e9",
 		"unreleased": true,
 		"title": "Fictie interpreteren",
-		"doelniveau_id": [
-			"408c74e6-6217-4489-87ed-33a9a5934cbd"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "49a4f3fe-843b-4e20-8709-e1295f145f31",
 		"unreleased": true,
 		"title": "Fictie in cultuurhistorisch perspectief plaatsen",
-		"doelniveau_id": [
-			"408c74e6-6217-4489-87ed-33a9a5934cbd"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "00d2a0f6-84f0-46b0-8b0f-9ff5413365ce",
 		"unreleased": true,
 		"title": "Tekstkenmerken",
-		"doelniveau_id": [
-			"408c74e6-6217-4489-87ed-33a9a5934cbd"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "1c22548f-ee11-4564-bbc4-670e02519982",
@@ -5356,9 +5287,7 @@
 		"id": "7df89a7e-a36d-4089-9a56-46c4983056dc",
 		"unreleased": true,
 		"title": "Correspondentie",
-		"doelniveau_id": [
-			"9fa4ce3f-584e-4712-8e65-93e0c3d10923"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
@@ -5370,33 +5299,25 @@
 		"id": "8c1ca8e4-ee78-4b00-ad4f-d04058a22c1a",
 		"unreleased": true,
 		"title": "Notities, berichten, formulieren",
-		"doelniveau_id": [
-			"9fa4ce3f-584e-4712-8e65-93e0c3d10923"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "6ee0d0e4-d932-47e5-b549-4d0a65e9dc75",
 		"unreleased": true,
 		"title": "Verslagen en opstellen",
-		"doelniveau_id": [
-			"9fa4ce3f-584e-4712-8e65-93e0c3d10923"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "5de6d9b6-0c5e-4b5b-be7e-bef25decb3d8",
 		"unreleased": true,
 		"title": "Creatief schrijven",
-		"doelniveau_id": [
-			"9fa4ce3f-584e-4712-8e65-93e0c3d10923"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "a6b1ca6e-4000-4618-bcd6-ff1e72c0b4d4",
 		"unreleased": true,
 		"title": "Tekstkenmerken",
-		"doelniveau_id": [
-			"9fa4ce3f-584e-4712-8e65-93e0c3d10923"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
 			"01081841-20dd-463f-b41f-33cca90f3677",
@@ -5442,25 +5363,19 @@
 		"id": "8a5b1637-52ee-4851-9f74-f1c19793369e",
 		"unreleased": true,
 		"title": "Monoloog",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "6dc0f5eb-2463-4634-a61a-9610e98113f7",
 		"unreleased": true,
 		"title": "Openbare mededelingen",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		]
+		"doelniveau_id": []
 	},
 	{
 		"id": "6defc091-7f8e-473e-87a1-8ce3a892a008",
 		"unreleased": true,
 		"title": "Een publiek toespreken",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
@@ -5471,9 +5386,7 @@
 		"id": "db4540ce-ea9b-4ce4-89dc-3969fa2f92f8",
 		"unreleased": true,
 		"title": "Tekstkenmerken",
-		"doelniveau_id": [
-			"47e06b02-290f-404e-8cd8-a54e1c908ab5"
-		],
+		"doelniveau_id": [],
 		"vakinhoud_id": [
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
 			"01081841-20dd-463f-b41f-33cca90f3677",
@@ -5723,12 +5636,7 @@
 			"2de9a8d1-268f-4b70-97f0-f63baa44fedd",
 			"bfb2b902-0b78-4aa0-9fed-1a4615edc9e9",
 			"e1904a9a-f8fc-446d-97b1-33237147d7c7",
-			"4fffdd38-6fa0-4d41-a403-76cffd1a92b8",
-			"43056766-f2c6-4bb4-985d-c3585e0e2b68",
-			"32df3a4d-22ab-4513-82cb-2cf12bd75a2d",
-			"9c1eb8fc-b59a-4396-a8e1-70f5c9a9204c",
-			"e7753488-c9e6-473c-94cf-14c73673134f",
-			"ea2c26ec-af44-41a9-a8ad-941f9b1a473e"
+			"4fffdd38-6fa0-4d41-a403-76cffd1a92b8"
 		]
 	},
 	{
@@ -5740,9 +5648,7 @@
 			"9c2956e7-27f8-4d7f-88f4-4dea24b7371c",
 			"6e9540d7-0d7f-47f3-8dfb-31c39d956b67",
 			"d68c9cc7-ec03-4ce1-a745-daf5594e6d51",
-			"116de9b6-8c3c-4883-bdf8-fee9e544baf0",
-			"bdfbbf9e-9ded-4590-b5ca-12410bb11c47",
-			"7efd12a3-77ab-4464-987f-553ae4b9943f"
+			"116de9b6-8c3c-4883-bdf8-fee9e544baf0"
 		]
 	},
 	{
@@ -5758,10 +5664,7 @@
 			"6420fac8-3fb9-4ae5-aa0f-1c8e29971fe9",
 			"07c6c78a-f358-49a2-b219-4a6152da6b3a",
 			"94a9bcde-b806-4f77-896c-ce6fb0c1bcdd",
-			"df212f7a-c253-4220-8a9e-d037a184c905",
-			"1e4bcbba-55d2-4d73-bcf5-6271cd2b769a",
-			"b416f1f1-dcdf-41dd-9ed7-9d1ff3b549a0",
-			"ffcec2ff-78ef-444b-8dbd-3ea93d94725f"
+			"df212f7a-c253-4220-8a9e-d037a184c905"
 		]
 	},
 	{
@@ -5775,17 +5678,7 @@
 			"4ca12cf8-902d-46aa-8922-22161361eee3",
 			"2d477464-1e6b-45a1-aea0-00632324c577",
 			"a1906588-696b-4d23-8f12-8227ff6f5de2",
-			"6efff913-e1ce-4230-ad84-19efa0031378",
-			"c01cf19a-f90c-490f-8ad4-ccf9a668dc4b",
-			"09063dc7-c95e-4d4a-b31d-9b7b0082e215",
-			"e00cdbd5-eafb-4c6d-a7cb-b57abdf80a85",
-			"45913036-88b0-4d09-9654-287a6ae7aad4",
-			"91f070b1-f222-4fb0-b40f-e0b2058f8070",
-			"193b413c-8e14-4dc6-a2a3-820de1b7d8ee",
-			"2ce5e92c-b6fa-4a0f-83f7-c3f434f6b2c4",
-			"3285ca85-245a-40b2-9652-5c6ddaeee757",
-			"6cc20bfa-d49c-4b68-be16-3a3c506a50e8",
-			"6176a232-d312-4822-8cb6-131f64bd45ea"
+			"6efff913-e1ce-4230-ad84-19efa0031378"
 		]
 	},
 	{
@@ -5797,14 +5690,7 @@
 			"5d940324-9de8-4337-8b6e-95c825e24823",
 			"cb74a419-01b8-4ace-98d0-fd4af07d908f",
 			"e6caa6ab-4439-4a64-9808-f30628a80343",
-			"d34d78a2-841f-4221-9cf3-b1c5710a35ab",
-			"1c1207b0-a5fc-4efd-93f1-733858716683",
-			"18db9cfd-b67e-4b3c-bbe3-22bd0b252d13",
-			"99752928-c604-4767-b2b5-5f7df0696b0c",
-			"6430bd37-9390-4a71-bb87-5bc5c63e513d",
-			"64d6c46a-9ccb-4177-b76d-80682b32350c",
-			"22e70151-a951-49ff-b479-347c3b10a0d6",
-			"435d0cd4-0fc0-4bcf-9754-4f75a5415d54"
+			"d34d78a2-841f-4221-9cf3-b1c5710a35ab"
 		]
 	},
 	{
@@ -5847,7 +5733,6 @@
 		],
 		"doelniveau_id": [
 			"a6ed6348-f332-407d-b632-4eac2c8a8440",
-			"b14be6ef-7f1d-48a0-b173-9ead1ac24844",
 			"ee302219-9e29-4c8c-8143-b9dcaccc0bbb",
 			"a451d223-a28e-4881-94fd-f60727baf854",
 			"faba5d0c-0452-4014-a76c-63fae00cd511",
