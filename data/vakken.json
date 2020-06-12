@@ -16,13 +16,29 @@
 			"97e8f73c-380a-4d6c-8694-30db5423e299",
 			"282711be-bdf7-43d6-8829-2f5062db9b71",
 			"56dc5fe8-514d-4eb5-bbf2-96757f946740"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
 		"id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+		"title": "Aardrijkskunde",
 		"unreleased": true,
 		"sloID": "1",
-		"title": "Aardrijkskunde",
 		"vakkern_id": [
 			"6e8db1e8-d4ad-48fe-b3a2-8e927a665665",
 			"2fce5bd6-f19b-4601-b3fe-30c52ebeb539",
@@ -37,6 +53,22 @@
 			"a3d06912-4e59-40c7-a0d4-fe1019186799",
 			"e463d6a7-cd43-4d10-b9e2-7466158ab22e",
 			"62075821-bf43-4d10-8deb-9e405c828757"
+		],
+		"description": "",
+		"niveau_id": [
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -49,6 +81,11 @@
 			"59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
 			"1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
 			"9db0a453-76cb-49ea-8690-551bfd579825"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -65,6 +102,11 @@
 			"17f209b5-d4c3-42df-96d8-b472ed6e7eee",
 			"991b7180-071c-4913-bcbb-5dadac8f52b2",
 			"d9b40ac7-ba78-4bd5-a108-337d2be35827"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -83,7 +125,9 @@
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -91,14 +135,33 @@
 		"unreleased": true,
 		"sloID": "4",
 		"title": "Bewegen, sport en maatschappij",
-		"vakkern_id": []
+		"description": "",
+		"vakkern_id": [
+			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
+			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+			"7d71171d-3ec7-4961-8931-bfaaddd62082",
+			"711d8468-c31b-42ae-a9b2-169958353afb"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "9d6793a3-a5d6-4719-9ad3-24b5677bec26",
 		"unreleased": true,
 		"sloID": "5",
 		"title": "Bewegingsonderwijs",
-		"vakkern_id": []
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"vakkern_id": [
+			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
+			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+			"7d71171d-3ec7-4961-8931-bfaaddd62082",
+			"711d8468-c31b-42ae-a9b2-169958353afb"
+		]
 	},
 	{
 		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
@@ -139,8 +202,7 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "26eb622d-6239-4f26-bdef-0c9662891285",
@@ -155,6 +217,12 @@
 			"09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
 			"88c9707b-920d-454d-9b80-b7dc879a31fc",
 			"8f8a5f29-44f5-4fc1-9423-de45204cebc1"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -167,6 +235,10 @@
 			"bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
 			"eca40860-d20d-41c2-9fc0-bdfe09993581",
 			"d4e1ef6f-ce81-43fe-a122-f00ad58657b7"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -179,6 +251,11 @@
 			"2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
 			"2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
 			"b352ebb7-4d34-4ac0-bb87-c792317064dc"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -194,6 +271,12 @@
 			"0823481b-e4de-4dd0-9467-9ea47220a6e1",
 			"73fc01b1-8845-4633-935e-eb0bf9cfa274",
 			"3ec37fff-610e-48ba-8815-d63fd0688591"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -207,6 +290,21 @@
 			"ea0d0b6b-f33c-478a-b550-c275caf31d3a",
 			"201fe4a2-9c23-40e9-b4a2-44ae070b513f",
 			"33f70664-17d2-40d4-b85a-52c6ea16d19d"
+		],
+		"description": "",
+		"niveau_id": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -232,6 +330,21 @@
 			"820340bf-f670-4d96-b3bd-5a4b4db6f6a9",
 			"cad889f0-6f6c-4ea6-a430-8fead4832ec6",
 			"71399584-e6c4-40bc-a1d2-5e924b1b66e8"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -247,6 +360,12 @@
 			"275cabc0-d8ad-4820-aa58-f8e7aed54a25",
 			"b5ff8aa1-f089-4b03-a24b-65af57271f25",
 			"38b0cb63-3ede-46c5-b01b-c9d42630ccd6"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -261,6 +380,22 @@
 			"9bf68d75-4270-47ee-8aa2-0087defd1767",
 			"f60c14af-2b8b-425d-9aec-fbbd5aa04933",
 			"1a4f280a-d3d9-4d88-9d53-f7056e766194"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -274,6 +409,11 @@
 			"ed55a6c7-88cf-4aa9-b31b-d7dc24ec8308",
 			"c33e4030-f47a-465c-92ad-c0cf87176d27",
 			"c3b401a0-7256-454c-b400-3e9eb97c28d2"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -287,6 +427,21 @@
 			"02adbf49-11e1-499d-87c1-315eb5ad0e56",
 			"b8e9876e-ed25-4c96-a676-e247eb6395f8",
 			"17bd7545-5834-4d39-be2f-58f8363639de"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -294,7 +449,18 @@
 		"unreleased": true,
 		"sloID": "12",
 		"title": "Friese taal",
-		"vakkern_id": []
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "58fe0010-9685-4dae-ba70-2e47d94ad844",
@@ -313,14 +479,12 @@
 		"vakkern_id": [
 			"f283b770-cbf2-45d6-920f-5033edf43c05",
 			"c76a6e48-510d-4c79-bac3-61bc40f12a45",
-			"446e556f-4fc5-41c5-a958-f01d1433bba5",
 			"01650f76-5639-406c-88c5-b0cae31af947",
 			"e79074aa-b358-4c1f-8c49-80e4a0f184a2",
 			"6e30481c-29ee-42fd-b648-53727a31006e",
 			"1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7",
 			"a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
 			"4b03c9da-dfc8-4136-998a-0aa4a97dc574",
-			"7895e64e-44b6-41be-8a3d-f77c68dd742e",
 			"98c50995-986f-4e92-8eb6-20ed2fe6eb76",
 			"8468158a-c55d-47a0-95d0-94f3cd0b67ac",
 			"7a89fa90-ff5a-4132-849a-c69d6c6f3733",
@@ -329,6 +493,22 @@
 			"8b8241a7-1547-46b6-bffa-3d0281753398",
 			"865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e",
 			"880dde81-63eb-4c01-a8fc-6a2547fa0439"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -346,6 +526,11 @@
 			"addcccc8-bc38-447a-9732-e5f6d2338d82",
 			"626487cd-8668-46a6-9663-96d8806aec98",
 			"987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9"
+		],
+		"description": "",
+		"niveau_id": [
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -361,6 +546,12 @@
 			"7f0a46aa-0bae-449e-902c-2a2db79785a8",
 			"d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
 			"2b33dd1e-8c01-407b-aeb6-c54739b06867"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -376,6 +567,12 @@
 			"1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
 			"ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
 			"351b3ed3-7b30-4071-bce0-d342976d1353"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -383,14 +580,21 @@
 		"unreleased": true,
 		"sloID": "46",
 		"title": "Kennisbasis natuurwetenschappen en technologie",
-		"vakkern_id": []
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+		]
 	},
 	{
 		"id": "ef872885-1953-4008-9dcc-32281274446a",
 		"unreleased": true,
 		"sloID": "14",
-		"title": "Klassieke culturele vorming",
-		"vakkern_id": []
+		"title": "Klassieke culturele vorming"
 	},
 	{
 		"id": "cef3bf40-8f21-4eea-8ce5-b3360b21023e",
@@ -402,6 +606,15 @@
 			"b1331533-f13b-4db0-b006-071367063cf6",
 			"78ba030e-b2cb-4c89-b342-ae22b88d1b85",
 			"a59e16c3-59f4-4a6e-85d0-ee12f0a69716"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -409,7 +622,11 @@
 		"unreleased": true,
 		"sloID": "16",
 		"title": "Kunst: algemeen",
-		"vakkern_id": []
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "3e408d9d-d9dc-4eb7-8841-13f3dabe27fd",
@@ -421,6 +638,22 @@
 			"ae2bcf7b-08c6-45d7-b501-c8dcb6f51f27",
 			"77635153-5140-4225-aeb2-5afbd08e4372",
 			"82ed19f6-d418-467b-8642-b6dded97fa29"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -433,6 +666,22 @@
 			"c872f8cd-6702-44c6-a895-4cad3bac3156",
 			"f4fb416c-b350-4001-a4e4-b9289ab55212",
 			"135c6dfe-4caa-48aa-b402-c7e8f2a13020"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -445,6 +694,16 @@
 			"9a8c5036-4d83-49eb-8df6-1a827b919c99",
 			"faaca156-af80-470c-b351-66a86d10d1b7",
 			"eca9e066-a3a0-4fa3-81cd-394ff7456c85"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -458,14 +717,29 @@
 			"196a7410-0c8d-474c-9ab2-be8a66fd7a85",
 			"141d7f7d-187a-4318-b318-4e299fba41aa",
 			"12d774dd-f581-4fe5-885c-10c585f3547e"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
 		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
 		"unreleased": true,
 		"sloID": "51",
-		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
-		"vakkern_id": []
+		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming"
 	},
 	{
 		"id": "23f4e5a7-fc21-410c-859f-85b99d4ae8f9",
@@ -477,6 +751,10 @@
 			"dddcf8fe-77e3-43fc-8e0e-5f894ad4ac3c",
 			"0cd80f19-1795-4233-8bf7-b6a706fd851e",
 			"4b96c375-2d86-4d4e-ad30-d11d8f6da36c"
+		],
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -493,6 +771,11 @@
 			"f2c19594-2acc-4a51-8109-20eac7f136b2",
 			"115a47dd-b8b6-4bf3-a404-66eab48da8ec",
 			"edd68785-7124-4de0-bf66-9d964704ff02"
+		],
+		"description": "",
+		"niveau_id": [
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -500,21 +783,29 @@
 		"unreleased": true,
 		"sloID": "22",
 		"title": "Lichamelijke opvoeding",
-		"vakkern_id": []
+		"description": "",
+		"vakkern_id": [
+			"821c328e-4cb5-4ba5-9215-caa4007d71ef",
+			"364f3648-ed5a-45c8-8aa8-a6f796ee0505",
+			"7d71171d-3ec7-4961-8931-bfaaddd62082",
+			"711d8468-c31b-42ae-a9b2-169958353afb"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
 		"unreleased": true,
 		"sloID": "23",
-		"title": "Lichamelijke opvoeding 1",
-		"vakkern_id": []
+		"title": "Lichamelijke opvoeding 1"
 	},
 	{
 		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
 		"unreleased": true,
 		"sloID": "24",
-		"title": "Lichamelijke opvoeding 2",
-		"vakkern_id": []
+		"title": "Lichamelijke opvoeding 2"
 	},
 	{
 		"id": "b4459aa1-0dbb-409d-a675-8ca914234028",
@@ -527,6 +818,13 @@
 			"111be74f-e6e4-4dd2-999d-a496b433d36a",
 			"a498c991-fd28-4933-a53c-9f96d7f28cbd",
 			"c7906e60-6e7b-4be8-ba61-997a41860d3d"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -564,6 +862,11 @@
 			"309f4ea4-d987-48a4-8aaa-b446e3dd0b7f",
 			"ef712b1f-a5b4-4671-8de7-03d789168697",
 			"cb0fd542-c990-4cb4-8372-042944c80963"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -578,6 +881,11 @@
 			"9518593c-9a3d-4c47-83de-c9d0eb5d71a5",
 			"78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
 			"41df4043-9ba9-4a03-bf59-19f7b936b0b3"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -593,6 +901,12 @@
 			"71078d96-0cad-409a-adff-f2eecf09fd4e",
 			"42e39944-f2b4-45d5-b30c-44dc3310cda0",
 			"84582908-21ae-4623-853f-c01c4602a7d7"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -608,6 +922,12 @@
 			"34bebd1a-68b9-418e-82c5-877a16bdc556",
 			"28e6f73e-0cb7-425e-a5e6-175121946008",
 			"1a373a1d-9182-4720-bf17-e702455adb3e"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -631,6 +951,15 @@
 			"674f3d39-4b03-4c3d-84dd-236e7eb8b270",
 			"af3b47e3-a390-41c6-b0a9-89ed27373314",
 			"6c6b6180-d664-46c5-aa02-3e0f79e7f227"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -660,6 +989,15 @@
 			"2162d9fc-3043-42a1-976b-ad6fae650ea3",
 			"f9264c4e-27e6-406d-ad62-13bd235a9f8b",
 			"4de21626-8e8a-492f-bb97-3a9a4345b15c"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -675,6 +1013,12 @@
 			"3276402a-d121-49d6-92b8-05b96694b802",
 			"c5c6c136-2d81-4482-9337-f3ce4eaaf671",
 			"cd368f01-bcf5-4c3b-9191-05747e44d894"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
@@ -690,7 +1034,7 @@
 		"id": "b362c478-90c9-45ac-855a-79421d23ed07",
 		"unreleased": true,
 		"sloID": "32",
-		"title": "Nask1",
+		"title": "Natuur- en scheikunde I",
 		"vakkern_id": [
 			"b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
 			"e162e77e-7a1c-4045-8e91-b03325eb47ce",
@@ -698,13 +1042,24 @@
 			"6caf582d-6b5e-48fb-9b89-d7a2b99bac5d",
 			"a2e75d11-1608-4122-b080-c687b9ffc208",
 			"d2cb98f4-9f9b-431b-a39d-96ba9422dfc2"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
 		"id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
 		"unreleased": true,
 		"sloID": "33",
-		"title": "Nask2",
+		"title": "Natuur- en scheikunde II",
 		"vakkern_id": [
 			"b01acef9-436e-40ab-940a-7984363fd307",
 			"cc95c860-4e07-4fb5-9e1f-d9ab05802699",
@@ -715,6 +1070,15 @@
 			"d20f7632-a8e8-4ac3-ba81-a8bca16507bf",
 			"33e606c4-5386-4781-9e04-0d92eae38244",
 			"419e9f2f-7f0f-49d1-a05a-84243d1c6257"
+		],
+		"description": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -729,6 +1093,11 @@
 			"76130125-e591-42be-a06e-ca7f7def1fea",
 			"cb9731b7-5221-4984-ba0a-c69f95a65cb4",
 			"52a367e3-b04b-4bbd-8287-f3c8c6e65134"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -750,6 +1119,13 @@
 			"830a70ae-d543-4ce9-9577-0450e254cf7d",
 			"82187447-5392-433b-940d-fd49f6f8d669",
 			"6bfb5344-c28f-4fe3-81f6-04d4dd3d58be"
+		],
+		"description": "",
+		"niveau_id": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -794,7 +1170,10 @@
 		"unreleased": true,
 		"sloID": "37",
 		"title": "Oriëntatie op jezelf en de wereld",
-		"vakkern_id": []
+		"description": "",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		]
 	},
 	{
 		"id": "b8f15528-dedb-4db8-81ee-c820da8453bc",
@@ -809,14 +1188,19 @@
 			"c4c5839b-44b6-4464-b776-631e684a62e3",
 			"d5e55c37-9894-44cc-be37-a93f852b28ab",
 			"8d39b484-7ed6-49c0-ba50-0476c266555c"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
 		"id": "d8384a70-755e-4fb8-b4e8-424f617caa89",
 		"unreleased": true,
 		"sloID": "38",
-		"title": "Rekenen en wiskunde",
-		"vakkern_id": []
+		"title": "Rekenen en wiskunde"
 	},
 	{
 		"id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
@@ -837,6 +1221,13 @@
 			"90d2e1b2-1c2f-4281-9e1b-31281774de3c",
 			"8635a166-23c5-435d-8f12-d27d0f565d94",
 			"283b005e-0bd2-442a-bd32-55c466f52f73"
+		],
+		"description": "",
+		"niveau_id": [
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -850,6 +1241,21 @@
 			"6c106c77-14c1-4c7b-a111-59540a5ca327",
 			"ca929c5d-6644-46ac-8217-a5ee298406d1",
 			"4c037ea4-2640-46c9-97fd-293d37aa2c92"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -866,7 +1272,11 @@
 		"unreleased": true,
 		"sloID": "49",
 		"title": "Tekenen, handvaardigheid en textiele vormgeving",
-		"vakkern_id": []
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
@@ -887,6 +1297,19 @@
 			"44fe4fb8-bf4a-4ea1-a4bb-6fcd778c410d",
 			"aefdd771-208d-40e1-9e09-4cba6dfc406a",
 			"39b37b0c-217a-47ed-89be-25051737e780"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -901,6 +1324,11 @@
 			"97abf32d-c062-4dc6-b1d3-b15cb6f64874",
 			"a337989c-f3de-429a-9537-fd5daa62098a",
 			"941616c0-5ae2-4f2a-9e88-1ce1d14e7275"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -914,6 +1342,11 @@
 			"ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
 			"86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
 			"88c79dcc-74cf-43fb-84ab-8711f63943ab"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -930,6 +1363,10 @@
 			"23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
 			"b2b0a114-9e28-4769-9a14-1da57ef66793",
 			"9956fcbe-af76-41ce-a344-de3095487d66"
+		],
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -943,6 +1380,11 @@
 			"86f51309-a590-4cd1-9cf2-737cd083a1a8",
 			"25249ccb-5ecf-4f69-b830-17d277e5c3b2",
 			"c5834a3e-ebdc-4821-b799-24caa6403bfd"
+		],
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -958,50 +1400,67 @@
 			"35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
 			"73d150de-58f2-40bc-96bd-d9e3ca07206d",
 			"0a8b96f5-752c-4589-b9d1-a7a60ee8dba6"
+		],
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		]
 	},
 	{
 		"id": "2845473d-ce18-450a-9135-6738abbdc129",
-		"title": "informatica"
+		"title": "Informatica",
+		"description": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
+		"description": "",
 		"id": "1f7aa29f-38d8-4dab-91db-3be52669951f",
-		"title": "Chinees"
+		"title": "Chinees",
+		"niveau_id": [
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "797c136a-a531-456a-9a74-e6eb5b9464b2",
+		"title": "Zintuigelijke ontwikkeling",
 		"replaces": [
 			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
 		],
-		"title": "zintuigelijke ontwikkeling"
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
-		"title": "leren leren"
+		"title": "Leren leren",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
 		"replaces": [
 			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
 		],
-		"title": "motorische ontwikkeling"
-	},
-	{
-		"id": "7ca6b014-380a-4e1d-98fd-5d9053c72575",
-		"replaces": [
-			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
-		],
-		"title": "bewegen en sport"
+		"title": "Motorische ontwikkeling",
+		"description": ""
 	},
 	{
 		"id": "35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
-		"title": "sociaal-emotionele ontwikkeling"
+		"title": "Sociaal-emotionele ontwikkeling",
+		"description": ""
 	},
 	{
 		"id": "4de7c3fa-4980-4936-8f33-29c8c6f47d44",
 		"replaces": [
 			"04058361-4e9e-4c02-a057-41605a7f37b5"
 		],
-		"title": "praktische redzaamheid"
+		"title": "Praktische redzaamheid",
+		"description": "",
+		"deleted": 1
 	}
 ]

@@ -124,6 +124,16 @@
                         ]
                     },
                     "uniqueItems": true
+                },
+                "niveau_id": {
+                    "allOf": [
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                            }
+                        }
+                    ]
                 }
             },
             "not": {
@@ -234,6 +244,34 @@
                         "required": ["vakinhoud_id"]
                     }
                 ]
+            }
+        },
+        "allEntities" : {
+            "properties" : {
+                "vak_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "items": {
+                        "itemTypeReference": "#/definitions/vak"
+                    }
+		},
+                "vakkern_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "items": {
+                        "itemTypeReference": "#/definitions/vakkern"
+                    }
+		},
+                "vaksubkern_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "items": {
+                        "itemTypeReference": "#/definitions/vaksubkern"
+                    }
+		},
+                "vakinhoud_id" : {
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "items": {
+                        "itemTypeReference": "#/definitions/vakinhoud"
+                    }
+		}
             }
         }
     },
