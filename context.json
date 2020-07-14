@@ -20,7 +20,7 @@
                 }
             }
         },
-        "vakkencluster": {
+        "lpib_vakkencluster": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
                 "vak_id": {
@@ -61,18 +61,18 @@
             "not": {
                 "anyOf": [
                     {
-                        "required": ["vakkern_id"]
+                        "required": ["lpib_vakkern_id"]
                     },
                     {
-                        "required": ["vaksubkern_id"]
+                        "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["vakinhoud_id"]
+                        "required": ["lpib_vakinhoud_id"]
                     }
                 ]
             }
         },
-        "leerlijn": {
+        "lpib_leerlijn": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
                 "vak_id": {
@@ -114,7 +114,7 @@
         "vak": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
-                "vakkern_id": {
+                "lpib_vakkern_id": {
                     "type" : "array",
                     "items": {
                         "type": "string",
@@ -139,37 +139,37 @@
             "not": {
                 "anyOf": [
                     {
-                        "required": ["vaksubkern_id"]
+                        "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["vakinhoud_id"]
+                        "required": ["lpib_vakinhoud_id"]
                     }
                 ]
             }
         },
-        "vakkern": {
+        "lpib_vakkern": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
-                "vaksubkern_id" : {
+                "lpib_vaksubkern_id" : {
                     "allOf": [
                         {
                             "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "#/definitions/vaksubkern"
+                                "itemTypeReference": "#/definitions/lpib_vaksubkern"
                             }
                         }
                     ]
                 },
-                "vakinhoud_id": {
+                "lpib_vakinhoud_id": {
                     "allOf": [
                         {
                             "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "#/definitions/vakinhoud"
+                                "itemTypeReference": "#/definitions/lpib_vakinhoud"
                             }
                         }
                     ]
@@ -177,10 +177,10 @@
             },
             "anyOf": [
                 {
-                    "required": ["vaksubkern_id"]
+                    "required": ["lpib_vaksubkern_id"]
                 },
                 {
-                    "required": ["vakinhoud_id"]
+                    "required": ["lpib_vakinhoud_id"]
                 },
                 {
                     "required": ["doelniveau_id"]
@@ -189,22 +189,22 @@
             "not": {
                 "anyOf": [
                     {
-                        "required": ["vakkern_id"]
+                        "required": ["lpib_vakkern_id"]
                     }
                 ]
             }
         },
-        "vaksubkern": {
+        "lpib_vaksubkern": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
-                "vakinhoud_id": {
+                "lpib_vakinhoud_id": {
                     "allOf": [
                         {
                             "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "#/definitions/vakinhoud"
+                                "itemTypeReference": "#/definitions/lpib_vakinhoud"
                             }
                         }
                     ]
@@ -212,7 +212,7 @@
             },
             "anyOf": [
                 {
-                    "required": ["vakinhoud_id"]
+                    "required": ["lpib_vakinhoud_id"]
                 },
                 {
                     "required": ["doelniveau_id"]
@@ -221,27 +221,27 @@
             "not": {
                 "anyOf": [
                     {
-                        "required": ["vaksubkern_id"]
+                        "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["vakkern_id"]
+                        "required": ["lpib_vakkern_id"]
                     }
                 ]
             }
         },
-        "vakinhoud": {
+        "lpib_vakinhoud": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "required": ["doelniveau_id"],
             "not": {
                 "anyOf": [
                     {
-                        "required": ["vakkern_id"]
+                        "required": ["lpib_vakkern_id"]
                     },
                     {
-                        "required": ["vaksubkern_id"]
+                        "required": ["lpib_vaksubkern_id"]
                     },
                     {
-                        "required": ["vakinhoud_id"]
+                        "required": ["lpib_vakinhoud_id"]
                     }
                 ]
             }
@@ -254,22 +254,22 @@
                         "itemTypeReference": "#/definitions/vak"
                     }
 		},
-                "vakkern_id" : {
+                "lpib_vakkern_id" : {
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
-                        "itemTypeReference": "#/definitions/vakkern"
+                        "itemTypeReference": "#/definitions/lpib_vakkern"
                     }
 		},
-                "vaksubkern_id" : {
+                "lpib_vaksubkern_id" : {
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
-                        "itemTypeReference": "#/definitions/vaksubkern"
+                        "itemTypeReference": "#/definitions/lpib_vaksubkern"
                     }
 		},
-                "vakinhoud_id" : {
+                "lpib_vakinhoud_id" : {
                     "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
-                        "itemTypeReference": "#/definitions/vakinhoud"
+                        "itemTypeReference": "#/definitions/lpib_vakinhoud"
                     }
 		}
             }
@@ -279,18 +279,18 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
-        "vakkencluster": {
-            "#file": "data/vakkenclusters.json",
+        "lpib_vakkencluster": {
+            "#file": "data/lpib_vakkenclusters.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/vakkencluster"
+                "$ref": "#/definitions/lpib_vakkencluster"
             }
         },
-        "leerlijn": {
-            "#file": "data/leerlijnen.json",
+        "lpib_leerlijn": {
+            "#file": "data/lpib_leerlijnen.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/leerlijn"
+                "$ref": "#/definitions/lpib_leerlijn"
             }
         },
         "vak": {
@@ -300,25 +300,25 @@
                 "$ref": "#/definitions/vak"
             }
         },
-        "vakkern": {
-            "#file": "data/vakkernen.json",
+        "lpib_vakkern": {
+            "#file": "data/lpib_vakkernen.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/vakkern"
+                "$ref": "#/definitions/lpib_vakkern"
             }
         },
-        "vaksubkern": {
-            "#file": "data/vaksubkernen.json",
+        "lpib_vaksubkern": {
+            "#file": "data/lpib_vaksubkernen.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/vaksubkern"
+                "$ref": "#/definitions/lpib_vaksubkern"
             }
         },
-        "vakinhoud": {
-            "#file": "data/vakinhouden.json",
+        "lpib_vakinhoud": {
+            "#file": "data/lpib_vakinhouden.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/vakinhoud"
+                "$ref": "#/definitions/lpib_vakinhoud"
             }
         },
         "deprecated": {
@@ -326,5 +326,5 @@
             "type": "array"
         }
     },
-    "required": ["vak","vakkern","vaksubkern","vakinhoud"]
+    "required": ["vak","lpib_vakkern","lpib_vaksubkern","lpib_vakinhoud"]
 }

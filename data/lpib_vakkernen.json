@@ -3,7 +3,7 @@
 		"id": "1719b731-8370-427a-b544-513483a61cab",
 		"unreleased": true,
 		"title": "Communiceren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"65f14fea-4813-4bec-86f8-d924b8fb4e99",
 			"e6de1044-b52f-4c92-8fd2-94049a5d346b",
 			"1e171257-b67a-47e7-b129-dd41b4c7f213",
@@ -47,7 +47,7 @@
 		"id": "80146d9c-a41a-4d0b-b292-7de716381362",
 		"unreleased": true,
 		"title": "Computational thinking",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f8744050-a97e-49e1-ba03-6814031776ca",
 			"aef04779-d89e-44ac-aa8a-73de6cc9a7c8",
 			"7406309f-b118-43ce-b4f7-ae37b5eab570",
@@ -198,14 +198,14 @@
 		"id": "9824065e-4cf2-42d6-9b19-4de2920e4860",
 		"unreleased": true,
 		"title": "Creatief denken en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cc433974-210f-42ca-8495-26301f273bb3",
 			"fdd65dee-d473-46cd-b922-b4cae1327879",
 			"9d0c3b85-b658-49d3-910e-f791e24ae4fb",
 			"034e3c89-c580-4a16-9601-cf8b2742ac78",
 			"ec88ae85-fdca-4287-bfb0-14d519ca414d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ff739ab3-fe0c-4fd2-8afb-572bf3ecd574",
 			"0fb96ace-642b-4e47-9a97-a3e7e6802806",
 			"de5d93d4-ccfe-4ecc-b1cf-38db17f5cd4d",
@@ -231,7 +231,7 @@
 		"id": "feb35f28-ff32-46eb-b320-d54d659fc53c",
 		"unreleased": true,
 		"title": "ICT-(basisvaardigheden)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a02c8658-91f2-4100-8af4-a24bf4f4c8b3",
 			"4a6d770a-f460-4e33-bf41-9bc4a64e0473",
 			"665fc398-31f5-4505-8235-2b986b52ef58",
@@ -333,7 +333,7 @@
 		"id": "2c2d3a0f-b051-4b75-84f8-ee6514a2ca36",
 		"unreleased": true,
 		"title": "Informatievaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"180c7080-8eac-4425-a9ef-75113f5c22e3",
 			"737c9b6e-1f68-4a7c-8db6-0316d2fa85e8",
 			"3259c478-2ddd-4090-b463-5668b9e0d7bb",
@@ -412,7 +412,7 @@
 		"id": "f390110f-d85c-4b9f-a2e7-f14d992eba4c",
 		"unreleased": true,
 		"title": "Kritisch denken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"59b516aa-d571-4096-ac09-bea653f4a9ee",
 			"0a895930-4f83-4958-be29-2c905b645907",
 			"95e7e73b-480b-472f-a2e5-a2a521cb97d8",
@@ -480,7 +480,7 @@
 		"id": "f02c3d97-a9ac-48d0-9f29-2c5ab88aa0fb",
 		"unreleased": true,
 		"title": "Mediawijsheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3eeb177e-0d71-493d-a7e8-5e5118726a24",
 			"4bd57617-5ee1-44b0-b9d8-6ede71453ff4",
 			"a8d91c77-24b9-468a-881a-dc7bf8f1f4b8",
@@ -595,7 +595,7 @@
 		"id": "d869af88-bd14-4046-a425-69be747a850d",
 		"unreleased": true,
 		"title": "Probleemoplossend denken en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"faf96a9a-212d-4977-9af6-8b5c4f317d7e",
 			"ccd837fc-ab8d-4de9-82c3-cc7fb5a3f358",
 			"7ddf74db-ccca-4e74-93a9-97ae99d32e36",
@@ -647,7 +647,7 @@
 		"id": "97e8f73c-380a-4d6c-8694-30db5423e299",
 		"unreleased": true,
 		"title": "Samenwerken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"5ed087dd-8cfe-4771-bac5-63011420ae47",
 			"9fe69f0a-4883-4c7b-91df-891bd7fb069c",
 			"7e7afa20-3aa0-4bf2-a3d5-16e54d9dce5d",
@@ -703,7 +703,7 @@
 		"id": "282711be-bdf7-43d6-8829-2f5062db9b71",
 		"unreleased": true,
 		"title": "Sociale en culturele vaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c83a709d-00c0-465e-80e3-5ca59cda8860",
 			"2f5214cf-706a-4078-bb43-2de7313e907a",
 			"0dca245a-197f-422c-aac6-e71cc7bd7c9d",
@@ -747,7 +747,7 @@
 		"id": "56dc5fe8-514d-4eb5-bbf2-96757f946740",
 		"unreleased": true,
 		"title": "Zelfregulering",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"6f863d57-cea7-48a7-bd42-3fdb3c771eec",
 			"809aaf65-90e7-43bb-9033-549ff1b89751",
 			"8739869d-54a0-4208-ac51-3ff5a65eb51e",
@@ -799,7 +799,7 @@
 		"id": "6e8db1e8-d4ad-48fe-b3a2-8e927a665665",
 		"unreleased": true,
 		"title": "Aardrijkskundige werkwijzen hanteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"320b782d-1d90-487b-bbac-0b4fa9e3e8e9",
 			"13874f63-0a75-4116-8c5d-61198581a4ed",
 			"2b3f6d5a-de74-40c6-a27b-ad48d21c3cb2",
@@ -810,7 +810,7 @@
 			"899c2372-162f-4701-a469-b93bfac460fa",
 			"484d0455-8aea-4fbf-ae82-664f552273be"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7353c12f-090b-446e-afcb-bf63bdff0e13",
 			"4a364c47-41b2-46cd-9e92-fcb036155791",
 			"c81d7c67-1bab-4f60-b826-81872c356709",
@@ -836,13 +836,13 @@
 		"id": "2fce5bd6-f19b-4601-b3fe-30c52ebeb539",
 		"unreleased": true,
 		"title": "Arm en rijk",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8a7cbe0c-0adb-4e47-8fd2-bbbb6290731e",
 			"319608a2-7e8a-43f2-b3bb-bff32d8c1632",
 			"648cf549-67cd-47e2-b945-f52b99e854a8",
 			"4e2514fd-ab19-4c35-abaf-0798663232b9"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5a77fa7c-c33f-4934-9c3e-5ef5450c7a40",
 			"8cd810aa-4583-4508-837b-9a7b9427e140",
 			"59693f75-2431-4bba-99a3-00e2167bfd02",
@@ -862,12 +862,12 @@
 		"id": "0e3b6e67-6dc0-4645-a145-e191ca7d9405",
 		"unreleased": true,
 		"title": "Bevolking en ruimte",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ef961593-afab-4411-8568-01fdcacf38c2",
 			"72afaff4-0f5c-4cf9-ad45-52c7bb869195",
 			"740a38de-7a72-49de-8fa9-559977b4f699"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9143ff7c-9662-42f2-8048-c75694d7b090",
 			"abe162b5-5e3e-499e-bdaf-2cdc502cf15e",
 			"eb12b476-b338-4e89-af5a-b54e03e025aa",
@@ -907,13 +907,13 @@
 		"id": "214c750d-6283-4c0d-9887-23fe011d7ae0",
 		"unreleased": true,
 		"title": "Burgerschap",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"e6419fda-637f-4cf7-b910-0ba5c71db696",
 			"57ef4a25-715a-4e74-9795-18b006773a4b",
 			"2660a1e7-f8a6-48e9-948e-db9e1b50834f",
 			"0cf15435-215e-4487-9794-55457fd6f7ac"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7aa740ae-7147-4e1d-9471-a4a7f755d81a",
 			"d4b63382-87a5-4627-b8cc-53d504b11b7a",
 			"e7eb4f47-3765-4a1d-a732-b70eec787f56",
@@ -935,7 +935,7 @@
 		"id": "4066d9dc-8e04-4290-a3f6-dbf5f4e97a5f",
 		"unreleased": true,
 		"title": "Duurzaamheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f4dc3c85-817c-44f0-b13e-7159033fc352",
 			"17bfcf02-e391-4764-b8f6-d14062ff0faf",
 			"9c12b8ef-7c5c-4895-bf36-aad92c73b1cd",
@@ -943,7 +943,7 @@
 			"e7f25ff7-aef8-495b-bc89-250c0eb8523a",
 			"fd597307-a909-4ba7-96ab-db3f65e94251"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"73978aed-9ede-4c27-8011-07b476674c56",
 			"2082acc9-e723-4736-b6cd-e1b7952c531a",
 			"20cf3153-94f4-4cb6-b839-68416742562d",
@@ -978,14 +978,14 @@
 		"id": "45456d92-1506-4488-b6a8-5ed517b70a6b",
 		"unreleased": true,
 		"title": "Geografisch vaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"06417767-73da-4d80-a75e-b3b6e7f6771e",
 			"989b0476-9d6d-48d6-a514-098acddb27ea",
 			"6756bf13-c8a0-42fe-ba5f-53b60ebbc43b",
 			"3d87b435-fe5f-48c8-b6fa-1fba433e07f6",
 			"9833b174-28cb-4d44-9405-41ea45d36208"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e8b72dc2-5424-4edf-b624-9698ad84f288",
 			"b32e513b-be8a-41cc-b4ad-abee39aaa584",
 			"faee856b-7014-4f3d-bdfc-30c9f9c6fcc1",
@@ -1032,13 +1032,13 @@
 		"id": "360e75ce-acab-4e5c-98e0-86f2e2b1e0b2",
 		"unreleased": true,
 		"title": "Globalisering",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"572209a0-b181-4691-ad88-bf519fa23b72",
 			"fdb89388-fdbd-457b-99c8-06c558b0a640",
 			"80c9c572-5a92-48d8-9df5-e777cc0f524a",
 			"86469973-a106-41c1-a115-c7d3a73aa898"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2082acc9-e723-4736-b6cd-e1b7952c531a",
 			"20cf3153-94f4-4cb6-b839-68416742562d",
 			"d55634c0-fe11-4a2e-8202-b380feb5ba5e",
@@ -1067,13 +1067,13 @@
 		"id": "336e97ca-a674-4cf2-b5a1-1970a838aa69",
 		"unreleased": true,
 		"title": "Grenzen en identiteit",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b413f1d5-96fb-4856-bc5a-7715225cd501",
 			"014a4f6d-4ad9-4398-9b1d-88c374bbccbc",
 			"446123e3-b31c-4972-9b45-e9a62237a12d",
 			"58551638-b785-4538-b1b5-962a2ee4be1d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"eebdd0f8-e1b3-4b40-8e8a-4b586e55f054",
 			"6baa6174-ef7e-4c25-bbfd-9bf70ed5b52c",
 			"f466b7eb-759f-4698-82e4-ea2387b79d31",
@@ -1097,12 +1097,12 @@
 		"id": "1bccd62d-678c-43c8-a681-dba4c4edfc0c",
 		"unreleased": true,
 		"title": "Landschappen (en menselijke activiteit)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ae05c22e-97d2-408b-a409-9855c0627acc",
 			"ae15748d-1c4f-491e-87dc-a8e6f51f381b",
 			"a6d738bd-81ae-4cd5-a66a-3cf78d3a31bd"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"f1d14f82-2edc-4a94-9147-0ec3aa02bced",
 			"2c24ba60-8d24-4bfe-8648-f6e452905a05",
 			"cf0adbff-ef29-40e6-9c25-230d608f4d77",
@@ -1123,7 +1123,7 @@
 		"id": "e75e604d-3040-443e-8450-7e03dfe916fe",
 		"unreleased": true,
 		"title": "Met aardrijkskundige informatie omgaan en een eenvoudig geografisch onderzoek uitvoeren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"424add0c-5d6d-4840-9d57-55ef0062e96c",
 			"8fc021d9-eda6-41fc-8e30-dfb3a487c388",
 			"beae872d-4e33-404c-b1d9-cd69546dbb1a",
@@ -1135,7 +1135,7 @@
 			"95d47286-e335-4af3-9154-2d47fab16541",
 			"ba071c11-d2c1-4ac7-9b35-7dab11c67540"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"13b47783-f01e-4459-a792-5ffd876fc84b",
 			"65764368-be10-4d34-8e49-410489616d8a",
 			"d5bee60a-fb66-49d8-8123-8dd9a2236d20",
@@ -1173,7 +1173,7 @@
 		"id": "a3d06912-4e59-40c7-a0d4-fe1019186799",
 		"unreleased": true,
 		"title": "Systeem aarde",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"efb1b93f-8463-4b9a-9c84-e100a18069a0",
 			"c96ba536-4198-45f3-9c1c-989586c5df23",
 			"b2689735-9233-4443-a7a4-92bae395deab",
@@ -1184,7 +1184,7 @@
 			"ed433f78-ab02-4312-b819-73583ab1050f",
 			"fc67068a-3c15-4247-be5b-620c4d435bb0"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"704f0187-d9fc-44e9-ada6-5e4a4d5d494e",
 			"dac02406-5ad6-4f0d-9560-41854a848a67",
 			"79e1ef66-e577-481a-9c05-983b34078bd9",
@@ -1226,7 +1226,7 @@
 		"id": "e463d6a7-cd43-4d10-b9e2-7466158ab22e",
 		"unreleased": true,
 		"title": "Water",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4a6f9751-ffd4-4afe-8673-51f59f9be9d6",
 			"b078b7de-ab63-4bb2-9b0c-87ced55a670d",
 			"3ebab640-7c70-4902-9c29-61b7cbf24d94",
@@ -1234,7 +1234,7 @@
 			"ed9a816d-bd35-4842-b887-744b665803d6",
 			"c5708bc8-978f-4bd7-a324-9b8e7952aeea"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5687bb25-c49c-4f25-bd44-fa70a9e5e63c",
 			"1c70efc7-4538-4bef-a281-a9047b10bf0a",
 			"d55634c0-fe11-4a2e-8202-b380feb5ba5e",
@@ -1259,7 +1259,7 @@
 		"id": "62075821-bf43-4d10-8deb-9e405c828757",
 		"unreleased": true,
 		"title": "Werken met aardrijkskundige vragen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"fff2b89b-19cf-490f-ba24-06bfdf220eb6",
 			"4a2a2e48-1b58-44a1-8ca6-76f6bc935ec4",
 			"633487fb-f99c-420a-bc21-a1c4815e797b",
@@ -1276,7 +1276,7 @@
 			"27c1c7d1-f404-405d-ae1f-bc508a637fbc",
 			"52f9cf96-d09d-4733-88f9-40ef9c103ded"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ff542f33-0a0d-4ea7-8700-4204bbfb59c1",
 			"8ed3e626-5320-4110-8695-30fbbd309cb9",
 			"80914c1c-f547-41e3-a317-4d88584616f9",
@@ -1413,11 +1413,11 @@
 		"id": "711d8468-c31b-42ae-a9b2-169958353afb",
 		"unreleased": true,
 		"title": "Bewegen beleven",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"69f3a7f1-2549-4da7-8bd2-572ecc1b84a9",
 			"d85d487f-0644-4079-ba1e-2bd7ea887cdc"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"45deb274-a231-4710-9cc9-3c53d4fa810b",
 			"918cf061-0c17-47e5-aaca-4d71bb8ee937",
 			"9f4de582-e212-4fc0-9b08-605faa4ffcc1",
@@ -1443,7 +1443,7 @@
 		"id": "364f3648-ed5a-45c8-8aa8-a6f796ee0505",
 		"unreleased": true,
 		"title": "Bewegen regelen",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"51464326-f4f0-43a6-8edf-732fb35dbe9f",
 			"37e862db-828a-4e51-913f-74f43b1d2dba",
 			"d3b7a8ff-b3ba-49b3-a327-bc6889fd7040",
@@ -1463,7 +1463,7 @@
 		"id": "821c328e-4cb5-4ba5-9215-caa4007d71ef",
 		"unreleased": true,
 		"title": "Bewegen verbeteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"6293c047-7412-4a4e-b5bc-8b265fd72b3d",
 			"55647f8f-f3bb-41e7-aea5-1c75f9b6b374",
 			"bde64dc5-fda7-4f28-9f98-dc33431414b2",
@@ -1484,7 +1484,7 @@
 			"fe50a851-8060-4602-ae10-90d8a12ce405",
 			"58ab49a2-f279-4621-bdbc-2e2377a162e8"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e978bef3-bb40-48a4-b6c3-153c45bc38d8",
 			"f6317309-793b-4b76-9b13-12c7d901ad24",
 			"f397b3cc-002c-4990-bc70-c190fccc3a65",
@@ -1550,7 +1550,7 @@
 		"id": "7d71171d-3ec7-4961-8931-bfaaddd62082",
 		"unreleased": true,
 		"title": "Gezond bewegen",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"83bcb3e6-9c0a-4f72-8656-01145c9843c2",
 			"44725cba-4810-4599-9d77-ecd2ee0909fd",
 			"1b195d0b-5b37-4d49-adb2-d308a99df5cf"
@@ -1566,7 +1566,7 @@
 		"id": "2400e03b-d163-4dba-98af-26e425eb4872",
 		"unreleased": true,
 		"title": "Biologische eenheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"070e3c4f-97f5-4029-b1be-a35f886d92ac",
 			"872dd023-aa94-4983-91e9-cb6586147f43",
 			"9640e923-f903-417d-bd0b-878a849ae20e",
@@ -1575,7 +1575,7 @@
 			"9377952f-158c-4482-92d9-2aacfc9abc12",
 			"74f25132-5858-441d-b295-0719c5e74600"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"f9ac3242-37d2-467a-a74a-c4e1c4a9fe62",
 			"7535f456-d392-4e92-bb67-542454dcdb21",
 			"54104552-70a6-4400-a4ff-1206eb19fae8",
@@ -1664,13 +1664,13 @@
 		"id": "c658f98a-86c1-46c6-9f8d-87ed374efc1f",
 		"unreleased": true,
 		"title": "Dynamisch evenwicht",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"e1ded261-fcb6-4f89-8764-0d8e9f333b59",
 			"0e3b7b2e-b856-4f62-8e86-f6a4aa9f1d56",
 			"206cee22-23bd-4433-a2ec-b021a4a4d63a",
 			"60e3b704-bde2-42e6-af23-f31b0f16f362"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"74c51769-d1b8-4962-961d-840c245fb51f",
 			"58716740-2dab-4db3-bd23-2470986233f6",
 			"7d1f574f-fb1c-44d2-a339-610e28d99304",
@@ -1715,7 +1715,7 @@
 		"id": "4ba7e4f4-a95f-43cc-87c3-c9d575b78c46",
 		"unreleased": true,
 		"title": "Evolutie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4289885c-d835-4fa8-be66-8568d17e54af",
 			"5f964af4-8de3-437b-9efe-c3ba101bee08",
 			"57fa2c73-85fd-4e59-8e02-bc035bd23bbe",
@@ -1731,7 +1731,7 @@
 			"6ca90c7a-6e84-4d48-abb8-0c08e96f06cd",
 			"5569a4cb-c328-42be-bf72-018ab5b0a878"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d565fe70-1e39-453b-90e2-9352656e22f5",
 			"98053cb2-16c1-44d1-9532-f772abc9a43e",
 			"afb04c2c-8e39-4656-bdfb-e7c8aa781daa",
@@ -1750,13 +1750,13 @@
 		"id": "6a8312ad-1e81-4524-b87f-b4aa989fdd33",
 		"unreleased": true,
 		"title": "Informatievaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1d7c1830-a9e8-4ba1-84c2-dacbbef62441",
 			"97e974b4-e36f-44bb-8229-0afd803d456b",
 			"4d3de42f-9d1b-4824-9bf0-be8719b3b8c1",
 			"400083bf-c02f-443a-be98-882c07d06fff"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7f51879a-d9e3-4b50-be27-d019114349b1",
 			"e01afc66-d634-49d2-9241-ec07776bc2cf",
 			"8682f0a5-395a-443b-8c8b-06c9acc4b555",
@@ -1788,7 +1788,7 @@
 		"id": "f308b6cd-89df-4a42-8f33-a994e7f8a733",
 		"unreleased": true,
 		"title": "Instandhouding",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"12742e6a-9a72-4571-b3dd-661df263c4c6",
 			"2912e921-6c97-48d1-b107-25933e877dc5",
 			"29f702de-bee7-4062-9142-d4a7df3ffcb4",
@@ -1799,7 +1799,7 @@
 			"8d432d20-5b75-4a81-9e36-a2daeeee7321",
 			"57bb2039-6f53-4b6d-92a2-f387fa232aa6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4f5f1651-3d13-4199-8a5c-63eb4c45c02a",
 			"d81fdf84-acb3-4aa8-b025-912e937cb106",
 			"ddb458ff-8e7f-41d7-a370-6fff1b5f5dc5",
@@ -1892,14 +1892,14 @@
 		"id": "fced5a91-a770-431d-a191-bae82a29fea1",
 		"unreleased": true,
 		"title": "Interactie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"7d915858-1bc8-4d2d-b525-aaa7eb8a77dd",
 			"45d7036a-fc95-4e93-89ad-44a11232225b",
 			"6bd32549-d68d-4235-8399-b3a8c3ee7068",
 			"fc7c03f2-0042-482a-8028-04904cd8f4d9",
 			"cc91ef49-d8d6-4ac5-a6cc-61c1f08e03ab"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"3072c6d8-182a-4fd8-b7bf-b56004c92278",
 			"4eac307b-2aef-4c6c-9282-6b52a070cf56",
 			"499e4b97-d738-4871-a332-d44eb9ce4e5a",
@@ -1955,13 +1955,13 @@
 		"id": "bbfdd51a-3193-4cb9-b34d-db4ffe968f54",
 		"unreleased": true,
 		"title": "Modelleren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d3b7a0fc-e5de-405c-a568-3833df360c07",
 			"be053613-cd47-45db-a71c-9ed0f4a254c8",
 			"5dd78045-24bd-468b-a785-c86c4f9a2498",
 			"20085dfc-5f57-4235-a5c2-7f6535aa0c84"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ffaea75f-0f4b-4d22-8fc5-e441ccfbb0ca",
 			"64a9480f-0529-439c-a3b2-0e47021c54bc",
 			"51c2147b-5620-4023-87e7-a17602c0255d",
@@ -1996,7 +1996,7 @@
 		"id": "7137bb39-b652-4f5f-b7e9-d4b027e3622a",
 		"unreleased": true,
 		"title": "Natuurwetenschappelijk instrumentarium / reken- en wiskundige vaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3f623954-4543-4d65-8892-81da81250a28",
 			"0fee38d9-2826-446a-9d47-f0b6b2776fc0",
 			"0cd06899-2444-486c-ba26-b8ce17df3f63",
@@ -2004,7 +2004,7 @@
 			"a0ea57ed-10ab-4561-9f14-4793def4cf4f",
 			"f8d821ad-ea73-4c3e-bdbd-c6a181d1d18f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"259cb62e-b8e5-4fb0-a7ce-d7502220153b",
 			"af5432d8-b43a-4b41-9fca-278bd354233c",
 			"c6930661-ddfb-4914-b7e0-f9a88ba7932d",
@@ -2037,14 +2037,14 @@
 		"id": "bc7cb31a-5618-4ff1-9b51-fd01ab4a3b46",
 		"unreleased": true,
 		"title": "Onderzoeken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ff6e9a0b-3f71-4c15-b17b-6f5672c310b4",
 			"a41cb553-3c25-4dd5-a24c-54ea6723717c",
 			"ad419096-b69c-43ee-9a47-e173b0e7be32",
 			"0a84d499-190d-4276-9866-e5835ae9a764",
 			"054a2686-3483-42cc-b314-481d94655896"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0e266baa-68cc-4bfe-b137-02c59dd2b477",
 			"5698acae-239e-421b-9dd3-ddc367e58c64",
 			"4618441b-adf8-41e0-a774-f7c2d0af43c0",
@@ -2088,7 +2088,7 @@
 		"id": "dcb90d31-6979-4189-a460-384636e2e586",
 		"unreleased": true,
 		"title": "Ontwerpen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c46d0dd6-9da8-4321-953a-826b404c7524",
 			"bba70ddf-2338-41e8-9993-c6ce110edc5e",
 			"4a1ade60-b167-40df-a816-4d04ca60a3b0",
@@ -2102,7 +2102,7 @@
 			"e71c66eb-989e-4f7a-9eaf-3389dbba712e",
 			"07388ef3-c04c-4686-a893-a3f34a8ecfec"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e080cada-25b8-4a83-a4ac-629d34b9b2be",
 			"8550a1c7-cde5-4a60-9ff4-1e91df4de2b8",
 			"82c9847a-2d1e-4897-828d-639893db6419",
@@ -2119,7 +2119,7 @@
 		"id": "99a36df9-74d5-47a7-beb7-ebf0fb69e5b0",
 		"unreleased": true,
 		"title": "Redeneervaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"afccc344-3806-4709-ac5a-4d0b7dff58b9",
 			"7c153152-e9f0-4c9f-a38d-64f70a9bcf0f",
 			"c7419560-a86c-43b7-9e01-cc7b8474af0f",
@@ -2129,7 +2129,7 @@
 			"4cfe09ae-7f64-48a1-9095-781474875cc8",
 			"d46a0fe2-4a10-4e79-82c2-a8041740a336"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9931318f-cc86-4f4b-9600-90fd774587bd",
 			"2f15b32f-e32c-4129-aee2-a9e1c6a81332",
 			"9715bbd0-2fb3-4bd6-acce-552356daee19",
@@ -2167,14 +2167,14 @@
 		"id": "bb200f23-88b5-4132-b80a-f113a1eff1fa",
 		"unreleased": true,
 		"title": "Voortplanting",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3dc2c876-f729-4762-80e6-6a390592699c",
 			"9e9eaa74-e044-4503-977f-8ba66281f4f7",
 			"bdb700fa-6ce2-474f-b025-74b61f2d7c68",
 			"fa55b4a5-d2d0-4dbd-938b-631b5a6ccb0e",
 			"3313c861-4e67-44e7-abd5-a03c92968e1d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"397c6a9a-2a4d-43a3-8c96-48e5ca43f441",
 			"5e6ad1dc-1903-4fcc-9acf-2f843f061c26",
 			"9e1ef421-80df-4b8a-b199-3baf24a70e66",
@@ -2242,12 +2242,12 @@
 		"id": "1788c7c2-91df-45d3-b1d4-55bfbf283162",
 		"unreleased": true,
 		"title": "Waarderen en oordelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c76b5b42-1c92-4b7a-b088-c11c6d142e57",
 			"3fc6b4d4-adf8-4fed-8cd8-1cd4c174cb68",
 			"875f18d3-c3fc-4fee-8b5f-76d9c1e6904d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2a811dd1-918d-40e5-ac2f-34eec6943387",
 			"0ff4d9a1-6505-42f7-be48-ef49f42b1f33",
 			"f0173bba-0447-4735-9f4c-3f764f652c41",
@@ -2358,7 +2358,7 @@
 		"id": "37d33cd1-3457-4d0a-8543-e25af5629f93",
 		"unreleased": true,
 		"title": "Module 1 Bouwproces en bouwvoorbereiding (1201)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8c8cb720-342c-4f38-bc00-9bcaab5891da",
 			"13286e52-c85f-4b7a-af3f-cda7d5548cdc",
 			"e2e375b2-c46c-43c4-8c2c-c445836c0b8b"
@@ -2368,7 +2368,7 @@
 		"id": "48b2e1d0-22fb-46ff-83ff-1c6364c26e67",
 		"unreleased": true,
 		"title": "Module 2 Bouwen vanaf de fundering (1202)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9070056a-ff72-44c3-ae70-fc7ea57491a9",
 			"e1eb1ad3-6720-4943-9227-43dc845f4755",
 			"e579625e-9c45-4e92-819f-2034b6d0abc5",
@@ -2379,7 +2379,7 @@
 		"id": "09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
 		"unreleased": true,
 		"title": "Module 3 Hout en meubelverbindingen (1203)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e676a645-5dab-45cd-9119-c5d2450c3cca",
 			"970c3c67-d552-4204-b088-5b8f6ebc91da"
 		]
@@ -2388,7 +2388,7 @@
 		"id": "88c9707b-920d-454d-9b80-b7dc879a31fc",
 		"unreleased": true,
 		"title": "Module 4 Design en decoratie (1204)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4fb18b16-0f3c-49a5-aa54-af64e40b2e7d",
 			"e5c8db85-9edb-4fb0-8dca-0fd12ae29176",
 			"b744891e-b2b7-462e-aee8-4482e2023d99",
@@ -2399,7 +2399,7 @@
 		"id": "8f8a5f29-44f5-4fc1-9423-de45204cebc1",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
@@ -2430,10 +2430,10 @@
 		"id": "dcfb8a03-371a-4473-ad03-d0d840887377",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c2112cbc-f9c0-49f0-bd32-4ec6681d0717"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -2441,10 +2441,10 @@
 		"id": "bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a9335fe9-c96b-40bd-96c5-836ea217d335"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -2452,10 +2452,10 @@
 		"id": "eca40860-d20d-41c2-9fc0-bdfe09993581",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"fa272bb3-3a58-4300-b75c-f427fea8d10f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -2463,10 +2463,10 @@
 		"id": "d4e1ef6f-ce81-43fe-a122-f00ad58657b7",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"633b143d-6031-4af3-aeeb-2da3e0ab81c6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -2581,7 +2581,7 @@
 		"id": "76842c70-6ad3-42d3-8559-4142c7b282fe",
 		"unreleased": true,
 		"title": "Module 1 Organiseren van een activiteit (1915)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4979c1d7-8e74-42c9-8b15-d4ef1a447099",
 			"199b7b9e-fc96-4688-861d-e752aae67dcc",
 			"e3c8b6b0-93a4-41fc-9078-89b35695bdec",
@@ -2592,7 +2592,7 @@
 		"id": "2d722f58-4481-4c49-b4df-357f755c4f9c",
 		"unreleased": true,
 		"title": "Module 2 Presenteren, promoten en verkopen (1902)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0ba970c7-3f68-455f-a1e7-4277e27fd75a",
 			"9a78cd71-50f0-4c71-a5c6-28dc9fd60497",
 			"3e81c867-2ac9-4f2f-9129-7c1bbbbc7c2d"
@@ -2602,7 +2602,7 @@
 		"id": "0823481b-e4de-4dd0-9467-9ea47220a6e1",
 		"unreleased": true,
 		"title": "Module 3 Een product maken en verbeteren (1903)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"99d5afcc-97f5-43c4-af2c-d9f973892fa3",
 			"fa376787-1c49-46bc-b467-cf8bbb8a2770"
 		]
@@ -2611,7 +2611,7 @@
 		"id": "73fc01b1-8845-4633-935e-eb0bf9cfa274",
 		"unreleased": true,
 		"title": "Module 4 Multimediale productie maken (1904)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ee3254fb-8507-4493-b835-1974f8e50834",
 			"e99187ce-d8b4-45a5-8d08-0a825ced67c4",
 			"6d6c7d42-6cce-48bf-a58a-d553e9820772",
@@ -2653,13 +2653,13 @@
 		"id": "2affa696-9540-4448-8897-683b28fcb493",
 		"unreleased": true,
 		"title": "Gesprekken voeren (Duits)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1a587fce-a2cf-4162-8d56-3a2f47ef1ac2",
 			"edea9979-ad27-4f51-ad4b-8e54d346c6bc",
 			"bc60d504-4125-4fcb-9e18-0e01dde27d30",
 			"4a0699c0-23aa-4479-8d88-a7652247e4aa"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"doelniveau_id": [
@@ -2671,7 +2671,7 @@
 		"id": "f1d8fa8b-0f94-4f3d-b059-ce9f1d14e73f",
 		"unreleased": true,
 		"title": "Kijken en luisteren (Duits)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f2a05ea9-731c-4979-8082-673a07a1d9ef",
 			"66df8221-9d5a-4c8e-9f54-1ae7c1f03556",
 			"041ce023-7e5c-4274-8a87-1c72070bda16",
@@ -2681,7 +2681,7 @@
 			"0e017bcb-9a46-4531-945c-a319df888c9f",
 			"f99dd6d2-d5e3-407d-a331-16bce33e4f44"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"description": ""
@@ -2690,7 +2690,7 @@
 		"id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
 		"unreleased": true,
 		"title": "Lezen(Duits)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cd4cd8e4-b417-4ab6-bbd1-6407cb85c39b",
 			"8cedfe42-5884-4299-9f02-c93a22e4a367",
 			"373c9200-2b84-47b8-a9fa-0736f1e30c77",
@@ -2700,7 +2700,7 @@
 			"76880079-a2a0-46ef-81a1-f0f5fa98185b",
 			"c8ab97a8-2d40-4087-b98d-226cf1d837af"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -2708,7 +2708,7 @@
 		"id": "201fe4a2-9c23-40e9-b4a2-44ae070b513f",
 		"unreleased": true,
 		"title": "Schrijven (Duits)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f79af863-b536-4af8-8041-a052489a470b",
 			"48770b09-8825-4c13-a2d0-96016b96540d",
 			"2e9f9f1f-f6c9-4aaf-ba84-ed5836702ded",
@@ -2718,7 +2718,7 @@
 			"83d65099-997e-4f20-b056-be06a8279da3",
 			"ddd80702-fb46-4e12-97c8-5d3f87d5b379"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -2726,7 +2726,7 @@
 		"id": "33f70664-17d2-40d4-b85a-52c6ea16d19d",
 		"unreleased": true,
 		"title": "Spreken (Duits)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2841f5fa-109c-4542-a73f-430de655418e",
 			"a54d0ea4-a052-4fa7-bee7-f7fa8cbd89b3"
 		],
@@ -2738,7 +2738,7 @@
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
 		]
@@ -2747,7 +2747,7 @@
 		"id": "87d62f23-1d59-4823-a4d7-e9bd034eaa3f",
 		"unreleased": true,
 		"title": "Arbeid, productie en bedrijfsleven",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b420a480-c285-4cab-9bc9-abc66bfa43bb",
 			"cc28d3b8-e679-4385-ba80-7cb23cbf17dc",
 			"e103f1c0-3a7c-432e-abb4-a7a077b180c1",
@@ -2763,7 +2763,7 @@
 			"1875558f-31a0-43b1-b8a5-3723eb587a97",
 			"25c49d27-a8cf-461b-8f11-54287bf5a590"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5f89632c-adfb-4ed1-bbb3-119ef202a142",
 			"818c3271-b9db-4045-a1eb-ce4ccb21e9aa",
 			"e2c799ae-7d03-4b38-921f-061fda59d0f7",
@@ -2790,11 +2790,11 @@
 		"id": "7fe3c440-5c99-40fc-a077-d73d5f58aefd",
 		"unreleased": true,
 		"title": "Arm en rijk",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1d0718a0-60da-4637-8f76-fbd86fc1989d",
 			"feda8499-bec9-4777-8a3b-b1d1efb683e6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"615b675b-d080-4fd9-afb6-86d99950f030",
 			"a26f6daa-4546-41bc-99fd-cbc816bf4bdb"
 		]
@@ -2803,7 +2803,7 @@
 		"id": "571c5569-dfbe-4ac7-88b9-ee75a9e45249",
 		"unreleased": true,
 		"title": "Consumptie en consumentenorganisaties",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c0b24b97-f352-4fe6-8ae1-8cbad6a5a25f",
 			"3c164fb1-45a0-49c4-941c-35cfcd1a8d52",
 			"74259d1a-c55e-4c79-900d-d675c47da3d2",
@@ -2835,7 +2835,7 @@
 			"74a32642-782b-406f-ada7-802e04229564",
 			"84c6ada3-3d45-469e-9704-ed3ece1a25ab"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"26fa054c-509d-4f11-9803-ae9fd1f396f7",
 			"383a89c2-bd69-41c0-9ef1-f53f371d4d63",
 			"8591e535-6c63-4eea-a498-40e77ac22d84",
@@ -2883,7 +2883,7 @@
 		"id": "3f0ed38b-b3d3-4711-bd28-f1aa239e5920",
 		"unreleased": true,
 		"title": "Goede tijden, slechte tijden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"5292f5ba-0c9e-4691-b24c-2d7a8c66c92c",
 			"61f5ec84-4901-4e8b-b63f-43e559d16248",
 			"ae522fe4-6a1f-4f11-baf6-9292ba95df2e",
@@ -2893,7 +2893,7 @@
 			"ad0a3009-1467-42f5-a57a-d900aff4b404",
 			"011cbd0c-2ab9-4f43-adde-b1a18fd9cd2b"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8cfcf6c3-393e-4cba-9592-7f5ffac177c4",
 			"687f892a-8f7d-473f-aca9-f55b2f12be89",
 			"a9f881c2-c1b9-4c66-8423-f50632834e39",
@@ -2917,7 +2917,7 @@
 		"id": "8ffe98c1-b0c5-4b75-91f3-5c06e64c28c9",
 		"unreleased": true,
 		"title": "Internationale ontwikkelingen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2c8668ec-86d2-4231-9cbe-86e37b438a63",
 			"e72548cf-d420-4cce-ad63-a2a4dfde5ffb",
 			"2c612347-4b91-4366-a56a-0fcdd7c435df",
@@ -2928,7 +2928,7 @@
 			"2224ab6b-9801-43a8-b568-456abfc11df9",
 			"1eac91a5-3fac-458f-b0d3-fa30783a8392"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"f93dc268-b1c0-4c6a-86f5-316ac96fae4b",
 			"a43781ac-9a11-4031-9af2-6648d6cc505c",
 			"9c02aeca-55d4-4f55-8c3d-e17a4029d050",
@@ -2947,7 +2947,7 @@
 		"id": "bdf30cc9-bb47-440e-9784-184968a6c93e",
 		"unreleased": true,
 		"title": "Leervaardigheden in het vak economie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2694b771-00c6-484a-824d-08cef8d77b44",
 			"8cb223eb-cc8f-4144-9e38-0e4cb052d46b",
 			"fa328d8b-e1b8-43b8-a701-285310c706c7",
@@ -2960,7 +2960,7 @@
 		"id": "e7c4f5be-fd40-4d82-8c9d-41aaa3ffe450",
 		"unreleased": true,
 		"title": "Markt",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"66e713bc-0f8c-4723-b3a4-e1a149f530bf",
 			"f2ba1872-157f-4d9e-9906-d5c41b8c8870",
 			"05d67baf-b154-4b7c-baaf-5b8380674567",
@@ -2971,7 +2971,7 @@
 			"fedb12cd-f3be-4fb2-9a84-fa8cf42e490e",
 			"244d30e8-9719-495b-a24a-5f5f7b221274"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"492b46e7-5e1f-45cd-95ce-af0dc0b646a9",
 			"286d7404-849b-401a-89c6-3bc9e8ab3df5",
 			"c7870f93-c3fb-4148-bf52-ed9ea3095fb2",
@@ -3015,13 +3015,13 @@
 		"id": "d9576db0-1e98-4cde-84e0-b3fe18e004d4",
 		"unreleased": true,
 		"title": "Natuur en milieu",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3367b182-be50-4d6e-ac39-c7b61ab8710c",
 			"cb8a6500-2d17-449e-ac23-75ab35a49cad",
 			"30a26f66-2ebd-4579-ac72-b81a95830701",
 			"e5457dfb-6e88-43a2-ac69-4b298acf33e7"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d9d70bb9-7f9f-4a5d-b12e-1e42a9a4da20",
 			"7f877934-f644-4d4b-847e-43c1493b4144",
 			"b59d2930-a636-4f46-b9b2-a7d0c48045de",
@@ -3034,7 +3034,7 @@
 		"id": "8341ba89-36bb-4879-b104-4335a83f8eb3",
 		"unreleased": true,
 		"title": "Overheid en bestuur",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4980a84d-d2c6-45f9-b361-6afd7bcfbb35",
 			"60f298d7-b2a1-4cc4-9e74-7ee122a5b84f",
 			"d8da6ca0-02ac-4593-ab48-df7ebb7708a8",
@@ -3046,7 +3046,7 @@
 			"ed804247-8b5f-4bc0-ab3d-d2bc6cd07280",
 			"112f3714-c291-4996-9b23-4a5e2b64e961"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"b2187d6e-0cfe-4eb0-9d1d-7174ce7c9290",
 			"aa89c0f5-4a04-41bf-bfa0-011d0ec909c1",
 			"3d4cf934-179a-4897-bb02-0fc89a907783",
@@ -3067,7 +3067,7 @@
 		"id": "0d6407fb-a50d-409b-a56b-7ce15adfdfce",
 		"unreleased": true,
 		"title": "Risico en informatie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"9667dc96-9a75-4612-b600-b54755002f3c",
 			"9a974785-8121-4224-a49d-9d8355eaaa47",
 			"02dd64c9-bf27-47b9-ac69-fb105eed5cf0",
@@ -3077,7 +3077,7 @@
 			"1f5787cb-e8d8-4201-87f4-8d785ab0a37d",
 			"4c680bb9-7081-4acc-afa4-f446e707989c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ec2338a8-dd0e-407d-a161-4f09f6559e92",
 			"8ef03ee8-aebe-434e-a8c6-4a78609ebbe6",
 			"86e4be8b-e710-4403-b44d-5fab2dbe592f",
@@ -3104,13 +3104,13 @@
 		"id": "085742fd-9518-4af1-b9f1-288aa38b863b",
 		"unreleased": true,
 		"title": "Ruil",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"56aa68bc-4f7c-47de-b571-d6b0198b40f2",
 			"678c023b-b494-4faf-af40-7f076e9c7a81",
 			"28841f0d-18f0-47dc-8faa-33b006b562fb",
 			"e567d2b3-9c24-4c31-baf4-64f778dcfa33"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"93f3651d-9f26-4d13-9ab7-28ab2e59f155",
 			"6ae96a21-dbe1-4dbc-b609-f0dda7be34ed",
 			"29c671f7-ed27-45ce-baa4-c462d5bf1e4c",
@@ -3136,7 +3136,7 @@
 		"id": "07cf4c78-5c2c-4268-aa37-6552f99fe2dc",
 		"unreleased": true,
 		"title": "Ruilen over de tijd",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"511578a6-1856-4ef1-a3c3-436a724a6236",
 			"495195b4-99b0-460b-87a6-b4493c54fc31",
 			"d8857d80-7368-42cc-be46-62e112180100",
@@ -3144,7 +3144,7 @@
 			"2a479c2b-0673-43fd-8703-0862d5734f38",
 			"cb1a4a7d-b79b-46aa-94e6-418ade20936b"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ccbcd68d-d452-495c-920e-bdcaea60a10c",
 			"5aff1bed-9c6f-4e0a-800f-107de9a88a41",
 			"c24cf920-fade-4329-8178-a657d2732b80",
@@ -3169,14 +3169,14 @@
 		"id": "3b3deac3-f11b-4bb7-a4f6-3ffdbbd98b4f",
 		"unreleased": true,
 		"title": "Samenwerken en onderhandelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"036baecc-76df-42b0-92f1-529a00723a7a",
 			"4d6ef07d-3c65-434c-84ea-818facb8e0ef",
 			"a4036b4c-3f21-46ee-9adc-4f9371cbc38b",
 			"72bc4049-33dc-4bcc-a9d1-3bd31954bc00",
 			"ea4ac397-e296-46c7-b96b-7fc0380f20f0"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0f2fc799-f03e-450e-957b-3606417fefc4",
 			"c88cd350-a267-4479-93f1-3fbc8e57af45",
 			"feefd377-f97d-4c0a-9f84-ce89da699933",
@@ -3200,12 +3200,12 @@
 		"id": "41aa7b50-1b3b-48c2-9739-cac4ef4c6fcd",
 		"unreleased": true,
 		"title": "Schaarste",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a336f578-5b55-4cdd-817b-032ce91188c9",
 			"cfb020b0-3df4-4cea-83ab-328b0594aead",
 			"053ff7c2-7fc4-4af4-9ef4-9dc128aab029"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1a16aee9-30a4-42e0-88e9-0916cfa7ff0e",
 			"c8825fb4-82ec-4abe-afb4-8b8a899e7104",
 			"c84538b3-1038-4536-a75c-7614668d4252",
@@ -3230,14 +3230,14 @@
 		"id": "71399584-e6c4-40bc-a1d2-5e924b1b66e8",
 		"unreleased": true,
 		"title": "Welvaart en groei",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"7e4b4a24-8854-4c4b-9446-9100cd9595b1",
 			"42ce309b-c4a2-43c5-96a5-62228cb187c7",
 			"d94c3d05-4708-442c-8018-dad1f028aa23",
 			"c041f0c1-6f3c-4e98-a511-eacfefc2848f",
 			"86255d0d-c1e3-49fa-8dae-eff5640b701b"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dc769072-b176-47ae-95bb-23307df044af",
 			"82fe5005-35a1-49b5-b210-b5f5fd1f4b57",
 			"ddf90350-8b8d-4199-89c0-24c8b4045204",
@@ -3330,7 +3330,7 @@
 		"id": "77d415c5-399b-408a-8005-7656247e7458",
 		"unreleased": true,
 		"title": "Module 1 Commercieel (1701)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d2e97444-c6d7-4cb4-b153-0d9f3708cf4d",
 			"78f056f7-6d3e-40cc-9c97-31d4b62455f6"
 		]
@@ -3339,7 +3339,7 @@
 		"id": "8c1c0974-c454-447f-aedb-6dbaa230572d",
 		"unreleased": true,
 		"title": "Module 2 Secretarieel (1702)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4a2d76c7-cedf-41af-86c5-a396dc41d715",
 			"a2ee0016-cb26-46ba-b086-3f4b41a12f80"
 		]
@@ -3348,7 +3348,7 @@
 		"id": "275cabc0-d8ad-4820-aa58-f8e7aed54a25",
 		"unreleased": true,
 		"title": "Module 3 Logistiek (1703)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"a27289b9-2c4a-44fe-9034-b54c53abe365",
 			"c17b67c0-4828-46e9-b5a8-debfeb62f442",
 			"b6f076ee-0001-40e0-9ef7-63cf6fc105ac"
@@ -3358,7 +3358,7 @@
 		"id": "b5ff8aa1-f089-4b03-a24b-65af57271f25",
 		"unreleased": true,
 		"title": "Module 4 Administratie (1704)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e34550fd-52fc-45cf-acd2-8df46e1714aa",
 			"23cb1887-1141-4ab3-bba0-3c4fbf0ba4d0"
 		]
@@ -3395,7 +3395,7 @@
 		"id": "7427a6d7-678b-4dc4-a977-618c81072e85",
 		"unreleased": true,
 		"title": "Gesprekken voeren (Engels)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"557e5213-d1bb-4354-a887-6c5207396c2d",
 			"2a346ae5-2876-4621-94a4-c533c6ced7b8",
 			"fa10c8cc-3b8a-4b99-81ff-e637dcfba5be",
@@ -3405,7 +3405,7 @@
 			"2b7be25f-5d32-4f0d-a503-3f12f3bb1844"
 		],
 		"doelniveau_id": [],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
@@ -3424,7 +3424,7 @@
 		"id": "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
 		"unreleased": true,
 		"title": "Kijken en luisteren (Engels)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0c4fce66-c34f-4190-9556-97a4d0b1f30f",
 			"169e9f5d-5a74-4706-9ba9-ab4f1e87d8ab",
 			"5ed86579-f4e0-4dfd-9356-e94afc6e12e5",
@@ -3437,7 +3437,7 @@
 			"f4e69d7b-f059-4890-9cc1-81b862381796"
 		],
 		"doelniveau_id": [],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
@@ -3454,7 +3454,7 @@
 		"id": "256fbcbc-cc70-4694-a216-974abdeb6063",
 		"unreleased": true,
 		"title": "Lezen (Engels)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"453fff53-87b7-4521-97cf-a6d5467b9a12",
 			"fc5ba67b-81a3-4a8c-99b6-5b980866ab99",
 			"5de7dfd4-2888-4246-a027-02bececb4184",
@@ -3483,7 +3483,7 @@
 			"f722bb0b-f38f-4e2a-a808-45a0cae51d5f",
 			"b7582b08-ae8f-4f00-b56d-9b22ec40b348"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
@@ -3499,7 +3499,7 @@
 		"id": "9bf68d75-4270-47ee-8aa2-0087defd1767",
 		"unreleased": true,
 		"title": "Literatuur",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a3234515-78f9-4653-a717-e04b79ba893c",
 			"71829dbd-713f-4e9d-9ca6-cd5190896119",
 			"63e6f1f3-37e9-4ffc-ad27-06f35af3ca74",
@@ -3526,7 +3526,7 @@
 		"id": "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
 		"unreleased": true,
 		"title": "Schrijven (Engels)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"7df89a7e-a36d-4089-9a56-46c4983056dc",
 			"8c1ca8e4-ee78-4b00-ad4f-d04058a22c1a",
 			"6ee0d0e4-d932-47e5-b549-4d0a65e9dc75",
@@ -3537,7 +3537,7 @@
 			"117ecc84-29e1-4f37-8a36-f72f1127754a"
 		],
 		"doelniveau_id": [],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
@@ -3555,7 +3555,7 @@
 		"id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
 		"unreleased": true,
 		"title": "Spreken (Engels)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8a5b1637-52ee-4851-9f74-f1c19793369e",
 			"6dc0f5eb-2463-4634-a61a-9610e98113f7",
 			"6defc091-7f8e-473e-87a1-8ce3a892a008",
@@ -3564,7 +3564,7 @@
 			"151c8dbd-188a-4582-8e20-35a6c81c04f1"
 		],
 		"doelniveau_id": [],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
 			"80f49bf6-a47c-4972-a593-21bb24743dd3",
@@ -3627,7 +3627,7 @@
 		"id": "71300446-16ee-4958-b8fc-0d79073d2c21",
 		"unreleased": true,
 		"title": "Gesprekken voeren (Frans)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"01769af3-9858-4a52-a104-97219a6db198",
 			"5bbbc070-21ce-467d-ac33-a72b4dd80359",
 			"24fe5596-bb70-4f4a-93dd-752d7dd2503e",
@@ -3637,7 +3637,7 @@
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"description": ""
@@ -3646,13 +3646,13 @@
 		"id": "4bc5655c-f85c-4b18-8f5e-03d0d25c9291",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"97c2d770-a48d-4f89-864a-babaeb34b679",
 			"8b885935-340c-4bc2-a9ff-84d6c32ea5f2",
 			"d774785f-1eca-4dad-92fb-cd5487d32658",
 			"bc87d1bf-81b5-411b-a90a-5745512716ed"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"doelniveau_id": [
@@ -3664,13 +3664,13 @@
 		"id": "02adbf49-11e1-499d-87c1-315eb5ad0e56",
 		"unreleased": true,
 		"title": "Lezen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"95ebbc3e-8776-4182-8bc3-436df557f328",
 			"2e1d9ea0-fc66-4add-a689-335b2d989fde",
 			"f906bc64-ebe5-4c33-a766-d8651674b4de",
 			"b1356237-1180-4fec-99da-c4599b33041c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
 		"doelniveau_id": [
@@ -3682,7 +3682,7 @@
 		"id": "b8e9876e-ed25-4c96-a676-e247eb6395f8",
 		"unreleased": true,
 		"title": "Schrijven",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b8ea8aca-21af-4086-b0fe-d23582014aba",
 			"314ec954-9366-42d5-8859-cfa3f124a40c",
 			"1acd12e3-bb0d-45ac-ae0e-29bf63f6987e",
@@ -3692,7 +3692,7 @@
 			"83d65099-997e-4f20-b056-be06a8279da3",
 			"ddd80702-fb46-4e12-97c8-5d3f87d5b379"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -3700,11 +3700,11 @@
 		"id": "17bd7545-5834-4d39-be2f-58f8363639de",
 		"unreleased": true,
 		"title": "Spreken(Frans)",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cc64b990-ce63-458e-abe9-850ba8eed6fd",
 			"79f91f68-1629-4a36-ba2b-c8cc3f28ae03"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
 		],
@@ -3722,7 +3722,7 @@
 		"id": "1724a10d-1152-4317-b261-ab69b6d23df0",
 		"unreleased": true,
 		"title": "Fysische geografie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d9fd4613-a0ad-4926-a3c4-149b5289ce0c",
 			"2bc0d915-368b-41be-8512-b4143be51745",
 			"576aa05f-b89d-4b93-b10b-db7c3da6658a",
@@ -3820,10 +3820,10 @@
 		"id": "f283b770-cbf2-45d6-920f-5033edf43c05",
 		"unreleased": true,
 		"title": "Betekenis geven aan het verleden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"5db0f54a-011f-45c5-b938-6ad242089275"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"740e0d58-1cdb-436e-877f-1d4eed0b4ebd",
 			"b505f5f7-2e1e-4adc-94db-28fe6b23353b"
 		]
@@ -3832,7 +3832,7 @@
 		"id": "c76a6e48-510d-4c79-bac3-61bc40f12a45",
 		"unreleased": true,
 		"title": "Burgers en stoommachines",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"9a63d39a-19b3-443f-b688-c20af2e3c256",
 			"038d4192-a14f-46ba-bf78-65b1d3d681f1",
 			"f4425f9b-400f-4924-b16c-de2d92b7ab88",
@@ -3852,7 +3852,7 @@
 			"2cdb3d1f-e9a6-424d-94be-8f05e7ae551e",
 			"46ae6b4f-4dcc-4d4f-b0df-4a32cb513642"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c3c84000-49ca-4645-93b7-6e29d1773760",
 			"8470b90c-85e8-4655-88e0-652e1ad85a34",
 			"86d462f8-9cb7-4c38-b86c-deec8478ac4c",
@@ -3903,7 +3903,7 @@
 		"id": "446e556f-4fc5-41c5-a958-f01d1433bba5",
 		"unreleased": true,
 		"title": "De wereldoorlogen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8856938a-62f1-4979-8c41-57493c461dd6",
 			"36b6ace1-c4b9-4e7b-bb96-223695337207",
 			"3add31be-4faa-4798-be81-fb903cf71893",
@@ -3916,7 +3916,7 @@
 			"fb5f4b90-e4dc-43bc-b383-e1d2791f1724",
 			"207b8675-a8cd-43d3-9dac-7c05d5d44303"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"68b0361f-2209-42ae-96e5-21a5da50cf69",
 			"3811dc57-1245-40c4-840d-2da7ed5e0a4e",
 			"59c08965-b38d-4c12-a45e-e13e1153b22a",
@@ -3962,21 +3962,21 @@
 		"description": "",
 		"deleted": 1,
 		"types": [
-			"vakkern"
+			"lpib_vakkern"
 		]
 	},
 	{
 		"id": "01650f76-5639-406c-88c5-b0cae31af947",
 		"unreleased": true,
 		"title": "Geschiedens van de rechtsstaat en de parlementaire democratie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c205fcc2-db10-4576-b5b8-74e9db8b63e5",
 			"edd855b4-c85c-4c26-9930-6f41315f8073",
 			"a3c24c2d-1640-446e-92f6-25cd25d5626e",
 			"3c698356-f5e3-4a7d-aae0-edc8fd27ecbb",
 			"a858fe30-be20-4307-a0c6-defc2ce6ebdd"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"51dc88f3-089d-4ea9-a8af-21b9a7e35ed3",
 			"3746ad95-0864-49d2-82d4-ce516bd4aa67",
 			"7c2865e9-6984-41c2-b584-6a250b25c2ce",
@@ -3988,7 +3988,7 @@
 		"id": "e79074aa-b358-4c1f-8c49-80e4a0f184a2",
 		"unreleased": true,
 		"title": "Grieken en Romeinen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ba1db592-482c-4b91-aa5b-bbd2baeb7234",
 			"53de66a3-2afb-4a14-8840-2c46f90ae04c",
 			"e795ca8a-cdb8-483e-bc7c-7cf17c598862",
@@ -3998,7 +3998,7 @@
 			"ef581439-156b-4501-9b9b-8d137fda1b9d",
 			"8c30a8e5-7199-449f-8dfa-efb3b4b2c9b0"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0d3bb822-e2f9-4748-8ef2-f0133753665a",
 			"09a6c037-decd-40ec-911d-70eca1ef0ddc",
 			"f9071c25-0a34-4662-b356-713c88fdcad1",
@@ -4019,11 +4019,11 @@
 		"id": "6e30481c-29ee-42fd-b648-53727a31006e",
 		"unreleased": true,
 		"title": "Interpreteren van het verleden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3f311960-4b9b-4df9-8915-bb24252fc32a",
 			"cd26089d-1c77-467a-8b72-f857e310e08d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"22f7947d-b7a7-4fed-a685-88aa7d115874",
 			"0b2ce756-3968-4771-9bd5-5f5b060cf7c7",
 			"6747b7bc-6a6e-4055-b429-8d8966b5cc37",
@@ -4034,13 +4034,13 @@
 		"id": "1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7",
 		"unreleased": true,
 		"title": "Jagers en boeren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"65dbf7e1-6f9e-4d5a-9249-6795f6b4a579",
 			"d1d5d7f7-23a6-4ef1-855e-ba84cb0a4401",
 			"e0b00d9e-c060-42c7-af95-09f42cc7ed99",
 			"1fcf432c-27a8-4033-804f-af5389e2497a"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7d0e2ef6-d1ae-4785-bc58-a2aad8df353b",
 			"7cdd7348-43df-42cc-9c0c-cdb58ae23e9f",
 			"c6011669-9a41-4178-aa19-507dbb4ee7d3",
@@ -4060,7 +4060,7 @@
 		"id": "a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
 		"unreleased": true,
 		"title": "Kenmerkende aspecten",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3b791474-f9c7-4d63-b01e-7a904ef4bdba",
 			"4a3eb915-4353-4a12-afc3-6aac2cec7c38",
 			"318bab33-bb5d-436b-8d26-d2f6a0df9518",
@@ -4082,7 +4082,7 @@
 		"id": "4b03c9da-dfc8-4136-998a-0aa4a97dc574",
 		"unreleased": true,
 		"title": "Keuzethema",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"777cc604-dbfe-43a5-9bcf-381a37fbb982"
 		],
 		"doelniveau_id": [
@@ -4101,7 +4101,7 @@
 		"id": "98c50995-986f-4e92-8eb6-20ed2fe6eb76",
 		"unreleased": true,
 		"title": "Monniken en ridders",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f13e03de-3817-4a7b-9a51-d450c24635ab",
 			"4ea39248-ff96-4d0e-a22b-a3bb6c3b0266",
 			"6f9f20cc-5f9d-48da-87bf-ef4d55c03e72",
@@ -4110,7 +4110,7 @@
 			"589baba3-64ad-46ca-a231-f138f0c48666",
 			"01489dd4-2485-4604-b32a-fa22ccee396d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"fd09a1d4-087d-4166-a0a0-0f9e9589f1f7",
 			"5d48995f-9597-41d0-a99a-aa6dcd835a4b",
 			"e96a9cd1-e039-4bb6-b6ad-707d6e17a092",
@@ -4131,12 +4131,12 @@
 		"id": "8468158a-c55d-47a0-95d0-94f3cd0b67ac",
 		"unreleased": true,
 		"title": "Omgaan met tijd en processen in het verleden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4333c6de-a8be-45d2-8c2f-a69963ae564b",
 			"a9b0a0b4-36c0-4ab9-adc7-7ed6f402de4f",
 			"1f446aa1-7b3d-4e3f-bbeb-e6115ed171da"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"77a6d5ae-f7bd-4db3-9f41-233c3ac6834f",
 			"a6555b75-53d4-4e9d-9005-1671a1539024",
 			"7ae7ba96-730c-4da7-adf0-67cbe9663dd3",
@@ -4153,7 +4153,7 @@
 		"id": "7a89fa90-ff5a-4132-849a-c69d6c6f3733",
 		"unreleased": true,
 		"title": "Ontdekkers en hervormers",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ef299930-5370-4d6d-af37-d7e0555ce6c1",
 			"e4f3bdd8-761a-4b93-b491-88446b50756e",
 			"e3737469-4abb-4717-955f-991b800defd1",
@@ -4167,7 +4167,7 @@
 			"eeb7cffe-9fa2-466e-8bbf-de3f23a441d3",
 			"71369c3b-10c2-47ea-b04f-37f9926b415d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"81f2523e-2db7-44db-a9d0-6c7249eaccd4",
 			"ddf70966-0e26-489e-b6f5-46ba2c36ef1c",
 			"c19e30e0-eac4-49c8-bf73-1cb557a4fb00",
@@ -4192,7 +4192,7 @@
 		"id": "d0db684d-4947-4411-9066-bc6776931ead",
 		"unreleased": true,
 		"title": "Pruiken en revoluties",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"dec40ce1-1dc5-44aa-8123-6db4332cf468",
 			"679b15e7-5fc2-420c-8de9-a10c8195e2f2",
 			"2eb278d8-2123-4478-a4b8-0dd1f9b9e0cd",
@@ -4202,7 +4202,7 @@
 			"87acc18c-0a5f-4474-bb72-6870ecdff751",
 			"255337e2-2ee0-4feb-8d70-7ead6bf3825c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"abbac556-4a1a-4629-b783-fbef43264f2c",
 			"055d0cbd-5f60-4773-837b-abc2b80d8ab5",
 			"1f130de6-54f8-4f01-9b05-f595e2c9e896",
@@ -4225,7 +4225,7 @@
 		"id": "b0e5da60-4d73-4873-b92a-7c70e975cf14",
 		"unreleased": true,
 		"title": "Regenten en vorsten",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a61615ef-1f2d-4e58-a1c7-1f0756467d7f",
 			"4f1243b9-93fd-40c8-8983-e7c4ce122a8e",
 			"960b5f87-c569-4d56-9b78-8bbaf2572bc3",
@@ -4234,7 +4234,7 @@
 			"5b4d196b-184d-4026-87e0-364e9291c63b",
 			"e54e3750-c44c-43c7-b1f6-e3cca80d5760"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"abbac556-4a1a-4629-b783-fbef43264f2c",
 			"ce0df331-c5e1-47c6-9cfb-9528e4357e3c",
 			"94c92b4c-cf4e-4602-8439-6a788ed217f2",
@@ -4258,7 +4258,7 @@
 		"id": "8b8241a7-1547-46b6-bffa-3d0281753398",
 		"unreleased": true,
 		"title": "Steden en staten",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b4e4c068-d4ad-4150-b34d-fa6f66779e4d",
 			"894eeb65-a2d6-4063-bec2-7da8160ab6d9",
 			"cc031355-4bf8-4386-a99e-ac7c6e398f5a",
@@ -4269,7 +4269,7 @@
 			"c82a8ee3-405d-4643-abc7-f4e3420ab706",
 			"2c40631b-c61c-4dd8-97a3-7d79573ca44d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d92443b0-eb07-4d3f-ba22-6851cff0ad9e",
 			"b92e168b-75ca-47e5-b4fb-066120f1b9ee",
 			"9db7f35f-00d4-4afb-b150-be48c2aadb37",
@@ -4289,7 +4289,7 @@
 		"id": "865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e",
 		"unreleased": true,
 		"title": "Televisie en computer",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ae78f98f-e82e-4975-89e2-a26a95a38929",
 			"9038567c-dd62-4feb-afca-fc67ecd016e6",
 			"5d7d290f-12f0-46aa-8e1f-81158b634efb",
@@ -4313,7 +4313,7 @@
 			"76e031bd-c1ae-445b-a916-9ba8d8cfe0f8",
 			"41a22f57-82fd-4c59-beb0-099b85f51ecd"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ee35e7a5-4bfb-4dbc-b987-a8208d4b9f08",
 			"c1a074c8-f1f6-4349-a04e-60452ef351f0",
 			"f3e0f1b0-a854-46e9-9205-9ca33d9a880f",
@@ -4370,7 +4370,7 @@
 		"id": "880dde81-63eb-4c01-a8fc-6a2547fa0439",
 		"unreleased": true,
 		"title": "Wereldoorlogen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a22f383b-514b-4339-a3af-d83f36827aff",
 			"09b20103-c2cb-4d57-b89a-40fffe4b60e5",
 			"93a124df-c1ee-46ed-9411-b501135a577c",
@@ -4395,7 +4395,7 @@
 			"fb5f4b90-e4dc-43bc-b383-e1d2791f1724",
 			"207b8675-a8cd-43d3-9dac-7c05d5d44303"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9250e759-ad20-45e8-9f35-a5829f90c0f5",
 			"4ff274fe-8849-47e6-876b-ebb53eee7574",
 			"384ca573-9757-4e3a-bd35-9a96c6c2a36c",
@@ -4428,14 +4428,14 @@
 		"id": "2fff3a46-e739-4185-8574-f34b780bfbbb",
 		"unreleased": true,
 		"title": "Betekenisgeving",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c6c894ec-12fb-4d98-96da-13951c80a2c1",
 			"08c10c53-48a8-44e9-8752-58b94dc1178d",
 			"c718a69d-8bb1-432b-8e5a-aa8c2858fb24",
 			"013d84bb-9606-46b8-ad04-faad674db09a",
 			"c040a1d0-8982-4033-b088-13cb8e04c4b6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"58184ebe-796b-4893-8d73-adb2b66c3761",
 			"1c270f1d-fc01-4c3b-9a5d-ee396e61b57d",
 			"8ba658e1-2737-4729-a9c5-8c0e728af013",
@@ -4447,7 +4447,7 @@
 		"id": "b98076b8-3028-41f0-aae9-e3d9a9fd400a",
 		"unreleased": true,
 		"title": "Cultuur en geschiedenis",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"075a7eb1-350e-4c6d-aaff-4e9224804d2a",
 			"b8fa1d6d-bfd3-4002-94e7-929604f9d3d3",
 			"1e519446-dde4-4e8c-9e11-70069f24d164",
@@ -4455,7 +4455,7 @@
 			"0d6177bd-1dab-48de-8db8-f5f0718b9697",
 			"a1795bd7-a4e3-401e-974b-fa2d4a70bf5c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7b01c5ec-ffea-4234-93eb-518dd784b48e",
 			"94ad1fe7-4210-4c39-88f7-3c84d8c5d4d2",
 			"17b91ddd-cdbd-4109-9d63-556913cde6ac",
@@ -4470,7 +4470,7 @@
 		"id": "42870bb5-cb63-4b39-b594-bf393dec8446",
 		"unreleased": true,
 		"title": "Cultuurbeschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b9abf010-cd22-426b-a950-5e2ca02b3c32",
 			"ae89804b-171a-4d7c-b1ba-b46156aabeb1",
 			"fe035bad-8a1c-4b08-a826-e6befdd26f47",
@@ -4482,7 +4482,7 @@
 			"02324dd4-f080-47d5-8a7c-a88583eda726",
 			"6a0ab767-bbee-4fc9-8365-d6e3ed92e874"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d6ebfee9-788a-45db-8097-d6439145bc16",
 			"d7d447fa-c599-4ecc-ba38-d66269490222",
 			"ef796778-a058-4227-8c0c-426329b7ff40",
@@ -4501,13 +4501,13 @@
 		"id": "59faf600-6d62-4803-9de8-3612cf77fcd5",
 		"unreleased": true,
 		"title": "Taalbeschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"e517697e-fe33-4c0d-a5ba-35fdd7d0d4f5",
 			"c972e467-bb1b-42b1-b72b-8bc71df527bc",
 			"56df092c-3ef3-4d4c-9ab1-a187d5ae3dc6",
 			"afba9d4b-fffc-4778-904d-c3cfc1b79537"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9020ef85-5003-4b05-94dc-34cacfd3e628",
 			"17363885-3d48-47e5-8085-be27812eca42",
 			"4588de57-5d32-47f9-9ab3-538cd7e075be",
@@ -4519,7 +4519,7 @@
 		"id": "35bbd5a7-1b35-42b1-86f8-14ca358eb782",
 		"unreleased": true,
 		"title": "Taalsysteem",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a957ef80-43ae-4205-b610-2287720c8ed6",
 			"e2509d72-d060-4b03-ac04-adf68fe07ead",
 			"306188ba-a618-4653-94ab-6317fec6fa08",
@@ -4527,7 +4527,7 @@
 			"99cb819b-b7be-4be3-9c26-e65f4b85a3f8",
 			"d6d857f2-7599-463d-9089-8bec18dca8b5"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"082b9b86-ebf8-412c-a2e5-f7ce873257ee",
 			"8b1208db-c844-472f-b460-d2e7ed7a3048",
 			"b33593be-217a-40c9-ba66-68d31017cd8a",
@@ -4541,7 +4541,7 @@
 		"id": "bedc0a03-2279-4565-8bee-23d1c0208681",
 		"unreleased": true,
 		"title": "Tekst- en literatuur beschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b7980ff9-be6e-45bd-afda-aea4cc015bb8",
 			"b5518c95-4ddd-4f52-b30d-5d4c034845fc",
 			"9a67a2dd-ce5b-424a-8f45-e4f211d93bbe",
@@ -4551,7 +4551,7 @@
 			"275903e1-48af-494f-bfcf-f014add3c5d2",
 			"17f60e4b-2c2b-40fb-a3de-f40c74662df6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c4535c35-3894-4006-be36-bed05a0d27e5",
 			"70569d1e-0ce6-4b9f-b87c-7e59a39ad348",
 			"af462d50-42b7-468e-a12a-584c39709720",
@@ -4566,7 +4566,7 @@
 		"id": "addcccc8-bc38-447a-9732-e5f6d2338d82",
 		"unreleased": true,
 		"title": "Tekst- en literatuurbeschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"905649c1-1e50-4371-8e6e-824afd475599",
 			"188ee370-a265-4ca7-8a87-6b85b52a4de7",
 			"93997b84-8328-4790-946a-990ad2092f50",
@@ -4575,7 +4575,7 @@
 			"8affda09-0209-4f76-8904-9944cc566903",
 			"463960c5-3661-48f6-909a-06e21809bcce"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c4535c35-3894-4006-be36-bed05a0d27e5",
 			"70569d1e-0ce6-4b9f-b87c-7e59a39ad348",
 			"9e9570ce-0288-4b21-ad92-a892a7817b94",
@@ -4589,7 +4589,7 @@
 		"id": "626487cd-8668-46a6-9663-96d8806aec98",
 		"unreleased": true,
 		"title": "Teksten en literatuur",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3a379ad1-f50a-4b00-866c-7396d0b8cec8",
 			"04fabbb9-1dca-454c-a0d9-6f5e22ecc114",
 			"7367046c-5276-4a3b-bf98-ce52ee473bb9",
@@ -4598,7 +4598,7 @@
 			"bb96d264-ad49-44a2-88a0-1912cb5969cb",
 			"40c09591-29bf-4fab-820d-d12583598481"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"a57fe448-776f-435f-825c-096aba7feec6",
 			"f21a9255-da7a-4859-9768-7fb7012d7c42",
 			"140022c3-e2ed-4023-bc5e-fd17c20685f6",
@@ -4613,7 +4613,7 @@
 		"id": "987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9",
 		"unreleased": true,
 		"title": "Tekstontsluiting",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3b55a91d-13b3-4c81-8212-421dede5afb2",
 			"7be5611d-d6cf-43c1-8b34-96efb4c0bad3",
 			"06f2aa20-f70a-4ca4-ad23-1c103107c337",
@@ -4622,7 +4622,7 @@
 			"3b91e111-f53e-40e8-b3f8-7b44798fc8cb",
 			"7e33842c-dd88-49b7-88f7-bf509088cf29"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"57f43d01-2e37-41af-bce4-7ce845b25f2f",
 			"62900df0-b613-4f3f-8963-7940c22c35b2",
 			"aa3678d6-120c-4c82-bb8c-166ba370fe06",
@@ -4717,7 +4717,7 @@
 		"id": "b73aaab6-fe02-431a-bc93-6f2db3a65558",
 		"unreleased": true,
 		"title": "Module 1 Groene productie (2001)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"fef14f9b-e581-4fb9-8c7b-f18a903e281b",
 			"e08cd29b-68f8-4e8b-b414-6ad1149bede5",
 			"cfa7f5fc-431b-4c08-8653-0b96f1983749"
@@ -4727,7 +4727,7 @@
 		"id": "294bbf47-0ade-47d7-a230-83be4da5a949",
 		"unreleased": true,
 		"title": "Module 2 Tussen productie en verkoop (2002)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ed54af4e-3b32-4d5e-a0bd-ebc74d7d34dd",
 			"110dff33-78a6-4d71-b2a3-c311ba0bcc95",
 			"5f8dbc86-f675-45fc-b7dc-02d1d459326b"
@@ -4737,7 +4737,7 @@
 		"id": "7f0a46aa-0bae-449e-902c-2a2db79785a8",
 		"unreleased": true,
 		"title": "Module 3 Vergroening stedelijke omgeving (2018)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"cba02deb-ed34-4b26-b497-cab39db92859",
 			"7ca71086-5b54-45f0-8774-615d3296661c",
 			"41b7c8c4-9675-4721-bfe7-a8918e5d894c",
@@ -4748,7 +4748,7 @@
 		"id": "d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
 		"unreleased": true,
 		"title": "Module 4 Groene vormgeving en verkoop (2004)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"df634203-7b91-4874-9849-3cfc80f2cd47",
 			"7e5baa05-ceaf-48f2-b951-ef1e8b0cd353",
 			"ce772fee-ed5d-4282-939f-acdc1f7d7c98"
@@ -4866,7 +4866,7 @@
 		"id": "b9cc573b-20cc-4709-bcc4-08312ef35ba9",
 		"unreleased": true,
 		"title": "Module 1 Gastheerschap (1801)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e58f53d2-037d-489f-81f2-b4a0be9a59f1",
 			"f08f5a02-f8ab-4150-8ae3-6ba77e423465",
 			"639b5d7d-9258-4e27-a6ab-dd49694aa991",
@@ -4877,7 +4877,7 @@
 		"id": "45d37c51-ae10-4df7-86a7-57187f7dcb4e",
 		"unreleased": true,
 		"title": "Module 2 Bakkerij (1802)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"98ecb36f-c072-4e57-a56f-1b3a3e83b230",
 			"7838a534-44e0-4f66-bf03-893b2fc404b0"
 		]
@@ -4886,7 +4886,7 @@
 		"id": "1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
 		"unreleased": true,
 		"title": "Module 3 Keuken (1803)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"18939798-18d2-457e-9f0c-3dd65c8f2d3e",
 			"5fa59fc9-e961-43a2-a86e-4cd189217273"
 		]
@@ -4895,7 +4895,7 @@
 		"id": "ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
 		"unreleased": true,
 		"title": "Module 4 Recreatie (1804)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4126fa11-6f91-4a49-a78e-a0899fa3f340"
 		]
 	},
@@ -4943,7 +4943,7 @@
 		"id": "07089e88-b295-485f-80ee-801266487940",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b1fccb27-20d4-4073-ab62-b32a8ee880e4",
 			"f403cd16-103d-4289-90ff-81f487d49674"
 		],
@@ -4962,7 +4962,7 @@
 			"c919cffb-5913-45b1-b154-23b4e3177368",
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -4970,13 +4970,13 @@
 		"id": "b1331533-f13b-4db0-b006-071367063cf6",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ba94a11c-b1c1-4eda-97d9-d5b90c12c59c",
 			"2db2d170-71bd-4c89-820a-fdf0ba885daa",
 			"6ecb0075-61ba-4625-b487-e9f327a16a7a",
 			"bc164625-10c7-4fbb-9c63-3654b1f4d00c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		],
 		"doelniveau_id": [
@@ -5014,13 +5014,13 @@
 		"id": "78ba030e-b2cb-4c89-b342-ae22b88d1b85",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"6853874f-45b3-4987-9fda-7fd5858c92ef",
 			"5e0314cc-681e-4c5d-aa14-dd65fe0b64c7",
 			"fb509d12-12ec-4117-b7a7-d7b0bf84d2b6",
 			"3e8eebe8-fd24-4b54-bc50-5adec17826bb"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		],
 		"doelniveau_id": [
@@ -5062,14 +5062,14 @@
 		"id": "a59e16c3-59f4-4a6e-85d0-ee12f0a69716",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"abb4e643-2929-467f-a7b7-d92336d3d9c7",
 			"96f2c00c-1fea-4986-bc23-22d213353807",
 			"2d60afc9-7273-4e20-b00f-618748b0e64b",
 			"876332ce-8bc6-4d3b-a934-6f46ef9b96cb",
 			"43043b1a-c870-4757-8748-4d3700a0e109"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		],
 		"doelniveau_id": [
@@ -5095,13 +5095,13 @@
 		"id": "df1a99c0-23be-457d-96a8-39d8ab3ddfbd",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cc7c16ac-bf41-423c-98de-8b4d92fa36fb",
 			"759bba03-5c0e-42c3-92e7-daec9b610adf",
 			"e28e3a42-7c90-4eea-9a2c-88bf27f36d86",
 			"f051c116-50d2-4954-9bf4-74a2b72f18b3"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5109,7 +5109,7 @@
 		"id": "ae2bcf7b-08c6-45d7-b501-c8dcb6f51f27",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a6eb1adf-e88f-4755-a5ac-b35a6cdc0f9c",
 			"a409eef0-8308-4e3c-9d96-4e3c23c7c067",
 			"106fdf04-b306-4e8e-923a-1e16e5b9e011",
@@ -5118,7 +5118,7 @@
 			"835dbbdb-c6c3-4dc1-a550-a0630e8b9fba",
 			"29f9f42d-72fd-4ae5-8972-9ef8f8c0e650"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5126,14 +5126,14 @@
 		"id": "77635153-5140-4225-aeb2-5afbd08e4372",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"489b6d72-b96a-4d61-9394-0f06f21f5d50",
 			"1a1ad457-c9e9-4d37-8a56-31e357a24b31",
 			"c3e66b4f-1740-48ca-853b-4def5a4c5190",
 			"ec4c0d28-3d79-47c6-885a-28f764341eb7",
 			"3e888e85-7acd-4111-81f1-9f947ea8e509"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5141,7 +5141,7 @@
 		"id": "82ed19f6-d418-467b-8642-b6dded97fa29",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"216b47fd-ac0c-4043-b35a-d93042f463ca",
 			"5afe9194-f9c8-462b-a1b1-e04fda7e15e3",
 			"781b4ca3-9a92-4fc9-b210-a057c55e7808",
@@ -5149,7 +5149,7 @@
 			"f54a6c54-4d69-45fc-81f3-3459735d6c85",
 			"22e758c5-95c1-40ae-b1b3-33f6dc13fa5f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68",
 			"3b33f09a-a276-46c9-8ae2-faaab73a8405"
 		]
@@ -5158,10 +5158,10 @@
 		"id": "7cd97728-84dd-42aa-a5ac-fdc4544a6272",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ae93ed78-1e72-4e84-999e-7ea2808c1970"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5169,10 +5169,10 @@
 		"id": "c872f8cd-6702-44c6-a895-4cad3bac3156",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"fdac8101-7874-4642-9392-2fca678253e3"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5180,10 +5180,10 @@
 		"id": "f4fb416c-b350-4001-a4e4-b9289ab55212",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c5640569-a020-475f-94b1-d61dfd9afcc7"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5191,10 +5191,10 @@
 		"id": "135c6dfe-4caa-48aa-b402-c7e8f2a13020",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a2749650-6ba7-4de4-9cd4-c937e81e1844"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5202,10 +5202,10 @@
 		"id": "5eb5802e-f5e4-43a9-ba5c-6cb85a1f9512",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"9ed00535-9c8b-4a27-9643-4a32beaff9e4"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5213,10 +5213,10 @@
 		"id": "9a8c5036-4d83-49eb-8df6-1a827b919c99",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b4b1b936-31f0-453d-9fd6-f1533650c888"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5224,10 +5224,10 @@
 		"id": "faaca156-af80-470c-b351-66a86d10d1b7",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8dedb4a1-90ff-4e8e-ad4b-8d2de988c200"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5235,10 +5235,10 @@
 		"id": "eca9e066-a3a0-4fa3-81cd-394ff7456c85",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d9778fc5-0d94-4cf2-b624-115c557c2592"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5246,13 +5246,13 @@
 		"id": "14620c92-17d8-4be4-b851-bf2f80d35c88",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3451ab2b-d276-4319-96ce-3f6cd4787535",
 			"2355836d-2ded-4a85-8a07-595a2df1fad8",
 			"c23d0312-9376-4f6a-8946-2b9e429d9b10",
 			"f7c846f5-1d86-40be-bc0c-5c4585493228"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5260,7 +5260,7 @@
 		"id": "fb15a075-2543-43c5-9787-3d9bbe34eea3",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"de1161e4-f7d8-4546-8a8d-a863a3c47fd7",
 			"d3aaaea4-f3a9-44e9-8211-233399d67048",
 			"e3d838fa-51a4-449b-8a0b-8134ef2768f0",
@@ -5269,7 +5269,7 @@
 			"6891b397-1669-4e66-8804-36cde3265053",
 			"571b2970-8021-4c8a-9c99-40f7c47b27d1"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5277,14 +5277,14 @@
 		"id": "196a7410-0c8d-474c-9ab2-be8a66fd7a85",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"760eded7-6853-4521-baed-d5d93dba8a94",
 			"6a788a51-5d6c-4d87-993a-71ab3c604760",
 			"e545e349-4385-43ee-941f-166a66ff919d",
 			"e1cb7ffa-0038-4f1a-99c5-dd22d558daf3",
 			"1ad3e67b-724c-410a-a7d1-2b41611f2e67"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5297,7 +5297,7 @@
 		"id": "12d774dd-f581-4fe5-885c-10c585f3547e",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f7632aa4-8b41-4f54-9651-3c162cb3be71",
 			"86196950-4e3b-4967-a8e2-7cd71e7f5e84",
 			"bb8f9632-366f-4ae4-82f9-0fbf692c98b7",
@@ -5305,7 +5305,7 @@
 			"622c0c53-2f0a-41d5-ba05-6b10e31f0ab6",
 			"374b8e9e-46f6-43be-9758-0b8dc8bc6e90"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5313,10 +5313,10 @@
 		"id": "6affac30-71d9-41be-8223-5fb51d05aa9f",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0fb64abf-0243-4107-ac04-59259569447e"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5324,10 +5324,10 @@
 		"id": "dddcf8fe-77e3-43fc-8e0e-5f894ad4ac3c",
 		"unreleased": true,
 		"title": "Onderzoeken, analyseren, interpreteren en verslag doen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1874a019-b9fb-4484-8572-60f38afaa907"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5335,10 +5335,10 @@
 		"id": "0cd80f19-1795-4233-8bf7-b6a706fd851e",
 		"unreleased": true,
 		"title": "Produceren en presenteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"49e92995-7df7-47bd-9300-c3d43a4b8d1f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5346,10 +5346,10 @@
 		"id": "4b96c375-2d86-4d4e-ad30-d11d8f6da36c",
 		"unreleased": true,
 		"title": "Reflecteren en evalueren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1807185b-c235-41b8-bdad-cf8a889fd980"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		]
 	},
@@ -5357,14 +5357,14 @@
 		"id": "220153f5-f9c7-4d63-b9a0-d44989c0513f",
 		"unreleased": true,
 		"title": "Betekenisgeving",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1b4a4502-04c2-43da-b189-2a009ec39d17",
 			"ec75719a-4fc7-4a68-ad83-3861f39a57c7",
 			"218710ae-3622-4224-80f8-26059819455e",
 			"34b4e93e-1a6a-4c2f-a73f-b8a8299365dd",
 			"e10a69c2-f98a-4684-ad5c-57128c6181a2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"65d2107c-2f41-4bd1-854c-adfec12d7efd",
 			"9ac01261-c94a-4f59-8c4e-fe6f289521f0",
 			"6b0465b4-17d6-4f8d-88ea-ad45e779bec4",
@@ -5378,7 +5378,7 @@
 		"id": "011d022a-acaf-485f-abbf-2e59b3c0f94c",
 		"unreleased": true,
 		"title": "Cultuur en geschiedenis",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"150273c3-6580-41b0-b5e4-ca7bdfafd284",
 			"880e746f-b7c1-4c05-b821-81a0b6a8f8da",
 			"2385aeb9-a455-4b55-9beb-0347f48102ec",
@@ -5386,7 +5386,7 @@
 			"6c42f95f-10f2-44b3-ba9a-87ebb1c95e0b",
 			"51491805-72fb-475f-9cb4-12399df03c68"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c1e347e3-0df9-4d7b-9afe-327875ec48ad",
 			"0e1ad12a-d4f3-4dd8-8226-76b0a4b8a284",
 			"aa500f67-4731-4f56-bc82-b5c2544bb04c",
@@ -5403,7 +5403,7 @@
 		"id": "c12fdf60-20a7-4666-90ae-7557f66424d0",
 		"unreleased": true,
 		"title": "Cultuurbeschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2b90daf6-d74b-42de-822e-8f25c0be852a",
 			"24624e9e-aca9-48a9-9be9-d4541287597c",
 			"169030ef-80a0-4ba4-8b13-39219b1b91c0",
@@ -5414,7 +5414,7 @@
 			"874208dc-fe12-401a-988f-13b4e9131fbb",
 			"d6479dbe-b5b9-48e3-b628-6f1cb3c3fab2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"cf63d386-7c45-4da2-b99d-eb20d780f2ea",
 			"761d3ef4-6e66-4235-b481-79f87b49b256",
 			"f1dc8ee0-903f-47a3-8406-cff931163692",
@@ -5437,13 +5437,13 @@
 		"id": "7cd4d8ff-82be-4a4b-b1e4-770516c5ceaa",
 		"unreleased": true,
 		"title": "Taalbeschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3b65f9ba-950b-4225-b575-150cbd9e3299",
 			"a68e352f-5930-4093-82c0-f3b1c91c04de",
 			"cd202bbb-9806-430c-8bad-9be5ca856d3a",
 			"0dc6b65c-f6a5-4f59-aa52-3a9985f7ff82"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"aeda4b64-55ee-4356-b11a-e5acf6c56114",
 			"919d2f90-57da-43d3-96d7-6d6b4d1e2b54",
 			"8fe68ea6-be50-48f4-998a-3089c33d9a0b",
@@ -5459,14 +5459,14 @@
 		"id": "1b19c347-398a-497d-b8b0-0365d420d0ea",
 		"unreleased": true,
 		"title": "Taalsysteem",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"fd30b4f6-3af0-4b8b-9bfb-adebf5c9152f",
 			"ff02ba64-fd85-4621-831b-9949c3902d2d",
 			"8a1d75b0-b638-4d0d-82f3-814c37810945",
 			"0fbb9979-75ec-4177-bd51-8e2bd14f2a2f",
 			"f177e694-9af5-466c-9d7c-8102698c87e2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8b1208db-c844-472f-b460-d2e7ed7a3048",
 			"4ef5a4c2-f707-4aab-a374-937ff990e675",
 			"839a4106-e874-439d-95ce-1c409e4cbf1f",
@@ -5480,7 +5480,7 @@
 		"id": "f2c19594-2acc-4a51-8109-20eac7f136b2",
 		"unreleased": true,
 		"title": "Tekst- en literatuur beschouwing",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"eb69e1f3-86d1-4023-a5b6-dc398faed571",
 			"efdedfd8-a49a-43f0-ad03-e5c2b8af93fd",
 			"74218d04-7988-4b15-8311-15f6533f98c7",
@@ -5492,7 +5492,7 @@
 			"4dc45bbf-7329-4281-89b0-d2449dd4ac07",
 			"916597af-5c2d-4bc5-b695-3173e125b063"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"aeda4b64-55ee-4356-b11a-e5acf6c56114",
 			"c4535c35-3894-4006-be36-bed05a0d27e5",
 			"25db1f63-6dd1-4c7b-ae8c-94e4bb47d121",
@@ -5515,7 +5515,7 @@
 		"id": "115a47dd-b8b6-4bf3-a404-66eab48da8ec",
 		"unreleased": true,
 		"title": "Teksten en literatuur",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"139aaabb-b09f-47cc-916a-7740b7320365",
 			"49c26297-b2ff-4e9b-911c-d8a02561b0a5",
 			"242dc15a-949f-4586-a04c-19f08ed820f5",
@@ -5524,7 +5524,7 @@
 			"3f0fc526-8888-4422-b055-ce37e8daa00b",
 			"45d18dac-836f-4cba-8d7b-79a497adecbb"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2d71c79a-6bf9-4bb2-9501-d6ae92f98346",
 			"6579df6c-836a-425f-9884-bc5cff329ccb",
 			"140022c3-e2ed-4023-bc5e-fd17c20685f6",
@@ -5541,7 +5541,7 @@
 		"id": "edd68785-7124-4de0-bf66-9d964704ff02",
 		"unreleased": true,
 		"title": "Tekstontsluiting",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"75870d8c-5c2a-4b2c-a1bc-9d6c95960e28",
 			"bbdadb68-6572-4de2-a65b-a1445484b36f",
 			"5112e801-23ee-47bf-9846-e19d51145e4b",
@@ -5549,7 +5549,7 @@
 			"83e5753d-eb4c-45f0-a662-e28dff8810cc",
 			"1d0c2ae4-23d7-4080-95d5-a0200b67a3b8"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"b5738c40-8724-4316-a6cb-c50ab61684c2",
 			"93f94b8c-7ad9-42d6-ac4e-57d316d5e3bb",
 			"7ab2a4a2-f2e5-4c79-86e5-1ff6c3aec414",
@@ -5898,7 +5898,7 @@
 		"id": "0f6c24e3-9dc3-4293-a6a7-f45663915ef8",
 		"unreleased": true,
 		"title": "Module 1 Maritieme logistiek en communicatie (2101)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"19e0bb3c-2766-4782-8e9d-1101e0c798c7",
 			"e1df828e-8dbd-410f-98f7-fbd24400a8b2",
 			"8fbeb10d-122d-47e6-9a3a-37857b8c1396",
@@ -5926,7 +5926,7 @@
 		"id": "43dea6d3-ae1a-4d19-b2ab-c5db0e65e0b5",
 		"unreleased": true,
 		"title": "Module 2 Maritieme veiligheid (2102)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"83ae36a3-29c6-4362-a6e8-0bece9d29566",
 			"d8cbdef0-ff3b-4af1-943d-233315bbfc60",
 			"71bda0ed-9dda-4730-89de-9521c96273f3",
@@ -5960,7 +5960,7 @@
 		"id": "71078d96-0cad-409a-adff-f2eecf09fd4e",
 		"unreleased": true,
 		"title": "Module 3 Maritieme installaties (2103)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e6fc873f-4697-4172-8bf6-c1af7d1fcd78",
 			"b7c36ead-1133-40a4-9712-275ce79624f5",
 			"a1f130af-63bf-4e62-9a31-5532ed89a491"
@@ -5982,7 +5982,7 @@
 		"id": "42e39944-f2b4-45d5-b30c-44dc3310cda0",
 		"unreleased": true,
 		"title": "Module 4 Reparatie en onderhoud (2104)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"93cbbf25-a33e-4d59-bded-e0ecb5f13929",
 			"8ca486c3-a8d5-4d33-9e85-3e50ccc3f490",
 			"b7850d5f-84c1-49b1-991c-e86dd7521c2b"
@@ -6017,7 +6017,7 @@
 		"id": "84582908-21ae-4623-853f-c01c4602a7d7",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -6129,7 +6129,7 @@
 		"id": "8198f844-e5b8-4738-85b8-d3e739309bcb",
 		"unreleased": true,
 		"title": "Module 1 Audiovisuele vormgeving en productie (1501)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"83c32ee5-8857-4c5d-b94e-ce6c48dd3afa",
 			"5461f8eb-c387-4204-8748-da4990c0f5f2",
 			"2150a7c7-c62c-4d59-ae95-7e01ff4f6094",
@@ -6144,7 +6144,7 @@
 		"id": "31f9e8ab-bd8a-4b89-b55a-3f48058f3192",
 		"unreleased": true,
 		"title": "Module 2 2D- en 3D-vormgeving en -productie (1502)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1affef6e-35d4-4ce1-bfea-f6c92f00228c",
 			"2751a215-72cc-4c2c-8ca3-77b4bb1dfad7",
 			"95b91bc9-dd01-4ea3-9083-14bb78d71558",
@@ -6155,7 +6155,7 @@
 		"id": "34bebd1a-68b9-418e-82c5-877a16bdc556",
 		"unreleased": true,
 		"title": "Module 3 ICT (1503)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d517722b-cc52-48d3-823d-4ffb2f7154bc",
 			"8dee36a6-1bac-46e0-94e3-a2a6f62de085",
 			"04cb4859-b631-4db4-8c15-4c77141ad197",
@@ -6166,7 +6166,7 @@
 		"id": "28e6f73e-0cb7-425e-a5e6-175121946008",
 		"unreleased": true,
 		"title": "Module 4 Interactieve vormgeving en productie (1504)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1d5d2715-8b83-4f0f-b9cc-eb9209780518",
 			"6145eed4-9274-4bc4-b922-d7a16a1eacbd",
 			"57ffcce6-f129-468c-bd34-22f112a20b44",
@@ -6177,7 +6177,7 @@
 		"id": "1a373a1d-9182-4720-bf17-e702455adb3e",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -6209,7 +6209,7 @@
 		"id": "afa2da76-e235-4231-9177-dddf728329e1",
 		"unreleased": true,
 		"title": "Communicatie en samenleving",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"abe20b25-aa22-44e1-a6b0-c8879e4986cf"
 		],
 		"doelniveau_id": [
@@ -6230,7 +6230,7 @@
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4e511c71-b915-43d8-b9e8-3b975ce6928d",
 			"a8ee85f8-e2d1-43df-8cdd-1149f87d533c"
 		]
@@ -6239,7 +6239,7 @@
 		"id": "d2bef12a-48da-42bb-bda8-b69085a007da",
 		"unreleased": true,
 		"title": "Cultuur, levensbeschouwing en identiteit",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0ba99c94-016c-4b6a-af1e-4a0fb8c4e779"
 		],
 		"doelniveau_id": [
@@ -6276,7 +6276,7 @@
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"42c8640f-544a-42df-b5a6-5c8f7f33cd72"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1af3b909-ea9e-4ccc-bb4d-35df460a2080",
 			"98401c3f-6c24-413d-8076-78319ffe4083",
 			"d9c4a07f-a54b-4dda-944e-d8442fdd5d80",
@@ -6311,7 +6311,7 @@
 		"id": "007027df-a494-4a33-a8f4-80883b262513",
 		"unreleased": true,
 		"title": "Fysieke leefomgeving",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2e0d717e-1d6a-41bc-b024-c743d6d8cfbb"
 		],
 		"doelniveau_id": [
@@ -6325,7 +6325,7 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ed207b9b-79ee-4d6d-85cc-cff74bcf831c",
 			"04370a60-8410-480c-a494-0f128a3ca6cc",
 			"c38a493d-c6e4-4ce8-bb65-c43728983484",
@@ -6437,7 +6437,7 @@
 		"id": "c975a7a6-1e59-4de4-b250-e37268a3fe13",
 		"unreleased": true,
 		"title": "Internationale verhoudingen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"f31fa5eb-ff9d-4bf4-9d99-0c00955c967b",
 			"af62b00e-92d5-42e8-a6de-38d37260bfe9",
 			"b73f1d50-2a2b-4ee7-80cb-be566317c2bb"
@@ -6484,7 +6484,7 @@
 			"50cac0b3-b8cd-4caf-bc91-ebf15d8afd06",
 			"a99a8f98-69e3-47bb-8785-a13037cacc8a"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"917b969c-c16d-43b2-a6d2-d4effdeab710",
 			"b4e8d506-a389-40b5-b65d-76f37ae8a566",
 			"1bcc1bb8-60ae-4614-915e-a2864b274e07",
@@ -6497,7 +6497,7 @@
 		"id": "de4f324d-70e2-4ca9-87b9-13cfebe49abb",
 		"unreleased": true,
 		"title": "Macht, gezag en bestuur",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"28c866ce-0a44-4a15-8f25-586f3f277c62",
 			"4602ccd3-a009-4238-a2b4-5fec8f38c8f1"
 		],
@@ -6549,7 +6549,7 @@
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"c0e6c56e-ba72-401c-9bdf-d70f509a5981"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"6cd42cf9-f89b-4629-88d1-d19aacaae95e",
 			"79ccc1aa-f669-4080-9f35-5aa1f63755ae",
 			"b40a079d-7f21-43a3-a538-185d55b2dcda",
@@ -6621,7 +6621,7 @@
 		"id": "af3b47e3-a390-41c6-b0a9-89ed27373314",
 		"unreleased": true,
 		"title": "Werk, welzijn en welvaart",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"6ab57a04-e0ea-48aa-9e9b-88fdf713cc9b",
 			"0ee24be3-0fc3-4f81-b715-57c4fcc14e9d",
 			"27e5a863-e4ee-426b-a128-fff65328d406"
@@ -6661,7 +6661,7 @@
 			"dd6e5e04-943f-4057-86e5-a5346deda677",
 			"55858989-db4b-4bb7-8767-2ba903499ddb"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0c9c9f44-d4ea-4a4d-bbe7-636aebbe091e",
 			"23ca1826-a0e5-458e-91ba-7f58475619d7",
 			"4e511c71-b915-43d8-b9e8-3b975ce6928d",
@@ -6716,7 +6716,7 @@
 		"id": "7ff6005d-f782-44a6-bcb3-7c610b06a13a",
 		"unreleased": true,
 		"title": "Communicatie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"23fcb4fd-d43a-4d40-b28b-57018c7ee4c8",
 			"2562c87b-46fe-468f-887d-e2d86042e76b",
 			"dea4d6c1-6ddc-4294-808e-f73eedfd66af",
@@ -6738,7 +6738,7 @@
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d05680f4-64e2-458e-9ea7-8ab00fefca91",
 			"67c1ee6f-1ea2-45dd-a7ec-8f0c80addfa2",
 			"5bcc873e-645b-4c20-9a89-61ccd203145b",
@@ -6766,7 +6766,7 @@
 		"id": "49362cb8-2b4b-4102-828e-488e81be4a41",
 		"unreleased": true,
 		"title": "Energie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"892f0d61-f9f9-4316-99b2-115fb3424bce",
 			"daaca83c-99be-41e8-ba9a-17b76a250420",
 			"1deb2ae4-b2c1-4708-98f6-a26b9efa1a37",
@@ -6791,7 +6791,7 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"8de1c77f-d703-409f-a431-6764cd414353"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"046962b3-cf63-4033-a4e0-c5d0ef0aa87f",
 			"0742fe8e-a98c-4ed3-b3bb-b8fb01596de9",
 			"d336b2a7-8f4d-4006-a0c0-d528a05e0125",
@@ -6832,7 +6832,7 @@
 		"id": "a8f153bb-42d9-4665-a00b-eba2711e4d32",
 		"unreleased": true,
 		"title": "Kracht-beweging-constructie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"51f8aca7-2f8f-41ac-9108-ff3937649491",
 			"30c7e9b8-dbf4-44d8-8833-d0ef01d8665c",
 			"c9e8401d-495c-4bbb-b442-e21ed451b455",
@@ -6846,7 +6846,7 @@
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
 			"dbcbe075-22c6-42fb-b8b9-428822771c92"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0f32e0f8-261b-4cdd-9d7d-81e277fb5656",
 			"48c7d625-264f-44d3-9a8a-cd7035baf06e",
 			"7ea52884-09c4-4385-9cc5-075768739ba1",
@@ -6862,7 +6862,7 @@
 		"id": "4396f95d-f771-444f-a600-6b12a4ace528",
 		"unreleased": true,
 		"title": "Materie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"df1f8753-6320-44fd-a0a0-50a6a35f7485",
 			"6f70e41e-4385-40d3-845e-29d36cf7e6ca",
 			"61f6794c-0fef-4617-a9d8-a874933f393a",
@@ -6885,7 +6885,7 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"5e095ec6-ced6-4ada-bf3b-fc27e03a6c4f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4c19e86e-4d81-460a-b148-6da6b05076a6",
 			"c58feaf9-f4b9-42da-bae4-184a30beff3e",
 			"8ca83b48-6925-4824-92b9-5dea31f825ca",
@@ -6913,7 +6913,7 @@
 		"id": "0ff9e18a-6157-4bac-80ff-e4f9c8a726c3",
 		"unreleased": true,
 		"title": "Mens-ziekte-gezondheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d5cc75e7-8ae7-48e9-81cb-5ffc9b6f6efd",
 			"4f2e1759-50c4-4c0e-a18e-ced41860737e"
 		],
@@ -6922,7 +6922,7 @@
 			"16615e56-0f45-4b92-8676-aed6de775b85",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dd47c655-15ff-4ed5-bba2-6d31196dc2d3",
 			"5284aa3a-1f43-4bb0-af3c-d441b57973c5"
 		]
@@ -6936,7 +6936,7 @@
 		"id": "82c004f8-2a05-45f7-b52c-87c336962110",
 		"unreleased": true,
 		"title": "Natuur en leven",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ecd15313-574f-4ad5-8779-6fcd634e8139",
 			"44af3947-5ee7-4ee0-9bad-92cd42ac5b7d",
 			"d6c44515-1775-47ff-abe7-8766e725d119",
@@ -6947,7 +6947,7 @@
 			"4c4b2cf8-cb76-4182-bc50-7b4054dad6f4",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c6a57bca-b80a-4dde-bfb1-4833eebe95ff",
 			"41365ef1-f728-424a-902c-50df544bd29a",
 			"7ba62429-032d-437e-8969-b7eee97c3291",
@@ -6984,7 +6984,7 @@
 		"id": "ae8e47c7-5ad9-4ead-8a32-aa57d40ecb10",
 		"unreleased": true,
 		"title": "Ruimte",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4725d887-939f-4ec1-92b6-558bac2f3174",
 			"76976aba-8131-46ed-bcfc-e96c2e6355a1",
 			"65255aa4-6a81-4b3c-97a6-f49a73b7cbc3"
@@ -6994,7 +6994,7 @@
 			"c0e6c56e-ba72-401c-9bdf-d70f509a5981",
 			"3ac8faa4-551e-463b-9003-a8107444311a"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1fa87681-9f0f-4836-8a64-beadbe5a6d59",
 			"ac9c26f6-a09a-48a8-844d-0ab5057b60ef",
 			"16dd3b76-2722-4fe6-bc4d-4720ebe8de77",
@@ -7008,7 +7008,7 @@
 		"id": "2162d9fc-3043-42a1-976b-ad6fae650ea3",
 		"unreleased": true,
 		"title": "Techniek",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"e26c39c7-a05b-4118-a227-6d4559926d31",
 			"18306af3-1b5f-4c5e-80cc-11729c5b2f87",
 			"d7f81308-2175-44c4-8014-28b64821fa89",
@@ -7018,7 +7018,7 @@
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
 			"dbcbe075-22c6-42fb-b8b9-428822771c92"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1c586450-2ca2-41e7-9090-0a3229f4703a",
 			"7b4b512a-3f28-4524-a028-bc4701d98f61",
 			"5d27a381-7646-4a93-8a3a-edbe5452ae86",
@@ -7123,7 +7123,7 @@
 		"id": "dc8057b0-f3ba-48a0-9cb0-191bb47fd86c",
 		"unreleased": true,
 		"title": "Moduele 4 Mobiliteit en Transport (1404)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7e45866b-277e-4a3e-ae6f-b892fca10f2f",
 			"579c75db-df74-46e3-a460-0992cc1f3d99",
 			"35441ea7-3fde-4a1f-a6e5-72f3ed632ac3"
@@ -7133,7 +7133,7 @@
 		"id": "9b1b27b5-6505-456c-9868-207e8f14257a",
 		"unreleased": true,
 		"title": "Module 1 Motorconditie testen (1401)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"6acdefa5-af94-49cc-a6aa-f654502b32bd",
 			"135aa394-9d3e-467e-8ba8-6d0f0ade794f",
 			"e58e3500-8a68-4228-9978-d1752af3a870"
@@ -7143,7 +7143,7 @@
 		"id": "3276402a-d121-49d6-92b8-05b96694b802",
 		"unreleased": true,
 		"title": "Module 2 Wielophanging en carrosserie (1402)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"70175f42-f7b7-4ad1-b20e-9e750f8fb4fc",
 			"7d581668-0039-4b0b-91ea-84d92d0a4db0",
 			"f22982aa-b642-4954-9ca3-1f1cdbcea4f0"
@@ -7153,7 +7153,7 @@
 		"id": "c5c6c136-2d81-4482-9337-f3ce4eaaf671",
 		"unreleased": true,
 		"title": "Module 3 Verlichting en comfortsystemen (1403)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d219f885-efd6-4691-8bcc-2f5b410de400",
 			"4f0ec92a-b81f-427c-a1bb-74dc0401bf9f",
 			"67815d87-3fc4-4e80-b526-7c1cc55424a3",
@@ -7164,7 +7164,7 @@
 		"id": "cd368f01-bcf5-4c3b-9191-05747e44d894",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -7204,7 +7204,7 @@
 		"id": "b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
 		"unreleased": true,
 		"title": "Energie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cace165f-8cf5-475f-8d0d-47fa547b0d68",
 			"95c78c57-23e0-4c53-9f36-1901b1b1f684",
 			"3cef741f-227f-49f6-bb6f-68214d9861fd",
@@ -7221,7 +7221,7 @@
 			"fabf2fbf-f8c9-45b5-8d0a-c977a51d67f3",
 			"78fb5a14-fcc0-4a8d-80d8-abd7da020f58"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2a5a712e-ed3a-40fa-844a-af26cf849e1e",
 			"495bf58a-8f73-48f7-ba05-4bc8fda9f47b",
 			"30ecb80b-46e2-42d2-b8d0-b5fc1d7306c7",
@@ -7289,7 +7289,7 @@
 		"id": "e162e77e-7a1c-4045-8e91-b03325eb47ce",
 		"unreleased": true,
 		"title": "Kracht en beweging",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b32f10bd-730c-40f1-9469-ee8d9168f7c0",
 			"1fded43a-284c-4e21-9164-9773f6f5cab5",
 			"9865d183-b5bf-4325-ae03-52f1b19da277",
@@ -7301,7 +7301,7 @@
 			"75f8d044-c979-4609-ba75-ce3a545cd3f1",
 			"114b5da2-fb35-42c1-999b-2939365ee443"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ec82ed7a-627f-4617-8de0-2f60c6b9a231",
 			"e5819bbc-d27d-41d1-8b0a-feabd4b32619",
 			"d8dfc503-e78e-40de-815a-27933f419e4f",
@@ -7340,7 +7340,7 @@
 		"id": "b1249e0e-33a6-49cc-9afe-a584f81df6ba",
 		"unreleased": true,
 		"title": "Licht, geluid en straling",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c74aa263-50b4-48f2-a411-4c0c5cb5dc80",
 			"201bd77e-4851-4e46-a097-39e5f563baec",
 			"5184a004-f25b-4e81-8c0d-40b44efd1a72",
@@ -7352,7 +7352,7 @@
 			"38c25586-fa8a-4889-8e00-3a6f8c8c4108",
 			"c52c43a1-3668-45f0-9b35-2d3a6c1dd393"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"625878f4-96fc-4c7f-8dc9-20fcaf2b7ca5",
 			"aba88b70-1df5-4431-885e-a393e83b1cf5",
 			"e63dec3b-b98e-4ae6-9e67-7a1a3bf5833a",
@@ -7408,7 +7408,7 @@
 		"id": "6caf582d-6b5e-48fb-9b89-d7a2b99bac5d",
 		"unreleased": true,
 		"title": "Materie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8902ccc6-3d81-4b2c-9b2e-0725d423c0f1",
 			"3980dff0-99b2-4786-8004-79605b1ce412",
 			"6b73cafc-e645-4e75-980e-b8a542884a72",
@@ -7423,7 +7423,7 @@
 			"ea72b4a3-cb78-4fae-bd33-1442df0c21b9",
 			"63d00468-e7a1-4191-861d-185c2a2287a5"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8feeac15-496e-4dd9-aecf-97b80bebe3ed",
 			"818942a9-a85b-4491-b89c-fa5ed5fde2f8",
 			"47dc8017-24c5-45a5-b344-5778b93aeb0b",
@@ -7460,12 +7460,12 @@
 		"id": "a2e75d11-1608-4122-b080-c687b9ffc208",
 		"unreleased": true,
 		"title": "Ruimte",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"558ecf87-ae2e-4097-bfa7-24f896d307db",
 			"0c608dac-0d32-429e-a142-b461ba821fef",
 			"313ef548-4da6-472b-b905-b1e1358d3bc5"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c32e6fa8-3fe7-497b-b7c7-32f5e2018d8e",
 			"0241969c-57b5-49c9-85e3-075abc09a546",
 			"b0442c7a-0bcc-4e58-ba1e-0ac187c2b23f",
@@ -7488,13 +7488,13 @@
 		"id": "d2cb98f4-9f9b-431b-a39d-96ba9422dfc2",
 		"unreleased": true,
 		"title": "Technologie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8ecdf8fd-178d-4e46-b232-f0a95f5c3fc5",
 			"d05fbabc-4b0b-49b7-94d5-fc734516fe40",
 			"d0b80d14-3f93-472d-b7dd-885f11851e6e",
 			"ead9233a-39f4-4972-866d-f7b897dbb6d4"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1c586450-2ca2-41e7-9090-0a3229f4703a",
 			"7b4b512a-3f28-4524-a028-bc4701d98f61",
 			"5d27a381-7646-4a93-8a3a-edbe5452ae86",
@@ -7514,13 +7514,13 @@
 		"id": "b01acef9-436e-40ab-940a-7984363fd307",
 		"unreleased": true,
 		"title": "Energie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"64e55788-d624-4582-af11-d13c5664630c",
 			"81fb89ad-b1b3-4f98-9147-c60ad6082240",
 			"71951487-84e0-41ac-96e7-722039c5d27c",
 			"85321aff-1b23-4633-acf3-4d4505afa396"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2a2d7bfc-c23b-46f9-a3e8-f2206584cb6a",
 			"e761623c-d131-47f9-b65f-de993229248d",
 			"b0445b53-d4fb-497c-934b-bf876d001550",
@@ -7534,13 +7534,13 @@
 		"id": "cc95c860-4e07-4fb5-9e1f-d9ab05802699",
 		"unreleased": true,
 		"title": "Informatievaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d16ececb-23c0-4935-96a7-9e5f55350d5f",
 			"116ef18b-9074-4031-b273-6165300debad",
 			"091885d5-3391-4b54-9f6b-2c33aa690b8c",
 			"3811bce1-fb6e-4f03-8792-099c6570490b"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7e5524e1-f5af-4429-9194-f77b36959ddb",
 			"9fd29757-b556-4c30-9167-136f32cb2923",
 			"b5b0b173-c06b-4378-8162-87161d9da9c7",
@@ -7552,7 +7552,7 @@
 		"id": "0f96c277-f3bf-4f6c-a526-21072e408192",
 		"unreleased": true,
 		"title": "Materie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c31b845c-9551-4410-9025-4915511b57cb",
 			"5808b1b6-dda2-42c3-9be4-3d7b4a0c3419",
 			"c02479fe-b6bf-4a89-9fb9-61ab746781fb",
@@ -7568,7 +7568,7 @@
 			"509f2295-d6a7-4199-8afe-cb88bdf2e74c",
 			"4bdf2912-a5df-4c7b-8102-0f88b7b98a5c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5bb9abf7-f1b5-4a9b-9f09-d2189c416c8c",
 			"8297cee8-f081-441c-91d1-54abcd3f8aa3",
 			"c167e22c-5d02-4497-a8a5-8b40edea9123",
@@ -7601,7 +7601,7 @@
 		"id": "edce0530-5a59-466e-beb8-c15ba13c7fb7",
 		"unreleased": true,
 		"title": "Natuurwetenschappelijk instrumentarium / reken- en wiskundige vaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"7860ca99-ccd2-4009-90b0-7e7ce77f851b",
 			"67957694-71f2-461a-8277-fde218b642e9",
 			"acd8d91e-a162-41c7-bd2c-efcc3fd2601f",
@@ -7609,7 +7609,7 @@
 			"d42791e2-f2b1-4bd7-be80-42de2a06442f",
 			"a75983bd-f408-4e05-9691-b04dc0ecbb45"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2c2a716f-54b5-4ddc-b152-c2f57d873ae6",
 			"8e2a3650-33f4-4072-994f-6715e1f605fd",
 			"5ac09b9e-9d1c-4335-98c4-0c64bdb7664e",
@@ -7624,14 +7624,14 @@
 		"id": "dd7cb510-a181-4a6a-b100-15de969af3e5",
 		"unreleased": true,
 		"title": "Onderzoeken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"df9e5c13-2200-4a41-887a-63fafce224a5",
 			"20fdbc00-d22a-40ca-9ab5-1b35ebdb350a",
 			"76b79695-2e73-4e6c-b7bc-c038f87d227f",
 			"7bac39e0-1870-4801-bd1b-a2c1f9442a2b",
 			"3235d957-81d2-480d-a126-715380c40ef0"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9323e384-e578-40c2-85bc-0ab9d3d40688",
 			"8aaeda80-aefe-4fb1-ae19-ccd48c3af99d",
 			"571d44f4-02a1-40f9-976b-058fa96a33c6",
@@ -7643,7 +7643,7 @@
 		"id": "89c425d5-605d-4df8-a1a4-7e870e55649c",
 		"unreleased": true,
 		"title": "Reactiviteit",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"22b8339f-5fbc-40bc-b278-93964f2b2817",
 			"85f7ab22-4f7a-4d47-9104-5eb569c3c2c7",
 			"4ec698de-cd2c-4d20-89aa-c6d55e5f1586",
@@ -7654,7 +7654,7 @@
 			"90e07024-3ecb-40a7-a68d-efc5bd9626d3",
 			"ae66ecf3-ab76-4fde-9980-8594bd3cfbbb"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5fe27f99-f01a-4d3d-a01a-b47cd702b358",
 			"4c5b202e-9ae2-4d76-a999-b25677fc0f33",
 			"902ff7cf-6b6d-472c-9de7-31ca29e20a83",
@@ -7686,11 +7686,11 @@
 		"id": "d20f7632-a8e8-4ac3-ba81-a8bca16507bf",
 		"unreleased": true,
 		"title": "Redeneervaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"527b91f0-6625-4fa3-ac8b-8edeab380925",
 			"23257fb3-dc52-4d6f-842b-e1c11d27d98f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"28bb6c2a-f96b-4caa-917e-44ea0069747e",
 			"23694fb4-c369-49f1-b5dc-c007904e1855"
 		]
@@ -7699,13 +7699,13 @@
 		"id": "33e606c4-5386-4781-9e04-0d92eae38244",
 		"unreleased": true,
 		"title": "Schaal, verhouding en hoeveelheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a1801573-5e66-4786-b4a2-fcc76ddc8bb9",
 			"4b1fd8b8-3624-415d-8ab9-66d0a2614c67",
 			"7e0e3da3-3edf-47a4-a959-7888cf4668e1",
 			"9fddc684-31e1-4ce8-a971-55e8a1233763"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8f29da4f-1005-4d87-abfa-dd7d87135f09",
 			"ce35ca4d-7f8c-4ef8-8e36-a85ee20468d8",
 			"968f3eb9-7fd9-4230-8b64-26e1a4400e2c",
@@ -7719,12 +7719,12 @@
 		"id": "419e9f2f-7f0f-49d1-a05a-84243d1c6257",
 		"unreleased": true,
 		"title": "Waarderen en oordelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"55fdb8f5-d8ba-4955-a9fb-dfc8e3dfbe8d",
 			"73fa32b6-671c-4934-a186-48a0bcafa687",
 			"6958ec36-0d06-4157-8da2-f9fa8564d147"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"153789f7-8706-4dab-a304-814bcd4f917c",
 			"958a8489-9deb-40a6-9c57-43a24ced3457",
 			"bd3bd544-197f-4333-bf0f-dee8bd6b2a61"
@@ -7823,7 +7823,7 @@
 		"id": "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
 		"unreleased": true,
 		"title": "Energie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"99fcbd2d-0442-43ef-bc2a-daa4b838e420",
 			"f8b2c91c-276f-4d3c-83b4-439e74e5da00",
 			"a692f0a2-c56f-4bed-8eaf-25f1f6a05d3e",
@@ -7899,7 +7899,7 @@
 			"20bf89b4-37dd-4747-a5e9-695901d9e7e2",
 			"28b3f359-dedd-4ade-880f-5b4d125a4209"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"b2a1d9a5-f432-42c3-8bf1-7435c3a0d016",
 			"ccf1cad9-555e-40ee-ab53-1aae80ddb9a0",
 			"507a79df-f0bc-48b0-99a5-403eddf81638",
@@ -7938,7 +7938,7 @@
 		"id": "fe9fde20-3f62-481e-a6c2-0e69d28a6eb4",
 		"unreleased": true,
 		"title": "Informatievaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"e7d066d8-854f-4c48-b243-e69e0e26d33b",
 			"73fa4cc6-dbbd-49b4-a767-f7b362510d69",
 			"2896124b-a789-45c2-98a6-34a7c99b65d6",
@@ -7946,7 +7946,7 @@
 			"e498039b-a8e9-4b8e-ae3e-7e219cc399c1",
 			"23906ea6-cd53-42d7-9114-41ce804a70e1"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
 			"de511ca3-cb8d-44c1-a69a-444c3749939f",
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
@@ -7960,7 +7960,7 @@
 		"id": "0a47ec81-5636-435d-8646-35dc517932ad",
 		"unreleased": true,
 		"title": "Kracht en beweging",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"94e36b6d-95bc-45bf-b31f-843a04dfb38b",
 			"4388cd81-ea96-4ad7-8a13-8ffed499b4a2",
 			"f0ceac5e-47d5-402a-9a6c-32ba0fe89495",
@@ -8013,7 +8013,7 @@
 			"15653f4a-596f-451d-a505-d4422965a582",
 			"3b262fee-dff6-4344-9a74-a93155a26101"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ebe01054-c08a-483f-a72d-60778613ff06",
 			"3cffe64f-7efd-4db7-a1e4-aa725531aac7",
 			"2187ff04-651f-4fca-a383-1c99263d1fcb",
@@ -8033,7 +8033,7 @@
 		"id": "f0b276d0-4c20-4cfc-b875-0385f332f699",
 		"unreleased": true,
 		"title": "Licht, geluid en straling",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"960c2bf3-3825-4736-aa55-41c59272a500",
 			"453575aa-22a3-48ee-aedb-9ff0419ae5e5",
 			"a42fb0c2-e301-429b-976a-39c2e01c5899",
@@ -8107,7 +8107,7 @@
 			"c152fee2-6995-47b3-bc68-73573858db24",
 			"3ca28fb7-88c3-42e2-8203-2c89abcbbd11"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d2587e01-6df3-4eb2-b045-5b3d534da9c3",
 			"09add71c-da58-4286-a0e8-14b759694a4d",
 			"10edcc49-50ff-404c-b10d-c247bc0ca651",
@@ -8143,7 +8143,7 @@
 		"id": "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
 		"unreleased": true,
 		"title": "Materie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"fe31ff48-f4cb-4709-a34f-b7d0fd72e60d",
 			"b79fab4c-d93a-435d-b63c-ab2311ed1447",
 			"ef7ae672-4b4f-4464-ae96-f179da256b0a",
@@ -8189,7 +8189,7 @@
 			"3bddfc6c-5915-4e2c-b488-43ada8f570cd",
 			"836b3ef3-d472-44ec-bf6a-bd0a67fd121d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"6f95cf23-c909-4399-8bae-a1caca3c163b",
 			"46fe5bc1-28e2-4d48-93fc-d4b868bcff4e",
 			"9dcb9406-1eff-4bc8-97fe-8d37546211c1",
@@ -8217,14 +8217,14 @@
 		"id": "aa839358-7f3d-4bd1-9f23-40c6a7d49da1",
 		"unreleased": true,
 		"title": "Modelleren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d24deb0a-13d8-4816-bf4e-52104a4d9e31",
 			"c9e083cd-45ab-4993-bcde-5f69d29fced4",
 			"19bfe8ac-eee1-453c-8553-86160a19d79a",
 			"23ba6332-7eca-4c64-83ad-6dd798d0678d",
 			"611ba728-d527-402c-bd09-0c4b6fdb605f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"cc20d5b5-31c8-43dc-bb40-3d8b048b5762",
 			"14ca94c3-9296-45b8-90ab-5fde570ab7ed",
 			"59350414-9906-4b2e-aa4b-4779f4f8aa28",
@@ -8244,7 +8244,7 @@
 		"id": "38521e92-5372-4f44-b1fa-32411570869c",
 		"unreleased": true,
 		"title": "Natuurwetenschappelijk instrumentarium / reken- en wiskundige vaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"04efa254-84f7-4000-a55a-9586b7d734ab",
 			"c081a391-f5f9-4c07-8f15-650f983aecfc",
 			"d678d976-0665-4a38-abc7-5420b5e38dc2",
@@ -8254,7 +8254,7 @@
 			"19f4ced6-d3b8-404a-842e-9bb856b0aa76",
 			"d93420cf-8a73-48c8-ab3c-0bfff56ec9e3"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"be961072-7f80-49e6-a5f6-c4bb84c02359",
 			"50ddc00d-3395-4a00-afda-55abbbbb4e98",
 			"473e5881-8f52-4e8e-a3f0-eabf7b9f9ba9",
@@ -8304,7 +8304,7 @@
 		"id": "3d463c11-2c58-4aec-86c8-ba25bf03d0fd",
 		"unreleased": true,
 		"title": "Onderzoeken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8dcb2a8c-a40e-4364-bf4e-b08d5744a774",
 			"9975e2fc-12f8-45e1-83a7-6aea16c13f92",
 			"891b6be2-e3a4-412e-a4fa-f868633d5bce",
@@ -8313,7 +8313,7 @@
 			"9d9744fb-b89f-4f17-b138-80d8886bfc2d",
 			"817d0954-5dc5-4180-a31e-fecc0c61ea92"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"a76abb5c-e0d9-43e3-9219-b4c4d087dd0f",
 			"191c5771-90e3-4019-b6e1-df229071a588",
 			"74013930-11c6-435d-b970-05e9bfca759c",
@@ -8336,7 +8336,7 @@
 		"id": "9b332842-8906-47bd-b2cb-0218c75192a2",
 		"unreleased": true,
 		"title": "Ontwerpen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0c5d742a-e94e-4d94-bdca-9ea0e484a8b5",
 			"685364d4-4334-4e13-b4db-62892857c3b5",
 			"c9e43741-299e-4d9b-8c51-e33e888a8496",
@@ -8344,7 +8344,7 @@
 			"c68004ae-3ae4-417e-8cad-f95e89dfbeb6",
 			"f426cd8b-fb13-4776-b229-8c3184c49f44"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"930f01e6-9b68-4b53-b82f-5a86f19bdf44",
 			"8550a1c7-cde5-4a60-9ff4-1e91df4de2b8",
 			"82c9847a-2d1e-4897-828d-639893db6419",
@@ -8366,10 +8366,10 @@
 		"id": "b33bfa70-f130-415b-8d65-dc5ae3959598",
 		"unreleased": true,
 		"title": "Redeneervaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0fa08f47-7cb3-4e60-8ed1-d198449a96ca"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ed1ed57f-8958-492a-9768-d487754c5ed6",
 			"21059c4f-5b6f-4e29-8c01-3036b9be40c8",
 			"b828c4f2-d988-4a4a-9124-a8c3e99e8c7e"
@@ -8379,7 +8379,7 @@
 		"id": "830a70ae-d543-4ce9-9577-0450e254cf7d",
 		"unreleased": true,
 		"title": "Ruimte",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"7f71e7ed-9f11-465f-a6d5-5b1e4e89e489",
 			"d9979142-eb21-4c90-840a-7e9cdc2d29fc",
 			"dc8acc64-c963-4d12-8093-b1d6a36e0bce",
@@ -8407,7 +8407,7 @@
 			"d3113753-e6e5-4484-a0b2-ce7b171e006d",
 			"5eea4a99-13b8-4080-8565-c5fd133f32ba"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1fa87681-9f0f-4836-8a64-beadbe5a6d59",
 			"ac9c26f6-a09a-48a8-844d-0ab5057b60ef",
 			"16dd3b76-2722-4fe6-bc4d-4720ebe8de77",
@@ -8427,7 +8427,7 @@
 		"id": "82187447-5392-433b-940d-fd49f6f8d669",
 		"unreleased": true,
 		"title": "Technologie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"78c7aae8-07de-4325-b03e-c80b6017072d",
 			"03dd887f-ac85-4474-9123-cc79cb3e82a0",
 			"2c62dc9d-90f4-496e-b325-846cb23811a5",
@@ -8441,7 +8441,7 @@
 			"842296e8-eb17-4cf1-8b8c-02ccb0a8ffc9",
 			"50702bcb-58d4-45df-8881-3805c9786a3c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1c586450-2ca2-41e7-9090-0a3229f4703a",
 			"7b4b512a-3f28-4524-a028-bc4701d98f61",
 			"5d27a381-7646-4a93-8a3a-edbe5452ae86",
@@ -8456,12 +8456,12 @@
 		"id": "6bfb5344-c28f-4fe3-81f6-04d4dd3d58be",
 		"unreleased": true,
 		"title": "Waarderen en oordelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"1c9cf957-359c-4f3f-9ef8-0f66ad90b6d0",
 			"9f347411-54ee-4b51-b3fc-31fd8ce64b0f",
 			"48ed402b-5674-4c0f-a5bc-8112e291a1d0"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"714fea88-3d79-4d61-b403-3a058f9b9e7c",
 			"82675527-2888-42b2-9f2b-fe7297b57aea",
 			"e1445c34-51a4-4cc3-af19-ee0cd1565924",
@@ -8474,7 +8474,7 @@
 		"id": "a4d8079e-d007-4033-9da8-d8345065e3ab",
 		"unreleased": true,
 		"title": "Argumentatieve vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"b3346f8a-99fc-4bae-abf3-c385964bb9a3",
 			"60a9e28c-adb8-4f6a-b48f-992d383ac5a0",
 			"2445e3c2-d92e-40c1-8a2d-82ba8654db15"
@@ -8484,11 +8484,11 @@
 		"id": "271dc5dd-ed9c-420e-a401-374684a0e646",
 		"unreleased": true,
 		"title": "Begrippenlijst en taalverzorging",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4a388c3e-1b3c-4de7-a0d5-ad126a0831ab",
 			"4213d747-5073-4618-b487-f5c730edaa2a"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"940ccf89-54a5-42a8-97db-5d574a68e6d4",
 			"08dc4339-1d21-4096-9d2d-e2c7c32bf8db",
 			"eac96d21-872a-4476-a0bc-b529990893c1",
@@ -8499,14 +8499,14 @@
 		"id": "4580f099-c3cb-4520-beba-cccdb92cc32c",
 		"unreleased": true,
 		"title": "Leesvaardigheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c6ae061d-3bfb-46f3-844a-8223cb3cc68e",
 			"7e56441b-cf77-4690-8de1-93f0708e49e1",
 			"ab100484-31cf-491d-a864-70fbb4bf16b3",
 			"377faa3e-17fd-4e59-bb9b-ec8aef1ebcd4",
 			"f9ba1c2d-991c-41e8-851b-30d4512ee2e4"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"94448363-20e3-4ecf-852d-1ce8a22f29e1",
 			"ca032176-b804-4f1a-a4fa-bd94fbfddfa4",
 			"d42a8226-e827-4027-8566-ce46c032f918",
@@ -8544,7 +8544,7 @@
 		"id": "239d5303-1bbd-4a9d-9aee-b35301f57121",
 		"unreleased": true,
 		"title": "Mondelinge taalvaardigheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"5488c7e6-04f9-4a9f-8073-9ebc169ab3e8",
 			"cf0647ca-8509-4572-ab60-4daf9a815f5a",
 			"e9367730-9d35-49c1-a397-f01616da62e4",
@@ -8553,7 +8553,7 @@
 			"d3ab270e-5ffb-4a77-a3f4-c67c9c1e8fb5",
 			"ef18ea37-86ed-43fc-a7f2-7ce020214467"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ebd576bb-e480-477a-a76f-a9a7ba8e9bdc",
 			"ca032176-b804-4f1a-a4fa-bd94fbfddfa4",
 			"94448363-20e3-4ecf-852d-1ce8a22f29e1",
@@ -8604,11 +8604,11 @@
 		"id": "6077e507-a882-4692-b0f1-3d34857a0d3e",
 		"unreleased": true,
 		"title": "Schrijfvaardigheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c8da95ce-2084-4c2a-87e4-2e9ed2d7ccf0",
 			"74ee8eb4-a492-4d0c-a331-ed54623dc072"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ebd576bb-e480-477a-a76f-a9a7ba8e9bdc",
 			"ca032176-b804-4f1a-a4fa-bd94fbfddfa4",
 			"940ccf89-54a5-42a8-97db-5d574a68e6d4",
@@ -8713,7 +8713,7 @@
 		"id": "4c86fb4e-6f6c-4ed4-b4a0-ebbe7b657bcb",
 		"unreleased": true,
 		"title": "Module 1 Ontwerpen en maken (1301)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"23ce22c8-d3eb-4552-b55f-0e05e28c103b",
 			"4a43bbe2-8a9a-43ed-a18f-f095d21c5875",
 			"04f4f1e5-7b27-47b8-85de-b70c8cb66cb2",
@@ -8724,7 +8724,7 @@
 		"id": "87c7b213-4495-4028-84b2-8184592b49fc",
 		"unreleased": true,
 		"title": "Module 2 Bewerken en verbinden van materialen (1302)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"03b9b720-bc46-428f-812b-a5d5c9233e74",
 			"83e6c4b3-09e0-441d-8160-d1ad9bd13ff9"
 		]
@@ -8733,7 +8733,7 @@
 		"id": "c4c5839b-44b6-4464-b776-631e684a62e3",
 		"unreleased": true,
 		"title": "Module 3 Besturen en automatiseren (1303)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1ab6da2c-fc5d-40ca-ac62-453ab39f7431",
 			"0db50339-3059-487f-b53c-782cbbfdc47f",
 			"2dec8c72-4c98-4d53-991d-e467395ffef0"
@@ -8743,7 +8743,7 @@
 		"id": "d5e55c37-9894-44cc-be37-a93f852b28ab",
 		"unreleased": true,
 		"title": "Module 4 Installeren en monteren (1304)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c34749e3-bade-4af3-a574-b6158c4aa0ba",
 			"2563d4d0-f5cf-426a-9a43-e13871b948c7"
 		]
@@ -8752,7 +8752,7 @@
 		"id": "8d39b484-7ed6-49c0-ba50-0476c266555c",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
@@ -8784,14 +8784,14 @@
 		"id": "5b545ebf-f228-433d-ae18-49bc512d97cd",
 		"unreleased": true,
 		"title": "Energie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"dfad6cd6-f71e-44c6-bc4b-1cc0384d7289",
 			"6464f82f-f67e-4b54-bc23-f444783069ed",
 			"4b7a237c-f6ce-482f-a498-0bf0b0e31382",
 			"f334cb98-4cbe-414b-965c-1f5dc2ddbb57",
 			"3e2e923d-8781-4f6d-b9b1-236cb123b6bc"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4627428a-d0ea-4810-8e7d-a371a44371e1",
 			"4d784cd6-97af-4a5d-879a-a4ede319bd19",
 			"1b084598-c122-47eb-892c-550e0d29d311",
@@ -8806,13 +8806,13 @@
 		"id": "8faaa90f-8620-4458-815d-ef038dc1e7d3",
 		"unreleased": true,
 		"title": "Informatievaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3c2de01d-2a2c-45da-8e80-92e760aa0636",
 			"c4c147ac-2b0e-409d-a8a5-b96c5be9aedc",
 			"8c75e9b3-7202-4d89-a47c-bba49edcc2fb",
 			"d0748d20-93f6-48e4-92d8-d13581efdec2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
 			"de511ca3-cb8d-44c1-a69a-444c3749939f",
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
@@ -8824,7 +8824,7 @@
 		"id": "99c06a9b-fce9-4f6e-ac03-aad707ba66dd",
 		"unreleased": true,
 		"title": "Materie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2ab231cd-369d-4fb7-8ec5-76bfa6dd1240",
 			"4cd9458d-df64-4b2d-b0f3-664bedb21dd6",
 			"66d14e15-bd9a-4b8f-91bf-70d79fe33351",
@@ -8835,7 +8835,7 @@
 			"90e6f166-5ea6-42f8-b6b5-2db1dac3151e",
 			"e45d3770-5579-43f6-b1c3-328e9c1b41de"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1145950d-9e08-435a-94ca-3b4154eee6ed",
 			"d6743728-5e95-4469-8b04-4e6f4bc4c729",
 			"f93f0fb1-b7f2-4f73-9adb-103a8242f240",
@@ -8856,14 +8856,14 @@
 		"id": "bd9f2840-e9ba-4b03-84ad-51aeb63ca601",
 		"unreleased": true,
 		"title": "Modelleren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c6f6162e-1ec6-4276-9e82-aa8e346fb0ad",
 			"46d88856-28de-4652-9e1f-0eb05be18762",
 			"5dd792bd-908b-4c40-a382-008520620556",
 			"a9124619-a9e0-4281-a919-6b29497240c8",
 			"84e9dd2f-32be-43c9-a04f-0116ea11675f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"c7749ca0-dd1d-4dce-852d-4ac567cdae09",
 			"14ca94c3-9296-45b8-90ab-5fde570ab7ed",
 			"59350414-9906-4b2e-aa4b-4779f4f8aa28",
@@ -8877,13 +8877,13 @@
 		"id": "b13a4699-92d5-4394-9d59-871abde90abc",
 		"unreleased": true,
 		"title": "Natuurwetenschappelijk instrumentarium / reken- en wiskundige vaardigheden",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2e45e100-7085-43aa-967a-4b0072071cab",
 			"c754cce6-5600-4485-b05a-b25ed437f0fe",
 			"5a363bd4-81b0-4e85-b2b5-407addafd441",
 			"7c605052-31b4-46a0-9afc-158e32c658e6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"528841e5-474c-4b68-a853-5465b9647bba",
 			"50ddc00d-3395-4a00-afda-55abbbbb4e98",
 			"39e1d803-ac90-40f4-8045-6f3cecb3fb28",
@@ -8911,14 +8911,14 @@
 		"id": "98e08439-bbd6-4a91-87a3-010a10a2ba03",
 		"unreleased": true,
 		"title": "Onderzoeken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cb80ce8e-0643-414f-b959-19fdf9dae371",
 			"e81c9316-99ee-45ef-a8a3-6febe158044a",
 			"7da68b2c-bf44-4b87-801a-c282a009ad40",
 			"0dca1594-79b8-4a76-96b8-54f98a0d8da3",
 			"9c9bc621-a597-406a-9209-06d26e7be139"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"a76abb5c-e0d9-43e3-9219-b4c4d087dd0f",
 			"191c5771-90e3-4019-b6e1-df229071a588",
 			"74013930-11c6-435d-b970-05e9bfca759c",
@@ -8937,14 +8937,14 @@
 		"id": "f675281a-8f1f-4263-b783-281685f15685",
 		"unreleased": true,
 		"title": "Ontwerpen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"24c0ad1e-8d51-49e8-a8ed-f6fc31da5a69",
 			"8adb81db-3987-4b18-a26a-1b6a7ce1a25f",
 			"090d18f0-8825-41aa-94aa-f4f551ea35d9",
 			"59d4f3dd-22c3-4c6e-a7f1-6158c5c874b1",
 			"27d07aa5-dd61-4f50-96ca-bc8e4fb7d373"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e080cada-25b8-4a83-a4ac-629d34b9b2be",
 			"8550a1c7-cde5-4a60-9ff4-1e91df4de2b8",
 			"82c9847a-2d1e-4897-828d-639893db6419",
@@ -8961,7 +8961,7 @@
 		"id": "39d7b775-88ef-4e20-bee5-b3a160d022a9",
 		"unreleased": true,
 		"title": "Reactiviteit",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c668a1ff-12c0-41c2-b802-f6ccb02bb1c8",
 			"88354c49-f252-4f6c-974b-ab59aa7af32c",
 			"b615f3c3-d972-4499-ab0a-414c7d7cd3bb",
@@ -8973,7 +8973,7 @@
 			"58d70c2c-3d31-4eec-80f8-140b58ce1bd6",
 			"f57d4b6c-6c41-4f44-8f87-1f762ca22873"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8fb35b02-7043-45df-b329-47ad03568026",
 			"7eebae2d-5f62-44b6-b4d0-9b15d16aa778",
 			"9d2678e2-5f59-44a2-bc4f-af1dc7856a18",
@@ -8996,14 +8996,14 @@
 		"id": "66debcbb-a043-475f-b904-474fbb4970a0",
 		"unreleased": true,
 		"title": "Redeneren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"11fad2b5-6de4-4630-a02c-1ae657427bae",
 			"4d859a43-3eef-4dcf-b0b9-a811be97090a",
 			"e9a11f58-19a4-4847-a189-7504fb6e170b",
 			"1d792222-5103-477b-bab5-c27dab8000da",
 			"2420683b-2576-4e97-9ef5-c7d3ccdc1fc6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"18a07633-15f9-4b13-af05-65dd03c4eb73",
 			"ba98b2bc-1654-4cd1-a23f-c21d56b602bd",
 			"ce06bcb5-145f-4a8a-ad5a-6a5ab8f7aed4",
@@ -9027,7 +9027,7 @@
 		"id": "481c144f-7d82-492d-be54-b67b4cf54d4d",
 		"unreleased": true,
 		"title": "Schaal, verhouding en hoeveelheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"9b53cecb-9f26-4be4-8fa6-8051450b1aac",
 			"1de1d37e-3f3a-4fda-8297-39bceeac662a",
 			"717e1fdb-40bd-4868-9c20-9c0934b56727",
@@ -9035,7 +9035,7 @@
 			"8099eaed-e38d-4914-bb98-de1a987e211f",
 			"67574128-9bc1-48e9-bb4a-93af9cb4b0e1"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d08c961a-5198-48ba-a197-44996565a4f1",
 			"63562f7a-3c7c-4013-b944-c887784a4bbc",
 			"99dbef4a-cf21-4383-8ea4-9ddacb0262ce",
@@ -9051,13 +9051,13 @@
 		"id": "90d2e1b2-1c2f-4281-9e1b-31281774de3c",
 		"unreleased": true,
 		"title": "Systeem",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3c9cf089-2674-4719-b165-a997524d4671",
 			"7815c0c2-9248-497a-ac79-bab2683d68bb",
 			"80b9905d-c31d-4dd1-9935-51eedfef4a6b",
 			"a6811acd-bd07-4ef2-a0e1-d05115cad4be"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"d60d79ac-d2a9-4e68-ade2-784b5dfded73",
 			"0d5b8869-2711-42f5-adf3-53faac855a9d",
 			"41face88-675b-4896-820b-72c84929031d",
@@ -9071,10 +9071,10 @@
 		"id": "8635a166-23c5-435d-8f12-d27d0f565d94",
 		"unreleased": true,
 		"title": "Toepassen van chemische concepten",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0d0f9b10-f988-4414-89b3-2fa021e5ce4e"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5f6d3c58-0e77-434a-95d1-3902ceee8cf7"
 		]
 	},
@@ -9082,12 +9082,12 @@
 		"id": "283b005e-0bd2-442a-bd32-55c466f52f73",
 		"unreleased": true,
 		"title": "Waarderen en oordelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"00a9914b-377a-422e-82dd-355fa6569ee9",
 			"595f9544-ef62-471b-b659-898ab7d28fba",
 			"1e3e0f34-8789-4d38-92fa-51f1d44a31b5"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1cf13e9a-3096-4f63-9c6f-94f361361f86",
 			"46ce68e9-25d3-4338-9796-1cf095e437d3",
 			"714fea88-3d79-4d61-b403-3a058f9b9e7c",
@@ -9101,7 +9101,7 @@
 		"id": "59a9a734-25df-46c0-97aa-d683cd97a03f",
 		"unreleased": true,
 		"title": "Gesprekken voeren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"30e725d4-c26f-46a0-accc-69ab0b381074",
 			"9cf52075-9e58-469d-b3ab-7d4044ae96c4",
 			"7210d486-7289-46e8-a600-803e2bc738fe",
@@ -9111,7 +9111,7 @@
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -9119,7 +9119,7 @@
 		"id": "51c6d025-6757-401d-9248-cc8bea96a144",
 		"unreleased": true,
 		"title": "Kijken en luisteren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"5789095f-53cb-4746-9be7-f6f96257e07e",
 			"e5c14ff4-7c26-4dc3-9717-9918c3565b37",
 			"efc384ad-31f2-44db-bcb4-3c02e9800a34",
@@ -9129,7 +9129,7 @@
 			"0e017bcb-9a46-4531-945c-a319df888c9f",
 			"f99dd6d2-d5e3-407d-a331-16bce33e4f44"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -9137,7 +9137,7 @@
 		"id": "6c106c77-14c1-4c7b-a111-59540a5ca327",
 		"unreleased": true,
 		"title": "Lezen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8aee7e52-7f83-4865-9f7b-9ae501a39a6f",
 			"1bb7e2ea-4599-4653-8598-38d4934cb848",
 			"b5c0e8f9-9e00-4d84-9295-69f1eb6f073b",
@@ -9147,7 +9147,7 @@
 			"76880079-a2a0-46ef-81a1-f0f5fa98185b",
 			"c8ab97a8-2d40-4087-b98d-226cf1d837af"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -9155,7 +9155,7 @@
 		"id": "ca929c5d-6644-46ac-8217-a5ee298406d1",
 		"unreleased": true,
 		"title": "Schrijven",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"dac87cf7-9aa7-415b-8edd-a599dfcb6c8e",
 			"651fd9a1-2c70-4e36-b0a5-4dc36440d115",
 			"18364f55-51a0-479d-8d17-6b6c750e4b19",
@@ -9165,7 +9165,7 @@
 			"83d65099-997e-4f20-b056-be06a8279da3",
 			"ddd80702-fb46-4e12-97c8-5d3f87d5b379"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -9173,7 +9173,7 @@
 		"id": "4c037ea4-2640-46c9-97fd-293d37aa2c92",
 		"unreleased": true,
 		"title": "Spreken",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4c8f8af3-c058-4f47-ac12-875e60411111",
 			"e337492c-dc21-4ed0-ad87-51c0e985fec3"
 		],
@@ -9185,7 +9185,7 @@
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		]
 	},
@@ -9193,14 +9193,14 @@
 		"id": "9e95f81f-f65b-45a4-bb4c-83e619d04522",
 		"unreleased": true,
 		"title": "Technologie",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"94fdc4c9-6b34-4acb-9ead-55575a0e1c03",
 			"36576151-8ba9-416c-a575-6d701130f30b",
 			"cdc3f8bf-921c-432e-b7a8-c36a241e3c74",
 			"667848a6-8fe7-47a0-a173-8a1508b71699",
 			"f2a7aa8b-b5b0-4b91-94c2-950856ddea49"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9b4e0ed0-7829-4190-b924-4f3d7cbc0f7a",
 			"eee8ada0-5380-45bc-924c-3243b77e39e5",
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
@@ -9212,13 +9212,13 @@
 		"id": "3e524aaa-9c23-4f33-b79d-9e32cf9cad56",
 		"unreleased": true,
 		"title": "Analyse",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2e8bcba4-d317-423b-8206-4bb6fb376c24",
 			"e3a9f386-fae6-4ab3-9389-b183bca29e1b",
 			"0a20ca46-76e1-4f13-bc8e-4bd60cd0a8dd",
 			"f842380b-67a4-4821-b6fc-f352691a2a3e"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
 			"691c6603-320f-45ee-b701-acbf3c37def5",
 			"8e4e0096-e20a-4eca-83ea-aff49dfa2356",
@@ -9235,10 +9235,10 @@
 		"id": "9a79b8fa-e51b-4f8a-9099-24ff0a7437ff",
 		"unreleased": true,
 		"title": "Discrete Wiskunde",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d235c0a9-9c96-41a7-966e-5147eea04f9a"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"45850ac0-4bdc-4a51-b597-7a4c35780f59"
 		]
 	},
@@ -9246,13 +9246,13 @@
 		"id": "b2461c76-276e-4d32-ab83-bccbb17e1532",
 		"unreleased": true,
 		"title": "Geld",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c9ef71d9-fe92-4648-a275-7466cf11a55c",
 			"ac38eca4-97f1-4b6c-aaaa-eddc60497dbc",
 			"50b5711a-8bfc-402d-912d-f9ad39f72c06",
 			"8affec60-79b0-4343-8c6f-bd0de8509d8f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dd406037-306d-49fd-8658-671a8e2ff842",
 			"20c20e07-81b9-41d5-b4e0-67816c6bbe29",
 			"ff23fa9a-f620-4146-a570-c07ac7c56370",
@@ -9301,7 +9301,7 @@
 		"id": "47c83563-0e48-42db-92da-e9b937a53421",
 		"unreleased": true,
 		"title": "Getallen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"9b5b61a7-3987-4205-ba6b-9aae4ba2fdfb",
 			"8a05179a-5e12-40fa-b4ad-584a79b8bb05",
 			"34e879a9-2699-4c09-991d-7f87e984e61e",
@@ -9327,7 +9327,7 @@
 			"f17e0d9a-849d-4a89-938f-eb41d501164a",
 			"64ca9d22-9803-4521-98b4-ab0832fccbc2"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
 			"68f71e0c-bcfa-41a8-93b0-e4dda93dec08",
 			"23e94633-c77d-41ff-8c13-63c5b0fbd0c8",
@@ -9422,12 +9422,12 @@
 		"id": "9695e7e9-ad89-4c08-8784-d4ea3aad9b5e",
 		"unreleased": true,
 		"title": "Hoeveelheidbegrippen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"31701ba1-4a57-48db-b5c3-09996e4fec83",
 			"90c5c0b6-7cfd-4ec2-be1e-7fc25a6fd2d5",
 			"30c5e451-615b-4da8-910a-6447e745d676"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0724c7e1-f31c-4791-8bee-82a554f34ceb",
 			"5cd8e9bc-97d9-4e1b-81b6-fd5efed4070d",
 			"0e5752f6-fe5b-414e-8019-34efb623e04f",
@@ -9480,13 +9480,13 @@
 		"id": "ac408e1d-99db-4286-b8c6-583615b7e198",
 		"unreleased": true,
 		"title": "Informatieverwerking en onzekerheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"887a7258-d610-444d-b7a9-dd6854dc5132",
 			"3a97bbb0-c672-4b80-b4fb-fafbd3798ba8",
 			"2aeb3c29-bc6c-457a-a23b-ea88e74f91ac"
 		],
 		"doelniveau_id": [],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5225adf7-107c-4d3e-a2e7-a28209917934",
 			"61e11b35-4ace-4a0a-adea-b5c8940bdbd2",
 			"5f4ddfd6-532b-4bed-ad47-e4a8bff6a09f",
@@ -9517,7 +9517,7 @@
 		"id": "9caab715-e38c-4d4c-80bd-d94f7f26e306",
 		"unreleased": true,
 		"title": "Inzicht en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"c7e79ed6-75be-49ab-84c5-4768292cd3b2",
 			"88d71782-1666-4d01-a0ba-8ea80dfcd5df",
 			"91672d8a-640c-4ae6-af6d-d2ae041d0d13"
@@ -9532,7 +9532,7 @@
 			"03743bd4-9233-4b30-a8c4-d7e701913b40",
 			"8caff1d0-27d7-43bc-8b67-c5e2c2cb07e5"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"064563d7-4ec9-4261-aa27-fca8434e720b",
 			"839e299e-ce70-465c-bd88-ed76514568fd",
 			"cba1393d-6936-4b89-a8ee-0bea1a72538c",
@@ -9562,7 +9562,7 @@
 		"id": "3a85224b-ab8e-4168-ab7f-019fc45cfeaf",
 		"unreleased": true,
 		"title": "Meten en meetkunde",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"e8084a1b-3cfe-46bf-8b6d-ba619056979e",
 			"a58c31b7-36c2-4942-908a-02be3bd54f30",
 			"6cc8209c-b77e-4089-b68d-11e69a0beea1",
@@ -9580,7 +9580,7 @@
 			"750bccea-86c1-4c59-8264-ac94cf963c23",
 			"619c654b-b1ee-4a2a-969a-6fdce9b521a3"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"e0300079-ab00-48d1-b483-e38b609d0549",
 			"c287d768-225a-41f5-88ce-615db051a53c",
 			"a6ec9ae3-1173-4361-96ef-93a91a158bf2",
@@ -9652,13 +9652,13 @@
 		"id": "73139ddf-94de-44bc-9424-1c653f463173",
 		"unreleased": true,
 		"title": "Meten en wegen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"007f96be-deca-4d28-9d7e-a04d5276b445",
 			"cfb88b91-f6b2-4704-ae48-51e898b589e1",
 			"df8a14c1-87f4-44d4-b5b6-1c4d946a764c",
 			"57543929-372b-46da-821d-c63ba805652f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"42d71650-e087-4b1f-b928-cfe2548b1b84",
 			"9b8c4af0-da09-4843-b769-e2dfa02f9446",
 			"e8babad5-5f06-4659-bfaf-e1aa4b9ff003",
@@ -9710,12 +9710,12 @@
 		"id": "8f868bad-91e3-4c9b-a716-e2b7b78c0196",
 		"unreleased": true,
 		"title": "Rekenhandelingen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"511c89f3-e26b-446a-839a-cce1be1205f3",
 			"1ec77207-01e8-4103-8f85-1a683c662210",
 			"31a01f1a-9037-45cc-a59e-7bdf3afbad4e"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"0ffc459c-7b43-400f-aff8-03f17020c103",
 			"05cb4e58-2bb1-484d-89e4-492ba6f7d3c3",
 			"79fc2463-156d-4d23-af0c-63c93889baad",
@@ -9769,11 +9769,11 @@
 		"id": "44fe4fb8-bf4a-4ea1-a4bb-6fcd778c410d",
 		"unreleased": true,
 		"title": "Tijd",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d2a3d84b-03e1-49da-9311-75bde7a6f820",
 			"e6f5a7d1-bb74-4775-b082-db7461efd869"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4407a462-39f3-4530-bd99-2d092ea67b14",
 			"b6c512c3-a85a-4bbc-991c-b70b8aa5152e",
 			"226b2bf7-268d-441a-9d06-020586fa7b1f",
@@ -9820,7 +9820,7 @@
 		"id": "aefdd771-208d-40e1-9e09-4cba6dfc406a",
 		"unreleased": true,
 		"title": "Verbanden en formules",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0d18dc8e-ef85-452b-b0a7-e048f7303102",
 			"7e6b7d2d-804e-4cac-a5ff-8755ac917351",
 			"c4f6c9e5-e6a3-4845-8cda-3091bcb3e4fb",
@@ -9834,7 +9834,7 @@
 			"898c0537-2a97-4c69-b331-f6b2d4bb8342",
 			"5e095440-0af8-47b4-a972-0e606174aedd"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"6a102edb-a529-45d6-8684-02fadc2ba6cc",
 			"672d2d69-4262-4e8f-9707-61b6f09afe98",
 			"206f6649-8534-42b2-9bf9-ad24dad5dce7",
@@ -9950,7 +9950,7 @@
 		"id": "39b37b0c-217a-47ed-89be-25051737e780",
 		"unreleased": true,
 		"title": "Verhoudingen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d3eb3e56-281d-4e82-b3b9-fec5cc0fb1b1",
 			"7f36cf36-60f9-465a-93ad-d7cb86202de2",
 			"2704039c-dbe9-4049-bc46-63b8eab59f92",
@@ -9965,7 +9965,7 @@
 			"5c5f18e9-147b-4691-82ff-864d6ef1ce54",
 			"f17e0d9a-849d-4a89-938f-eb41d501164a"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5019f250-0506-47a3-8b30-ea35357cf919",
 			"5c6c7de3-c10a-4ad1-97b4-48209f649887",
 			"052d8d90-8baa-4cd4-81be-48fd8fbf77ea",
@@ -10008,13 +10008,13 @@
 		"id": "ae04af78-0e74-4856-9de5-01d4d325de64",
 		"unreleased": true,
 		"title": "Analyse",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"985bc535-bf11-461b-bb66-06ebe728e1e3",
 			"0ce98657-6f71-435e-8a22-dc6a87bc9826",
 			"9cb12547-35b9-4071-9f0d-71c54e23c9b6",
 			"c75b99d2-832b-4428-9f8d-e9f73eb50a27"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"8eb47d4c-b8cc-47a6-90bd-f24c09cf8d15",
 			"9756aced-73ee-469b-9da1-00ecc1a06eaa",
 			"cb63d0a4-511e-45ba-b420-1988404e404e",
@@ -10036,14 +10036,14 @@
 		"id": "52f496a9-f6ce-4822-b9ce-165d8256be3f",
 		"unreleased": true,
 		"title": "Getallen en variabelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"afdb4981-b75c-4a6b-97a6-34d358bbd468",
 			"5b12b579-6de7-4d85-bcac-3f85dd3ace07",
 			"8c013694-246e-4492-9b2c-b675d4870b1f",
 			"0c24833e-2efd-46b1-b232-ce140806d85d",
 			"75dafbdc-5989-42fb-822f-2b2a214e9b41"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"96080b58-9e48-4b98-a8cb-c821b74fe03e",
 			"89231857-9ff2-4dd5-80b2-382ef9de2a23",
 			"3281d066-4c87-46f6-aa39-bc5d161e62c7",
@@ -10061,11 +10061,11 @@
 		"id": "7c8f4928-a65e-48f9-81ca-fc1bc2c7fe2a",
 		"unreleased": true,
 		"title": "Informatieverwerking en onzekerheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"868ad6cb-4131-48ab-ba3e-f07ebf8f06de",
 			"22268b88-d753-42b4-9792-933c68b3682b"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"6b3464c2-cb10-4548-8b89-ec1a35abf8c0",
 			"49620ad4-e026-49e6-b6a2-22ac08319c28",
 			"f9f7eafc-17d4-40da-a618-95e1a3c21777",
@@ -10099,12 +10099,12 @@
 		"id": "97abf32d-c062-4dc6-b1d3-b15cb6f64874",
 		"unreleased": true,
 		"title": "Inzicht en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"8c85d214-9434-43fa-b35e-6b67c4b088d9",
 			"ec3cbfbd-1a9b-4355-a284-8ac3ad887395",
 			"3dbb5859-604c-499c-a97b-5eed8c73e344"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dc9d9173-31ac-450a-a775-f187a29491ba",
 			"75abc117-3627-4852-a5e6-d57740afbe24",
 			"c501e93d-4091-4dea-bc96-ec7f8bc2414e",
@@ -10126,7 +10126,7 @@
 		"id": "a337989c-f3de-429a-9537-fd5daa62098a",
 		"unreleased": true,
 		"title": "Verbanden en formules",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0d0dfa1d-b658-4967-aade-b2c06a01d791",
 			"cde423bc-4642-495f-b4a6-9b1ef6800d35",
 			"a71e134c-abc4-4798-8019-67e1c1487814",
@@ -10134,7 +10134,7 @@
 			"1f442338-735d-4651-a186-e26bead00c9c",
 			"d8a09204-c4c6-4d31-bdcd-2c3e3d21bdd0"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ed794af6-553e-4974-ba41-4867c7abfcae",
 			"3f9a3203-620d-4c85-8e99-cbd045a6f9fa",
 			"1325fc6f-3ddd-4ab7-a25a-33031790209b",
@@ -10198,10 +10198,10 @@
 		"id": "941616c0-5ae2-4f2a-9e88-1ce1d14e7275",
 		"unreleased": true,
 		"title": "Verhoudingen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"3754034a-bbcb-40dd-9467-f6b17d13d043"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"28a6cfaf-850b-43b1-8804-497cfca0ec54",
 			"5019f250-0506-47a3-8b30-ea35357cf919",
 			"e63740bd-2eab-4a62-8292-24b6af229efa",
@@ -10213,13 +10213,13 @@
 		"id": "66f9ff8e-2bbf-4ab7-a7dd-3a13ac2100cf",
 		"unreleased": true,
 		"title": "Analyse",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"51eee607-d6d8-4f1c-973a-c7bdf9ed1343",
 			"4c48cdc2-8a28-46b2-bb3d-4cf9a906c980",
 			"58b9cb5b-ab21-48a9-a31b-8861daba189c",
 			"aa23c496-90af-4089-8db5-6c0def6267c6"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9ea792f9-dd03-4bea-b9db-091f8b09aff4",
 			"4e85b526-32f1-4c87-95d6-c24d983bf195",
 			"5e65cd05-4ee6-4c34-9726-4db8561e60d7",
@@ -10247,12 +10247,12 @@
 		"id": "421722e5-319f-49ff-b08c-5d0c81e17967",
 		"unreleased": true,
 		"title": "Getallen en variabelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"afebbf8e-705c-4821-ac84-d30ab1e4f9b7",
 			"c8966f85-825e-45f5-82f6-ef439903c943",
 			"90422e9d-ab01-4aa1-b771-8e69264f5ba9"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"96080b58-9e48-4b98-a8cb-c821b74fe03e",
 			"89231857-9ff2-4dd5-80b2-382ef9de2a23",
 			"3281d066-4c87-46f6-aa39-bc5d161e62c7"
@@ -10262,12 +10262,12 @@
 		"id": "ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
 		"unreleased": true,
 		"title": "Inzicht en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ab92fd97-3f2e-41fb-8bad-31fae117ac3e",
 			"871a9fee-80b8-4ebb-9d55-2d2ee0ef39c3",
 			"33e8219f-0510-4d35-9d82-126c47758d6d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dc9d9173-31ac-450a-a775-f187a29491ba",
 			"453b163f-6f18-41a2-be33-79d8e5a012c5",
 			"75abc117-3627-4852-a5e6-d57740afbe24",
@@ -10289,13 +10289,13 @@
 		"id": "86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
 		"unreleased": true,
 		"title": "Meten en meetkunde",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"5081b2e2-b054-4910-bace-d7d347259af2",
 			"a15abfe3-a839-490c-b96e-af6322963440",
 			"87ec7848-cf2a-4e49-ac9d-6524131cb991",
 			"b1fbc559-99c1-4d09-a2f7-ca428497331f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"6c40e23f-6d57-4d43-8d2c-b9820bab65e0",
 			"699c7a12-d22e-4ef6-b9ef-2834bc1447f8",
 			"71098cbb-a930-4679-9208-6a7a96af46ce",
@@ -10333,14 +10333,14 @@
 		"id": "88c79dcc-74cf-43fb-84ab-8711f63943ab",
 		"unreleased": true,
 		"title": "Verbanden en formules",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b2a411c3-4515-401d-9e53-d59f9fd353f3",
 			"0b1f9913-0423-4b49-a917-90fe026358b9",
 			"5139e5aa-b275-494b-8892-f50640762fc8",
 			"78bafd35-267c-455d-b539-a5c7958c5252",
 			"39f8d366-ffb4-4e40-9541-aebb322d538f"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"85db4ab4-6c02-4676-85f0-e3b2a5f53e0d",
 			"59406673-0ad4-4143-a59a-7078ad115867",
 			"daf0133e-19e4-47a7-b6eb-9e84572e58d8",
@@ -10392,10 +10392,10 @@
 		"id": "2f982e36-af2e-41b9-89cd-70d7c51ed92d",
 		"unreleased": true,
 		"title": "Analyse",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"b8c2ccbd-434d-43f3-8e71-abdc9d3bee4c"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"a67700f5-4064-4c28-b291-5163090aaa45",
 			"9756aced-73ee-469b-9da1-00ecc1a06eaa",
 			"5446bc63-48e2-4a00-ae9d-e106196cde70",
@@ -10410,13 +10410,13 @@
 		"id": "2421fcdf-4839-4d95-8c40-564f45388b60",
 		"unreleased": true,
 		"title": "Getallen en variabelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"dcad0eea-1e31-4c19-b9ab-3961c2045d88",
 			"9dd1d586-95f7-481f-aaab-2d12d39ccd09",
 			"1e126808-417a-4f1c-90cb-98a839121a4a",
 			"7ea9cdbb-d5c9-48ee-b9fd-f014ff9f53a8"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"96080b58-9e48-4b98-a8cb-c821b74fe03e",
 			"89231857-9ff2-4dd5-80b2-382ef9de2a23",
 			"3281d066-4c87-46f6-aa39-bc5d161e62c7",
@@ -10433,11 +10433,11 @@
 		"id": "ba6c0d53-c5fc-4447-b56f-970de78ebe4f",
 		"unreleased": true,
 		"title": "Informatieverwerking en onzekerheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"2fff73e1-8ae7-4114-8472-47500ba01ec8",
 			"8cacc29a-5129-49dc-b172-cf8172f3fb53"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"ae233c40-0d11-42cc-889a-043e1328bdf5",
 			"0f5b9132-c77b-4634-8586-af2c8111733c",
 			"1bb7f0eb-84a3-4cbe-8802-a5dd331add1f",
@@ -10450,12 +10450,12 @@
 		"id": "cadc8a72-981d-4009-a930-12685cb46f41",
 		"unreleased": true,
 		"title": "Inzicht en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"a4cbeeb4-3388-42e1-a23b-5f1fb05bf84a",
 			"2b48a161-fb50-4d1a-8b5e-6590faf74b61",
 			"b5968a10-90ef-4ec7-b6fd-530d7e51a71d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dc9d9173-31ac-450a-a775-f187a29491ba",
 			"75abc117-3627-4852-a5e6-d57740afbe24",
 			"c501e93d-4091-4dea-bc96-ec7f8bc2414e",
@@ -10478,10 +10478,10 @@
 		"id": "4fd04386-767b-4883-959f-abd5efe9f16d",
 		"unreleased": true,
 		"title": "Logisch redeneren",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"d67cb1ea-49a7-4713-91b7-0bc60696a398"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"baa6dab2-d3a0-4936-a996-4ad28025ef68",
 			"3855fab0-902b-4169-8e98-6578d6c517c1",
 			"731434ef-7b77-4548-91f5-81306e61ac7f",
@@ -10496,11 +10496,11 @@
 		"id": "23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
 		"unreleased": true,
 		"title": "Meten en meetkunde",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"0610bf05-4172-4414-aa69-78e3d4fa4277",
 			"0ae63859-e1c4-4210-8bf8-76be3ed59748"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"cb3c9e72-de72-4346-9cfe-7ac2830d0f25",
 			"739700ff-7553-4cd0-ad21-0713c559fc5e",
 			"a631d340-379e-44ab-81b2-96e28c65ec51",
@@ -10518,7 +10518,7 @@
 		"id": "b2b0a114-9e28-4769-9a14-1da57ef66793",
 		"unreleased": true,
 		"title": "Verbanden en formules",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"cd2c2c40-8a68-4a27-ac2e-b8e575c5c6ed",
 			"5b0cad12-99d9-4dac-8c3e-cb2858bd08d0",
 			"8149a803-7d14-4a5f-bf4e-a1ab75f4c9fb",
@@ -10526,7 +10526,7 @@
 			"8efc1e2d-f6b2-4242-ae91-8843d4e28282",
 			"cf815083-e43c-4f6e-87d8-6514079133ad"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"2c2eb908-e1ff-4a62-ba20-76b49e9a506c",
 			"daf0133e-19e4-47a7-b6eb-9e84572e58d8",
 			"2b95172c-fbe5-415a-89ec-2f70ab38f2aa",
@@ -10552,10 +10552,10 @@
 		"id": "9956fcbe-af76-41ce-a344-de3095487d66",
 		"unreleased": true,
 		"title": "Verhoudingen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"6f262d78-078e-4464-be86-123a9806820d"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"5019f250-0506-47a3-8b30-ea35357cf919",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
 		]
@@ -10564,10 +10564,10 @@
 		"id": "1a9f3564-1b85-4b99-ae7f-f815d0941cc9",
 		"unreleased": true,
 		"title": "Dynamische modellen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"66dbfc02-daec-42b8-93e0-b7c0e9160b35"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"7fe89d33-ed40-431a-a735-1c22890235c5",
 			"1a1edbfb-e718-4b39-9f9f-3c4dbe0283a0"
 		]
@@ -10576,10 +10576,10 @@
 		"id": "65ab22d5-6406-4b45-9d09-d26d2fa2e6e1",
 		"unreleased": true,
 		"title": "Getallen en variabelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"4bdd5632-ce85-4020-bcb7-2e7555f9ca91"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"dfda8007-731a-4fc5-9273-7831250da0e0",
 			"d7ac195e-71f1-4b05-a6a6-6e3a33dd842b"
 		]
@@ -10588,12 +10588,12 @@
 		"id": "86f51309-a590-4cd1-9cf2-737cd083a1a8",
 		"unreleased": true,
 		"title": "Informatieverwerking en onzekerheid",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"69503e3b-5aa7-41fc-a076-56b7a9782e81",
 			"4f93b5fd-ef04-40d6-8515-43898b75ed1d",
 			"c4c195d8-104c-4784-ba71-29b56d4073c1"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"95b20155-7cb2-4232-bf83-8dd45fea602f",
 			"d3756e56-8c75-4656-a386-bfa4c9500f1f",
 			"2ffc6b83-b939-4414-a8b2-b625af070aed",
@@ -10607,12 +10607,12 @@
 		"id": "25249ccb-5ecf-4f69-b830-17d277e5c3b2",
 		"unreleased": true,
 		"title": "Inzicht en handelen",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"ec37806f-f825-4e40-940a-c7c6e42083d8",
 			"f5887737-12b1-43db-bd4c-0986d0a41b22",
 			"e3052d6d-5bdb-4ca3-90a1-fa5a9f1752a7"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"523b6498-1b0d-4bc9-bcb7-4b4817492837",
 			"d52b10dd-fbda-4974-8cb3-6c17f97a5e0a",
 			"152f24d8-463c-4b54-ba41-bfcdd907fb72",
@@ -10623,12 +10623,12 @@
 		"id": "c5834a3e-ebdc-4821-b799-24caa6403bfd",
 		"unreleased": true,
 		"title": "Meten en meetkunde",
-		"vaksubkern_id": [
+		"lpib_vaksubkern_id": [
 			"398ea783-e38a-4875-bbe2-88bae285e478",
 			"7c577b83-c0e5-49d5-958a-dbbf3993702b",
 			"501b862f-6071-432c-8657-452bb8f988b3"
 		],
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"1b7c13d7-981a-4db1-9684-e9f42fdc175b",
 			"82ecdff5-df9f-4bc4-88c2-1a5fb6868d87",
 			"19066dd6-4fa9-4cf6-85fa-34af9500207e",
@@ -10718,7 +10718,7 @@
 		"id": "92403fee-f16f-40e2-96b5-bc8203598117",
 		"unreleased": true,
 		"title": "Module 1 Mens en gezondheid (1601)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
 			"78ed9eda-53f5-4de4-90ed-a59599823aad",
 			"8bb8ee2f-7aea-4c9b-ae7d-1f74f12e910e"
@@ -10728,7 +10728,7 @@
 		"id": "dd2d1dc1-1e5f-4b2f-9ab9-c299e41ecc65",
 		"unreleased": true,
 		"title": "Module 2 Mens en omgeving (1602)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"742d61c5-929c-4d4a-b598-ef2c1819112b",
 			"2bffa45f-8b9e-4979-b125-2b56e0bb4702",
 			"e4c2aeb3-839e-4df7-86aa-786ce8f96f4c",
@@ -10740,7 +10740,7 @@
 		"id": "35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
 		"unreleased": true,
 		"title": "Module 3 Mens en activiteit (1603)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4b34f4f6-60bd-4ac6-8ebb-8edb06073956",
 			"2beb1a8c-aa1b-41e1-b1f0-7001674bb21a",
 			"0d68f57c-d3b3-4b03-a01d-580a36f2b77c"
@@ -10750,7 +10750,7 @@
 		"id": "73d150de-58f2-40bc-96bd-d9e3ca07206d",
 		"unreleased": true,
 		"title": "Module 4 Mens en zorg (1604)",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"4389fed4-dd71-4f90-8fdf-773c66e4abe6",
 			"ba62af3a-fe58-4e75-995e-4f14fe327969",
 			"3720777c-6cfb-4c50-be3c-ee80b8c7b72b",
@@ -10762,7 +10762,7 @@
 		"id": "0a8b96f5-752c-4589-b9d1-a7a60ee8dba6",
 		"unreleased": true,
 		"title": "Professionele kennis en vaardigheden",
-		"vakinhoud_id": [
+		"lpib_vakinhoud_id": [
 			"9fe0765e-110f-4e8b-a6d0-48387ccb1f3e",
 			"7644dfe2-773b-4fcb-84e6-0a63b58265c5",
 			"95c975ce-88db-4312-9530-bbd374e996a7"
