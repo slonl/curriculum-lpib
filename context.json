@@ -1,7 +1,7 @@
 {
     "definitions": {
         "inhoud": {
-            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
             "properties": {
                 "description": {
                     "type": "string"
@@ -9,11 +9,11 @@
                 "doelniveau_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/doelniveau"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/doelniveau"
                             }
                         }
                     ]
@@ -26,7 +26,7 @@
                 "vak_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -37,10 +37,10 @@
                 },
                 "niveau_id": {
                     "allOf": [
-                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"},
                         {
                             "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
                             }
                         }
                     ]
@@ -48,11 +48,11 @@
                 "doelniveau_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/doelniveau"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/doelniveau"
                             }
                         }
                     ]
@@ -78,7 +78,7 @@
                 "vak_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -90,21 +90,21 @@
                 "doelniveau_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/doelniveau"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/doelniveau"
                             }
                         }
                     ]
 		},
                 "niveau_id": {
                     "allOf": [
-                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"},
                         {
                             "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
                             }
                         }
                     ]
@@ -127,10 +127,10 @@
                 },
                 "niveau_id": {
                     "allOf": [
-                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"},
                         {
                             "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
                             }
                         }
                     ]
@@ -153,7 +153,7 @@
                 "vaksubkern_id" : {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -165,7 +165,7 @@
                 "vakinhoud_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -200,7 +200,7 @@
                 "vakinhoud_id": {
                     "allOf": [
                         {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -249,25 +249,25 @@
         "allEntities" : {
             "properties" : {
                 "vak_id" : {
-                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
                         "itemTypeReference": "#/definitions/vak"
                     }
 		},
                 "vakkern_id" : {
-                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
                         "itemTypeReference": "#/definitions/vakkern"
                     }
 		},
                 "vaksubkern_id" : {
-                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
                         "itemTypeReference": "#/definitions/vaksubkern"
                     }
 		},
                 "vakinhoud_id" : {
-                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+                    "allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
                     "items": {
                         "itemTypeReference": "#/definitions/vakinhoud"
                     }
