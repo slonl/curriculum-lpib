@@ -23,14 +23,14 @@
         "lpib_vakkencluster": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
-                "vak_id": {
+                "vakleergebied_id": {
                     "allOf": [
                         {
                             "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "#/definitions/vak"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                             }
                         }
                     ]
@@ -75,14 +75,14 @@
         "lpib_leerlijn": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
-                "vak_id": {
+                "vakleergebied_id": {
                     "allOf": [
                         {
                             "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
-                                "itemTypeReference": "#/definitions/vak"
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                             }
                         }
                     ]
@@ -111,45 +111,21 @@
                 }
             }
         },
-        "vak": {
-            "allOf": [ { "$ref": "#/definitions/inhoud" } ],
-            "properties": {
-                "lpib_vakkern_id": {
-                    "type" : "array",
-                    "items": {
-                        "type": "string",
-                        "anyOf": [
-                            { "format": "uuid" },
-                            { "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
-                        ]
-                    },
-                    "uniqueItems": true
-                },
-                "niveau_id": {
-                    "allOf": [
-                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"},
-                        {
-                            "items": {
-                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
-                            }
-                        }
-                    ]
-                }
-            },
-            "not": {
-                "anyOf": [
-                    {
-                        "required": ["lpib_vaksubkern_id"]
-                    },
-                    {
-                        "required": ["lpib_vakinhoud_id"]
-                    }
-                ]
-            }
-        },
         "lpib_vakkern": {
             "allOf": [ { "$ref": "#/definitions/inhoud" } ],
             "properties": {
+                "vakleergebied_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
+                            }
+                        }
+                    ]
+                },
                 "lpib_vaksubkern_id" : {
                     "allOf": [
                         {
@@ -177,13 +153,13 @@
             },
             "anyOf": [
                 {
-                    "required": ["lpib_vaksubkern_id"]
+                    "required": ["vakleergebied_id","lpib_vaksubkern_id"]
                 },
                 {
-                    "required": ["lpib_vakinhoud_id"]
+                    "required": ["vakleergebied_id","lpib_vakinhoud_id"]
                 },
                 {
-                    "required": ["doelniveau_id"]
+                    "required": ["vakleergebied_id","doelniveau_id"]
                 }
             ],
             "not": {
@@ -293,13 +269,6 @@
                 "$ref": "#/definitions/lpib_leerlijn"
             }
         },
-        "vak": {
-            "#file": "data/vakken.json",
-            "type": "array",
-            "items": {
-                "$ref": "#/definitions/vak"
-            }
-        },
         "lpib_vakkern": {
             "#file": "data/lpib_vakkernen.json",
             "type": "array",
@@ -326,5 +295,5 @@
             "type": "array"
         }
     },
-    "required": ["vak","lpib_vakkern","lpib_vaksubkern","lpib_vakinhoud"]
+    "required": ["lpib_vakkern","lpib_vaksubkern","lpib_vakinhoud"]
 }
