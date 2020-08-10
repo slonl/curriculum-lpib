@@ -799,13 +799,25 @@
 		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
 		"unreleased": true,
 		"sloID": "23",
-		"title": "Lichamelijke opvoeding 1"
+		"title": "Lichamelijke opvoeding 1",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
 		"unreleased": true,
 		"sloID": "24",
-		"title": "Lichamelijke opvoeding 2"
+		"title": "Lichamelijke opvoeding 2",
+		"description": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"id": "b4459aa1-0dbb-409d-a675-8ca914234028",
@@ -1265,6 +1277,15 @@
 		"title": "Technologie",
 		"vakkern_id": [
 			"9e95f81f-f65b-45a4-bb4c-83e619d04522"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
@@ -1433,13 +1454,19 @@
 			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
 		],
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vak"
+		]
 	},
 	{
 		"id": "1f73da5d-4118-4330-9e3d-597693bd8e10",
 		"title": "Leren leren",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vak"
+		]
 	},
 	{
 		"id": "bc35dcbf-82a2-498f-9836-75c30bd85264",
@@ -1461,6 +1488,9 @@
 		],
 		"title": "Praktische redzaamheid",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"vak"
+		]
 	}
 ]
