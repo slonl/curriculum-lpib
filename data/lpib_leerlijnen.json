@@ -7,9 +7,6 @@
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"26eb622d-6239-4f26-bdef-0c9662891285"
-		],
 		"doelniveau_id": [
 			"fdf46b0d-ba4b-4e50-82d3-6eeff87fb358",
 			"ef960026-8e23-44da-93ca-ff1d92e8e58a",
@@ -101,6 +98,9 @@
 			"1823fdc4-90d6-4aca-98bf-c85b3fe8d6c0",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
+		],
+		"lpib_vakleergebied_id": [
+			"6ad34967-3e38-4874-96d3-056f3c0768e2"
 		]
 	},
 	{
@@ -110,9 +110,6 @@
 		"title": "Bouwen, Wonen en Interieur Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"26eb622d-6239-4f26-bdef-0c9662891285"
 		],
 		"lpib_vakinhoud_id": [
 			"8c8cb720-342c-4f38-bc00-9bcaab5891da",
@@ -128,6 +125,9 @@
 			"e5c8db85-9edb-4fb0-8dca-0fd12ae29176",
 			"b744891e-b2b7-462e-aee8-4482e2023d99",
 			"a9315ada-6ce5-4c86-ae5e-448c009638e1"
+		],
+		"lpib_vakleergebied_id": [
+			"6ad34967-3e38-4874-96d3-056f3c0768e2"
 		]
 	},
 	{
@@ -144,9 +144,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"c0f3b769-606e-488a-aeb1-405bf46df24a"
 		],
 		"doelniveau_id": [
 			"8751e537-8eb8-4a2f-9df8-c4b620ccf4a5",
@@ -740,6 +737,9 @@
 			"abf976e5-a22d-4305-a2dc-e83f760ae608",
 			"0f391900-65f8-4549-b0ba-ce2da58e791d",
 			"6d722254-eab8-4ec0-be1b-e146682ea44b"
+		],
+		"lpib_vakleergebied_id": [
+			"1763e965-8440-4fde-beda-3222c55b83e6"
 		]
 	},
 	{
@@ -760,9 +760,6 @@
 			"35ca5594-679e-4c7b-a178-88322dce8971",
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"vakleergebied_id": [
-			"c0f3b769-606e-488a-aeb1-405bf46df24a"
 		],
 		"doelniveau_id": [
 			"5d68a2f8-699a-4baf-ab02-a52f4ce65ed6",
@@ -1139,7 +1136,10 @@
 		],
 		"description": "",
 		"lpib_vakinhoud_id": [],
-		"dirty": 0
+		"dirty": 0,
+		"lpib_vakleergebied_id": [
+			"1763e965-8440-4fde-beda-3222c55b83e6"
+		]
 	},
 	{
 		"id": "518d9f08-b00b-4382-badd-8f4b1bacf360",
@@ -1152,9 +1152,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
 		"lpib_vakinhoud_id": [
 			"e4f99f05-edfb-4fba-8757-74b0bbabfecc",
@@ -1263,6 +1260,9 @@
 			"cde034e6-7254-4dcc-ba00-cdb574e59dc6",
 			"545ea41d-ea4e-46d1-a8dc-adb718c94a49",
 			"2289a322-4fc1-46d7-acb2-fd1edfca92ff"
+		],
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1277,9 +1277,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
 		"lpib_vakinhoud_id": [
 			"5a77fa7c-c33f-4934-9c3e-5ef5450c7a40",
@@ -1395,6 +1392,9 @@
 			"49a302f4-4e1b-42d5-8ef6-e363c9bea816",
 			"453964d7-7594-4593-9038-9e9fe89ec6b4",
 			"e3a3262f-6610-4a38-b5cc-a2f514f8874a"
+		],
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1408,9 +1408,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
 		"lpib_vakinhoud_id": [
 			"7353c12f-090b-446e-afcb-bf63bdff0e13",
@@ -1484,6 +1481,9 @@
 			"af295e99-5203-4763-923d-581d0a336405",
 			"f79a9905-a459-481b-8a45-b8ec4d46cd9c",
 			"072d0992-a574-4707-8055-e9f8cdd92def"
+		],
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1498,9 +1498,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
 		"lpib_vakinhoud_id": [
 			"7353c12f-090b-446e-afcb-bf63bdff0e13",
@@ -1582,6 +1579,9 @@
 			"4e84fdc5-1eb2-43f6-bc5c-e20407013216",
 			"d555589f-969e-4f23-87dc-ed8a24635d67",
 			"d4159dd9-47bd-492b-9302-198f825486aa"
+		],
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1595,9 +1595,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
 		"lpib_vakinhoud_id": [
 			"5a77fa7c-c33f-4934-9c3e-5ef5450c7a40",
@@ -1731,6 +1728,9 @@
 			"49a302f4-4e1b-42d5-8ef6-e363c9bea816",
 			"453964d7-7594-4593-9038-9e9fe89ec6b4",
 			"e3a3262f-6610-4a38-b5cc-a2f514f8874a"
+		],
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1743,8 +1743,8 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1761,8 +1761,8 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+		"lpib_vakleergebied_id": [
+			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
 		]
 	},
 	{
@@ -1775,9 +1775,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"182462b2-662f-42e5-8464-f9075afee3ba"
-		],
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"8de1c77f-d703-409f-a431-6764cd414353",
@@ -1785,6 +1782,9 @@
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
 			"0bfdf80b-1789-4af4-b707-7b643864e195"
+		],
+		"lpib_vakleergebied_id": [
+			"b94b2c9d-946d-4515-9caa-b88a3af16b3a"
 		]
 	},
 	{
@@ -1795,9 +1795,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
 		],
 		"doelniveau_id": [
 			"1192aa88-9c24-4aae-af64-cc1c80497aaf",
@@ -1816,6 +1813,9 @@
 			"88da1ea4-962b-4bbc-9fed-3311a0f8f746",
 			"2e75c944-5ad6-4820-9320-c865b51644f9",
 			"47f099c4-4a90-4c09-ab6f-4b112af3ca38"
+		],
+		"lpib_vakleergebied_id": [
+			"a3979073-dd21-45d8-9088-7959474d3c4d"
 		]
 	},
 	{
@@ -1830,12 +1830,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"f7bbb238-929b-4f7e-b147-3b082baf2ddc",
-			"53b729cd-f9de-4de2-822b-8736225e9406",
-			"efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
-			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
 		],
 		"doelniveau_id": [
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
@@ -1926,6 +1920,12 @@
 			"83bcb3e6-9c0a-4f72-8656-01145c9843c2",
 			"44725cba-4810-4599-9d77-ecd2ee0909fd",
 			"1b195d0b-5b37-4d49-adb2-d308a99df5cf"
+		],
+		"lpib_vakleergebied_id": [
+			"2cc1c916-2811-480e-a7c6-4c69c4093225",
+			"dff26edc-4524-4df2-9271-18b295f67901",
+			"96f3f3c0-4d2d-4a69-99c9-d8a3edb9731b",
+			"d74ae12b-3b96-40bd-826f-749bd6f04c7c"
 		]
 	},
 	{
@@ -1939,12 +1939,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"f7bbb238-929b-4f7e-b147-3b082baf2ddc",
-			"18361045-bd2b-4c50-9267-cd24dc3498bb",
-			"4c78ac37-1937-4cc4-86e4-aa3192ef44db",
-			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
 		],
 		"lpib_vakinhoud_id": [
 			"45deb274-a231-4710-9cc9-3c53d4fa810b",
@@ -2008,6 +2002,12 @@
 		"doelniveau_id": [
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"7fa10ff9-6643-4808-ac63-bc3339289877"
+		],
+		"lpib_vakleergebied_id": [
+			"2cc1c916-2811-480e-a7c6-4c69c4093225",
+			"c341c43a-2036-4b9d-ba56-9cae6a1db29f",
+			"5ac1b1cc-fb64-4fc0-9dc6-aaebaa8dfd57",
+			"d74ae12b-3b96-40bd-826f-749bd6f04c7c"
 		]
 	},
 	{
@@ -2022,9 +2022,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
 		"doelniveau_id": [
 			"a1644103-acc6-47a9-9f25-a3148f6c511a",
@@ -2178,6 +2175,9 @@
 			"490a574e-0a0d-4056-a50a-9f881f3a04a3",
 			"cbc309f6-ae25-41dd-8448-d0532ac167f6",
 			"35b39438-212d-4553-b963-f7e273aecf66"
+		],
+		"lpib_vakleergebied_id": [
+			"a2ce2c2e-e29a-48a7-9dcf-ed5ce762e023"
 		]
 	},
 	{
@@ -2191,9 +2191,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
 		"lpib_vakinhoud_id": [
 			"f9ac3242-37d2-467a-a74a-c4e1c4a9fe62",
@@ -2348,6 +2345,9 @@
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"efa28d74-40de-4b16-be6e-0ea961b03eb0",
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b"
+		],
+		"lpib_vakleergebied_id": [
+			"a2ce2c2e-e29a-48a7-9dcf-ed5ce762e023"
 		]
 	},
 	{
@@ -2362,9 +2362,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
 		"lpib_vakinhoud_id": [
 			"7f51879a-d9e3-4b50-be27-d019114349b1",
@@ -2466,6 +2463,9 @@
 			"ba046298-d5ed-450c-8d9d-9d4ffc52f797",
 			"7873d436-213d-4efd-94f8-a9e345285cfa",
 			"009f601a-1bc0-45bb-9038-affa4fc76143"
+		],
+		"lpib_vakleergebied_id": [
+			"a2ce2c2e-e29a-48a7-9dcf-ed5ce762e023"
 		]
 	},
 	{
@@ -2479,9 +2479,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
@@ -2554,6 +2551,9 @@
 			"0e26672d-45c3-42d1-8a0f-bf4e0ab7a92d",
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707"
+		],
+		"lpib_vakleergebied_id": [
+			"a2ce2c2e-e29a-48a7-9dcf-ed5ce762e023"
 		]
 	},
 	{
@@ -2566,11 +2566,11 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"vakleergebied_id": [
-			"7316c15e-d1d1-4d73-b4df-94b46b04aadd"
-		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"95b8e1b8-8d12-41f9-93a8-d4d31da51d8f"
 		]
 	},
 	{
@@ -2583,9 +2583,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"a70b035e-2c79-4b7d-81de-03678354cdc1"
-		],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
@@ -2594,6 +2591,9 @@
 			"72d564db-fdad-45fc-8fab-cf5d8fa4dcd9",
 			"20a17506-aae2-4283-85f4-97aaa2ded8d8",
 			"fbdded49-eb39-4a41-953e-d16369cca67e"
+		],
+		"lpib_vakleergebied_id": [
+			"fb3b2b6e-0e9b-4faa-b3da-f582782ba0fd"
 		]
 	},
 	{
@@ -2606,9 +2606,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"a70b035e-2c79-4b7d-81de-03678354cdc1"
-		],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
@@ -2616,6 +2613,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"fb3b2b6e-0e9b-4faa-b3da-f582782ba0fd"
 		]
 	},
 	{
@@ -2625,9 +2625,6 @@
 		"title": "Dienstverlening en Producten Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
 		],
 		"doelniveau_id": [
 			"336bccb4-d4d8-4c43-8297-46765741de47",
@@ -2714,6 +2711,9 @@
 			"7d3227c4-a1d5-4b34-9e77-b54566c9ff6b",
 			"955cf8d8-c4a7-4c27-a4c3-dfb6bfb57698",
 			"59b35693-f0a8-45e4-93b4-5bbef0f2a913"
+		],
+		"lpib_vakleergebied_id": [
+			"ec633340-0dba-4fcf-99d4-c0c123c994f6"
 		]
 	},
 	{
@@ -2723,9 +2723,6 @@
 		"title": "Dienstverlening en Producten Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
 		],
 		"lpib_vakinhoud_id": [
 			"4979c1d7-8e74-42c9-8b15-d4ef1a447099",
@@ -2741,6 +2738,9 @@
 			"e99187ce-d8b4-45a5-8d08-0a825ced67c4",
 			"6d6c7d42-6cce-48bf-a58a-d553e9820772",
 			"74d19c86-384c-4146-9858-72c0d19042d5"
+		],
+		"lpib_vakleergebied_id": [
+			"ec633340-0dba-4fcf-99d4-c0c123c994f6"
 		]
 	},
 	{
@@ -2753,9 +2753,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
 		],
 		"doelniveau_id": [
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
@@ -2774,6 +2771,9 @@
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
+		],
+		"lpib_vakleergebied_id": [
+			"249d5e0c-2f28-440a-bf18-c95a09727da1"
 		]
 	},
 	{
@@ -2786,13 +2786,13 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
-		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"249d5e0c-2f28-440a-bf18-c95a09727da1"
+		]
 	},
 	{
 		"id": "ea7af122-1ba6-4234-aa24-f9b516c9a409",
@@ -2804,9 +2804,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
 		],
 		"lpib_vakinhoud_id": [
 			"5f89632c-adfb-4ed1-bbb3-119ef202a142",
@@ -2902,6 +2899,9 @@
 			"a3dc3c50-4ef2-45b0-b06f-c061c82e1968",
 			"97595953-ed65-4157-b030-e95a93821cbd",
 			"bbdd8ee5-55d7-4b0f-a20c-435cd65f1225"
+		],
+		"lpib_vakleergebied_id": [
+			"4c4f6284-e885-4a3c-8ef7-dd6299e16327"
 		]
 	},
 	{
@@ -2913,9 +2913,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
 		],
 		"lpib_vakinhoud_id": [
 			"615b675b-d080-4fd9-afb6-86d99950f030",
@@ -3066,6 +3063,9 @@
 			"a761b345-f315-450a-a0d3-e3f9baa07e61",
 			"980961ee-ed05-41f3-8a33-1a01d0627181",
 			"2290daea-a710-4fea-9090-2d5364554e91"
+		],
+		"lpib_vakleergebied_id": [
+			"4c4f6284-e885-4a3c-8ef7-dd6299e16327"
 		]
 	},
 	{
@@ -3079,10 +3079,10 @@
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"vakleergebied_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
-		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"4c4f6284-e885-4a3c-8ef7-dd6299e16327"
+		]
 	},
 	{
 		"id": "25217960-a5c7-4494-be51-160771c24223",
@@ -3091,9 +3091,6 @@
 		"title": "Economie en Ondernemen Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"18126dde-b79b-4231-826d-b902a6fa70db"
 		],
 		"doelniveau_id": [
 			"13035291-99aa-4508-96c4-d8fb3564f7ed",
@@ -3177,6 +3174,9 @@
 			"d0b30207-6799-4fdc-93b0-a0a4b7f37302",
 			"d313d395-499d-44ad-8b80-5023f1ea037e",
 			"b07e19a0-18ed-422d-acfe-3574988ff0ca"
+		],
+		"lpib_vakleergebied_id": [
+			"e3761f11-f1ee-452f-a21a-7753de213f76"
 		]
 	},
 	{
@@ -3186,9 +3186,6 @@
 		"title": "Economie en Ondernemen Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"18126dde-b79b-4231-826d-b902a6fa70db"
 		],
 		"lpib_vakinhoud_id": [
 			"d2e97444-c6d7-4cb4-b153-0d9f3708cf4d",
@@ -3200,6 +3197,9 @@
 			"b6f076ee-0001-40e0-9ef7-63cf6fc105ac",
 			"e34550fd-52fc-45cf-acd2-8df46e1714aa",
 			"23cb1887-1141-4ab3-bba0-3c4fbf0ba4d0"
+		],
+		"lpib_vakleergebied_id": [
+			"e3761f11-f1ee-452f-a21a-7753de213f76"
 		]
 	},
 	{
@@ -3215,14 +3215,14 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"vakleergebied_id": [
-			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
-		],
 		"lpib_vakinhoud_id": [
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c"
+		],
+		"lpib_vakleergebied_id": [
+			"ec4fa62d-9a01-484c-bc3a-d364ffd40a23"
 		]
 	},
 	{
@@ -3236,9 +3236,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		],
 		"doelniveau_id": [
 			"db04fca7-8e9e-429f-b0f4-16f86e5a668a",
@@ -3271,6 +3268,9 @@
 			"8085a148-b7b3-46cf-a3ab-156982672c1e",
 			"7fe8d5b6-bb89-433e-8a84-fe4722554025",
 			"f9f4345a-39bf-480a-a482-097cd426c9f3"
+		],
+		"lpib_vakleergebied_id": [
+			"ec4fa62d-9a01-484c-bc3a-d364ffd40a23"
 		]
 	},
 	{
@@ -3284,9 +3284,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		],
 		"doelniveau_id": [
 			"0523976c-9cfe-46da-979a-bd237a78a094",
@@ -3309,6 +3306,9 @@
 			"596a8c24-6b87-46da-a60e-bf60198436ee",
 			"f722bb0b-f38f-4e2a-a808-45a0cae51d5f",
 			"b7582b08-ae8f-4f00-b56d-9b22ec40b348"
+		],
+		"lpib_vakleergebied_id": [
+			"ec4fa62d-9a01-484c-bc3a-d364ffd40a23"
 		]
 	},
 	{
@@ -3320,9 +3320,6 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
 		],
-		"vakleergebied_id": [
-			"15292864-cba8-4af5-90ef-da51cb2d22e1"
-		],
 		"doelniveau_id": [
 			"be1baadd-635b-4a33-94a0-4cbd8ea8829b",
 			"a80c2e1d-f7ea-44bc-b459-27593c015b8d",
@@ -3333,6 +3330,9 @@
 			"bd5c422b-e6de-4b79-bd67-54bfd8c22127",
 			"39aea961-685a-46df-970c-b84338895eaf",
 			"9b7505d0-84f5-4256-8566-df3b6239be45"
+		],
+		"lpib_vakleergebied_id": [
+			"d14648d4-9488-4fe7-b9e8-078b914ebf48"
 		]
 	},
 	{
@@ -3344,9 +3344,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"f851676e-b541-42db-986a-5c468974f65e"
 		],
 		"doelniveau_id": [
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
@@ -3365,6 +3362,9 @@
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
+		],
+		"lpib_vakleergebied_id": [
+			"c2f18e01-a9a7-4829-a5c2-563c56ba23c8"
 		]
 	},
 	{
@@ -3377,13 +3377,13 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"f851676e-b541-42db-986a-5c468974f65e"
-		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"c2f18e01-a9a7-4829-a5c2-563c56ba23c8"
+		]
 	},
 	{
 		"id": "d11dea16-9873-4742-9d89-a409bbedbb95",
@@ -3394,9 +3394,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"58fe0010-9685-4dae-ba70-2e47d94ad844"
 		],
 		"doelniveau_id": [
 			"ee1d16fb-5cff-448f-a119-67c32dc4f91a",
@@ -3460,6 +3457,9 @@
 			"07c6c78a-f358-49a2-b219-4a6152da6b3a",
 			"94a9bcde-b806-4f77-896c-ce6fb0c1bcdd",
 			"df212f7a-c253-4220-8a9e-d037a184c905"
+		],
+		"lpib_vakleergebied_id": [
+			"afb665a5-0c3c-4785-b12f-42656185fd4d"
 		]
 	},
 	{
@@ -3471,9 +3471,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"58fe0010-9685-4dae-ba70-2e47d94ad844"
 		],
 		"doelniveau_id": [
 			"bc022ab1-c007-4973-8ae1-5c23f302bef7",
@@ -3497,6 +3494,9 @@
 			"9cc24c26-df4a-4aba-9257-53834b1e6216",
 			"ed4e1892-c244-46b9-9b82-ca802eeca095",
 			"7da8e318-f07b-4796-a226-aed4986fabe1"
+		],
+		"lpib_vakleergebied_id": [
+			"afb665a5-0c3c-4785-b12f-42656185fd4d"
 		]
 	},
 	{
@@ -3511,9 +3511,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
 		"lpib_vakinhoud_id": [
 			"c3c84000-49ca-4645-93b7-6e29d1773760",
@@ -3667,6 +3664,9 @@
 			"59637327-3526-4c14-bfe6-d32e237345d6",
 			"a922554b-4370-43da-ba3e-e51aba4eece6",
 			"553af5a5-f874-4486-864d-32ce11424707"
+		],
+		"lpib_vakleergebied_id": [
+			"c69669c8-a470-4d17-84bb-eabead4a1960"
 		]
 	},
 	{
@@ -3680,9 +3680,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
 		"lpib_vakinhoud_id": [
 			"9080973c-b399-4379-b657-c9be44915a70",
@@ -3846,6 +3843,9 @@
 			"931a9148-bc6f-486e-871e-862044125097",
 			"e89cdf6e-2356-4b6f-aaca-bbfe1aaf1915",
 			"5e2c24e1-c962-4d83-a741-69c8dca4a50f"
+		],
+		"lpib_vakleergebied_id": [
+			"c69669c8-a470-4d17-84bb-eabead4a1960"
 		]
 	},
 	{
@@ -3857,9 +3857,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
 		"lpib_vakinhoud_id": [
 			"740e0d58-1cdb-436e-877f-1d4eed0b4ebd",
@@ -3878,6 +3875,9 @@
 			"20242c65-8efd-474d-ac1b-227a6547d392",
 			"1cd086e4-7cf9-43d8-8c47-97bfd6f0ca66",
 			"a253a716-d2fb-461b-a15e-9432282cd254"
+		],
+		"lpib_vakleergebied_id": [
+			"c69669c8-a470-4d17-84bb-eabead4a1960"
 		]
 	},
 	{
@@ -3888,9 +3888,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"797f5fdf-8e35-43e9-b290-772c84f1761e"
 		],
 		"lpib_vakinhoud_id": [
 			"58184ebe-796b-4893-8d73-adb2b66c3761",
@@ -3921,6 +3918,9 @@
 			"8be4f780-b286-4cbe-aca4-3caea3a6e5f3",
 			"7408c4fa-ba71-46a8-86f3-35abec2c57e0",
 			"433a6e9e-3009-4cc3-b448-4e1e157dd506"
+		],
+		"lpib_vakleergebied_id": [
+			"a2abf291-3356-4d0c-9038-fdbd7a084283"
 		]
 	},
 	{
@@ -3931,9 +3931,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"797f5fdf-8e35-43e9-b290-772c84f1761e"
 		],
 		"lpib_vakinhoud_id": [
 			"d6ebfee9-788a-45db-8097-d6439145bc16",
@@ -3971,6 +3968,9 @@
 			"e6dc52a4-d101-4f22-8a55-c7f001ddf604",
 			"88b4b40b-fc3a-4615-81e5-cd39821dd0d5",
 			"099fe1ab-b28a-4091-932a-ac4b5e71b981"
+		],
+		"lpib_vakleergebied_id": [
+			"a2abf291-3356-4d0c-9038-fdbd7a084283"
 		]
 	},
 	{
@@ -3980,9 +3980,6 @@
 		"title": "Groen Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
 		],
 		"doelniveau_id": [
 			"8029706b-6a59-4efb-8f33-b1a22666239e",
@@ -4078,6 +4075,9 @@
 			"b269afb9-0e14-4267-880e-4b6eb0ee431f",
 			"f4c1e426-7303-413d-b6e4-90875cfd4dc2",
 			"c3a1ddeb-5fa0-418f-9358-9fea5d72be7a"
+		],
+		"lpib_vakleergebied_id": [
+			"8cc2a8ce-e65b-42e6-8235-1a64cdc985d9"
 		]
 	},
 	{
@@ -4087,9 +4087,6 @@
 		"title": "Groen Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
 		],
 		"lpib_vakinhoud_id": [
 			"fef14f9b-e581-4fb9-8c7b-f18a903e281b",
@@ -4105,6 +4102,9 @@
 			"df634203-7b91-4874-9849-3cfc80f2cd47",
 			"7e5baa05-ceaf-48f2-b951-ef1e8b0cd353",
 			"ce772fee-ed5d-4282-939f-acdc1f7d7c98"
+		],
+		"lpib_vakleergebied_id": [
+			"8cc2a8ce-e65b-42e6-8235-1a64cdc985d9"
 		]
 	},
 	{
@@ -4114,9 +4114,6 @@
 		"title": "Horeca, Bakkerij en Recreatie Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"430c341c-d861-4076-bbce-b8adcda81555"
 		],
 		"doelniveau_id": [
 			"7937d884-9fa0-4b7d-83b5-3cc9112c9b53",
@@ -4212,6 +4209,9 @@
 			"6b4b3185-0023-4e38-a1eb-bcbdbaa07daf",
 			"b3b4eb9e-aa8e-4f56-9394-1cbc03e8f60e",
 			"1ba3840c-b9b2-4889-8c92-cc8a13825fe3"
+		],
+		"lpib_vakleergebied_id": [
+			"a7434c32-3466-49d5-b24e-480780f52fec"
 		]
 	},
 	{
@@ -4221,9 +4221,6 @@
 		"title": "Horeca, Bakkerij en Recreatie Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"430c341c-d861-4076-bbce-b8adcda81555"
 		],
 		"lpib_vakinhoud_id": [
 			"e58f53d2-037d-489f-81f2-b4a0be9a59f1",
@@ -4235,6 +4232,9 @@
 			"18939798-18d2-457e-9f0c-3dd65c8f2d3e",
 			"5fa59fc9-e961-43a2-a86e-4cd189217273",
 			"4126fa11-6f91-4a49-a78e-a0899fa3f340"
+		],
+		"lpib_vakleergebied_id": [
+			"a7434c32-3466-49d5-b24e-480780f52fec"
 		]
 	},
 	{
@@ -4247,8 +4247,8 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"21e34b16-1187-4ebb-967e-ae309993cb58"
+		"lpib_vakleergebied_id": [
+			"1ed37a3a-e556-47aa-a6a5-da85e6cc0c1f"
 		]
 	},
 	{
@@ -4261,8 +4261,8 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
 		],
-		"vakleergebied_id": [
-			"21e34b16-1187-4ebb-967e-ae309993cb58"
+		"lpib_vakleergebied_id": [
+			"1ed37a3a-e556-47aa-a6a5-da85e6cc0c1f"
 		]
 	},
 	{
@@ -4277,9 +4277,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"vakleergebied_id": [
-			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
-		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
 		],
@@ -4287,6 +4284,9 @@
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
 			"3ba00477-6186-4b1b-a853-665e609f584c"
+		],
+		"lpib_vakleergebied_id": [
+			"ee24c9f9-3d0c-4d85-b184-add3c5c6323f"
 		]
 	},
 	{
@@ -4301,9 +4301,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
 		],
 		"doelniveau_id": [
 			"b9db9b43-5e09-4fd4-be40-440311a8f3f5",
@@ -4364,6 +4361,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"ee24c9f9-3d0c-4d85-b184-add3c5c6323f"
 		]
 	},
 	{
@@ -4376,9 +4376,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
-		],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
@@ -4387,6 +4384,9 @@
 			"7cbf5fca-8ea9-4d32-b01a-d3c3f6c04be2",
 			"3ba00477-6186-4b1b-a853-665e609f584c",
 			"401a5575-ff94-4403-a4c7-add30cc6f96d"
+		],
+		"lpib_vakleergebied_id": [
+			"dd73e94c-0b3c-42ab-bbc4-a7bd01c18780"
 		]
 	},
 	{
@@ -4399,13 +4399,13 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
-		],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
 			"3ba00477-6186-4b1b-a853-665e609f584c"
+		],
+		"lpib_vakleergebied_id": [
+			"dd73e94c-0b3c-42ab-bbc4-a7bd01c18780"
 		]
 	},
 	{
@@ -4420,9 +4420,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
 		],
 		"doelniveau_id": [
 			"dc700483-4fc2-4bc9-8060-1d900a818abe",
@@ -4442,6 +4439,9 @@
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68",
 			"3b33f09a-a276-46c9-8ae2-faaab73a8405"
+		],
+		"lpib_vakleergebied_id": [
+			"2c2377de-c07f-4dd9-a3ec-364368c7c8e7"
 		]
 	},
 	{
@@ -4456,12 +4456,12 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"vakleergebied_id": [
-			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
-		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"2c2377de-c07f-4dd9-a3ec-364368c7c8e7"
 		]
 	},
 	{
@@ -4476,9 +4476,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
 		],
 		"doelniveau_id": [
 			"c3f1dd1e-3da6-44a7-bab1-551221e681c0",
@@ -4498,6 +4495,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"45a9564b-fddc-4200-9bbd-dc7cfda4e363"
 		]
 	},
 	{
@@ -4512,12 +4512,12 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
-		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"45a9564b-fddc-4200-9bbd-dc7cfda4e363"
 		]
 	},
 	{
@@ -4532,9 +4532,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
 		],
 		"doelniveau_id": [
 			"bc297148-10c0-4b6a-9014-cb7c8594b7ad",
@@ -4556,6 +4553,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"157429dd-c878-4e09-98e0-2cf065f0eeec"
 		]
 	},
 	{
@@ -4570,9 +4570,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"vakleergebied_id": [
-			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
-		],
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e",
@@ -4580,6 +4577,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"157429dd-c878-4e09-98e0-2cf065f0eeec"
 		]
 	},
 	{
@@ -4594,9 +4594,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"aa9da88c-189f-4857-b067-7cbdc929c905"
 		],
 		"doelniveau_id": [
 			"a4e012cc-ae38-4ace-b10b-575fe9c92550",
@@ -4616,6 +4613,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"7851c80b-a4e5-45ef-bf22-98e5d43e9312"
 		]
 	},
 	{
@@ -4632,12 +4632,12 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"vakleergebied_id": [
-			"aa9da88c-189f-4857-b067-7cbdc929c905"
-		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
+		],
+		"lpib_vakleergebied_id": [
+			"7851c80b-a4e5-45ef-bf22-98e5d43e9312"
 		]
 	},
 	{
@@ -4648,9 +4648,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
 		],
 		"lpib_vakinhoud_id": [
 			"65d2107c-2f41-4bd1-854c-adfec12d7efd",
@@ -4687,6 +4684,9 @@
 			"6567dbee-d7b3-4355-b1e4-e98d681d8014",
 			"433a6e9e-3009-4cc3-b448-4e1e157dd506",
 			"02d80e97-e69f-4e48-bec8-abd777dc9ab5"
+		],
+		"lpib_vakleergebied_id": [
+			"b3460333-e7de-4c58-b20b-ed33ca54a0a7"
 		]
 	},
 	{
@@ -4697,9 +4697,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
 		],
 		"lpib_vakinhoud_id": [
 			"cf63d386-7c45-4da2-b99d-eb20d780f2ea",
@@ -4752,6 +4749,9 @@
 			"31ec8574-9108-41f7-aa9c-be5bdd80f791",
 			"099fe1ab-b28a-4091-932a-ac4b5e71b981",
 			"623d0ba8-052a-454b-ba56-0d6d4ff09491"
+		],
+		"lpib_vakleergebied_id": [
+			"b3460333-e7de-4c58-b20b-ed33ca54a0a7"
 		]
 	},
 	{
@@ -4763,9 +4763,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"b4459aa1-0dbb-409d-a675-8ca914234028"
 		],
 		"doelniveau_id": [
 			"714bd234-e7c9-485c-bdb2-da9722be4e6c",
@@ -4782,6 +4779,9 @@
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"637e9b8d-ac19-4230-92ed-11bc769b0a15"
+		],
+		"lpib_vakleergebied_id": [
+			"47c8d264-6aee-4a60-b6ae-ed95c0933fe1"
 		]
 	},
 	{
@@ -4793,9 +4793,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"ef5159b3-ead9-4a86-9324-e80cd867856c"
 		],
 		"doelniveau_id": [
 			"a99a8f98-69e3-47bb-8785-a13037cacc8a",
@@ -4811,6 +4808,9 @@
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"cb5e9eb2-154d-4bd2-a4fc-36c2f19983a4"
+		],
+		"lpib_vakleergebied_id": [
+			"15850849-4647-480e-9709-a06a107af07a"
 		]
 	},
 	{
@@ -4822,10 +4822,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"c960fcb7-2c47-4822-88a3-68822f031c40",
-			"ef5159b3-ead9-4a86-9324-e80cd867856c"
 		],
 		"doelniveau_id": [
 			"dfde8138-1629-4202-b99c-6b4b3cc68cd2",
@@ -4844,6 +4840,10 @@
 			"fc6210d9-ffde-4163-8f74-f878b7523d84",
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
+		],
+		"lpib_vakleergebied_id": [
+			"7f1bc1d9-7911-476a-8e78-04a99cbd7a38",
+			"15850849-4647-480e-9709-a06a107af07a"
 		]
 	},
 	{
@@ -4855,9 +4855,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
 		],
 		"doelniveau_id": [
 			"d10189b4-3c52-41f8-8082-dc52585022a4",
@@ -4876,6 +4873,9 @@
 			"9154d638-6a27-4897-91f8-f3f122cfa6b5",
 			"04301b0a-e321-4cc5-a19a-d6584bb8866e",
 			"8de1c77f-d703-409f-a431-6764cd414353"
+		],
+		"lpib_vakleergebied_id": [
+			"eef6271f-a957-4136-8b32-07c5b658da53"
 		]
 	},
 	{
@@ -4887,9 +4887,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
 		],
 		"doelniveau_id": [
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
@@ -4905,6 +4902,9 @@
 			"f782a375-c6fb-4a4c-938c-9182e098a53c",
 			"ec10d7f4-597d-4e90-868f-d6c77e4dc58c",
 			"fa22e53d-cf55-460c-8c12-8484658c6899"
+		],
+		"lpib_vakleergebied_id": [
+			"8da591f0-1e38-4476-8834-430c0d5fcaa1"
 		]
 	},
 	{
@@ -4914,9 +4914,6 @@
 		"title": "Maritiem en Techniek Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
 		],
 		"doelniveau_id": [
 			"26ed1222-c03f-4b6b-b859-0c4fa3cc7f98",
@@ -5010,6 +5007,9 @@
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
+		],
+		"lpib_vakleergebied_id": [
+			"eb97739f-4845-4fca-b2bb-f14f7258a3c2"
 		]
 	},
 	{
@@ -5019,9 +5019,6 @@
 		"title": "Maritiem en Techniek Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
 		],
 		"lpib_vakinhoud_id": [
 			"19e0bb3c-2766-4782-8e9d-1101e0c798c7",
@@ -5077,6 +5074,9 @@
 			"75fbe32b-7074-48db-8fd0-a12bf86ea59f",
 			"f4946e7b-cc1b-40e4-86a9-aec65f90d612",
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737"
+		],
+		"lpib_vakleergebied_id": [
+			"eb97739f-4845-4fca-b2bb-f14f7258a3c2"
 		]
 	},
 	{
@@ -5086,9 +5086,6 @@
 		"title": "Media, Vormgeving en ICT Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"f4848ad5-47b5-4539-8d50-437d15385368"
 		],
 		"doelniveau_id": [
 			"71dd0aa9-714d-4587-88ea-0e837012d3b6",
@@ -5182,6 +5179,9 @@
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
+		],
+		"lpib_vakleergebied_id": [
+			"262c48c0-e6da-4d5e-b64e-d23a2aaf39ab"
 		]
 	},
 	{
@@ -5191,9 +5191,6 @@
 		"title": "Media, Vormgeving en ICT Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"f4848ad5-47b5-4539-8d50-437d15385368"
 		],
 		"lpib_vakinhoud_id": [
 			"83c32ee5-8857-4c5d-b94e-ce6c48dd3afa",
@@ -5216,6 +5213,9 @@
 			"6145eed4-9274-4bc4-b922-d7a16a1eacbd",
 			"57ffcce6-f129-468c-bd34-22f112a20b44",
 			"54ae7bd7-8347-48e4-b369-d8a0157605fa"
+		],
+		"lpib_vakleergebied_id": [
+			"262c48c0-e6da-4d5e-b64e-d23a2aaf39ab"
 		]
 	},
 	{
@@ -5228,9 +5228,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
 		"doelniveau_id": [
 			"7a40d495-d3c7-4c54-942f-6037f2dfde52",
@@ -5306,6 +5303,9 @@
 			"19cbcbee-a873-440f-9767-8943133c923a",
 			"ee659c2d-9682-4810-8268-0efd8c1a73a4",
 			"b30ff41c-a4d1-49a3-9a87-55ec676634ab"
+		],
+		"lpib_vakleergebied_id": [
+			"6aaf9272-94f6-4650-ac6f-7e7350609658"
 		]
 	},
 	{
@@ -5317,9 +5317,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
 		"doelniveau_id": [
 			"e50a75ec-6500-4a5f-983d-422bd2ccc929",
@@ -5403,6 +5400,9 @@
 			"b875e606-fc43-4db2-8a3e-757cd09094ba",
 			"9b7505d0-84f5-4256-8566-df3b6239be45",
 			"3cba3996-788f-48d2-8993-09d14484bd6f"
+		],
+		"lpib_vakleergebied_id": [
+			"6aaf9272-94f6-4650-ac6f-7e7350609658"
 		]
 	},
 	{
@@ -5415,9 +5415,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
 		"doelniveau_id": [
 			"ec0b42a1-3fab-422f-9123-18d2f4f93a96",
@@ -5451,6 +5448,9 @@
 			"2a9a558d-7005-4b07-a69d-7ccbd157b9ee",
 			"f42f5529-aebb-4d10-96e8-559b5bc43fb6",
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737"
+		],
+		"lpib_vakleergebied_id": [
+			"6aaf9272-94f6-4650-ac6f-7e7350609658"
 		]
 	},
 	{
@@ -5462,9 +5462,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"vakleergebied_id": [
-			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
 		"doelniveau_id": [
 			"54873baf-7f87-4db4-be13-f9aa94386c5d",
@@ -5494,6 +5491,9 @@
 			"643bcfb6-9ea5-46da-9d2b-1af43782e46a",
 			"b645aef6-4f28-4509-a102-a8fb2a7bc637",
 			"dbca72c2-0c6e-46bb-ac8d-6e2f72db0e1f"
+		],
+		"lpib_vakleergebied_id": [
+			"6aaf9272-94f6-4650-ac6f-7e7350609658"
 		]
 	},
 	{
@@ -5505,9 +5505,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"2795bfff-8566-4e69-b70c-12efba965dc8"
 		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
@@ -5564,6 +5561,9 @@
 			"e829c8f7-ac6d-42ca-8fbb-ab1e87ac93c8",
 			"42b1040e-67d0-4079-93b8-9a8619050b2f",
 			"16403a4d-6a19-4f0c-a7f4-679c7d1d3597"
+		],
+		"lpib_vakleergebied_id": [
+			"1f41019d-2e34-41e7-929b-8cb8eebdc00b"
 		]
 	},
 	{
@@ -5576,10 +5576,10 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"2795bfff-8566-4e69-b70c-12efba965dc8"
-		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"1f41019d-2e34-41e7-929b-8cb8eebdc00b"
+		]
 	},
 	{
 		"id": "2edf6f62-12e9-47f7-bc6e-bac89da685b3",
@@ -5591,10 +5591,10 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
 		],
-		"vakleergebied_id": [
-			"2795bfff-8566-4e69-b70c-12efba965dc8"
-		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"1f41019d-2e34-41e7-929b-8cb8eebdc00b"
+		]
 	},
 	{
 		"id": "bfa88633-b917-47a9-aae8-527c9033306f",
@@ -5606,9 +5606,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"2795bfff-8566-4e69-b70c-12efba965dc8"
 		],
 		"doelniveau_id": [
 			"58bf0bfd-6877-43b3-81bf-e202059ffc85",
@@ -5657,6 +5654,9 @@
 			"41365ef1-f728-424a-902c-50df544bd29a",
 			"7ba62429-032d-437e-8969-b7eee97c3291",
 			"ae28a8da-19f6-4d3e-ac0a-520e1135602e"
+		],
+		"lpib_vakleergebied_id": [
+			"1f41019d-2e34-41e7-929b-8cb8eebdc00b"
 		]
 	},
 	{
@@ -5666,9 +5666,6 @@
 		"title": "Mobiliteit en Transport Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"aa197275-236f-451e-85be-ed0902848f08"
 		],
 		"doelniveau_id": [
 			"2b0e0f96-e723-4f3d-a9d8-f2e78bbb20d3",
@@ -5762,6 +5759,9 @@
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
+		],
+		"lpib_vakleergebied_id": [
+			"a229d206-4b48-4869-81dd-50acdc7d4d51"
 		]
 	},
 	{
@@ -5771,9 +5771,6 @@
 		"title": "Mobiliteit en Transport Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"aa197275-236f-451e-85be-ed0902848f08"
 		],
 		"lpib_vakinhoud_id": [
 			"7e45866b-277e-4a3e-ae6f-b892fca10f2f",
@@ -5789,6 +5786,9 @@
 			"4f0ec92a-b81f-427c-a1bb-74dc0401bf9f",
 			"67815d87-3fc4-4e80-b526-7c1cc55424a3",
 			"6fee716b-093c-4eab-86a6-1d317ad9a6ec"
+		],
+		"lpib_vakleergebied_id": [
+			"a229d206-4b48-4869-81dd-50acdc7d4d51"
 		]
 	},
 	{
@@ -5801,9 +5801,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"b362c478-90c9-45ac-855a-79421d23ed07"
 		],
 		"lpib_vakinhoud_id": [
 			"2a5a712e-ed3a-40fa-844a-af26cf849e1e",
@@ -5981,6 +5978,9 @@
 			"325b794a-a942-4c28-a1d4-35615f27f4c2",
 			"b03769f1-4b77-4e1d-ab19-1a2d1d304daf",
 			"d9406116-edb6-4f9a-8eb9-f29802894992"
+		],
+		"lpib_vakleergebied_id": [
+			"14f96cf7-7804-4470-81fb-b670471d57d4"
 		]
 	},
 	{
@@ -5993,9 +5993,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
 		],
 		"lpib_vakinhoud_id": [
 			"2a2d7bfc-c23b-46f9-a3e8-f2206584cb6a",
@@ -6053,6 +6050,9 @@
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
 			"3ac8faa4-551e-463b-9003-a8107444311a"
+		],
+		"lpib_vakleergebied_id": [
+			"f8644ca6-7b4e-4bb1-961b-41ca5ad95cf8"
 		]
 	},
 	{
@@ -6065,9 +6065,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
 		],
 		"lpib_vakinhoud_id": [
 			"7e5524e1-f5af-4429-9194-f77b36959ddb",
@@ -6093,6 +6090,9 @@
 			"153789f7-8706-4dab-a304-814bcd4f917c",
 			"958a8489-9deb-40a6-9c57-43a24ced3457",
 			"bd3bd544-197f-4333-bf0f-dee8bd6b2a61"
+		],
+		"lpib_vakleergebied_id": [
+			"f8644ca6-7b4e-4bb1-961b-41ca5ad95cf8"
 		]
 	},
 	{
@@ -6104,9 +6104,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"956d0d86-90f3-443b-a418-52fd9b912661"
 		],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
@@ -6132,6 +6129,9 @@
 			"d261ecba-4fe9-4221-8ad7-90b8c403478c",
 			"2c2945ee-14fe-417a-930a-d9c7bdab5ff7",
 			"1e6e7f6d-b0f9-436b-b623-2e6558295446"
+		],
+		"lpib_vakleergebied_id": [
+			"148b0cb3-34b2-4518-a50c-8dcff0b88276"
 		]
 	},
 	{
@@ -6145,9 +6145,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
 		],
 		"doelniveau_id": [
 			"84947bea-7847-47d7-ac72-acef76e9fefa",
@@ -6443,6 +6440,9 @@
 			"e829c8f7-ac6d-42ca-8fbb-ab1e87ac93c8",
 			"42b1040e-67d0-4079-93b8-9a8619050b2f",
 			"16403a4d-6a19-4f0c-a7f4-679c7d1d3597"
+		],
+		"lpib_vakleergebied_id": [
+			"ef611268-56c9-477f-81e5-217fe5bd2b91"
 		]
 	},
 	{
@@ -6454,9 +6454,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
 		],
 		"lpib_vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
@@ -6553,6 +6550,9 @@
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707",
 			"35cdbdec-df68-4a12-8de6-0645bbf4ca36"
+		],
+		"lpib_vakleergebied_id": [
+			"ef611268-56c9-477f-81e5-217fe5bd2b91"
 		]
 	},
 	{
@@ -6568,9 +6568,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
@@ -6630,6 +6627,9 @@
 			"8696e51e-0c36-4f8e-812a-8d097cb78e77",
 			"b457d8fd-a567-49a5-ab77-a6848cdaf0d5",
 			"85f7a468-edee-493b-b521-b0b55930176d"
+		],
+		"lpib_vakleergebied_id": [
+			"9647be91-e170-422e-aae2-1c2b7667e516"
 		]
 	},
 	{
@@ -6644,9 +6644,6 @@
 			"d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
 		"lpib_vakinhoud_id": [
 			"b3346f8a-99fc-4bae-abf3-c385964bb9a3",
@@ -6715,6 +6712,9 @@
 		],
 		"doelniveau_id": [
 			"34df4bb5-6d5f-40a0-b111-383405fb6ca3"
+		],
+		"lpib_vakleergebied_id": [
+			"9647be91-e170-422e-aae2-1c2b7667e516"
 		]
 	},
 	{
@@ -6724,9 +6724,6 @@
 		"title": "Nederlands referentiekader (1F-4F)",
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"vakleergebied_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
 		"lpib_vakinhoud_id": [
 			"2445e3c2-d92e-40c1-8a2d-82ba8654db15",
@@ -6749,6 +6746,9 @@
 		],
 		"doelniveau_id": [
 			"92fcc90b-bb77-4334-a302-4e8070de7e42"
+		],
+		"lpib_vakleergebied_id": [
+			"9647be91-e170-422e-aae2-1c2b7667e516"
 		]
 	},
 	{
@@ -6758,9 +6758,6 @@
 		"title": "Produceren, Installeren en Energie Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"b8f15528-dedb-4db8-81ee-c820da8453bc"
 		],
 		"doelniveau_id": [
 			"737b2fb2-1cdd-4834-a0cd-23b61690b364",
@@ -6854,6 +6851,9 @@
 			"a2b0a860-af45-4350-8ecc-979048635a22",
 			"f4da32a1-e69c-46db-8a7c-edd585a15ef0",
 			"cf7fa9eb-96ac-4b70-8a90-dcc9376bb97a"
+		],
+		"lpib_vakleergebied_id": [
+			"0e9992fb-50e8-4d8a-849a-73bb5082a3a7"
 		]
 	},
 	{
@@ -6863,9 +6863,6 @@
 		"title": "Produceren, Installeren en Energie Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"b8f15528-dedb-4db8-81ee-c820da8453bc"
 		],
 		"lpib_vakinhoud_id": [
 			"23ce22c8-d3eb-4552-b55f-0e05e28c103b",
@@ -6879,6 +6876,9 @@
 			"2dec8c72-4c98-4d53-991d-e467395ffef0",
 			"c34749e3-bade-4af3-a574-b6158c4aa0ba",
 			"2563d4d0-f5cf-426a-9a43-e13871b948c7"
+		],
+		"lpib_vakleergebied_id": [
+			"0e9992fb-50e8-4d8a-849a-73bb5082a3a7"
 		]
 	},
 	{
@@ -6890,9 +6890,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"364c2519-7d9e-47d8-b3bd-371cee8583df"
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde",
@@ -6939,6 +6936,9 @@
 			"990d0141-1617-4583-8314-af9045446c28",
 			"d2ed52b1-26ec-4f86-b12b-8b1d377e1cd2",
 			"64c247e6-d640-4c62-9aab-819801a63c89"
+		],
+		"lpib_vakleergebied_id": [
+			"e422efe7-e714-4fa6-bcb6-2a823a7a0203"
 		]
 	},
 	{
@@ -6950,9 +6950,6 @@
 			"2cd219cf-56ee-4327-a399-4f44cd571351",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233"
-		],
-		"vakleergebied_id": [
-			"364c2519-7d9e-47d8-b3bd-371cee8583df"
 		],
 		"lpib_vakinhoud_id": [
 			"ba5161b0-1440-42c6-9e33-b02585774cf0",
@@ -7035,6 +7032,9 @@
 			"e1445c34-51a4-4cc3-af19-ee0cd1565924",
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707"
+		],
+		"lpib_vakleergebied_id": [
+			"e422efe7-e714-4fa6-bcb6-2a823a7a0203"
 		]
 	},
 	{
@@ -7047,9 +7047,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"73abc618-988a-4409-b2ae-ff16febf68ee"
 		],
 		"doelniveau_id": [
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
@@ -7067,6 +7064,9 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
+		],
+		"lpib_vakleergebied_id": [
+			"8eefbc74-7b9f-4662-aa01-17394f446e6f"
 		]
 	},
 	{
@@ -7079,13 +7079,13 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
 		],
-		"vakleergebied_id": [
-			"73abc618-988a-4409-b2ae-ff16febf68ee"
-		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"8eefbc74-7b9f-4662-aa01-17394f446e6f"
+		]
 	},
 	{
 		"id": "3148fb86-d6db-43e9-b1ed-a6f535b0ee87",
@@ -7097,15 +7097,15 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
 		],
-		"vakleergebied_id": [
-			"70d7c26b-9e49-481a-b40b-188e2d538943"
-		],
 		"lpib_vakinhoud_id": [
 			"9b4e0ed0-7829-4190-b924-4f3d7cbc0f7a",
 			"eee8ada0-5380-45bc-924c-3243b77e39e5",
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
 			"2438db14-ea60-43b8-a5f4-be70cfdd99f1",
 			"4e01b3bc-cbb5-424a-911c-dd57fa260d42"
+		],
+		"lpib_vakleergebied_id": [
+			"009d74a7-1fc3-4be3-abfd-35455d0455a6"
 		]
 	},
 	{
@@ -7118,14 +7118,14 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
 		],
-		"vakleergebied_id": [
-			"70d7c26b-9e49-481a-b40b-188e2d538943"
-		],
 		"lpib_vakinhoud_id": [
 			"9b4e0ed0-7829-4190-b924-4f3d7cbc0f7a",
 			"eee8ada0-5380-45bc-924c-3243b77e39e5",
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
 			"2438db14-ea60-43b8-a5f4-be70cfdd99f1"
+		],
+		"lpib_vakleergebied_id": [
+			"009d74a7-1fc3-4be3-abfd-35455d0455a6"
 		]
 	},
 	{
@@ -7141,10 +7141,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"vakleergebied_id": [
-			"12209d8b-24d3-440a-8e2e-e85bfebc1e13",
-			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],
 		"lpib_vakinhoud_id": [
 			"45850ac0-4bdc-4a51-b597-7a4c35780f59",
@@ -7384,6 +7380,10 @@
 			"e8b014b0-90b6-4167-b0b9-6ab303efb63f",
 			"f0f7569c-4655-430e-9f9e-d74f90feade2",
 			"c5f964a7-fd26-4e08-9d2d-1b860a4c1983"
+		],
+		"lpib_vakleergebied_id": [
+			"94686b63-59ce-457c-ba18-997e686fdaa8",
+			"01b8699e-ad23-4121-bbf0-4cf2cd63d187"
 		]
 	},
 	{
@@ -7397,10 +7397,6 @@
 			"d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"vakleergebied_id": [
-			"12209d8b-24d3-440a-8e2e-e85bfebc1e13",
-			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],
 		"lpib_vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
@@ -7707,7 +7703,11 @@
 			"f0f7569c-4655-430e-9f9e-d74f90feade2",
 			"c5f964a7-fd26-4e08-9d2d-1b860a4c1983"
 		],
-		"doelniveau_id": []
+		"doelniveau_id": [],
+		"lpib_vakleergebied_id": [
+			"94686b63-59ce-457c-ba18-997e686fdaa8",
+			"01b8699e-ad23-4121-bbf0-4cf2cd63d187"
+		]
 	},
 	{
 		"id": "87165114-b254-4afe-a443-33fb7352e2f5",
@@ -7721,10 +7721,6 @@
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"vakleergebied_id": [
-			"12209d8b-24d3-440a-8e2e-e85bfebc1e13",
-			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],
 		"doelniveau_id": [
 			"3dc870b1-b13b-43ee-9fe8-dd02a076fe60",
@@ -7873,6 +7869,10 @@
 			"e8b014b0-90b6-4167-b0b9-6ab303efb63f",
 			"f0f7569c-4655-430e-9f9e-d74f90feade2",
 			"c5f964a7-fd26-4e08-9d2d-1b860a4c1983"
+		],
+		"lpib_vakleergebied_id": [
+			"94686b63-59ce-457c-ba18-997e686fdaa8",
+			"01b8699e-ad23-4121-bbf0-4cf2cd63d187"
 		]
 	},
 	{
@@ -7886,9 +7886,6 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"vakleergebied_id": [
-			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
 		],
 		"lpib_vakinhoud_id": [
 			"dd406037-306d-49fd-8658-671a8e2ff842",
@@ -7981,6 +7978,9 @@
 			"781eb456-38fa-425d-96c0-4dc25cd7bdc3",
 			"563d1857-5f0a-4b81-b376-b6142a184e8a",
 			"68513d60-fdc1-460e-b97d-a0dc7241b9c8"
+		],
+		"lpib_vakleergebied_id": [
+			"94686b63-59ce-457c-ba18-997e686fdaa8"
 		]
 	},
 	{
@@ -7992,9 +7992,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
 		],
 		"lpib_vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
@@ -8153,6 +8150,9 @@
 			"b9a3996d-28c5-4a50-8f22-a5dfcc3a0bf7",
 			"59649bcc-8622-4d75-8bde-9418973274e4",
 			"bd181e92-b855-4760-be3e-1a927972bbbd"
+		],
+		"lpib_vakleergebied_id": [
+			"bff01c4b-7968-48fb-a202-24b3fb4c288a"
 		]
 	},
 	{
@@ -8164,9 +8164,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
 		],
 		"lpib_vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
@@ -8379,6 +8376,9 @@
 			"e63740bd-2eab-4a62-8292-24b6af229efa",
 			"a9e0b5d5-0e19-4182-9e08-2339923e84e0",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
+		],
+		"lpib_vakleergebied_id": [
+			"bff01c4b-7968-48fb-a202-24b3fb4c288a"
 		]
 	},
 	{
@@ -8390,9 +8390,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
 		],
 		"lpib_vakinhoud_id": [
 			"8e4e0096-e20a-4eca-83ea-aff49dfa2356",
@@ -8548,6 +8545,9 @@
 			"59649bcc-8622-4d75-8bde-9418973274e4",
 			"bd181e92-b855-4760-be3e-1a927972bbbd",
 			"6945cf8a-bb51-47fc-bc53-0d7874712258"
+		],
+		"lpib_vakleergebied_id": [
+			"fd54b06d-9247-42b9-84ec-b15dbeb07c73"
 		]
 	},
 	{
@@ -8559,9 +8559,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
 		],
 		"lpib_vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
@@ -8763,6 +8760,9 @@
 			"0b4ef89d-c9ba-41cf-99c7-f22acccb7042",
 			"429ab309-9ca4-460a-bea2-408cbfdaf958",
 			"6ab100cd-206d-4d17-9520-e7ffb750a16e"
+		],
+		"lpib_vakleergebied_id": [
+			"fd54b06d-9247-42b9-84ec-b15dbeb07c73"
 		]
 	},
 	{
@@ -8773,9 +8773,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
 		],
 		"lpib_vakinhoud_id": [
 			"46dc6732-0b2f-4e74-831f-f18141fd0381",
@@ -8913,6 +8910,9 @@
 			"b9a3996d-28c5-4a50-8f22-a5dfcc3a0bf7",
 			"59649bcc-8622-4d75-8bde-9418973274e4",
 			"bd181e92-b855-4760-be3e-1a927972bbbd"
+		],
+		"lpib_vakleergebied_id": [
+			"ba021625-2372-4b56-bd34-dfa734b47a52"
 		]
 	},
 	{
@@ -8923,9 +8923,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
 		],
 		"lpib_vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
@@ -9089,6 +9086,9 @@
 			"fad99e80-2dc3-4f2f-a82a-dce1aaa1a6b4",
 			"df294674-c74e-4964-9328-1f325119a2d3",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
+		],
+		"lpib_vakleergebied_id": [
+			"ba021625-2372-4b56-bd34-dfa734b47a52"
 		]
 	},
 	{
@@ -9099,9 +9099,6 @@
 		"niveau_id": [
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"6be72775-5689-4aa4-bb5a-38899b174915"
 		],
 		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
@@ -9191,6 +9188,9 @@
 			"b9a3996d-28c5-4a50-8f22-a5dfcc3a0bf7",
 			"59649bcc-8622-4d75-8bde-9418973274e4",
 			"bd181e92-b855-4760-be3e-1a927972bbbd"
+		],
+		"lpib_vakleergebied_id": [
+			"775dfee3-8c70-4a45-9e9d-e1a226cc7a8d"
 		]
 	},
 	{
@@ -9202,9 +9202,6 @@
 			"fe74fabd-e1de-4902-98c4-2cfa44e05233",
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"vakleergebied_id": [
-			"6be72775-5689-4aa4-bb5a-38899b174915"
 		],
 		"lpib_vakinhoud_id": [
 			"27578666-b056-4a21-b4a4-9a8edd0cb854",
@@ -9316,6 +9313,9 @@
 			"29839ec6-eb50-4da7-a273-fb3548acb658",
 			"b688ac5f-72e5-412e-b7f5-e7ed0fbc9505",
 			"50535a93-ce70-460f-af77-204c4014a702"
+		],
+		"lpib_vakleergebied_id": [
+			"775dfee3-8c70-4a45-9e9d-e1a226cc7a8d"
 		]
 	},
 	{
@@ -9325,9 +9325,6 @@
 		"title": "Zorg en Welzijn Kern (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"73cef23f-df24-4015-8516-072a13dcd369"
 		],
 		"doelniveau_id": [
 			"ecadc61b-c447-4787-a849-5bfe7eb2efb5",
@@ -9395,6 +9392,9 @@
 			"9fe0765e-110f-4e8b-a6d0-48387ccb1f3e",
 			"7644dfe2-773b-4fcb-84e6-0a63b58265c5",
 			"95c975ce-88db-4312-9530-bbd374e996a7"
+		],
+		"lpib_vakleergebied_id": [
+			"e5a69cc0-ec3c-40aa-aba2-6d4a6c8373bf"
 		]
 	},
 	{
@@ -9404,9 +9404,6 @@
 		"title": "Zorg en Welzijn Modulen (po-vmbo)",
 		"niveau_id": [
 			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"vakleergebied_id": [
-			"73cef23f-df24-4015-8516-072a13dcd369"
 		],
 		"lpib_vakinhoud_id": [
 			"4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
@@ -9425,6 +9422,9 @@
 			"3720777c-6cfb-4c50-be3c-ee80b8c7b72b",
 			"3478c24f-8647-4284-9f22-d60046f36bf7",
 			"f9a94a3f-5aba-47af-82b7-f9685132ecb7"
+		],
+		"lpib_vakleergebied_id": [
+			"e5a69cc0-ec3c-40aa-aba2-6d4a6c8373bf"
 		]
 	}
 ]
