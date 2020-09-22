@@ -1,6 +1,6 @@
 {
 	"@context": {
-		"inhoud": "http://opendata.slo.nl/curriculum/schemas/inhoud.jsonld",
+		"inhoud": "http://opendata.slo.nl/curriculum/schemas/lpib.jsonld",
 		"id": {
 			"@id": "@id"
 		},

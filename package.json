@@ -1,7 +1,7 @@
 {
-  "name": "vakken",
+  "name": "curriculum-lpib",
   "version": "1.0.0",
-  "description": "Vakken Context",
+  "description": "Curriculum Leerplan-in-beeld Context",
   "main": "context.json",
   "scripts": {
     "test": "node test/test.js"
