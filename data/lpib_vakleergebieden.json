@@ -3,7 +3,6 @@
 		"vakleergebied_id": [
 			"c0f3b769-606e-488a-aeb1-405bf46df24a"
 		],
-		"unreleased": true,
 		"sloID": "55",
 		"title": "21e eeuwse vaardigheden",
 		"description": "",
@@ -42,7 +41,6 @@
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		],
 		"title": "Aardrijkskunde",
-		"unreleased": true,
 		"sloID": "1",
 		"description": "",
 		"niveau_id": [
@@ -81,7 +79,6 @@
 		"vakleergebied_id": [
 			"182462b2-662f-42e5-8464-f9075afee3ba"
 		],
-		"unreleased": true,
 		"sloID": "2",
 		"title": "Algemene natuurwetenschappen",
 		"description": "",
@@ -101,7 +98,6 @@
 		"vakleergebied_id": [
 			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
 		],
-		"unreleased": true,
 		"sloID": "57",
 		"title": "Bedrijfseconomie",
 		"description": "",
@@ -125,7 +121,6 @@
 		"vakleergebied_id": [
 			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
 		],
-		"unreleased": true,
 		"sloID": "3",
 		"title": "Bewegen en sport",
 		"description": "",
@@ -149,7 +144,6 @@
 		"vakleergebied_id": [
 			"18361045-bd2b-4c50-9267-cd24dc3498bb"
 		],
-		"unreleased": true,
 		"sloID": "4",
 		"title": "Bewegen, sport en maatschappij",
 		"description": "",
@@ -169,7 +163,6 @@
 		"vakleergebied_id": [
 			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
 		],
-		"unreleased": true,
 		"sloID": "5",
 		"title": "Bewegingsonderwijs",
 		"description": "",
@@ -188,7 +181,6 @@
 		"vakleergebied_id": [
 			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
-		"unreleased": true,
 		"sloID": "6",
 		"title": "Biologie",
 		"description": "",
@@ -232,7 +224,6 @@
 		"vakleergebied_id": [
 			"26eb622d-6239-4f26-bdef-0c9662891285"
 		],
-		"unreleased": true,
 		"sloID": "68",
 		"title": "Bouwen, Wonen en Interieur",
 		"description": "",
@@ -256,7 +247,6 @@
 		"vakleergebied_id": [
 			"7316c15e-d1d1-4d73-b4df-94b46b04aadd"
 		],
-		"unreleased": true,
 		"sloID": "56",
 		"title": "Cultureel erfgoed",
 		"description": "",
@@ -275,7 +265,6 @@
 		"vakleergebied_id": [
 			"a70b035e-2c79-4b7d-81de-03678354cdc1"
 		],
-		"unreleased": true,
 		"sloID": "50",
 		"title": "Culturele en kunstzinnige vorming",
 		"description": "",
@@ -295,7 +284,6 @@
 		"vakleergebied_id": [
 			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
 		],
-		"unreleased": true,
 		"sloID": "60",
 		"title": "Dienstverlening en Producten",
 		"description": "",
@@ -319,7 +307,6 @@
 		"vakleergebied_id": [
 			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
 		],
-		"unreleased": true,
 		"sloID": "7",
 		"title": "Duits",
 		"description": "",
@@ -350,7 +337,6 @@
 		"vakleergebied_id": [
 			"8755f202-3f28-405d-929e-990ee4fdc521"
 		],
-		"unreleased": true,
 		"sloID": "8",
 		"title": "Economie",
 		"description": "",
@@ -393,7 +379,6 @@
 		"vakleergebied_id": [
 			"18126dde-b79b-4231-826d-b902a6fa70db"
 		],
-		"unreleased": true,
 		"sloID": "61",
 		"title": "Economie en Ondernemen",
 		"description": "",
@@ -417,7 +402,6 @@
 		"vakleergebied_id": [
 			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		],
-		"unreleased": true,
 		"sloID": "9",
 		"title": "Engels",
 		"description": "",
@@ -450,7 +434,6 @@
 		"vakleergebied_id": [
 			"15292864-cba8-4af5-90ef-da51cb2d22e1"
 		],
-		"unreleased": true,
 		"sloID": "10",
 		"title": "Filosofie",
 		"description": "",
@@ -471,7 +454,6 @@
 		"vakleergebied_id": [
 			"f851676e-b541-42db-986a-5c468974f65e"
 		],
-		"unreleased": true,
 		"sloID": "11",
 		"title": "Frans",
 		"description": "",
@@ -502,7 +484,6 @@
 		"vakleergebied_id": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
 		],
-		"unreleased": true,
 		"sloID": "12",
 		"title": "Friese taal",
 		"description": "",
@@ -523,7 +504,6 @@
 		"vakleergebied_id": [
 			"58fe0010-9685-4dae-ba70-2e47d94ad844"
 		],
-		"unreleased": true,
 		"sloID": "47",
 		"title": "Fysische geografie",
 		"id": "afb665a5-0c3c-4785-b12f-42656185fd4d",
@@ -535,7 +515,6 @@
 		"vakleergebied_id": [
 			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		],
-		"unreleased": true,
 		"sloID": "13",
 		"title": "Geschiedenis",
 		"description": "",
@@ -578,7 +557,6 @@
 		"vakleergebied_id": [
 			"797f5fdf-8e35-43e9-b290-772c84f1761e"
 		],
-		"unreleased": true,
 		"sloID": "54",
 		"title": "Grieks",
 		"description": "",
@@ -603,7 +581,6 @@
 		"vakleergebied_id": [
 			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
 		],
-		"unreleased": true,
 		"sloID": "62",
 		"title": "Groen",
 		"description": "",
@@ -627,7 +604,6 @@
 		"vakleergebied_id": [
 			"430c341c-d861-4076-bbce-b8adcda81555"
 		],
-		"unreleased": true,
 		"sloID": "63",
 		"title": "Horeca, Bakkerij en Recreatie",
 		"description": "",
@@ -651,7 +627,6 @@
 		"vakleergebied_id": [
 			"21e34b16-1187-4ebb-967e-ae309993cb58"
 		],
-		"unreleased": true,
 		"sloID": "46",
 		"title": "Kennisbasis natuurwetenschappen en technologie",
 		"description": "",
@@ -669,7 +644,6 @@
 		"vakleergebied_id": [
 			"ef872885-1953-4008-9dcc-32281274446a"
 		],
-		"unreleased": true,
 		"sloID": "14",
 		"title": "Klassieke culturele vorming",
 		"id": "57170b93-9e70-4191-b426-bc9431635b7a"
@@ -678,7 +652,6 @@
 		"vakleergebied_id": [
 			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
 		],
-		"unreleased": true,
 		"sloID": "15",
 		"title": "Kunst en cultuur",
 		"description": "",
@@ -702,7 +675,6 @@
 		"vakleergebied_id": [
 			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
 		],
-		"unreleased": true,
 		"sloID": "16",
 		"title": "Kunst: algemeen",
 		"description": "",
@@ -716,7 +688,6 @@
 		"vakleergebied_id": [
 			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
 		],
-		"unreleased": true,
 		"sloID": "17",
 		"title": "Kunst: beeldende vorming",
 		"description": "",
@@ -747,7 +718,6 @@
 		"vakleergebied_id": [
 			"fbf18b56-2d01-4fc0-975d-af7122af4052"
 		],
-		"unreleased": true,
 		"sloID": "18",
 		"title": "Kunst: dans",
 		"description": "",
@@ -778,7 +748,6 @@
 		"vakleergebied_id": [
 			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
 		],
-		"unreleased": true,
 		"sloID": "19",
 		"title": "Kunst: drama",
 		"description": "",
@@ -803,7 +772,6 @@
 		"vakleergebied_id": [
 			"aa9da88c-189f-4857-b067-7cbdc929c905"
 		],
-		"unreleased": true,
 		"sloID": "20",
 		"title": "Kunst: muziek",
 		"description": "",
@@ -835,7 +803,6 @@
 		"vakleergebied_id": [
 			"29a8bd9f-2963-4070-84d8-c06075ca0ae1"
 		],
-		"unreleased": true,
 		"sloID": "51",
 		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
 		"id": "a6e481dc-cb89-4247-87a5-a51585efe509"
@@ -844,7 +811,6 @@
 		"vakleergebied_id": [
 			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
 		],
-		"unreleased": true,
 		"sloID": "21",
 		"title": "Kunstzinnige oriëntatie",
 		"description": "",
@@ -863,7 +829,6 @@
 		"vakleergebied_id": [
 			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
 		],
-		"unreleased": true,
 		"sloID": "53",
 		"title": "Latijn",
 		"description": "",
@@ -887,7 +852,6 @@
 		"vakleergebied_id": [
 			"4c78ac37-1937-4cc4-86e4-aa3192ef44db"
 		],
-		"unreleased": true,
 		"sloID": "22",
 		"title": "Lichamelijke opvoeding",
 		"description": "",
@@ -907,25 +871,34 @@
 		"vakleergebied_id": [
 			"53b729cd-f9de-4de2-822b-8736225e9406"
 		],
-		"unreleased": true,
 		"sloID": "23",
 		"title": "Lichamelijke opvoeding 1",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"id": "dff26edc-4524-4df2-9271-18b295f67901"
 	},
 	{
 		"vakleergebied_id": [
 			"efac65df-e5e1-40b5-bb46-ed4ea8f378fd"
 		],
-		"unreleased": true,
 		"sloID": "24",
 		"title": "Lichamelijke opvoeding 2",
+		"description": "",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"id": "96f3f3c0-4d2d-4a69-99c9-d8a3edb9731b"
 	},
 	{
 		"vakleergebied_id": [
 			"b4459aa1-0dbb-409d-a675-8ca914234028"
 		],
-		"unreleased": true,
 		"sloID": "27",
 		"title": "Maatschappijkunde",
 		"description": "",
@@ -948,7 +921,6 @@
 		"vakleergebied_id": [
 			"ef5159b3-ead9-4a86-9324-e80cd867856c"
 		],
-		"unreleased": true,
 		"sloID": "25",
 		"title": "Maatschappijleer",
 		"id": "15850849-4647-480e-9709-a06a107af07a",
@@ -962,7 +934,6 @@
 		"vakleergebied_id": [
 			"c960fcb7-2c47-4822-88a3-68822f031c40"
 		],
-		"unreleased": true,
 		"sloID": "26",
 		"title": "Maatschappijleer",
 		"id": "7f1bc1d9-7911-476a-8e78-04a99cbd7a38",
@@ -977,7 +948,6 @@
 		"vakleergebied_id": [
 			"b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
 		],
-		"unreleased": true,
 		"sloID": "28",
 		"title": "Maatschappijwetenschappen",
 		"description": "",
@@ -999,7 +969,6 @@
 		"vakleergebied_id": [
 			"8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
 		],
-		"unreleased": true,
 		"sloID": "29",
 		"title": "Management en organisatie",
 		"description": "",
@@ -1021,7 +990,6 @@
 		"vakleergebied_id": [
 			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
 		],
-		"unreleased": true,
 		"sloID": "58",
 		"title": "Maritiem en Techniek",
 		"description": "",
@@ -1045,7 +1013,6 @@
 		"vakleergebied_id": [
 			"f4848ad5-47b5-4539-8d50-437d15385368"
 		],
-		"unreleased": true,
 		"sloID": "64",
 		"title": "Media, Vormgeving en ICT",
 		"description": "",
@@ -1069,7 +1036,6 @@
 		"vakleergebied_id": [
 			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
-		"unreleased": true,
 		"sloID": "30",
 		"title": "Mens en maatschappij",
 		"description": "",
@@ -1104,7 +1070,6 @@
 		"vakleergebied_id": [
 			"2795bfff-8566-4e69-b70c-12efba965dc8"
 		],
-		"unreleased": true,
 		"sloID": "31",
 		"title": "Mens en natuur",
 		"description": "",
@@ -1145,7 +1110,6 @@
 		"vakleergebied_id": [
 			"aa197275-236f-451e-85be-ed0902848f08"
 		],
-		"unreleased": true,
 		"sloID": "65",
 		"title": "Mobiliteit en Transport",
 		"description": "",
@@ -1169,7 +1133,6 @@
 		"vakleergebied_id": [
 			"11aef2d5-ae09-49c8-9485-e7b93e3f9fda"
 		],
-		"unreleased": true,
 		"sloID": "52",
 		"title": "MVT",
 		"id": "b81f4a81-4a5c-4890-bc28-af97c4d7c9de",
@@ -1181,7 +1144,6 @@
 		"vakleergebied_id": [
 			"b362c478-90c9-45ac-855a-79421d23ed07"
 		],
-		"unreleased": true,
 		"sloID": "32",
 		"title": "Natuur- en scheikunde I",
 		"description": "",
@@ -1209,7 +1171,6 @@
 		"vakleergebied_id": [
 			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
 		],
-		"unreleased": true,
 		"sloID": "33",
 		"title": "Natuur- en scheikunde II",
 		"description": "",
@@ -1238,7 +1199,6 @@
 		"vakleergebied_id": [
 			"956d0d86-90f3-443b-a418-52fd9b912661"
 		],
-		"unreleased": true,
 		"sloID": "34",
 		"title": "Natuur, leven en technologie",
 		"description": "",
@@ -1260,7 +1220,6 @@
 		"vakleergebied_id": [
 			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
 		],
-		"unreleased": true,
 		"sloID": "35",
 		"title": "Natuurkunde",
 		"description": "",
@@ -1291,7 +1250,6 @@
 		"vakleergebied_id": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
 		],
-		"unreleased": true,
 		"sloID": "36",
 		"title": "Nederlands",
 		"description": "",
@@ -1331,7 +1289,6 @@
 		"vakleergebied_id": [
 			"86be4684-a214-432b-9622-dd97491e6ce2"
 		],
-		"unreleased": true,
 		"sloID": "37",
 		"title": "Oriëntatie op jezelf en de wereld",
 		"description": "",
@@ -1344,7 +1301,6 @@
 		"vakleergebied_id": [
 			"b8f15528-dedb-4db8-81ee-c820da8453bc"
 		],
-		"unreleased": true,
 		"sloID": "66",
 		"title": "Produceren, Installeren en Energie",
 		"description": "",
@@ -1368,7 +1324,6 @@
 		"vakleergebied_id": [
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		],
-		"unreleased": true,
 		"sloID": "38",
 		"title": "Rekenen en wiskunde",
 		"id": "01b8699e-ad23-4121-bbf0-4cf2cd63d187"
@@ -1377,7 +1332,6 @@
 		"vakleergebied_id": [
 			"364c2519-7d9e-47d8-b3bd-371cee8583df"
 		],
-		"unreleased": true,
 		"sloID": "39",
 		"title": "Scheikunde",
 		"description": "",
@@ -1408,7 +1362,6 @@
 		"vakleergebied_id": [
 			"73abc618-988a-4409-b2ae-ff16febf68ee"
 		],
-		"unreleased": true,
 		"sloID": "40",
 		"title": "Spaans",
 		"description": "",
@@ -1439,19 +1392,26 @@
 		"vakleergebied_id": [
 			"70d7c26b-9e49-481a-b40b-188e2d538943"
 		],
-		"unreleased": true,
 		"sloID": "48",
 		"title": "Technologie",
 		"id": "009d74a7-1fc3-4be3-abfd-35455d0455a6",
 		"lpib_vakkern_id": [
 			"9e95f81f-f65b-45a4-bb4c-83e619d04522"
+		],
+		"description": "",
+		"niveau_id": [
+			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		]
 	},
 	{
 		"vakleergebied_id": [
 			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
 		],
-		"unreleased": true,
 		"sloID": "49",
 		"title": "Tekenen, handvaardigheid en textiele vormgeving",
 		"description": "",
@@ -1465,7 +1425,6 @@
 		"vakleergebied_id": [
 			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
 		],
-		"unreleased": true,
 		"sloID": "41",
 		"title": "Wiskunde",
 		"description": "",
@@ -1502,7 +1461,6 @@
 		"vakleergebied_id": [
 			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
 		],
-		"unreleased": true,
 		"sloID": "42",
 		"title": "Wiskunde A",
 		"description": "",
@@ -1524,7 +1482,6 @@
 		"vakleergebied_id": [
 			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
 		],
-		"unreleased": true,
 		"sloID": "43",
 		"title": "Wiskunde B",
 		"description": "",
@@ -1545,7 +1502,6 @@
 		"vakleergebied_id": [
 			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
 		],
-		"unreleased": true,
 		"sloID": "44",
 		"title": "Wiskunde C",
 		"description": "",
@@ -1568,7 +1524,6 @@
 		"vakleergebied_id": [
 			"6be72775-5689-4aa4-bb5a-38899b174915"
 		],
-		"unreleased": true,
 		"sloID": "45",
 		"title": "Wiskunde D",
 		"description": "",
@@ -1589,7 +1544,6 @@
 		"vakleergebied_id": [
 			"73cef23f-df24-4015-8516-072a13dcd369"
 		],
-		"unreleased": true,
 		"sloID": "67",
 		"title": "Zorg en Welzijn",
 		"description": "",
@@ -1635,27 +1589,6 @@
 	},
 	{
 		"vakleergebied_id": [
-			"797c136a-a531-456a-9a74-e6eb5b9464b2"
-		],
-		"title": "Zintuigelijke ontwikkeling",
-		"replaces": [
-			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
-		],
-		"description": "",
-		"deleted": 1,
-		"id": "73d04df3-bd00-49b9-aee2-58f1896eb07b"
-	},
-	{
-		"vakleergebied_id": [
-			"1f73da5d-4118-4330-9e3d-597693bd8e10"
-		],
-		"title": "Leren leren",
-		"description": "",
-		"deleted": 1,
-		"id": "04ae41a4-ab97-47be-a86f-81dd8fa4db3e"
-	},
-	{
-		"vakleergebied_id": [
 			"bc35dcbf-82a2-498f-9836-75c30bd85264"
 		],
 		"replaces": [
@@ -1672,17 +1605,5 @@
 		"title": "Sociaal-emotionele ontwikkeling",
 		"description": "",
 		"id": "61ead109-e7aa-4c20-be3f-c7f55f2587f2"
-	},
-	{
-		"vakleergebied_id": [
-			"4de7c3fa-4980-4936-8f33-29c8c6f47d44"
-		],
-		"replaces": [
-			"04058361-4e9e-4c02-a057-41605a7f37b5"
-		],
-		"title": "Praktische redzaamheid",
-		"description": "",
-		"deleted": 1,
-		"id": "ad6dfb0e-101c-4ff5-9d8c-b91212f8ce26"
 	}
 ]
