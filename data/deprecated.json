@@ -51597,5 +51597,50 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
+	},
+	{
+		"vakleergebied_id": [
+			"797c136a-a531-456a-9a74-e6eb5b9464b2"
+		],
+		"title": "Zintuigelijke ontwikkeling",
+		"replaces": [
+			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
+		],
+		"description": "",
+		"types": [
+			"vak",
+			"lpib_vakleergebied"
+		],
+		"id": "73d04df3-bd00-49b9-aee2-58f1896eb07b",
+		"replacedBy": []
+	},
+	{
+		"vakleergebied_id": [
+			"1f73da5d-4118-4330-9e3d-597693bd8e10"
+		],
+		"title": "Leren leren",
+		"description": "",
+		"types": [
+			"vak",
+			"lpib_vakleergebied"
+		],
+		"id": "04ae41a4-ab97-47be-a86f-81dd8fa4db3e",
+		"replacedBy": []
+	},
+	{
+		"vakleergebied_id": [
+			"4de7c3fa-4980-4936-8f33-29c8c6f47d44"
+		],
+		"replaces": [
+			"04058361-4e9e-4c02-a057-41605a7f37b5"
+		],
+		"title": "Praktische redzaamheid",
+		"description": "",
+		"types": [
+			"vak",
+			"lpib_vakleergebied"
+		],
+		"id": "ad6dfb0e-101c-4ff5-9d8c-b91212f8ce26",
+		"replacedBy": []
 	}
 ]
