@@ -5434,41 +5434,6 @@
 		]
 	},
 	{
-		"id": "6aad441e-43a7-401f-b76a-e873ed42fc89",
-		"sloID": "8",
-		"title": "Maatschappijleer (PO-vmbo)",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"aced88e1-bb12-42f9-88df-16d7abfda57e"
-		],
-		"doelniveau_id": [
-			"dfde8138-1629-4202-b99c-6b4b3cc68cd2",
-			"dc54666c-85ca-480c-9c0a-02b0a2b563c9",
-			"9f844b2f-67ed-4ecd-9b30-8817e649f4d8",
-			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
-			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
-			"7a40d495-d3c7-4c54-942f-6037f2dfde52",
-			"9a3f1512-3418-4718-8b4d-643c4b4753d6",
-			"364ad223-5c1a-4fe4-ac96-1ade66aa94ab",
-			"7b827a60-171e-4868-87bb-6f8f48878d24",
-			"8085bfd7-2a2a-4539-9245-ef8b16e066db",
-			"42c8640f-544a-42df-b5a6-5c8f7f33cd72",
-			"8faca8a9-1fb3-481f-9aaf-88c1437bfa71",
-			"f3e628d8-8dfd-469a-97e1-de86d73ed737",
-			"fc6210d9-ffde-4163-8f74-f878b7523d84",
-			"8de1c77f-d703-409f-a431-6764cd414353",
-			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
-		],
-		"lpib_vakleergebied_id": [
-			"617b2573-c9ab-4ab3-bc16-599719fdb3c8",
-			"15850849-4647-480e-9709-a06a107af07a"
-		],
-		"replaces": [
-			"15959e63-ebb4-4e72-9a11-2c1840077f6b"
-		]
-	},
-	{
 		"id": "1eb69507-70df-49aa-9d0d-b1d10f70ab25",
 		"sloID": "28",
 		"title": "Nask1 inhouden (PO-vmbo)",

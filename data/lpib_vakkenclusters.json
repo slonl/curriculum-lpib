@@ -391,27 +391,6 @@
 		]
 	},
 	{
-		"id": "4f864568-e6d4-4b02-ac3b-1f1f15d1bafa",
-		"sloID": "4",
-		"title": "Maatschappijvakken",
-		"niveau_id": [
-			"2cd219cf-56ee-4327-a399-4f44cd571351"
-		],
-		"lpib_vakleergebied_id": [
-			"22edbf64-e22e-4e8b-868a-b5a9986dfb68",
-			"48d66660-5818-4009-9d7b-1bade0869b7a",
-			"a3979073-dd21-45d8-9088-7959474d3c4d",
-			"d14648d4-9488-4fe7-b9e8-078b914ebf48",
-			"797d6450-cfa2-4932-9f16-09b6e9363afc",
-			"15850849-4647-480e-9709-a06a107af07a",
-			"eef6271f-a957-4136-8b32-07c5b658da53",
-			"48d66660-5818-4009-9d7b-1bade0869b7a"
-		],
-		"replaces": [
-			"d61494a9-8946-49aa-bbf1-a6d0bf306739"
-		]
-	},
-	{
 		"id": "f53e1efb-5bdf-47d2-a3e2-55b7c94a1a73",
 		"sloID": "89",
 		"title": "Moderne vreemde talen",

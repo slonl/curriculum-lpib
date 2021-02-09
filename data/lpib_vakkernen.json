@@ -8188,36 +8188,6 @@
 		]
 	},
 	{
-		"id": "e6307682-b700-4f90-9364-c3318829b231",
-		"title": "Arm en rijk",
-		"lpib_vaksubkern_id": [
-			"57e0079c-2f3b-4f0e-8b60-1842de6b40af",
-			"ffe8b326-7694-4e18-a88f-3c97e3d68de3",
-			"648cf549-67cd-47e2-b945-f52b99e854a8",
-			"f76e997d-4024-4478-8cae-3eba33ee035c",
-			"f76e997d-4024-4478-8cae-3eba33ee035c"
-		],
-		"lpib_vakinhoud_id": [
-			"5a77fa7c-c33f-4934-9c3e-5ef5450c7a40",
-			"8cd810aa-4583-4508-837b-9a7b9427e140",
-			"59693f75-2431-4bba-99a3-00e2167bfd02",
-			"d4b63382-87a5-4627-b8cc-53d504b11b7a",
-			"e7eb4f47-3765-4a1d-a732-b70eec787f56",
-			"f639de06-d47d-4ba2-a336-670af67e76e8",
-			"2b2ccf19-2e19-434f-b495-1da0b18d6b66",
-			"e4f99f05-edfb-4fba-8757-74b0bbabfecc",
-			"1e7ebbc4-45fd-4e13-94f2-9d0a364ae44a",
-			"6fcd1334-d01c-40f3-acbc-23eaf4d99650",
-			"b0d2a157-7be6-45a8-92cc-e35f016d5c5b",
-			"381be88d-8909-42b2-85df-92bede27d003",
-			"b0d2a157-7be6-45a8-92cc-e35f016d5c5b"
-		],
-		"description": "",
-		"replaces": [
-			"2fce5bd6-f19b-4601-b3fe-30c52ebeb539"
-		]
-	},
-	{
 		"id": "d4a2d26f-3da3-4a5d-a6e7-b17bd4af0c7e",
 		"title": "Jagers en boeren",
 		"lpib_vaksubkern_id": [

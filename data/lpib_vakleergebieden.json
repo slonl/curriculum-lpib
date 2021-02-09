@@ -1079,21 +1079,6 @@
 	},
 	{
 		"vakleergebied_id": [],
-		"sloID": "26",
-		"title": "Maatschappijleer",
-		"id": "617b2573-c9ab-4ab3-bc16-599719fdb3c8",
-		"lpib_vakkern_id": [
-			"9e3f5dfa-b81e-48f4-aefe-22bdce581481",
-			"21cf83b4-ac81-4d66-b272-92659004a5d5",
-			"0898ad98-f70a-4f25-a9a3-a11422140952",
-			"9fda2c80-6727-43cb-b7cb-974efc7a08f2"
-		],
-		"replaces": [
-			"7f1bc1d9-7911-476a-8e78-04a99cbd7a38"
-		]
-	},
-	{
-		"vakleergebied_id": [],
 		"replaces": [
 			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
 			"1514a89f-e8b6-452b-b23d-4e012d5dc86d"

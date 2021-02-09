@@ -31255,30 +31255,6 @@
 		]
 	},
 	{
-		"id": "f639de06-d47d-4ba2-a336-670af67e76e8",
-		"title": "Welzijn en welvaart in eigen omgeving/Nederland",
-		"description": "",
-		"doelniveau_id": [
-			"2cf4e27c-a40c-49d1-8717-d03c3b258f0c",
-			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
-			"cfda05f9-78ed-4193-aa0e-7d47f27fe056",
-			"0730864f-c518-47c0-939b-676e837f9088",
-			"9bd11262-4784-42ea-b228-6169963bd5cc",
-			"4771b4cb-9131-468a-b691-1e842952f0dc",
-			"443094aa-3443-4fbc-8492-a6fbf4f79d4d",
-			"ce8014e2-dbd5-4842-839b-2e6decfe221c",
-			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
-			"5e095ec6-ced6-4ada-bf3b-fc27e03a6c4f",
-			"f1ea65bf-e016-4a01-8336-b876d91b9cbf",
-			"c42719b6-9e77-4bcd-9fc8-e6734d08f6b5",
-			"bef03a4f-8682-49b2-80fa-cb835242f455",
-			"e97092b2-a07d-4335-aa8a-b3ea68a216c6"
-		],
-		"replaces": [
-			"a8aadae4-e85c-468a-8585-501b0c380a6d"
-		]
-	},
-	{
 		"id": "2b2ccf19-2e19-434f-b495-1da0b18d6b66",
 		"title": "Kennis en beeldvorming over ontwikkelingsgebieden op mondiaal niveau",
 		"description": "",

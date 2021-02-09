@@ -10370,42 +10370,6 @@
 		]
 	},
 	{
-		"id": "87d8acc4-3978-492a-aede-cbc7b4c7e6e9",
-		"title": "Levenskenmerk",
-		"lpib_vakinhoud_id": [
-			"f9ac3242-37d2-467a-a74a-c4e1c4a9fe62",
-			"7535f456-d392-4e92-bb67-542454dcdb21",
-			"c9712f4d-436b-44b0-990a-0f43105f41a8"
-		],
-		"doelniveau_id": [
-			"84947bea-7847-47d7-ac72-acef76e9fefa",
-			"c1617ca3-c9ae-4583-bebd-6d823acf24a0",
-			"26877a36-2438-4f38-8124-a2419f366b59",
-			"461288b8-b9ce-4a1e-adc9-b5539b0124cc",
-			"958b270e-3bba-4ff8-9669-8c6ee3398564",
-			"a1644103-acc6-47a9-9f25-a3148f6c511a",
-			"51a19eee-9c42-4a17-aed5-f1b05a2d7f0b",
-			"febf1afe-04cc-42a7-b09e-35450f70006a",
-			"7070dec9-8feb-4db3-88f8-068cde10c917",
-			"8e463fa8-50b4-4855-a1ae-5af30d08e7e9",
-			"b05bd622-e934-499a-a6e8-eb1411dc08e5",
-			"50702bcb-58d4-45df-8881-3805c9786a3c",
-			"2951f056-f8a6-4017-9bb5-6636f36fedf4",
-			"d3becb79-8f76-45cb-bc82-68c3c9fbf2d6",
-			"f9d7b3c1-4c05-4ee1-b43c-01a391d08b3c",
-			"8e2874cb-bc88-4ab1-b1a7-c73a0c669328",
-			"98c48cb6-cbae-4d87-9e65-82517ff95852",
-			"f73c89d1-8351-4c3e-9c8a-6bea97dc1eed",
-			"310da834-b5c6-49d0-88b2-5642c8790197",
-			"bfdd78ca-36e3-4b40-a2ff-b215cda3a44c",
-			"ad4300c4-092e-40fa-95f4-645ad7979893"
-		],
-		"description": "",
-		"replaces": [
-			"070e3c4f-97f5-4029-b1be-a35f886d92ac"
-		]
-	},
-	{
 		"id": "18b9897c-7711-422a-9449-da4d69f681d7",
 		"title": "Cel",
 		"lpib_vakinhoud_id": [
