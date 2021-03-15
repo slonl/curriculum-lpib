@@ -1882,8 +1882,7 @@
 			"fa328d8b-e1b8-43b8-a701-285310c706c7",
 			"7c733584-e885-4db3-9f13-095cfecb31d7",
 			"083d90fa-aecf-4247-afe8-72ea10972c89"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "e7c4f5be-fd40-4d82-8c9d-41aaa3ffe450",
@@ -2087,13 +2086,11 @@
 	},
 	{
 		"id": "820340bf-f670-4d96-b3bd-5a4b4db6f6a9",
-		"title": "Vaardigheden in samenhang",
-		"doelniveau_id": []
+		"title": "Vaardigheden in samenhang"
 	},
 	{
 		"id": "cad889f0-6f6c-4ea6-a430-8fead4832ec6",
-		"title": "Verwerven, verwerken en verstrekken van informatie",
-		"doelniveau_id": []
+		"title": "Verwerven, verwerken en verstrekken van informatie"
 	},
 	{
 		"id": "71399584-e6c4-40bc-a1d2-5e924b1b66e8",
@@ -2264,7 +2261,6 @@
 			"39ec3979-2333-4e57-9eaa-a9076b96b20c",
 			"2b7be25f-5d32-4f0d-a503-3f12f3bb1844"
 		],
-		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea",
 			"1f360caa-6e66-406b-b68d-d34be15db371",
@@ -2295,7 +2291,6 @@
 			"858c768b-f604-4a06-b5ef-5687b65ff4f2",
 			"f4e69d7b-f059-4890-9cc1-81b862381796"
 		],
-		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
@@ -2392,7 +2387,6 @@
 			"08095f3b-5ffa-438e-af13-93fa4efbdb4c",
 			"117ecc84-29e1-4f37-8a36-f72f1127754a"
 		],
-		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
@@ -2418,7 +2412,6 @@
 			"a2ac692e-b6aa-41a4-9f4a-b2c35c05a36e",
 			"151c8dbd-188a-4582-8e20-35a6c81c04f1"
 		],
-		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"1f360caa-6e66-406b-b68d-d34be15db371",
 			"6bce208d-5f68-4597-bfa1-f82957be865c",
@@ -4771,8 +4764,7 @@
 	},
 	{
 		"id": "a74c56f7-d26f-4b97-b599-3044a3a6418a",
-		"title": "Mens en gezondheid",
-		"doelniveau_id": []
+		"title": "Mens en gezondheid"
 	},
 	{
 		"id": "453edc81-0a89-4c22-86d9-fd4a3640ec29",
@@ -4784,8 +4776,7 @@
 	},
 	{
 		"id": "32d3f21a-da6a-47a0-9b86-2f9831559ccf",
-		"title": "Ontstaan van heelal, aarde en leven",
-		"doelniveau_id": []
+		"title": "Ontstaan van heelal, aarde en leven"
 	},
 	{
 		"id": "f70d9d3a-5374-480b-9442-98eea3993e2b",
@@ -6956,7 +6947,6 @@
 			"3a97bbb0-c672-4b80-b4fb-fafbd3798ba8",
 			"2aeb3c29-bc6c-457a-a23b-ea88e74f91ac"
 		],
-		"doelniveau_id": [],
 		"lpib_vakinhoud_id": [
 			"5225adf7-107c-4d3e-a2e7-a28209917934",
 			"61e11b35-4ace-4a0a-adea-b5c8940bdbd2",
@@ -9171,37 +9161,11 @@
 			"cbc309f6-ae25-41dd-8448-d0532ac167f6",
 			"35b39438-212d-4553-b963-f7e273aecf66"
 		],
-		"doelniveau_id": [
-			"a1644103-acc6-47a9-9f25-a3148f6c511a",
-			"c37319cc-1f73-4b4a-ba0c-8a824fa6fccd",
-			"a3c68a67-5462-43c3-916d-cf480519e9b6",
-			"51a19eee-9c42-4a17-aed5-f1b05a2d7f0b",
-			"6ca90c7a-6e84-4d48-abb8-0c08e96f06cd",
-			"5d65921a-53d4-4424-8784-41a74a376f9b",
-			"5d64c885-aea2-4ddd-bae0-c59b52bedc24",
-			"ae1d66dd-e245-4b5a-a406-6d8a55ade7e5",
-			"913449c5-ce13-4ba7-ba02-1d36e0be31ea",
-			"90d01ff3-fed9-42a5-b894-0911352f6880",
-			"170bac17-3cf3-4f75-bc34-687ce42c04b0",
-			"4c679701-8418-4c5d-8199-d2963b38dca4",
-			"75221373-e04c-4341-b5c7-6acb48cac8ff",
-			"fa94ec62-6f5b-4c9f-9551-7959164b9da9",
-			"fac0df3c-9cbd-4969-98e4-976a552604e2",
-			"eeeb53d8-9b81-455f-9542-d9f2149bb5c2",
-			"1041805d-2479-4101-b7d0-f9368855b3ca",
-			"fa5da541-b91c-44f7-8790-8a9023305301",
-			"0fdf93db-ef36-4ecb-9385-bb25da9806ad",
-			"8de1c77f-d703-409f-a431-6764cd414353",
-			"efa28d74-40de-4b16-be6e-0ea961b03eb0",
-			"be5883cb-1b1f-41da-a199-766c4bdc7acc",
-			"ca790944-c84c-4be0-b9b7-086adefc6ef3",
-			"1900f8e5-15ef-4f0f-ab2c-55933c8b3ddb",
-			"f1055eed-f8b0-40b4-9c73-5005806f269d",
-			"b8fbf866-292d-4be3-8e2c-0dc30cf474c6"
-		],
 		"replaces": [
 			"bb200f23-88b5-4132-b80a-f113a1eff1fa"
-		]
+		],
+		"description": "Vakkern bij biologie",
+		"dirty": "1"
 	},
 	{
 		"id": "efac1391-105c-41be-bc55-2db5ad8a211e",
