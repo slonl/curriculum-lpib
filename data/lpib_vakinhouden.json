@@ -633,26 +633,24 @@
 		"title": "Verschillen tussen meer en minder welvarende wijken en voorstellen voor verbetering van de woon- en leefomstandigheden in de eigen regio",
 		"description": "",
 		"doelniveau_id": [
-			"a44ad9d8-7af6-4004-9004-a4830150dd63",
-			"05072122-8e84-48be-94cb-8cfbd247d0d5",
-			"f8ae78a7-5ac0-48e5-9b4c-9760f5aecd6c",
-			"7f6a1391-47eb-487c-ad3a-776ac49e4e8f",
 			"0ba00ff7-fa70-47dd-ab4d-f509893aae52",
-			"a37a2233-2299-4dbb-ab7d-07c0895231dd"
-		]
+			"a37a2233-2299-4dbb-ab7d-07c0895231dd",
+			"7d869b4c-b225-4e97-9719-99d38cc042e7",
+			"9aefe127-04fe-4713-9d44-d467e7dd1cf3"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "e7eb4f47-3765-4a1d-a732-b70eec787f56",
 		"title": "Regionale verschillen in welvaart in Nederland",
 		"description": "",
 		"doelniveau_id": [
-			"a44ad9d8-7af6-4004-9004-a4830150dd63",
 			"acdb2302-46d6-4a22-a89c-b04900933b0e",
-			"f8ae78a7-5ac0-48e5-9b4c-9760f5aecd6c",
 			"4983de87-a340-4a19-adab-d5dba1c77c12",
 			"49135aa4-668c-48c2-81b8-8cff4cbc8d21",
 			"f0c1cde7-3aba-4a6d-b127-6eb0b768f084"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "e4f99f05-edfb-4fba-8757-74b0bbabfecc",
@@ -713,25 +711,15 @@
 		"title": "De bevolkingsontwikkeling en het ruimtegebruik in de eigen regio",
 		"description": "natuurlijke bevolkingsgroei, sociale bevolkingsgroei",
 		"doelniveau_id": [
-			"49a302f4-4e1b-42d5-8ef6-e363c9bea816",
 			"ecac2b40-2027-4b38-bb26-2f5406958587",
 			"2ec8b99c-5d61-4c39-b3bd-bd04d1f82a43",
 			"3d1d615f-28f1-481d-a095-d19a3c343408",
 			"f0832d73-f10b-4777-8e6e-bd2a3b770fc6",
-			"1d9592d5-f14a-491e-8b3b-07db623e9a25",
-			"39c405f8-fd57-4169-9997-7341c6b54da2",
-			"e3a3262f-6610-4a38-b5cc-a2f514f8874a",
 			"3577da1f-8f26-45fe-8e1c-7c5988b11caf",
 			"4552e4c6-2041-403b-a91b-1e42151edd18",
-			"e3f58d3a-d19b-4afd-99fa-ed81d98db6df",
-			"91118395-eb6b-49d1-9ace-fc186a0dbc7f",
-			"1e460c3a-8c88-47aa-8790-784c9be41d20",
-			"d332714d-4dd4-4f10-95ac-d577ce63f6cc",
-			"c94ff620-53c7-4c90-a2a4-3479336c019b",
-			"db98bf3b-88db-49e1-a374-9ab149c533af",
-			"2d36f5a1-cd11-4c24-a065-3d989d85b5bc",
-			"17748ab2-0976-4ed8-920c-64214405f705"
-		]
+			"e3f58d3a-d19b-4afd-99fa-ed81d98db6df"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "abe162b5-5e3e-499e-bdaf-2cdc502cf15e",
@@ -806,9 +794,7 @@
 		"title": "Verschillende soorten grenzen in de eigen regio en verbanden leggen met identiteit",
 		"description": "",
 		"doelniveau_id": [
-			"3c1d6610-c0b1-45ef-9d5e-e8cf6e201bbd",
 			"d3c3ec76-e0ba-44b3-b77b-92452a0e8985",
-			"3bbfe35a-59a6-4f1f-9f20-f190d80778d3",
 			"5d9e66f3-447d-4841-9082-37b4f75639f8",
 			"1bcd1b32-ad63-4f86-9047-4c87808c7ae8",
 			"210945a3-f65a-41ae-a8e4-efed96986d3b",
@@ -820,7 +806,8 @@
 			"66440f8d-0d72-45db-8e37-e4fbb1d5f8e3",
 			"43341bed-04f3-49e3-a6e7-74fbb65884d3",
 			"8c2f9447-8649-40e2-bd10-079a04d07970"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "eebdd0f8-e1b3-4b40-8e8a-4b586e55f054",
@@ -1030,32 +1017,30 @@
 		"title": "Het gebruik van energie in de eigen regio  en maatregelen voor een duurzamer gebruik van energie en de effecten ervan",
 		"description": "",
 		"doelniveau_id": [
-			"e286b54a-455c-4782-8e96-67de4de96173",
 			"a6e51f35-e9c3-42d3-a9c6-bf8bd3b4dbfa",
-			"f03f591f-5786-4f22-9ce0-0538442869d3",
-			"9268c7ce-86c2-4ab0-a717-f177a19516b5"
-		]
+			"9268c7ce-86c2-4ab0-a717-f177a19516b5",
+			"43549491-07de-4136-8342-34c0ddf44e2c",
+			"60facf8d-1e65-4d50-8980-3437e6cf0297"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "96cc76cf-f0cc-4310-9d5e-ec719c69d2da",
 		"title": "Regionale verschillen in welvaart in een buiten-Europese macroregio",
 		"description": "",
 		"doelniveau_id": [
-			"a44ad9d8-7af6-4004-9004-a4830150dd63",
-			"f8ae78a7-5ac0-48e5-9b4c-9760f5aecd6c",
-			"294ac844-0a8c-44d1-96ce-669fc7c79eb7",
-			"a898b4f8-2e8b-415d-bc56-9c0eb033f483"
-		]
+			"294ac844-0a8c-44d1-96ce-669fc7c79eb7"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "1e3b2c5a-2e54-42c0-a663-dc4b6050fc26",
 		"title": "Regionale verschillen in welvaart in een buiten-Europese macroregio vergelijken met een contrasterende macroregio elders in de wereld",
 		"description": "",
 		"doelniveau_id": [
-			"a44ad9d8-7af6-4004-9004-a4830150dd63",
-			"5a4cc191-a6cc-4222-b434-4ee89f406113",
-			"f8ae78a7-5ac0-48e5-9b4c-9760f5aecd6c"
-		]
+			"5a4cc191-a6cc-4222-b434-4ee89f406113"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "eb6d3541-4efa-4764-a14b-246677c2b6ab",
@@ -1119,15 +1104,16 @@
 		"title": "Het gebruik van energie in de eigen regio, de maatregelen voor een duurzamer gebruik en de effecten ervan",
 		"description": "",
 		"doelniveau_id": [
-			"e286b54a-455c-4782-8e96-67de4de96173",
 			"75d6806e-d7a3-40e9-b8c6-bfaed942552b",
 			"43549491-07de-4136-8342-34c0ddf44e2c",
 			"99a2e824-62d3-4821-b00d-1af7f2926844",
-			"f03f591f-5786-4f22-9ce0-0538442869d3",
 			"cc41f5f8-7948-41a7-9f4c-8b32ebf9d9f7",
 			"60facf8d-1e65-4d50-8980-3437e6cf0297",
-			"c4f6a9df-fc1b-40a1-ae61-79adbf6661c0"
-		]
+			"c4f6a9df-fc1b-40a1-ae61-79adbf6661c0",
+			"9268c7ce-86c2-4ab0-a717-f177a19516b5",
+			"a6e51f35-e9c3-42d3-a9c6-bf8bd3b4dbfa"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "9cbd772d-a085-48d7-b5a4-9b81a1977ad0",
@@ -10086,14 +10072,12 @@
 	{
 		"id": "89909f97-6bf0-4566-bab7-d9e8442442fd",
 		"title": "Inflatie en deflatie,",
-		"description": "inflatie, deflatie, consumentenprijsindex",
-		"doelniveau_id": []
+		"description": "inflatie, deflatie, consumentenprijsindex"
 	},
 	{
 		"id": "0712b34a-6856-4d94-92b8-5fefc1a7ed36",
 		"title": "Prijscompensatie",
-		"description": "prijscompensatie, nominaal inkomen, reëel inkomen",
-		"doelniveau_id": []
+		"description": "prijscompensatie, nominaal inkomen, reëel inkomen"
 	},
 	{
 		"id": "c3e6e260-b475-4f41-bf97-a5e44bdb82fa",
@@ -10459,8 +10443,7 @@
 	{
 		"id": "cda1f50e-ffb6-45ac-86f0-f6d6cd610b0e",
 		"title": "Inkomensverschillen, inkomensoverdracht",
-		"description": "inkomensverschillen, inkomensoverdracht, nivelleren, denivelleren",
-		"doelniveau_id": []
+		"description": "inkomensverschillen, inkomensoverdracht, nivelleren, denivelleren"
 	},
 	{
 		"id": "382115ac-8791-4b5d-9222-259ab674c390",
@@ -11043,8 +11026,7 @@
 	{
 		"id": "e2711228-bc38-4b02-91bd-5d601b432c2a",
 		"title": "Loon- en inkomstenbelasting",
-		"description": "loon- en inkomstenbelasting, draagkrachtbeginsel, profijtbeginsel, solidariteitsbeginsel",
-		"doelniveau_id": []
+		"description": "loon- en inkomstenbelasting, draagkrachtbeginsel, profijtbeginsel, solidariteitsbeginsel"
 	},
 	{
 		"id": "a3dc3c50-4ef2-45b0-b06f-c061c82e1968",
@@ -19543,164 +19525,137 @@
 	{
 		"id": "2a2d7bfc-c23b-46f9-a3e8-f2206584cb6a",
 		"title": "Verbrandingsverschijnselen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e761623c-d131-47f9-b65f-de993229248d",
 		"title": "Blusmiddelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b0445b53-d4fb-497c-934b-bf876d001550",
 		"title": "Proces van verbranding en reactieproducten bij volledige en onvolledige verbranding",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f14403c8-6f2a-4e92-ac1d-fc133ce013c1",
 		"title": "Milieu- en gezondheidseffecten bij overvloedig energiegebruik",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7e5524e1-f5af-4429-9194-f77b36959ddb",
 		"title": "Informatiebehoefte bepalen voor het bestuderen van een zelfgekozen scheikundig onderwerp",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9fd29757-b556-4c30-9167-136f32cb2923",
 		"title": "Informatie uit scheikundig bronnenmateriaal verwerven en selecteren: tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding tekeningen, schema's, diagrammen en tabellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b5b0b173-c06b-4378-8162-87161d9da9c7",
 		"title": "Natuur- en scheikundig bronnenmateriaal begrijpend lezen en hierbij feiten en meningen onderscheiden: studieboeken naslagwerken gegevensbestanden technische handleidingen internet",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "bb415e3d-770a-48fb-b27f-296d607921f1",
 		"title": "Informatie uit natuur- en scheikundig bronnenmateriaal verwerven, selecteren, verwerken en bewerken: tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding tekeningen, schema's, diagrammen en tabellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "58cc2343-662f-4df6-9fe8-26171782d519",
 		"title": "Presenteren van de informatie in de geschikte vorm Organiseren van de informatie voor praktische toepassing",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5bb9abf7-f1b5-4a9b-9f09-d2189c416c8c",
 		"title": "Karakteristieke bouw van stoffen op het niveau van moleculen, atomen en ionen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8297cee8-f081-441c-91d1-54abcd3f8aa3",
 		"title": "Moleculen zijn opgebouwd uit atomen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c167e22c-5d02-4497-a8a5-8b40edea9123",
 		"title": "Betekenis van molecuulformule, naam en formule van zouten en moleculaire stoffen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "95ff777e-27ff-4cb1-944b-14000cbb1630",
 		"title": "Scheikundige reacties als hergroepering van atomen of ionen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "28204567-ad69-4947-8fd7-bcf763bde26c",
 		"title": "Rangschikking van atoomsoorten, notatie en namen(groep 17 en 18), symbolen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8d440f80-a677-419e-ab7a-c9e29f22e256",
 		"title": "Van zout naar ionen en omgekeerd",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8185fe5c-f36c-41ba-aa68-ab66c93112fe",
 		"title": "Begrippen en processen op micro- en macroniveau",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "aa5625d4-666a-4228-b4fd-72591ef8d829",
 		"title": "Stoffen en hun  herkenbaarheid door  hun eigenschappen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "bdce9ba4-2c10-41ad-8d85-017a0a1a1e26",
 		"title": "Zuivere stof herkenning door smelt- cq stol- en kookpunt",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6720f520-e85c-4837-a7b0-736b342cbfd7",
 		"title": "Mengselherkenning door smelt- cq stol- en kooktraject",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7d3b911c-77e6-4159-8c2c-58b6bba90c16",
 		"title": "Een aantal zuivere en een aantal mengsels onderscheiden bij naam Hoofdbestanddelen van mengsels",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "42d3db29-0c5c-431b-b60b-29a8b2799a4a",
 		"title": "Enkele soorten mengsels uit het dagelijks leven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2522aa60-b9a9-411a-be0f-b58eda4e7ed6",
 		"title": "Gevaren van het gebruik van bepaalde stoffen en de te nemen voorzorgsmaatregelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "47933d2b-ad5b-4fdc-804c-dcca333c3bc8",
 		"title": "Veiligheidsmaatregelen vereist bij omgaan met straling",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0bcd63fc-eda1-4428-9793-12b847a08016",
 		"title": "Winning, zuivering en distributie van drinkwater",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "250102b0-0f94-4599-bd13-633390a3a866",
 		"title": "Verschillen en overeenkomsten tussen watersoorten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "eef7cbae-d55a-490e-a127-a0189526dc2b",
 		"title": "Betekenis en functie van het gebruik van water",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1208e3a0-9d83-4b04-8e09-83d7879d6a46",
 		"title": "Verschillen en voor- en nadelen van hard en zacht water",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "011b4848-d883-4497-8361-f0d5758e9f57",
@@ -19753,194 +19708,162 @@
 	{
 		"id": "2c2a716f-54b5-4ddc-b152-c2f57d873ae6",
 		"title": "Scheikundige meetapparaten gebruiken in praktijksituaties: liniaal, weegtoestel, klok, stroommeter, spanningsmeter, thermometer, barometer, maatcilinder, pipet, buret, injectiespuit als volumemeter Meten met behulp van de computer",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8e2a3650-33f4-4072-994f-6715e1f605fd",
 		"title": "Op de juiste wijze omgaan met stoffen, materialen en hulpmiddelen in het laboratorium: kwispelen bij schudden ruiken met wuiven vlamsoort kiezen brander gebruiken gebruik van scheikundig glaswerk (zoals reageerbuis, bekerglas, trechter, erlenmeyer)",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5ac09b9e-9d1c-4335-98c4-0c64bdb7664e",
 		"title": "Veilig, zinvol en doelmatig gebruik maken van stoffen, materialen, meetinstrumenten, apparaten en software.",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4065cb66-4655-47c1-9812-876e82c0eef1",
 		"title": "Respectvol omgaan met organismen, materialen en stoffen: zuinig met grondstoffen omgaan verantwoord met afval(stoffen) omgaan proper en veilig werken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "386c7792-0631-4e97-98c2-99e691ff6b04",
 		"title": "Scheikundig bronnenmateriaal uit tabellenboek, gegevensbank, gebruiksaanwijzing en technische handleiding bewerken tot tekeningen, schema's, diagrammen, en tabellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d1744c86-3acf-46c0-a094-3f583eda60f3",
 		"title": "Getallen, bewerkingen, rekenregels Breuken, procenten Verhoudingen Meten en rekenen met grootheden en eenheden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e03f4432-737d-4d0e-a804-aa3213058d97",
 		"title": "Verbanden, tabellen, grafieken, formules",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a839bbbd-a4e9-4471-aa0a-4a6ba1cd1251",
 		"title": "Nauwkeurigheid van metingen, passend bij de gebruikte instrumenten Nauwkeurigheid van observaties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9323e384-e578-40c2-85bc-0ab9d3d40688",
 		"title": "Een probleemstelling herkennen en specificeren Een onderzoeksvraag formuleren Een verwachting formuleren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8aaeda80-aefe-4fb1-ae19-ccd48c3af99d",
 		"title": "Een onderzoek voorbereiden: Benodigdheden verzamelen Alternatieven bedenken voor de uitvoering",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "571d44f4-02a1-40f9-976b-058fa96a33c6",
 		"title": "Werken volgens plan Waarnemingen verrichten Gegevens verzamelen en daarbij natuur- en scheikundige grootheden, eenheden en relaties gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "74882039-c046-4d98-9fe9-40e8d52da456",
 		"title": "Conclusies trekken Uitspraken doen over de geldigheid van het onderzoek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "796a6429-caa0-4604-af12-c45293bcc663",
 		"title": "Onderzoek afsluiten: onderzoek evalueren voorstellen voor verbetering doen de resultaten presenteren opruimen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5fe27f99-f01a-4d3d-a01a-b47cd702b358",
 		"title": "Stoffen verdwijnen en ontstaan bij chemische reacties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4c5b202e-9ae2-4d76-a999-b25677fc0f33",
 		"title": "Processen als chemische reacties in het dagelijks leven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "902ff7cf-6b6d-472c-9de7-31ca29e20a83",
 		"title": "Reactievergelijking en een aantal namen en formules",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8f6924c4-966f-4716-b0cd-f28b6fa4ba5f",
 		"title": "Toepassing zuur-base reacties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5d95865c-2ff2-40ec-b3c6-bf16cdb3dbd4",
 		"title": "Namen en formules van zuren en basen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ba1c5796-4095-4dd5-9395-a318126b522e",
 		"title": "Namen en formules van zure en basische oplossingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d4e9d1d1-2362-40f5-9155-2c069cb1a817",
 		"title": "Eigenschappen en toepassingen van zure en basische oplossingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d8c63ea1-4629-4e25-9b74-18570dd924f2",
 		"title": "Eigenschappen en toepassingen van indicatoren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "33757f33-2c8a-46ff-bab7-0108fea7a691",
 		"title": "De pH-schaal gebruiken om de mate van zuur of basisch zijn van een oplossing uit te drukken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "21c74927-d7d2-49fa-9c7c-b06a09d8a82f",
 		"title": "Namen van een aantal reinigingsmiddelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6f6a0f04-b847-4e5d-be0f-2cd2155877cd",
 		"title": "Werking reinigingsmiddel: Zeep en wasmiddelen mengen met vetachtige stoffen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3e20f69c-64bf-4ccd-8895-1445a0ee2905",
 		"title": "Oplosmiddelen en hun toepassingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c5ed3d81-381b-4a2e-beac-fef506516bad",
 		"title": "Kenmerken van cosmetische producten en de bereiding ervan",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "60165c67-b3bf-495d-9b3a-9766b23bbddb",
 		"title": "Bereidingsprocessen  van metalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5c6c57a0-91b2-4655-99ba-b3d549fa9397",
 		"title": "Eigenschappen en toepassingen van metalen en het verschil tussen edele en andere metalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "681a3905-c48f-4558-b26a-e5d86891f6eb",
 		"title": "Giftige metalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "acdc60d5-ace1-463a-abe8-8c445e18faea",
 		"title": "Verwerking van aardolie tot brandstoffen en andere producten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1af90282-8dfc-4f6d-b53a-d2cfb3db56a2",
 		"title": "Voordelen van toepassingen met polymeren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "06d85d7c-b3ad-4def-a323-689840f203dc",
 		"title": "Vorming van polymeren door aaneenschakeling van groot aantal kleine moleculen tot zeer grote moleculen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "39a60a04-af85-412b-82d9-e61d04b7efec",
@@ -20011,56 +19934,47 @@
 	{
 		"id": "28bb6c2a-f96b-4caa-917e-44ea0069747e",
 		"title": "Eigen gedachten mondeling en schriftelijk formuleren over natuur- en scheikundige onderwerpen: vaktaal functioneel gebruiken verband leggen tussen lpib_vakinhoudelijke begrippen en contexten waarin deze begrippen functioneel zijn",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "23694fb4-c369-49f1-b5dc-c007904e1855",
 		"title": "Veilig, zinvol en doelmatig gebruik maken van stoffen, materialen, (meet)instrumenten, apparaten en software, zonder schade te berokkenen aan mensen, dieren en milieu",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8f29da4f-1005-4d87-abfa-dd7d87135f09",
 		"title": "Factoren die invloed hebben op de snelheid van een reactie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ce35ca4d-7f8c-4ef8-8e36-a85ee20468d8",
 		"title": "De massa berekenen van één van de stoffen bij een reactie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "968f3eb9-7fd9-4230-8b64-26e1a4400e2c",
 		"title": "Productieprocessen en kwalitatief en kwantitatief gebruik van scheikundige begrippen, symbolen en formules",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d3030b3a-01bc-4958-9e5e-216b5c7827f7",
 		"title": "Productonderzoek en kwalitatief en kwantitatief gebruik van scheikundige begrippen, technieken, symbolen en formules",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "153789f7-8706-4dab-a304-814bcd4f917c",
 		"title": "Onderwerp verhelderen vanuit verschillende perspectieven, zoals maatschappelijke vraagstukken en scheikundige arbeidsgebieden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "958a8489-9deb-40a6-9c57-43a24ced3457",
 		"title": "Eigen normen en waarden verwoorden ten aanzien van arbeid en zorg Keuzes uitleggen of beschrijven aan de hand van scheikundige kennis en benoemen op basis van welke argumenten eigen keuzes zijn gemaakt  Vergelijken van eigen argumenten met die van medelee",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "bd3bd544-197f-4333-bf0f-dee8bd6b2a61",
 		"title": "Oordeel geven over argumenten en/of criteria van de leerling zelf en anderen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "31a8fef3-45cb-46de-a81a-5296b305cc38",
@@ -21736,14 +21650,12 @@
 	{
 		"id": "edfab313-6f05-4390-8849-f4eab7345821",
 		"title": "Tekstkeuze: teksten over alledaagse onderwerpen en onderwerpen die iets verder van de leerling afstaan, in vergelijking met onderliggende niveaus wat meer complex qua woordenschat, zinsbouw en opbouw, met een heldere structuur, duidelijke tekstverbanden,",
-		"description": "Tekstkeuze: teksten over alledaagse onderwerpen en onderwerpen die iets verder van de leerling afstaan, in vergelijking met onderliggende niveaus wat meer complex qua woordenschat, zinsbouw en opbouw, met een heldere structuur, duidelijke tekstverbanden, lage informatiedichtheid en niet te lang\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Informatieve teksten zoals artikelen uit kranten en populaire tijdschriften, standaardformulieren, schema’s, notities, digitale teksten\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Instructieve teksten zoals korte instructieteksten, (gebruiks)aanwijzingen, recepten\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Betogende teksten zoals artikelen uit kranten en populaire tijdschriften, reclameteksten, advertenties, folders\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;strategieën voor tekstbegrip, functie beeld en opmaak, schrijfdoel, tekstrelaties, samenvatten, hoofdonderwerp, hoofdgedachte, talige middelen van een schrijver om zijn of haar doel te bereiken, oordeel over de tekst",
-		"doelniveau_id": []
+		"description": "Tekstkeuze: teksten over alledaagse onderwerpen en onderwerpen die iets verder van de leerling afstaan, in vergelijking met onderliggende niveaus wat meer complex qua woordenschat, zinsbouw en opbouw, met een heldere structuur, duidelijke tekstverbanden, lage informatiedichtheid en niet te lang\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Informatieve teksten zoals artikelen uit kranten en populaire tijdschriften, standaardformulieren, schema’s, notities, digitale teksten\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Instructieve teksten zoals korte instructieteksten, (gebruiks)aanwijzingen, recepten\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Betogende teksten zoals artikelen uit kranten en populaire tijdschriften, reclameteksten, advertenties, folders\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;strategieën voor tekstbegrip, functie beeld en opmaak, schrijfdoel, tekstrelaties, samenvatten, hoofdonderwerp, hoofdgedachte, talige middelen van een schrijver om zijn of haar doel te bereiken, oordeel over de tekst"
 	},
 	{
 		"id": "02ce045b-c3bb-4de6-9ddb-eeed092bf124",
 		"title": "Tekstkeuze: verschillende soorten fictiewerken    Vakinhoud:   soorten fictiewerken, situatie, denken en handelen van personages, relatie fictiewerk en werkelijkheid, kenmerken fictie, relevante achtergrondinformatie, persoonlijke reactie met voorbeelden",
-		"description": "Tekstkeuze: verschillende soorten fictiewerken\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;soorten fictiewerken, situatie, denken en handelen van personages, relatie fictiewerk en werkelijkheid, kenmerken fictie, relevante achtergrondinformatie, persoonlijke reactie met voorbeelden",
-		"doelniveau_id": []
+		"description": "Tekstkeuze: verschillende soorten fictiewerken\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;soorten fictiewerken, situatie, denken en handelen van personages, relatie fictiewerk en werkelijkheid, kenmerken fictie, relevante achtergrondinformatie, persoonlijke reactie met voorbeelden"
 	},
 	{
 		"id": "5aeb8809-7f68-48f7-a750-9c2c3e47b26a",
@@ -22442,20 +22354,17 @@
 	{
 		"id": "2f1726f6-7c20-4b76-94da-7a50dfeb2153",
 		"title": "Tekstsoort: gesprekssituaties    Vakinhoud:   relevante informatie, strategieën, eigen spreek-/luisterdoel, soorten publiek, spreekdoel van een ander, interactie, taalvarianten",
-		"description": "Tekstsoort: gesprekssituaties\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;relevante informatie, strategieën, eigen spreek-/luisterdoel, soorten publiek, spreekdoel van een ander, interactie, taalvarianten",
-		"doelniveau_id": []
+		"description": "Tekstsoort: gesprekssituaties\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;relevante informatie, strategieën, eigen spreek-/luisterdoel, soorten publiek, spreekdoel van een ander, interactie, taalvarianten"
 	},
 	{
 		"id": "98fe44c5-525a-4a86-abdc-fcc4f7627dbe",
 		"title": "Tekstkeuze: teksten over alledaagse onderwerpen, wat meer complex qua opbouw dan onderliggende niveaus, heldere structuur met duidelijke verbanden en denkstappen, redelijk informatiedicht    Kijk- en luisterteksten zoals uitleg, instructies, toespraken, (",
-		"description": "Tekstkeuze: teksten over alledaagse onderwerpen, wat meer complex qua opbouw dan onderliggende niveaus, heldere structuur met duidelijke verbanden en denkstappen, redelijk informatiedicht\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Kijk- en luisterteksten zoals uitleg, instructies, toespraken, (nieuws)berichten, documentaires, reclameboodschappen, discussieprogramma’s, films en televisieseries\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;strategieën voor tekstbegrip, doel van de makers, belangrijkste elementen van een programma, betekenis van een uitspraak, oordeel over de tekst met toelichting, instructie uitvoeren, waarde en betrouwbaarheid informatie",
-		"doelniveau_id": []
+		"description": "Tekstkeuze: teksten over alledaagse onderwerpen, wat meer complex qua opbouw dan onderliggende niveaus, heldere structuur met duidelijke verbanden en denkstappen, redelijk informatiedicht\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Kijk- en luisterteksten zoals uitleg, instructies, toespraken, (nieuws)berichten, documentaires, reclameboodschappen, discussieprogramma’s, films en televisieseries\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;strategieën voor tekstbegrip, doel van de makers, belangrijkste elementen van een programma, betekenis van een uitspraak, oordeel over de tekst met toelichting, instructie uitvoeren, waarde en betrouwbaarheid informatie"
 	},
 	{
 		"id": "04972467-fc04-4f22-b2b6-dca71192c2fb",
 		"title": "Tekstsoort: spreeksituaties    Vakinhoud:   relevante informatie, strategieën, eigen spreek-/luisterdoel, soorten publiek, spreekdoel van een ander, interactie, taalvarianten",
-		"description": "Tekstsoort: spreeksituaties\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;relevante informatie, strategieën, eigen spreek-/luisterdoel, soorten publiek, spreekdoel van een ander, interactie, taalvarianten",
-		"doelniveau_id": []
+		"description": "Tekstsoort: spreeksituaties\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;relevante informatie, strategieën, eigen spreek-/luisterdoel, soorten publiek, spreekdoel van een ander, interactie, taalvarianten"
 	},
 	{
 		"id": "1aadbf29-ab6c-428d-a1f7-5bff9c591f30",
@@ -22698,8 +22607,7 @@
 	{
 		"id": "85f7a468-edee-493b-b521-b0b55930176d",
 		"title": "Tekstsoort:   teksten over herkenbare onderwerpen van maatschappelijke en beroepsmatige aard met zekere mate van sturing met betrekking tot doel, publiek, vorm en inhoud van de te schrijven teksten    Informatieve, overtuigende, opiniërende en activerende",
-		"description": "Tekstsoort: \r\n\n\r\n\n&nbsp;teksten over herkenbare onderwerpen van maatschappelijke en beroepsmatige aard met zekere mate van sturing met betrekking tot doel, publiek, vorm en inhoud van de te schrijven teksten\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Informatieve, overtuigende, opiniërende en activerende teksten zoals (in)formele brieven en e-mails, formulieren, korte instructieteksten, (gebruiks)aanwijzingen, verslagen, artikelen voor schoolkrant, jongerentijdschrift of dagblad, &nbsp;advertenties, schriftelijke verzoeken\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;- strategieën (schrijfplan, informatie, herschrijven, descriptionen, hulpmiddelen), \r\n\n\r\n\n&nbsp;- schrijfdoel (informatie geven en vragen, overtuigen, mening geven, tot handelen aanzetten), \r\n\n\r\n\n&nbsp;- taalgebruik (woordkeuze, toon, zinsbouw), \r\n\n\r\n\n&nbsp;- lezerspubliek (directe omgeving, instanties, geadresseerden met hogere status), \r\n\n\r\n\n&nbsp;- schrijfconventies (tekstsoorten, tekst- en alinea-opbouw, spelling, interpunctie, uiterlijke verzorging) \r\n\n\r\n\n&nbsp;- beschikbare elektronische hulpmiddelen\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "Tekstsoort: \r\n\n\r\n\n&nbsp;teksten over herkenbare onderwerpen van maatschappelijke en beroepsmatige aard met zekere mate van sturing met betrekking tot doel, publiek, vorm en inhoud van de te schrijven teksten\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Informatieve, overtuigende, opiniërende en activerende teksten zoals (in)formele brieven en e-mails, formulieren, korte instructieteksten, (gebruiks)aanwijzingen, verslagen, artikelen voor schoolkrant, jongerentijdschrift of dagblad, &nbsp;advertenties, schriftelijke verzoeken\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;Vakinhoud: \r\n\n\r\n\n&nbsp;- strategieën (schrijfplan, informatie, herschrijven, descriptionen, hulpmiddelen), \r\n\n\r\n\n&nbsp;- schrijfdoel (informatie geven en vragen, overtuigen, mening geven, tot handelen aanzetten), \r\n\n\r\n\n&nbsp;- taalgebruik (woordkeuze, toon, zinsbouw), \r\n\n\r\n\n&nbsp;- lezerspubliek (directe omgeving, instanties, geadresseerden met hogere status), \r\n\n\r\n\n&nbsp;- schrijfconventies (tekstsoorten, tekst- en alinea-opbouw, spelling, interpunctie, uiterlijke verzorging) \r\n\n\r\n\n&nbsp;- beschikbare elektronische hulpmiddelen\r\n\n\r\n\n&nbsp;\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "b890ce1b-8d3e-4d1f-bec6-efacc002c28e",
@@ -24293,68 +24201,57 @@
 	{
 		"id": "4e01b3bc-cbb5-424a-911c-dd57fa260d42",
 		"title": "Relevante contexten, verkeer en transport, telecommunicatie (media), gebouwde omgeving, biomedische technieken, kleding, biotechnologie; nanotechnologie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "46dc6732-0b2f-4e74-831f-f18141fd0381",
 		"title": "Veranderingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "691c6603-320f-45ee-b701-acbf3c37def5",
 		"title": "Toepassingen van toenamen-diagrammen en differentie-quotiënten",
-		"description": "maximum, minimum, differentie, differentiequotiënt, toenamendiagram, hellingscoëfficiënt",
-		"doelniveau_id": []
+		"description": "maximum, minimum, differentie, differentiequotiënt, toenamendiagram, hellingscoëfficiënt"
 	},
 	{
 		"id": "8e4e0096-e20a-4eca-83ea-aff49dfa2356",
 		"title": "Veranderingsgedrag van grafiek,tabel of functie",
-		"description": "veranderingsgedrag, toenamediagram, differentiequotiënt &nbsp;",
-		"doelniveau_id": []
+		"description": "veranderingsgedrag, toenamediagram, differentiequotiënt &nbsp;"
 	},
 	{
 		"id": "8d1eaca7-6318-4324-b885-82bb9a65b6cd",
 		"title": "Afgeleide functies",
-		"description": "afgeleide",
-		"doelniveau_id": []
+		"description": "afgeleide"
 	},
 	{
 		"id": "0180f2a9-e2dd-4b66-8cb9-51f327faa276",
 		"title": "Gebruik van de afgeleide functie",
-		"description": "raaklijn, differentiaalquotiënt",
-		"doelniveau_id": []
+		"description": "raaklijn, differentiaalquotiënt"
 	},
 	{
 		"id": "2387e587-71c2-4211-b1f7-9a14f4e3646e",
 		"title": "Afgeleide functies bepalen",
-		"description": "differentiëren",
-		"doelniveau_id": []
+		"description": "differentiëren"
 	},
 	{
 		"id": "c1eb2b6d-4b7f-4b29-a02f-b16febe8942c",
 		"title": "Regels voor het differentiëren",
-		"description": "somregel,\r\n\n\r\n\n&nbsp;verschilregel,\r\n\n\r\n\n&nbsp;productregel,\r\n\n\r\n\n&nbsp;quotiëntregel,\r\n\n\r\n\n&nbsp;kettingregel,\r\n\n\r\n\n&nbsp;samengestelde functie",
-		"doelniveau_id": []
+		"description": "somregel,\r\n\n\r\n\n&nbsp;verschilregel,\r\n\n\r\n\n&nbsp;productregel,\r\n\n\r\n\n&nbsp;quotiëntregel,\r\n\n\r\n\n&nbsp;kettingregel,\r\n\n\r\n\n&nbsp;samengestelde functie"
 	},
 	{
 		"id": "b502f499-9c19-4577-8126-db28506a5fd4",
 		"title": "Toepassingen van differentie-quotiënten",
-		"description": "extreem,\r\n\n\r\n\n&nbsp;maximum,\r\n\n\r\n\n&nbsp;minimum,\r\n\n\r\n\n&nbsp;interval,\r\n\n\r\n\n&nbsp;differentie,\r\n\n\r\n\n&nbsp;differentiequotiënt,\r\n\n\r\n\n&nbsp;koorde,\r\n\n\r\n\n&nbsp;stapgrootte,\r\n\n\r\n\n&nbsp;hellinggrafiek",
-		"doelniveau_id": []
+		"description": "extreem,\r\n\n\r\n\n&nbsp;maximum,\r\n\n\r\n\n&nbsp;minimum,\r\n\n\r\n\n&nbsp;interval,\r\n\n\r\n\n&nbsp;differentie,\r\n\n\r\n\n&nbsp;differentiequotiënt,\r\n\n\r\n\n&nbsp;koorde,\r\n\n\r\n\n&nbsp;stapgrootte,\r\n\n\r\n\n&nbsp;hellinggrafiek"
 	},
 	{
 		"id": "c15669c5-6c4f-4258-87a0-fb1c12463e7c",
 		"title": "Integralen berekenen",
-		"description": "bepaalde integraal\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "bepaalde integraal\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "5a21bfdd-2f68-49bc-919e-c1679ee971a7",
 		"title": "Toepassingen van integralen",
-		"description": "Riemannsom, afgelegde weg, zwaartepunt",
-		"doelniveau_id": []
+		"description": "Riemannsom, afgelegde weg, zwaartepunt"
 	},
 	{
 		"id": "45850ac0-4bdc-4a51-b597-7a4c35780f59",
@@ -24909,14 +24806,12 @@
 	{
 		"id": "8a71a27e-fdc3-4ab1-920e-4f089e11e74b",
 		"title": "Getallen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1d6e543f-5282-4c46-933c-9bb313c3f9d0",
 		"title": "Tientallig stelsel",
-		"description": "tientallig stelsel, &nbsp;natuurlijk getal",
-		"doelniveau_id": []
+		"description": "tientallig stelsel, &nbsp;natuurlijk getal"
 	},
 	{
 		"id": "5294b2f5-65da-43b2-b127-01171c4f3afb",
@@ -24932,8 +24827,7 @@
 	{
 		"id": "7e8be8d7-c416-4537-bafb-1a0adaa05a85",
 		"title": "Natuurlijke getallen",
-		"description": "deelbaar, even, oneven, veelvoud, deler, priemgetal",
-		"doelniveau_id": []
+		"description": "deelbaar, even, oneven, veelvoud, deler, priemgetal"
 	},
 	{
 		"id": "e8d0c645-ddb6-4d17-a229-6bc300c2bfe1",
@@ -24949,20 +24843,17 @@
 	{
 		"id": "5bfc29ac-2b72-4f17-85f6-314a476e171c",
 		"title": "Schrijfwijze rationale getallen",
-		"description": "rationaal, breuk, &nbsp;decimaal teller, noemer deelstreep",
-		"doelniveau_id": []
+		"description": "rationaal, breuk, &nbsp;decimaal teller, noemer deelstreep"
 	},
 	{
 		"id": "d9d6a19c-20a8-4736-88bf-4cd5da22541b",
 		"title": "Irrationale getallen",
-		"description": "reëel, irrationaal, π, wortel",
-		"doelniveau_id": []
+		"description": "reëel, irrationaal, π, wortel"
 	},
 	{
 		"id": "1b33f139-6a84-42b1-bfc4-827c9874aac6",
 		"title": "Berekeningen",
-		"description": "optellen, aftrekken, vermenigvuldigen, delen, worteltrekken, machtsverheffen, wortel, macht, kwadraat, grondtal, exponent",
-		"doelniveau_id": []
+		"description": "optellen, aftrekken, vermenigvuldigen, delen, worteltrekken, machtsverheffen, wortel, macht, kwadraat, grondtal, exponent"
 	},
 	{
 		"id": "d2ea2514-4e2b-400f-8d64-6ec85bbdcaed",
@@ -25032,32 +24923,27 @@
 	{
 		"id": "0b3cd538-200f-4162-80d4-9c5c29276fea",
 		"title": "Vaktaal algebra",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9efa02ae-441c-4476-83dd-2a88bd68d1d2",
 		"title": "Herleiden",
-		"description": "expressie, herleiden, ontbinden,\r\n\n\r\n\n&nbsp;vereenvoudigen,\r\n\n\r\n\n&nbsp;gelijkwaardig met,\r\n\n\r\n\n&nbsp;term, factor",
-		"doelniveau_id": []
+		"description": "expressie, herleiden, ontbinden,\r\n\n\r\n\n&nbsp;vereenvoudigen,\r\n\n\r\n\n&nbsp;gelijkwaardig met,\r\n\n\r\n\n&nbsp;term, factor"
 	},
 	{
 		"id": "4528b1f7-5bb9-46c6-bc65-5829b55f07c6",
 		"title": "Geordend tellen",
-		"description": "schema, diagram\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "schema, diagram\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "ac211d18-8523-4bf6-9637-5265935d20b2",
 		"title": "Telmethoden",
-		"description": "boomdiagram,\r\n\n\r\n\n&nbsp;wegendiagram,\r\n\n\r\n\n&nbsp;rooster,\r\n\n\r\n\n&nbsp;permutatie,\r\n\n\r\n\n&nbsp;combinatie",
-		"doelniveau_id": []
+		"description": "boomdiagram,\r\n\n\r\n\n&nbsp;wegendiagram,\r\n\n\r\n\n&nbsp;rooster,\r\n\n\r\n\n&nbsp;permutatie,\r\n\n\r\n\n&nbsp;combinatie"
 	},
 	{
 		"id": "91512d8b-7a93-4a0d-a6c8-6619a68d687b",
 		"title": "Absolute waarde",
-		"description": "absolute waarde",
-		"doelniveau_id": []
+		"description": "absolute waarde"
 	},
 	{
 		"id": "ef1adddf-7b58-49b9-8c9b-952a65084523",
@@ -25877,8 +25763,7 @@
 	{
 		"id": "c42751dc-cb80-43c3-aabb-87a2628b9e86",
 		"title": "Data verwerken",
-		"description": "data, statistiek, populatie, steekproef\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "data, statistiek, populatie, steekproef\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "60a3a654-fef7-4cb1-b3b4-380970df6250",
@@ -25918,38 +25803,32 @@
 	{
 		"id": "a9999f9c-0109-449e-a90d-72fbdb355d8e",
 		"title": "Kansen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "793a30ab-9a7e-40fb-97ea-4a5ff45fa034",
 		"title": "Empirische kansen",
-		"description": "uitkomst, empirisch, simulatie, wet van de grote aantallen",
-		"doelniveau_id": []
+		"description": "uitkomst, empirisch, simulatie, wet van de grote aantallen"
 	},
 	{
 		"id": "7ff84c82-7f54-435c-ad8d-a72734dd20c7",
 		"title": "Kansen berekenen",
-		"description": "kanshistogram\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "kanshistogram\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "93b0321e-737e-46e4-9fa1-420bb02625f4",
 		"title": "Regels kansrekening",
-		"description": "somregel,\r\n\n\r\n\n&nbsp;complementregel,\r\n\n\r\n\n&nbsp;productregel,\r\n\n\r\n\n&nbsp;verwachtingswaarde",
-		"doelniveau_id": []
+		"description": "somregel,\r\n\n\r\n\n&nbsp;complementregel,\r\n\n\r\n\n&nbsp;productregel,\r\n\n\r\n\n&nbsp;verwachtingswaarde"
 	},
 	{
 		"id": "9b9bd810-0151-4f6b-8d1e-44fb043a6a56",
 		"title": "Binomiale kansverdeling",
-		"description": "binomiale verdeling",
-		"doelniveau_id": []
+		"description": "binomiale verdeling"
 	},
 	{
 		"id": "b52f646a-3259-4d9f-9072-6170259a2023",
 		"title": "Normale verdeling gebruiken",
-		"description": "normale verdeling,\r\n\n\r\n\n&nbsp;continue grootheid,\r\n\n\r\n\n&nbsp;vuistregels,\r\n\n\r\n\n&nbsp;standaardafwijking",
-		"doelniveau_id": []
+		"description": "normale verdeling,\r\n\n\r\n\n&nbsp;continue grootheid,\r\n\n\r\n\n&nbsp;vuistregels,\r\n\n\r\n\n&nbsp;standaardafwijking"
 	},
 	{
 		"id": "e548d58f-ca20-4380-bca2-3ec47911f063",
@@ -25965,50 +25844,42 @@
 	{
 		"id": "e6ad9bce-6bde-40a5-a233-83a0dda30bdb",
 		"title": "Kansmodellen",
-		"description": "vaasmodel,\r\n\n\r\n\n&nbsp;kansruimte",
-		"doelniveau_id": []
+		"description": "vaasmodel,\r\n\n\r\n\n&nbsp;kansruimte"
 	},
 	{
 		"id": "1cfe0ff2-174b-429f-a27d-df11cff06fc1",
 		"title": "Toevalsvariabelen",
-		"description": "kansverdeling",
-		"doelniveau_id": []
+		"description": "kansverdeling"
 	},
 	{
 		"id": "7f106293-b1d6-4706-b309-22524ab1d412",
 		"title": "Discrete kansverdelingen",
-		"description": "uniform,\r\n\n\r\n\n&nbsp;binomiaal",
-		"doelniveau_id": []
+		"description": "uniform,\r\n\n\r\n\n&nbsp;binomiaal"
 	},
 	{
 		"id": "c655f44f-b467-4a7d-a10d-d2d4e9698e4a",
 		"title": "Uniforme kansverdeling",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ae6ad5d9-5d72-4c6f-bc1a-9755ffc55a7b",
 		"title": "Binomiale en normale kansverdeling",
-		"description": "normale verdeling, grenswaarde, standaardafwijking",
-		"doelniveau_id": []
+		"description": "normale verdeling, grenswaarde, standaardafwijking"
 	},
 	{
 		"id": "a5d843a6-3c77-4689-9de0-1017cabc2f53",
 		"title": "Normale verdeling als benadering",
-		"description": "centrale limietstelling,\r\n\n\r\n\n&nbsp;continuïteits-correctie",
-		"doelniveau_id": []
+		"description": "centrale limietstelling,\r\n\n\r\n\n&nbsp;continuïteits-correctie"
 	},
 	{
 		"id": "7ca57193-d9bb-454e-9b5b-9c9d20c1543c",
 		"title": "Toetsen van hypothesen",
-		"description": "nulhypothese,\r\n\n\r\n\n&nbsp;alternatieve hypothese",
-		"doelniveau_id": []
+		"description": "nulhypothese,\r\n\n\r\n\n&nbsp;alternatieve hypothese"
 	},
 	{
 		"id": "79d51e67-8f7c-4adc-91bc-d3537309912b",
 		"title": "Toetsen uitvoeren",
-		"description": "eenzijdige toets,\r\n\n\r\n\n&nbsp;tweezijdige toets,\r\n\n\r\n\n&nbsp;significantieniveau,\r\n\n\r\n\n&nbsp;tekentoets",
-		"doelniveau_id": []
+		"description": "eenzijdige toets,\r\n\n\r\n\n&nbsp;tweezijdige toets,\r\n\n\r\n\n&nbsp;significantieniveau,\r\n\n\r\n\n&nbsp;tekentoets"
 	},
 	{
 		"id": "839e299e-ce70-465c-bd88-ed76514568fd",
@@ -26135,8 +26006,7 @@
 	{
 		"id": "61286423-1b13-48a9-8f48-50d99f9ffa2d",
 		"title": "Probleem verbinden met wiskunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "be5c304b-d98e-4b80-af89-abbf61348503",
@@ -26167,8 +26037,7 @@
 	{
 		"id": "d5bdbdab-5b8f-4c25-bc69-8bb212cf1f7a",
 		"title": "Reflecteren en beoordelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "73ab0cda-298b-4050-895d-2bddf19d51c2",
@@ -26535,8 +26404,7 @@
 	{
 		"id": "47c44676-a59d-46ec-9eb3-e61f38508f7c",
 		"title": "Berekenen van oppervlakte en inhoud in de meetkunde",
-		"description": "meten, metriek stelsel, grootheid, schaalvergroting",
-		"doelniveau_id": []
+		"description": "meten, metriek stelsel, grootheid, schaalvergroting"
 	},
 	{
 		"id": "e7a898eb-f083-445d-adee-3740e02273d7",
@@ -26598,32 +26466,27 @@
 	{
 		"id": "57900e7c-4156-4f5e-b8ad-d50131afea98",
 		"title": "Oriëntatie op bewijzen",
-		"description": "definitie,\r\n\n\r\n\n&nbsp;vermoeden,\r\n\n\r\n\n&nbsp;stelling,\r\n\n\r\n\n&nbsp;bewijs",
-		"doelniveau_id": []
+		"description": "definitie,\r\n\n\r\n\n&nbsp;vermoeden,\r\n\n\r\n\n&nbsp;stelling,\r\n\n\r\n\n&nbsp;bewijs"
 	},
 	{
 		"id": "6a6e266d-843a-47c5-8c2f-5ff9aa72293d",
 		"title": "Bewijsmethoden",
-		"description": "ongerijmde, meetkundige plaats",
-		"doelniveau_id": []
+		"description": "ongerijmde, meetkundige plaats"
 	},
 	{
 		"id": "557b311a-fe9a-4242-b264-f54eb1e4d88c",
 		"title": "Construeren en bewijzen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0121cd90-2720-4778-9bb9-e21696a28d7c",
 		"title": "Bewijzen opstellen",
-		"description": "onderlinge ligging\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "onderlinge ligging\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "2f537e5e-1747-4a3f-8689-30845fbbc163",
 		"title": "Constructies uitvoeren",
-		"description": "gebied, normaal, voetpunt, bissectrice",
-		"doelniveau_id": []
+		"description": "gebied, normaal, voetpunt, bissectrice"
 	},
 	{
 		"id": "98c1c8e3-4747-42b4-bd98-fea69ef10a56",
@@ -27699,14 +27562,12 @@
 	{
 		"id": "6a102edb-a529-45d6-8684-02fadc2ba6cc",
 		"title": "Machtsfuncties",
-		"description": "Machtsfunctie",
-		"doelniveau_id": []
+		"description": "Machtsfunctie"
 	},
 	{
 		"id": "672d2d69-4262-4e8f-9707-61b6f09afe98",
 		"title": "Gebroken lineaire functies",
-		"description": "gebroken lineair, hyperbool",
-		"doelniveau_id": []
+		"description": "gebroken lineair, hyperbool"
 	},
 	{
 		"id": "206f6649-8534-42b2-9bf9-ad24dad5dce7",
@@ -28222,8 +28083,7 @@
 	{
 		"id": "3f9a3203-620d-4c85-8e99-cbd045a6f9fa",
 		"title": "Grafiek, tabel, formule of beschrijving",
-		"description": "grafiek, tabel, (woord) formule, beschrijving, assenstelsel, coördinaten, afhankelijke variabele, onafhankelijke variabele, grootheid, eenheid",
-		"doelniveau_id": []
+		"description": "grafiek, tabel, (woord) formule, beschrijving, assenstelsel, coördinaten, afhankelijke variabele, onafhankelijke variabele, grootheid, eenheid"
 	},
 	{
 		"id": "3471da30-6b76-4249-8ec8-cd22e146d2a7",
@@ -28239,8 +28099,7 @@
 	{
 		"id": "2b95172c-fbe5-415a-89ec-2f70ab38f2aa",
 		"title": "Representatie kiezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b3541838-fff1-476f-8263-69dc2f6e2fa7",
@@ -28282,20 +28141,17 @@
 	{
 		"id": "00a571b8-52bc-4a85-87e7-a33c8987a247",
 		"title": "Recht evenredig verband",
-		"description": "recht evenredig,\r\n\n\r\n\n&nbsp;evenredigheids-constante",
-		"doelniveau_id": []
+		"description": "recht evenredig,\r\n\n\r\n\n&nbsp;evenredigheids-constante"
 	},
 	{
 		"id": "957d3564-a697-4e63-bdee-d6e3b977a887",
 		"title": "Exponentiële functies",
-		"description": "logaritmische schaal\r\n\n\r\n\n&nbsp;",
-		"doelniveau_id": []
+		"description": "logaritmische schaal\r\n\n\r\n\n&nbsp;"
 	},
 	{
 		"id": "caa5e8a6-6dde-433f-85c9-8ad9b3665dff",
 		"title": "Formule voor exponentiële verbanden",
-		"description": "groeifactor, beginhoeveelheid",
-		"doelniveau_id": []
+		"description": "groeifactor, beginhoeveelheid"
 	},
 	{
 		"id": "f6c985e5-60f0-4646-b969-95754f777c0b",
@@ -28322,8 +28178,7 @@
 	{
 		"id": "efd736d5-5603-4ca8-aedd-c89406f4356f",
 		"title": "Substitueren en gelijkstellen",
-		"description": "variabele,\r\n\n\r\n\n&nbsp;substitueren,\r\n\n\r\n\n&nbsp;gelijkstellen,\r\n\n\r\n\n&nbsp;vergelijking,\r\n\n\r\n\n&nbsp;oplossen",
-		"doelniveau_id": []
+		"description": "variabele,\r\n\n\r\n\n&nbsp;substitueren,\r\n\n\r\n\n&nbsp;gelijkstellen,\r\n\n\r\n\n&nbsp;vergelijking,\r\n\n\r\n\n&nbsp;oplossen"
 	},
 	{
 		"id": "a3f2f649-d766-4ea3-8c27-5d33f31bea05",
@@ -28340,32 +28195,27 @@
 	{
 		"id": "91c4083b-a6d0-42ec-822b-67e03b9f2c84",
 		"title": "Snijpunt van lijnen uitrekenen",
-		"description": "snijpunt",
-		"doelniveau_id": []
+		"description": "snijpunt"
 	},
 	{
 		"id": "ab2a8702-0d17-4c5a-ad93-db128ed6df49",
 		"title": "Machts-vergelijkingen oplossen",
-		"description": "derdemachtswortel",
-		"doelniveau_id": []
+		"description": "derdemachtswortel"
 	},
 	{
 		"id": "b3cd8f12-2084-4aab-a4e9-3a52a0402164",
 		"title": "Logaritmische vergelijking oplossen",
-		"description": "logaritmische vergelijking",
-		"doelniveau_id": []
+		"description": "logaritmische vergelijking"
 	},
 	{
 		"id": "b05a8e33-10c2-4024-97e6-a1990c2cf477",
 		"title": "Vergelijking met standaardfunctie oplossen",
-		"description": "standaaardfunctie",
-		"doelniveau_id": []
+		"description": "standaaardfunctie"
 	},
 	{
 		"id": "730ea51c-efc9-4e4e-a267-cc5656c4d3d2",
 		"title": "Vergelijking numeriek oplossen",
-		"description": "numerieke methode",
-		"doelniveau_id": []
+		"description": "numerieke methode"
 	},
 	{
 		"id": "129deb27-649a-478e-a82f-b7c71158f938",
@@ -28382,62 +28232,52 @@
 	{
 		"id": "855e487e-fe63-4c4f-baff-c1d89371131e",
 		"title": "Grafieken transformeren",
-		"description": "verschuiven,\r\n\n\r\n\n&nbsp;translatie,\r\n\n\r\n\n&nbsp;vermenigvuldigen",
-		"doelniveau_id": []
+		"description": "verschuiven,\r\n\n\r\n\n&nbsp;translatie,\r\n\n\r\n\n&nbsp;vermenigvuldigen"
 	},
 	{
 		"id": "5e966c56-143f-472b-bf0a-8f336ab344fc",
 		"title": "Logaritme",
-		"description": "rekenregels voor logaritmen, rekenregels voor machten",
-		"doelniveau_id": []
+		"description": "rekenregels voor logaritmen, rekenregels voor machten"
 	},
 	{
 		"id": "2c65b0b7-4785-4911-86b2-e0a6052defe4",
 		"title": "Logaritmische schaalverdeling",
-		"description": "logaritmische schaalverdeling",
-		"doelniveau_id": []
+		"description": "logaritmische schaalverdeling"
 	},
 	{
 		"id": "1b476fb5-5bbe-4d6d-bf99-81b3f40154a9",
 		"title": "Regelmaat",
-		"description": "rekenkundige rij,\r\n\n\r\n\n&nbsp;meetkundige rij,\r\n\n\r\n\n&nbsp;recurrent",
-		"doelniveau_id": []
+		"description": "rekenkundige rij,\r\n\n\r\n\n&nbsp;meetkundige rij,\r\n\n\r\n\n&nbsp;recurrent"
 	},
 	{
 		"id": "1fcc7043-84e1-4d44-b5b3-8d8a5bcbf537",
 		"title": "inverse functie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b65025f1-3637-4968-98ff-802224ef867a",
 		"title": "Rekenregels machten en logaritmen",
-		"description": "logaritme,\r\n\n\r\n\n&nbsp;het getal e,\r\n\n\r\n\n&nbsp;natuurlijke logaritme",
-		"doelniveau_id": []
+		"description": "logaritme,\r\n\n\r\n\n&nbsp;het getal e,\r\n\n\r\n\n&nbsp;natuurlijke logaritme"
 	},
 	{
 		"id": "1c9a0463-cde1-4b31-8668-e72775a7436e",
 		"title": "Periodieke functies",
-		"description": "trillingspatroon,\r\n\n\r\n\n&nbsp;harmonische beweging",
-		"doelniveau_id": []
+		"description": "trillingspatroon,\r\n\n\r\n\n&nbsp;harmonische beweging"
 	},
 	{
 		"id": "9abbce7b-2df4-4351-9db1-9e38ed56e630",
 		"title": "Toepassingen van het sinusmodel",
-		"description": "radiaal,\r\n\n\r\n\n&nbsp;sinusmodel,\r\n\n\r\n\n&nbsp;eenparige cirkelbeweging,\r\n\n\r\n\n&nbsp;faseverschil,\r\n\n\r\n\n&nbsp;parameter-voorstelling,\r\n\n\r\n\n&nbsp;Lissajousfiguur",
-		"doelniveau_id": []
+		"description": "radiaal,\r\n\n\r\n\n&nbsp;sinusmodel,\r\n\n\r\n\n&nbsp;eenparige cirkelbeweging,\r\n\n\r\n\n&nbsp;faseverschil,\r\n\n\r\n\n&nbsp;parameter-voorstelling,\r\n\n\r\n\n&nbsp;Lissajousfiguur"
 	},
 	{
 		"id": "a03c0bf6-a3d1-4149-a9db-783b98c95bc7",
 		"title": "Herleiden van goniometrische formules",
-		"description": "somformules, verschilformules,\r\n\n\r\n\n&nbsp;formules van Simpson",
-		"doelniveau_id": []
+		"description": "somformules, verschilformules,\r\n\n\r\n\n&nbsp;formules van Simpson"
 	},
 	{
 		"id": "65905d87-19f9-4469-9fea-263f65fce0d6",
 		"title": "Goniometrische vergelijkingen oplossen",
-		"description": "periodiciteit",
-		"doelniveau_id": []
+		"description": "periodiciteit"
 	},
 	{
 		"id": "83817d96-16f6-4314-9cd3-e64f1ae6c706",
@@ -29209,1622 +29049,1352 @@
 	{
 		"id": "8eb47d4c-b8cc-47a6-90bd-f24c09cf8d15",
 		"title": "Gedrag van functies en grafieken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9756aced-73ee-469b-9da1-00ecc1a06eaa",
 		"title": "De aard van stijgen of dalen vaststellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "cb63d0a4-511e-45ba-b420-1988404e404e",
 		"title": "Gebruik van toename-diagrammen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c5cc519c-307e-40eb-a04d-6cf9587df37d",
 		"title": "Gemiddelde veranderingen berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6c648280-25fe-4f94-b153-1e4934a7d412",
 		"title": "Veranderings-gedrag van een functie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8ffdd847-0d76-4985-94b8-51dbf4a560ee",
 		"title": "Helling berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "389cdbc5-0693-4b9e-9af0-b396fb65ba4d",
 		"title": "Helling gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "fc8538a0-81c7-461e-b426-777cc14db74f",
 		"title": "Verband tussen helling en afgeleide",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "228188fc-b23a-4866-9b72-3e43a8d23fc9",
 		"title": "Extremen berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "bad44783-4ab7-4cb2-ad18-bf48a2cf13e8",
 		"title": "Extremen berekenen met de afgeleide",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "937c2881-bf31-431e-8b87-b1bf67fec556",
 		"title": "Afgeleiden interpreteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "30b5dbc6-83aa-45db-8e60-ea52f7498de3",
 		"title": "Afgeleide bepalen van standaardfuncties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "113e60a7-d92d-4ffd-b128-0b57920eb388",
 		"title": "Samengestelde functies differentiëren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3740b953-fbfd-44fe-9a49-4a0392b25649",
 		"title": "Optimaliseren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "96080b58-9e48-4b98-a8cb-c821b74fe03e",
 		"title": "Eigenschappen van getallen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5a1bc9be-70a5-48d2-ab4e-fd38b5a14d2e",
 		"title": "Rekenregels logaritmen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4bd97c9c-4294-400c-bedf-1f799b910e5f",
 		"title": "Formules herleiden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7fa4144f-d260-4af2-810c-ef83e7cbe5f5",
 		"title": "Permutaties en combinaties berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c2831800-ff7d-4e61-a5c2-11ab6cbd3505",
 		"title": "Telproblemen schematiseren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "87b0a378-de7c-4871-b0f0-9453d015b048",
 		"title": "Permutaties en combinaties gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a7ef246b-d897-44d7-a3c1-2a95076b57a6",
 		"title": "Telproblemen herkennen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1ca03856-9d24-4a74-89f0-b616fc1cd3e5",
 		"title": "Telproblemen oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6b3464c2-cb10-4548-8b89-ec1a35abf8c0",
 		"title": "Presentatie van data beoordelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "49620ad4-e026-49e6-b6a2-22ac08319c28",
 		"title": "Steekproef beoordelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f9f7eafc-17d4-40da-a618-95e1a3c21777",
 		"title": "Centrum en spreiding hanteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ead47cbf-7b65-4583-ab63-9109e56bfa25",
 		"title": "Variabelen onderscheiden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "94dc1855-3f4a-42a3-9a40-19c4b441f47d",
 		"title": "Uitspraken over presentaties van data beoordelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6525e1e7-3486-4fde-a49b-a56bd467a4f6",
 		"title": "Informatie afleiden uit presentaties van data",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7a129596-8dab-4b4b-a476-5ed4ed5c27a2",
 		"title": "Representatie van data kiezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6208787c-8205-4a9d-a167-e965ee090d59",
 		"title": "Representatie  maken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "09648a39-2bb8-46ac-9f80-ea358c44857e",
 		"title": "Centrummaat en spreidingsmaat kiezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2bb29b97-cbfd-443a-935f-c39fa27723ea",
 		"title": "Samenhang beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b2e538a1-5b4c-489a-8cc6-c0ad268ddea8",
 		"title": "Data afleiden uit data",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f42b53dc-5118-4916-9cc7-d8aa86a122cf",
 		"title": "Verdelingen van data beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4da15642-fd34-4115-97dc-449dbd2558bd",
 		"title": "Vuistregels gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a9350064-74ec-4b3e-b6d1-1ca180d8043f",
 		"title": "Groepen statistisch vergelijken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "401a508c-7a6e-44ec-b2d7-31589327b578",
 		"title": "Steekproefomvang berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "cb7d357f-8926-4dd1-bc45-22df3ec7c835",
 		"title": "Steekproeven hanteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "20d45778-1bde-4526-adca-8fdf51e3a3dd",
 		"title": "Statistische samenhang beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3d02e4b6-a072-4a79-bdd3-6544796b01ab",
 		"title": "Statistische samenhang beoordelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e2cb851b-9050-46ad-9d9e-c3b02c928689",
 		"title": "Statistisch onderzoek beoordelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f6bced84-878c-42d4-bd80-cd043944c039",
 		"title": "Statistiek met ICT",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ae233c40-0d11-42cc-889a-043e1328bdf5",
 		"title": "Statistische aanpak kiezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0f5b9132-c77b-4634-8586-af2c8111733c",
 		"title": "Grafische weergave kiezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1bb7f0eb-84a3-4cbe-8802-a5dd331add1f",
 		"title": "Gebruik van ICT",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a1954a64-339e-458f-a722-a3fbafec5aaa",
 		"title": "Maten voor een dataset",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3f02aec8-f99c-48c8-867f-ff28c65cb1e1",
 		"title": "Conclusies trekken uit een steekproef",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5",
 		"title": "Kansverdelingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dc9d9173-31ac-450a-a775-f187a29491ba",
 		"title": "Communiceren over wiskunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "75abc117-3627-4852-a5e6-d57740afbe24",
 		"title": "Inzicht in wiskundetaal",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c501e93d-4091-4dea-bc96-ec7f8bc2414e",
 		"title": "Vaktaal  herkennen en gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "79f0b8d4-7ffb-42f3-97e2-80d96e470021",
 		"title": "ICT gebruiken bij wiskunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "77183b8d-9332-4778-b292-ba296a5acb38",
 		"title": "Redeneringen verifiëren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d52b10dd-fbda-4974-8cb3-6c17f97a5e0a",
 		"title": "Probleem oplossen met wiskunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e5fb903b-381c-4d61-85df-92c689db2270",
 		"title": "Model opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b08b4dbd-b1dd-49a3-8e61-58c9c060c716",
 		"title": "Strategie kiezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ab382e10-a518-40e0-8e1f-9dd546ab93aa",
 		"title": "Vaardigheden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "78eae074-25d4-46d7-acd9-718f0cd022bb",
 		"title": "Informatie zoeken en gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "28b2b9b5-bf28-41ec-a7a8-304d120ae3c0",
 		"title": "Toepassingen van wiskunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9e23ea12-7e25-465f-99fa-4eff2b7752ab",
 		"title": "Informatie ordenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ed794af6-553e-4974-ba41-4867c7abfcae",
 		"title": "Tabellen vergelijken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1325fc6f-3ddd-4ab7-a25a-33031790209b",
 		"title": "Tabel opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2489c302-e008-4e9d-a9ad-07308cddd5b7",
 		"title": "Tabel gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f698168c-aff2-465e-b385-ad8ec36f9b88",
 		"title": "Standaardverband bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2fb195cc-dc57-444b-8d8b-fa08d06a034e",
 		"title": "Formule opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "39645958-3707-4ac5-a36e-505af8a06e62",
 		"title": "Formule opstellen of wijzigen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dfb317d1-1a35-4e4a-82ed-a8771e760d74",
 		"title": "Grafiek tekenen van standaardverband",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "daf0133e-19e4-47a7-b6eb-9e84572e58d8",
 		"title": "Grafiek tekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4e30498b-b8f2-4fcd-adeb-bd2552dab8d0",
 		"title": "Redeneren over grafiek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1de4eb90-a5f3-4474-9c06-7dc062405dc2",
 		"title": "Variabelen vaststellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6937d449-36cf-4183-83f4-97ec8a5c0b0f",
 		"title": "Grafiek analyseren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "578eda88-2465-4277-987e-9cc6468fd1a4",
 		"title": "Waarden aflezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5d9f1c25-508e-4f94-b8c5-06eb56382d51",
 		"title": "Tabel beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8440b608-7444-497c-87aa-4395552f23c4",
 		"title": "Evenredigheid herkennen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f355acb9-4afd-4d20-8d1d-0e5c846c00ec",
 		"title": "Grafieken vergelijken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ce61126b-5e95-4dc9-8898-7c873fda4db3",
 		"title": "Verbanden samenstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "eb72b60a-6e95-442b-b3a5-66a1ea0478eb",
 		"title": "Lineaire formule opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ca67b68f-e112-460a-a5dc-0530b40c92df",
 		"title": "Lineaire grafiek tekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f3f6878a-8fb9-4d61-a32e-111f842e539e",
 		"title": "Lineair verband herleiden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "32412c5c-a543-4578-93ab-e6e4e385bdf5",
 		"title": "Recht evenredig verband opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dc20ccac-a778-4fb0-86e7-7c5fcbe44f9f",
 		"title": "Exponentiële formule opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d809e97a-e959-41ab-ab4c-2d328d5c953f",
 		"title": "Exponentiële grafiek tekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3f4c4a6a-9561-4384-8e47-f36bd6f06403",
 		"title": "Rekenen aan exponentieel verband",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "03c96f35-7473-4365-8eaa-512cf7f241dd",
 		"title": "Logaritmische schaalverdeling gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f2508e79-6694-46d9-b716-99f2be3c5fcc",
 		"title": "Snijpunt aflezen uit grafiek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "63cc997b-d4bd-4a05-b52e-6002e41d64e8",
 		"title": "Vergelijking of ongelijkheid oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9efdc855-2ce7-42f7-bdda-e6b0656a600d",
 		"title": "Vergelijking of ongelijkheid opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "01037f7d-7e6f-49c6-b22d-f54668f20d8b",
 		"title": "Lineaire vergelijking oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4a318014-032f-46be-a8cc-7ba5779410ae",
 		"title": "Snijpunt berekenen van lijnen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "907205ea-3665-42cc-8363-22275beec2ef",
 		"title": "Lineaire ongelijkheden oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e1bb902f-99b1-4b4b-ad50-d65825dbbcc7",
 		"title": "Vlakdelen bepalen bij grafieken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c3f30a70-4572-444f-af2e-6c5df36c9115",
 		"title": "Vlakdelen bepalen uit ongelijkheden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f9834685-4051-44e8-adf1-2432f1dd6a7f",
 		"title": "Standaardfuncties gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e5ca3f5c-ef21-4b95-b47f-283e7a2f320f",
 		"title": "Representaties van functies gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ff925e13-98b3-406e-a54d-c4f7450ba223",
 		"title": "Formules opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1ca2fbec-344b-4ff7-bf50-a057d44d2957",
 		"title": "Functies combineren of samenstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "94ea4bf5-5222-4d6a-af46-77808588f6ec",
 		"title": "Grafiek tekenen van een gecombineerde of samengestelde functie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "03e10559-9f66-48c0-bb31-636f07f82730",
 		"title": "Verband met meerdere variabelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ba30b3cf-3308-4a69-97e3-82ca481549a6",
 		"title": "Soort rij vaststellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e6aa2845-11e4-4584-a6ec-edb8c0d145c2",
 		"title": "Eigenschappen van de verschilrij",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "118a2f68-bbd7-478c-9184-bdadc07a0309",
 		"title": "Somrij hanteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d1308b52-bac4-47ac-b810-0d6f38de9c9c",
 		"title": "Sigma-teken gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dd4fac3a-cf82-4702-8a54-ef1587e7d57e",
 		"title": "Recursieve en directe formules",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "77f605aa-a354-47f5-a82d-4c262deb2c72",
 		"title": "Recursieve formules opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "25047762-4c25-44c5-9fbc-28d4aaa32833",
 		"title": "Vergelijking opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "224f9d43-379f-4b55-a2e4-cc6fab8dea76",
 		"title": "Vergelijking oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "20a02cd1-05c3-4193-a69e-9f0fa36391ea",
 		"title": "Ongelijkheid opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "fed519d6-8ba2-4664-9651-5ef7ac527c52",
 		"title": "Ongelijkheid oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "28a6cfaf-850b-43b1-8804-497cfca0ec54",
 		"title": "Breuken en decimale getallen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e63740bd-2eab-4a62-8292-24b6af229efa",
 		"title": "Rekenen met procenten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a9e0b5d5-0e19-4182-9e08-2339923e84e0",
 		"title": "Rekenen met verhoudingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8773e52f-ef56-46af-a620-ba114bc10ad5",
 		"title": "Rekenen met grootheden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9ea792f9-dd03-4bea-b9db-091f8b09aff4",
 		"title": "Lokale afgeleide interpreteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4e85b526-32f1-4c87-95d6-c24d983bf195",
 		"title": "Stijgen of dalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5e65cd05-4ee6-4c34-9726-4db8561e60d7",
 		"title": "Grafiek van de afgeleide schetsen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f2dc09c3-9f90-4530-b994-8ca35add95d6",
 		"title": "Grafiek van de functie schetsen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9f99d2ab-53ed-4fa3-8b99-02dd924cfe92",
 		"title": "De tweede afgeleide gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "9473777b-78c6-4a7a-8fde-33e90292aba7",
 		"title": "Verband tussen de afgeleide en de raaklijn",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "20520f55-8638-4a88-b5c0-3dd3d48d5d68",
 		"title": "Afgeleide gebruiken van standaardfuncties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e9a828b9-7da3-4369-98ff-5374c4a23532",
 		"title": "Bij de bepaling van de afgeleide e en ln gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "74c83b37-139f-4b79-b687-60b469ba439d",
 		"title": "Regels voor de bepaling van de afgeleide",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8736e713-a1b4-45cf-9304-7f1379154ce3",
 		"title": "Verband tussen afgeleiden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b7d8ea12-4a05-4dd7-b38e-3438cf568be3",
 		"title": "Vergelijking van een raaklijn opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d7bdffc1-54f6-42ed-8bb1-cba456694501",
 		"title": "Extremen bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "08d8998b-7eb5-4736-8e89-529abf4b29aa",
 		"title": "Buigpunten bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e001c358-d814-4f99-bda8-d2e2499a23f8",
 		"title": "Bepaalde integraal exact berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a4747199-e11b-47d6-9787-13e7aa54b96b",
 		"title": "Bepaalde Integraal  benaderen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c3cfd4f4-f021-49be-b8c9-ee99520b1ffe",
 		"title": "Primitieve controleren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0da3db93-bf51-48d9-8282-43813009055a",
 		"title": "Oppervlakte van een vlakdeel",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f2c45148-bd63-4511-94be-bf9102cd2604",
 		"title": "Inhoud van een omwentelings lichaam",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "569183f6-86f5-4424-9c10-2e645e173c90",
 		"title": "Bepaalde integraal interpreteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1c686696-72dc-4e18-b4da-b4a765917429",
 		"title": "Bepaalde integraal als functie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "453b163f-6f18-41a2-be33-79d8e5a012c5",
 		"title": "Redeneringen opzetten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6c40e23f-6d57-4d43-8d2c-b9820bab65e0",
 		"title": "Afstand van punten berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "699c7a12-d22e-4ef6-b9ef-2834bc1447f8",
 		"title": "Lengte van lijnstuk berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "71098cbb-a930-4679-9208-6a7a96af46ce",
 		"title": "Lengte berekenen in een rechthoekige driehoek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3599c138-2e6e-4069-b9dd-1585745ab898",
 		"title": "Lengte berekenen in een driehoek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2221c480-8d46-46e2-8beb-9227c6f9bba7",
 		"title": "Hoek berekenen in een rechthoekige driehoek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "56640f59-e4db-4fa8-9516-b866af3118ec",
 		"title": "Hoek berekenen in een driehoek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8edc18dc-2332-4c92-8e5a-d66fdb9221f3",
 		"title": "Tekening maken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0d3573c1-081b-42c4-a378-493defafbe64",
 		"title": "Meetkundig onderzoeken en bewijzen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0e9a75d4-bd89-4cf3-be34-4297a88fdbe8",
 		"title": "Algebraïsch onderzoeken en bewijzen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a4987ba0-9d98-4fc6-9ee4-02d4d51ee342",
 		"title": "Algebraïsche technieken toepassen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "34b3c95d-9def-4004-844c-51b65f10711a",
 		"title": "Algebraïsch beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4dc44f15-7742-48c1-902e-3a4b7129e8d6",
 		"title": "Lijn beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "59827086-a40a-4484-b065-027b6c2b862c",
 		"title": "Cirkel beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "df1076fd-d95b-4e67-a0cf-3612377e0279",
 		"title": "Cirkelvergelijking",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8609df88-94ba-425f-9be3-caec7e928cb2",
 		"title": "Representaties van lijn en cirkel",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "89eb12b1-86c0-40ee-82af-9be4456df669",
 		"title": "Raaklijn met gegeven richting",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "32353b04-249f-4d44-a883-0d57600b1043",
 		"title": "Raaklijn door gegeven punt",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ced0a416-f3eb-4410-ae5b-3801b9ca09c9",
 		"title": "Transformatie van lijn en cirkel",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dad0aa5b-7271-4cee-a5a7-767bf625b8c7",
 		"title": "Afstanden berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1c2ba4a6-7500-4b82-82bd-a4714b6eeded",
 		"title": "Snijpunten berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "10e43422-69dc-4832-b4a0-1274dbecff0e",
 		"title": "Stelsel van twee lineaire vergelijkingen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7e83d457-0729-4250-820b-948c2e4cfd55",
 		"title": "Snijpunten lijn en cirkel",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c09d229b-d0b0-4acc-92f0-7a36ea8910ed",
 		"title": "Rekenen met vectoren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a5db24b6-77e7-4e6f-bc38-e45454b120e7",
 		"title": "Toepassingen van het inproduct",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "809169dd-b526-4e4a-b9e5-e598666e554d",
 		"title": "Zwaartepunten bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f74afeef-d62b-432c-a260-032823477b4e",
 		"title": "Vectorvoorstelling van een lijn",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7c82b7b4-df27-4264-af3e-d3b36fbed74a",
 		"title": "Representaties van een lijn",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0623132a-e4d3-4d60-b549-4f1d5ce26359",
 		"title": "Baan van een bewegend punt",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4aa309a1-f42d-4270-b2c5-c664169f12ba",
 		"title": "Snelheid en versnelling",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a4a0f443-4297-49f1-871d-bdf3032d13b3",
 		"title": "Raaklijn opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "85db4ab4-6c02-4676-85f0-e3b2a5f53e0d",
 		"title": "Functievoorschrift opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "59406673-0ad4-4143-a59a-7078ad115867",
 		"title": "Functievoorschrift met een parameter",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6cb96401-7350-4850-acd4-a890ee7506e0",
 		"title": "Grafieken tekenen van een standaardfunctie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1c7a2190-ca4d-46cb-9ed0-1092473a4e10",
 		"title": "Formule herschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "93cf2db2-83fa-4d3d-8684-ef0a257934cc",
 		"title": "Formule herleiden tot functievoorschrift",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "88f220d4-3604-43b4-9076-649d4f26d4d5",
 		"title": "Representaties tweedegraads functies",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "bf4e9058-10ae-49bc-a038-584a9f70155a",
 		"title": "Karakteristieke eigenschappen gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5fab7a45-8f8a-46ad-a555-14afc7480bef",
 		"title": "Karakteristieke eigenschappen bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b1a9a097-c599-44f3-aa2c-9dcdfb26ee2b",
 		"title": "Formules combineren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "73ea6844-c970-4df2-a689-2a1d1c015067",
 		"title": "Functievoorschriften combineren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "868edac2-f2a6-4f3c-b1a3-9623778aa2c3",
 		"title": "Functievoorschrift van een getransformeerde grafiek",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "025cb63d-31c2-4b79-9778-daba312bcf74",
 		"title": "Samenhang tussen functievoorschrift en transformatie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "fb6df5f3-15bb-4559-840a-ae4cc361d153",
 		"title": "Formule interpreteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ee9936c9-6d16-4f96-a61f-41cbd4e0eb69",
 		"title": "Functies samenstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "55b26608-031a-4db3-b116-abe6e5a95864",
 		"title": "Inverse functie opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "78ac6a7c-b8df-40f2-9cdf-a7ceaf73d1df",
 		"title": "Grafiek tekenen van een inverse functie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "960d1c24-599d-47ad-b37c-83dc86768793",
 		"title": "Inverse van een samengestelde functie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f2a3f99b-e96f-4023-9c73-3978d505d141",
 		"title": "Inverse functie interpreteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d16a37d0-ea0c-48ec-a5d7-d639d9dcc727",
 		"title": "Asymptoten bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "aff7462e-0363-4371-8efa-fbbfede12e6f",
 		"title": "Onderzoek doen naar asymptoten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "43b56c2c-2f93-456b-9162-0116efb943c2",
 		"title": "Limieten bepalen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7156fda8-1c48-4d22-95bc-199910423cdc",
 		"title": "Exponentiële functie beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "95ff58a1-3eb4-4404-aae8-8430a07f450d",
 		"title": "Exponentieel groeiproces",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c88a659a-9f0f-4b94-ba44-a6c51f605c9b",
 		"title": "Machtsverbanden hanteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4de80af3-6168-432f-8cf8-89b60b51d240",
 		"title": "Graden en radialen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "086eba3f-dcc0-4f30-b8d3-ebec6cd55594",
 		"title": "Grafiek tekenen van een sinusmodel",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ed8230b7-cd17-4bd3-a5d9-e02db11f0f1e",
 		"title": "Bij een sinusoïde een sinusmodel opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "91ca995c-99c0-4485-9805-b1ad9a35619e",
 		"title": "Sinusmodel gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "13b8e3d6-7cd7-4afb-aa4b-272ef1bd5162",
 		"title": "Harmonische trilling",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "c84e0556-c080-452c-88fe-5fc482f7eccd",
 		"title": "Vergelijking met standaardfuncties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "65e8e9ac-a526-4058-9130-cc3812b42493",
 		"title": "Eerstegraads vergelijking",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "ccb92e74-51aa-4009-9e38-53996bb64971",
 		"title": "Stelsel oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6fc263a5-44da-443b-8bc2-5e31d3d7d270",
 		"title": "Kwadratische vergelijking",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "823694cb-1cff-4dab-b730-fea57e68d849",
 		"title": "Exponentiële en logaritmische vergelijking",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a51acc42-5c29-46d7-8703-8932dbe28dfb",
 		"title": "Machtsvergelijking en absolute waarde vergelijking",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3513ec3d-5b84-4518-93bc-1c2fff302aeb",
 		"title": "Goniometrische vergelijking",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d8996c75-9bc4-448d-8674-a3fa446bb3c8",
 		"title": "Vergelijking of ongelijkheid opstellen en oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "10ead76b-266b-4ee1-8588-443fc74e508f",
 		"title": "Vergelijking met een parameter",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0b4ef89d-c9ba-41cf-99c7-f22acccb7042",
 		"title": "Ongelijkheden oplossen met standaardfuncties",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "429ab309-9ca4-460a-bea2-408cbfdaf958",
 		"title": "Ongelijkheden oplossen met samengestelde functies",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6ab100cd-206d-4d17-9520-e7ffb750a16e",
 		"title": "Ongelijkheden oplossen met goniometrische functies",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a67700f5-4064-4c28-b291-5163090aaa45",
 		"title": "Stijgen of dalen vaststellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5446bc63-48e2-4a00-ae9d-e106196cde70",
 		"title": "Gemiddelde verandering berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "90c062bc-35c8-41a4-a8cb-c38cec0490bd",
 		"title": "Veranderings-gedrag van een bekend verband",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "6d9b28a5-d8a2-4c07-81c0-45064aa93a3f",
 		"title": "Veranderings-gedrag van een verband",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e0d2f490-7916-41ad-992a-9a2ac3277c1c",
 		"title": "Gemiddelde verandering interpreteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dee09f34-ebe1-4aee-9e54-9e302a20eb6e",
 		"title": "Hellingen vergelijken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2ad378bf-bd42-4545-b1e9-805c1e6dfdad",
 		"title": "Representaties van telproblemen gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "27a6cd12-25be-4016-a655-1e7f2930e0b5",
 		"title": "Aard van een telprobleem vaststellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1ad4c551-e736-446e-895a-6212abcaa60d",
 		"title": "Telprobleem ordenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f4f05142-4f7f-4899-a87f-d6d87023c428",
 		"title": "Representatie van telprobleem maken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b1b896f8-0e73-403d-aaaf-0250fbf104de",
 		"title": "Telprobleem herkennen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4088aeec-e9c9-4693-9b73-905cdd25e638",
 		"title": "Telprobleem oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "70efbe7a-cbf5-4535-b0fa-2956a80a4e6b",
 		"title": "Beoordelen van een wiskundig model",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f1111721-e66e-40c5-8033-4a089aca937c",
 		"title": "Herkennen en beschrijven van wiskunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "49070f03-dbff-45cf-b1d7-9778c4239247",
 		"title": "Wiskunde in de cultuurhistorie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "baa6dab2-d3a0-4936-a996-4ad28025ef68",
 		"title": "Opbouw van een redenering doorzien",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3855fab0-902b-4169-8e98-6578d6c517c1",
 		"title": "Als-dan redeneringen hanteren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "731434ef-7b77-4548-91f5-81306e61ac7f",
 		"title": "Venndiagram lezen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "73efad84-4e2b-4f3c-b594-8cd71248f119",
 		"title": "Onderscheid in voorwaarden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "54629b2d-7063-4dcf-8db1-ea429a6e1fd7",
 		"title": "Redeneringen analyseren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4f37c1ca-3d9e-4601-90d9-5b6968328055",
 		"title": "Voorbeelden en tegenvoorbeelden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "14744cf0-c3f4-42a4-a22b-ecd0f7988b08",
 		"title": "Contradictie en paradox herkennen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "5e6d1577-0a9b-42f2-b4cc-e64eb4e28da1",
 		"title": "Logische problemen oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "cb3c9e72-de72-4346-9cfe-7ac2830d0f25",
 		"title": "Oppervlakte berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "739700ff-7553-4cd0-ad21-0713c559fc5e",
 		"title": "Inhoud berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "a631d340-379e-44ab-81b2-96e28c65ec51",
 		"title": "Oppervlakte en inhoud berekenen of schatten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "0e4ba9a4-2cba-4878-86bc-4c317a39f974",
 		"title": "Oppervlakte en inhoud van gelijkvormige figuren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f3a5137b-530e-44a2-b10a-ceb5cf9f40b6",
 		"title": "Aanzichten maken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "962d851a-68ec-428b-805e-34c4d1f01939",
 		"title": "Perspectief-tekening maken van een balk",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8d85c724-f2d5-4ef6-a154-11818b011ea1",
 		"title": "Constructie in een perspectief-tekening",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "e7bfa867-ec30-4d56-a91d-34173a972ce5",
 		"title": "Object beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "fb965505-9577-401c-9d65-4f7085dcd577",
 		"title": "Perspectief controleren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d2b52af3-be74-46f9-a88d-2ca91911ada8",
 		"title": "Oppervlakte en inhoud na vergroting",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3c134e96-c3cb-4542-b033-82b74da709f3",
 		"title": "Meetkundige figuur beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2c2eb908-e1ff-4a62-ba20-76b49e9a506c",
 		"title": "Grafiek herkennen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8dd46266-4066-48f8-882d-ffeef6ddaa18",
 		"title": "Een verband en zijn grafiek gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "645d42dd-0b9a-4a65-a390-7a6538074e8a",
 		"title": "Karakteristieke eigenschappen benoemen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "3fe76c84-968c-473a-926d-44a5e17f731e",
 		"title": "Verbanden combineren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "be66540d-50e7-4977-ac64-dec259024b7d",
 		"title": "X uitdrukken in y",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "de6c3da2-ddc8-4704-946f-406ade510b7e",
 		"title": "Formule opstellen voor exponentieel verband",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4365193f-b499-4ee9-83c0-99480baab535",
 		"title": "Verband tussen groeifactor en groeipercentage",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "f3f44e28-5dc5-451f-816e-9db3f675e5cc",
 		"title": "Verband tussen groeifactor en halverings- en verdubbelingstijd",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "631c921f-adc0-43c3-98cd-7633f0dedc18",
 		"title": "Periodieke verschijnselen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "da9f6a1f-e080-400e-83ef-9a0034118e84",
 		"title": "Trend beschrijven",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4e7147df-22c2-4d75-9102-8f1c088652fc",
 		"title": "Recht en omgekeerd evenredige verbanden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "58e7f618-7df9-436b-b5a4-0cfd6ab1ac69",
 		"title": "Termen van een rij berekenen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "fad99e80-2dc3-4f2f-a82a-dce1aaa1a6b4",
 		"title": "Formule voor een rij opstellen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "df294674-c74e-4964-9328-1f325119a2d3",
 		"title": "Vergelijkingen en ongelijkheden oplossen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "7fe89d33-ed40-431a-a735-1c22890235c5",
 		"title": "Discrete systemen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1a1edbfb-e718-4b39-9f9f-3c4dbe0283a0",
 		"title": "Continue systemen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "dfda8007-731a-4fc5-9273-7831250da0e0",
 		"title": "Rekenen met complexe getallen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d7ac195e-71f1-4b05-a6a6-6e3a33dd842b",
 		"title": "Relatie tussen complexe getallen en meetkunde",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "95b20155-7cb2-4232-bf83-8dd45fea602f",
 		"title": "Verwerken en interpreteren van statistische gegevens",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "d3756e56-8c75-4656-a386-bfa4c9500f1f",
 		"title": "Correlatie en regressie",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "523b6498-1b0d-4bc9-bcb7-4b4817492837",
 		"title": "Informatie verzamelen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "152f24d8-463c-4b54-ba41-bfcdd907fb72",
 		"title": "Wiskundige denkactiviteiten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "64c2e787-b7c6-405a-994a-bd0b2e7d3faa",
 		"title": "Informatie communiceren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "1b7c13d7-981a-4db1-9684-e9f42fdc175b",
 		"title": "Oppervlakte en inhoud",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "82ecdff5-df9f-4bc4-88c2-1a5fb6868d87",
 		"title": "Tekeningen van ruimtelijke objecten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "19066dd6-4fa9-4cf6-85fa-34af9500207e",
 		"title": "Onderlinge ligging",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "24d70a89-93cf-461d-9033-be3fbd10101f",
 		"title": "Coördinaten en vectoren",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "2502937d-2e57-429f-8691-1c708e999abb",
 		"title": "Synthetische bewijzen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "8293e53b-a306-4640-ae0e-259816955c83",
 		"title": "Kegelsneden",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "29839ec6-eb50-4da7-a273-fb3548acb658",
 		"title": "ICT gebruiken",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "b688ac5f-72e5-412e-b7f5-e7ed0fbc9505",
 		"title": "Analytische bewijzen",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "50535a93-ce70-460f-af77-204c4014a702",
 		"title": "Ruimtemeetkunde met coördinaten",
-		"description": "",
-		"doelniveau_id": []
+		"description": ""
 	},
 	{
 		"id": "4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
@@ -31458,17 +31028,9 @@
 		"title": "Leefbaarheid in de eigen regio",
 		"description": "",
 		"doelniveau_id": [
-			"dacf566b-a8c5-4dfd-bc93-ebad20e9e156",
-			"1ad2074b-acb3-49ad-b12a-c583b3d2ea74",
 			"ab96a2f3-4149-4077-b01b-1568316cc165",
-			"4771b4cb-9131-468a-b691-1e842952f0dc",
-			"458ab7aa-2deb-4c90-bcb0-8592e02cf15c",
 			"34615e75-f02b-454c-9390-4ed66969f6e2",
-			"42c8640f-544a-42df-b5a6-5c8f7f33cd72",
-			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
 			"635b11cc-e7be-4673-a224-f56df3fc31ec",
-			"9721f669-8c88-4585-8d8d-7377d8e64f51",
-			"fa5f8271-9d7e-460f-b853-18b5e6938b03",
 			"d4d9a946-a6f6-4ebd-9796-38b80702a148",
 			"7aa3579b-94bf-476b-b9b5-720f398ff776",
 			"5728cfcb-0d01-4433-ad5a-c3186b4b3f6f",
@@ -31476,7 +31038,8 @@
 		],
 		"replaces": [
 			"c8c16e30-2288-4dc7-85cd-7fd5249080bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "3ba3ac02-925c-4f25-bba1-b2b7a9e0f2de",
