@@ -36,7 +36,8 @@
 			"5e29ff60-596d-4b1a-9c3f-c9e591cc750a",
 			"2c9c7044-0d7c-4c9e-936b-34d00b067a82",
 			"4307032d-fbb5-4f82-9196-5fef80c07584"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "80146d9c-a41a-4d0b-b292-7de716381362",
@@ -182,7 +183,8 @@
 			"d60bf01e-8561-44ac-9988-fe3b1d447a0a",
 			"74b9c24c-06fa-4a12-bb89-4ce8b2b07b3b",
 			"83235632-d7c8-4a4e-b229-79768970cc2b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9824065e-4cf2-42d6-9b19-4de2920e4860",
@@ -214,7 +216,8 @@
 			"abf976e5-a22d-4305-a2dc-e83f760ae608",
 			"0f391900-65f8-4549-b0ba-ce2da58e791d",
 			"6d722254-eab8-4ec0-be1b-e146682ea44b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "feb35f28-ff32-46eb-b320-d54d659fc53c",
@@ -311,7 +314,8 @@
 			"2fcb6790-b8af-439a-b496-8b0fc45e9877",
 			"d399d140-4da8-4f75-b23b-f8f8a439b1b5",
 			"b5067b54-a6d3-4668-9889-bb2b7e852a5f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2c2d3a0f-b051-4b75-84f8-ee6514a2ca36",
@@ -385,7 +389,8 @@
 			"3cdbb2ea-57c5-49e2-9301-2b97fc93f553",
 			"f0ffe85f-4e62-40d9-829f-198223e63312",
 			"7d5b350a-f994-4701-b553-24127bda167d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f390110f-d85c-4b9f-a2e7-f14d992eba4c",
@@ -448,7 +453,8 @@
 			"61dbbddb-219e-4ca2-ad24-93d4cf531a61",
 			"a2967c5b-6a34-4e65-a920-69c4349403ae",
 			"c8480230-30c4-41ee-b6ae-05474017cb77"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f02c3d97-a9ac-48d0-9f29-2c5ab88aa0fb",
@@ -558,7 +564,8 @@
 			"817013f5-3879-4a2b-923e-7407a228d63f",
 			"d43a99e2-d603-4cbf-aea1-35d195a885e8",
 			"2400b6e0-0642-4342-9195-649772864747"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d869af88-bd14-4046-a425-69be747a850d",
@@ -605,7 +612,8 @@
 			"aa0f77ff-be8d-44fc-9e53-5e552fde9686",
 			"cd9dbf90-a210-40c8-b6e2-63b2bca55427",
 			"2068e6fc-74b9-4322-a711-74977ba8ef92"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "97e8f73c-380a-4d6c-8694-30db5423e299",
@@ -656,7 +664,8 @@
 			"73929ab1-0253-4dfc-9580-3fc6194fd35c",
 			"6a116496-772a-4914-afa9-f1aa3444232e",
 			"a17d852d-48d7-4f00-b7ac-056201d2ba2c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "282711be-bdf7-43d6-8829-2f5062db9b71",
@@ -695,7 +704,8 @@
 			"366c9db6-99ad-4f90-9f06-9066ddcea72e",
 			"73b45940-98a7-467d-8c16-76c570376aaf",
 			"ec54c55f-918f-4ea6-9c3c-ed78897c96e9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "56dc5fe8-514d-4eb5-bbf2-96757f946740",
@@ -742,7 +752,8 @@
 			"ec98f359-60fd-4124-bd28-5102d7b8460f",
 			"3c1a9414-d16b-4008-9876-453cb9428cd0",
 			"df1c70d0-3ad3-4658-b6ea-73cbfc170e6a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6e8db1e8-d4ad-48fe-b3a2-8e927a665665",
@@ -778,7 +789,8 @@
 			"015f39e5-9c3d-4019-a618-9f99860515fa",
 			"219bff27-7632-4b67-9125-a71bf705e41f",
 			"3b58c874-8fa3-41c9-aed1-d457de8cd0dd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "45456d92-1506-4488-b6a8-5ed517b70a6b",
@@ -831,7 +843,8 @@
 			"f084bcc8-125d-4775-b99b-6485136648e6",
 			"58926048-6227-476d-a2f5-a9b4fb2466b6",
 			"55a07626-7e13-4775-a890-2e2c29ff98f4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e75e604d-3040-443e-8450-7e03dfe916fe",
@@ -880,7 +893,8 @@
 			"e8b72dc2-5424-4edf-b624-9698ad84f288",
 			"faee856b-7014-4f3d-bdfc-30c9f9c6fcc1",
 			"33d8e509-b0c5-49c4-8d78-ac7bbba1edec"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "62075821-bf43-4d10-8deb-9e405c828757",
@@ -925,7 +939,8 @@
 			"af295e99-5203-4763-923d-581d0a336405",
 			"f79a9905-a459-481b-8a45-b8ec4d46cd9c",
 			"072d0992-a574-4707-8055-e9f8cdd92def"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f97c1a1e-d308-412b-b32a-94da1f565fa9",
@@ -935,7 +950,8 @@
 			"dcacbf96-bd6f-41cc-ab35-45b81457686c",
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
@@ -948,7 +964,8 @@
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"1e510b1c-9666-4539-9755-6b45addfb678",
 			"94a82ef8-775c-44f2-b5bf-1000f9693547"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
@@ -959,7 +976,8 @@
 			"abceaeb4-0be3-4724-9a2c-f90c2cdeff93",
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9db0a453-76cb-49ea-8690-551bfd579825",
@@ -970,7 +988,8 @@
 			"abceaeb4-0be3-4724-9a2c-f90c2cdeff93",
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c516b0c6-75f2-4017-8a60-fc78373ca0ff",
@@ -978,7 +997,8 @@
 		"doelniveau_id": [
 			"1192aa88-9c24-4aae-af64-cc1c80497aaf",
 			"453e77b6-b098-4157-b5a3-14fa5d7769e8"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "87512196-3d6b-49de-9c22-3a4b6ab8d41c",
@@ -986,7 +1006,8 @@
 		"doelniveau_id": [
 			"9d4708c2-448a-4c18-9bb9-1f2f46bdde91",
 			"fa07bc45-1d72-4d91-b4ba-fbb59b971c89"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5862c3cc-823d-464c-8393-bab36d3fd91d",
@@ -994,7 +1015,8 @@
 		"doelniveau_id": [
 			"79e05024-06d2-4804-8cd1-3204bf18036c",
 			"51bd7884-5095-499d-ae76-7b6e3db95d7a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c50eb58e-56bb-4a72-af02-8a0cfe8da8a2",
@@ -1002,7 +1024,8 @@
 		"doelniveau_id": [
 			"a04ca946-f53c-4348-bc15-3f5cf6c454b3",
 			"e2250ddf-8a52-4779-85ca-aa825fc95b3d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "097a5c80-54ff-43fd-9963-9e5d50f0be0e",
@@ -1010,7 +1033,8 @@
 		"doelniveau_id": [
 			"e47971cf-1b72-409e-8cbc-fa668267a790",
 			"caeace86-4d72-4906-b9ce-901515a091d9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "17f209b5-d4c3-42df-96d8-b472ed6e7eee",
@@ -1018,7 +1042,8 @@
 		"doelniveau_id": [
 			"7f509b03-da78-4160-be3c-df1f4fba0a4d",
 			"2b09ccb8-77ac-433c-b8e8-88baceb8c708"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "991b7180-071c-4913-bcbb-5dadac8f52b2",
@@ -1026,7 +1051,8 @@
 		"doelniveau_id": [
 			"c1c0c88e-ed41-40c4-b203-34be378a5f45",
 			"88da1ea4-962b-4bbc-9fed-3311a0f8f746"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d9b40ac7-ba78-4bd5-a108-337d2be35827",
@@ -1034,7 +1060,8 @@
 		"doelniveau_id": [
 			"2e75c944-5ad6-4820-9320-c865b51644f9",
 			"47f099c4-4a90-4c09-ab6f-4b112af3ca38"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "711d8468-c31b-42ae-a9b2-169958353afb",
@@ -1065,7 +1092,8 @@
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"d6076792-98bc-46db-8cfd-a7794e947602",
 			"8dca375b-606c-4dd6-876a-68ca16ee9d40"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "364f3648-ed5a-45c8-8aa8-a6f796ee0505",
@@ -1085,7 +1113,8 @@
 			"674be362-8ad6-4447-b8b2-5e9bb230ac35",
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"4d952d08-ed76-498d-9838-dc284556261d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7d71171d-3ec7-4961-8931-bfaaddd62082",
@@ -1101,7 +1130,8 @@
 			"7841f276-2924-4708-9591-1c839c16941b",
 			"8bdf4e61-bae3-4a08-b57c-4b05b811da85",
 			"2e499648-18dc-4c74-aeaf-4eb548b21526"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6a8312ad-1e81-4524-b87f-b4aa989fdd33",
@@ -1140,7 +1170,8 @@
 			"aef19865-433c-4d5c-aa69-bc6868bfb3fd",
 			"45c8aafd-3609-4cdd-a995-b45e81f5a1cd",
 			"74d0bacd-e02c-4e41-ae6b-9ff693f24e00"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bbfdd51a-3193-4cb9-b34d-db4ffe968f54",
@@ -1164,7 +1195,8 @@
 			"904d5444-16fe-49a5-8226-bd18143104d6",
 			"736920c1-416f-48d3-b8a0-fc46e10aa376",
 			"7916e68d-13eb-4afd-9c50-de90b97da950"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4a5b8ba8-30bc-4a66-b672-95e14dc667b3",
@@ -1180,7 +1212,8 @@
 			"93f1eef5-e5f9-410f-b81d-ec9535aaf456",
 			"0ed5e60f-0c8c-44f0-ab3a-525054fd814c",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7137bb39-b652-4f5f-b7e9-d4b027e3622a",
@@ -1220,7 +1253,8 @@
 			"e44d8a5a-73a0-45cf-a3f7-cb240527b3c6",
 			"8d440ef2-6946-4284-893e-41f72bde5a27",
 			"43f15ad1-1e36-4581-b6f6-1eceed1c470f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bc7cb31a-5618-4ff1-9b51-fd01ab4a3b46",
@@ -1274,7 +1308,8 @@
 			"abceaeb4-0be3-4724-9a2c-f90c2cdeff93",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"512fc2c8-ba34-450d-99f4-694ce49d681d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dcb90d31-6979-4189-a460-384636e2e586",
@@ -1305,7 +1340,8 @@
 			"ce5c1897-9242-4f42-822d-f2e0ab8d29ac",
 			"9d49610e-1af6-49e7-bf9a-8a905decafb8",
 			"7641b76e-240b-4525-8ddf-0519523a3ee1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "99a36df9-74d5-47a7-beb7-ebf0fb69e5b0",
@@ -1337,7 +1373,8 @@
 			"38d43b61-e489-4e14-83d2-c078c88d372b",
 			"77606aae-3f68-4829-ac3b-6916684eb907",
 			"c3a1a7b2-eafc-4255-8b96-5aca40b4d2e3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ae1ac7ed-4c29-4985-b5ff-7e94136b42db",
@@ -1351,7 +1388,8 @@
 			"bbc792ca-c1f3-4ef3-ae31-dbc90350cd5e",
 			"0c56364b-5688-4b70-8db4-6107b91d4772",
 			"24dcedae-98e3-4e2e-9394-6e607556eb36"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1788c7c2-91df-45d3-b1d4-55bfbf283162",
@@ -1386,7 +1424,8 @@
 			"ba046298-d5ed-450c-8d9d-9d4ffc52f797",
 			"7873d436-213d-4efd-94f8-a9e345285cfa",
 			"009f601a-1bc0-45bb-9038-affa4fc76143"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5aee87c0-28a0-490f-aada-a8ddea52310d",
@@ -1447,7 +1486,8 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"dec6a11e-15a2-4d9d-bd3b-83c57c2da92f",
 			"7593543a-cbf1-4db9-83ff-4d53283960d6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "261c775c-2726-4edd-b471-dbfdeb9fa77c",
@@ -1462,7 +1502,8 @@
 			"6f653019-dc3f-4cf5-9101-44fce0c1d6ef",
 			"b399ca5f-0811-464e-b421-1f3d6e2232b6",
 			"1ba54e4a-c3f1-4862-b43f-f800b5f0e7d2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "37d33cd1-3457-4d0a-8543-e25af5629f93",
@@ -1471,7 +1512,8 @@
 			"8c8cb720-342c-4f38-bc00-9bcaab5891da",
 			"13286e52-c85f-4b7a-af3f-cda7d5548cdc",
 			"e2e375b2-c46c-43c4-8c2c-c445836c0b8b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "48b2e1d0-22fb-46ff-83ff-1c6364c26e67",
@@ -1481,7 +1523,8 @@
 			"e1eb1ad3-6720-4943-9227-43dc845f4755",
 			"e579625e-9c45-4e92-819f-2034b6d0abc5",
 			"c112638c-4ea2-45da-a8af-d82154dfb6dd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
@@ -1489,7 +1532,8 @@
 		"lpib_vakinhoud_id": [
 			"e676a645-5dab-45cd-9119-c5d2450c3cca",
 			"970c3c67-d552-4204-b088-5b8f6ebc91da"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "88c9707b-920d-454d-9b80-b7dc879a31fc",
@@ -1499,7 +1543,8 @@
 			"e5c8db85-9edb-4fb0-8dca-0fd12ae29176",
 			"b744891e-b2b7-462e-aee8-4482e2023d99",
 			"a9315ada-6ce5-4c86-ae5e-448c009638e1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8f8a5f29-44f5-4fc1-9423-de45204cebc1",
@@ -1529,7 +1574,8 @@
 			"f42f5529-aebb-4d10-96e8-559b5bc43fb6",
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
 			"d7115cea-37e8-46e1-b176-8cbd2e8cd26c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dcfb8a03-371a-4473-ad03-d0d840887377",
@@ -1539,7 +1585,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
@@ -1549,7 +1596,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "eca40860-d20d-41c2-9fc0-bdfe09993581",
@@ -1559,7 +1607,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d4e1ef6f-ce81-43fe-a122-f00ad58657b7",
@@ -1569,14 +1618,16 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "66158df9-33c7-456f-8cac-73450a2a9d9b",
 		"title": "Kijken en luisteren",
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
@@ -1584,21 +1635,24 @@
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
 		"title": "Produceren en presenteren",
 		"doelniveau_id": [
 			"3ba00477-6186-4b1b-a853-665e609f584c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b352ebb7-4d34-4ac0-bb87-c792317064dc",
 		"title": "Reflecteren en evalueren",
 		"doelniveau_id": [
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "15dc2637-9e78-4161-82a1-2f3f16b17ac2",
@@ -1655,7 +1709,8 @@
 			"e3b0106d-2fc2-4f28-a9bd-60765c30c984",
 			"e3d98fa5-13ce-45bd-bed7-6ad5525961fb",
 			"2e009eb2-b573-45d5-a7a4-a1c6d5a45d11"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "80332363-e7bd-441b-a2d7-c8e770cfcbd9",
@@ -1670,7 +1725,8 @@
 			"b1dc18bf-f682-4bfc-a5df-f8fdbad6e84e",
 			"b85804e2-6ed3-45c9-a5b8-e8acf3b55ead",
 			"8ab2a0f5-8b15-479e-9d88-8865819c3e7e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "76842c70-6ad3-42d3-8559-4142c7b282fe",
@@ -1680,7 +1736,8 @@
 			"199b7b9e-fc96-4688-861d-e752aae67dcc",
 			"e3c8b6b0-93a4-41fc-9078-89b35695bdec",
 			"43eeb051-6146-4352-b275-c59c023476f2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2d722f58-4481-4c49-b4df-357f755c4f9c",
@@ -1689,7 +1746,8 @@
 			"0ba970c7-3f68-455f-a1e7-4277e27fd75a",
 			"9a78cd71-50f0-4c71-a5c6-28dc9fd60497",
 			"3e81c867-2ac9-4f2f-9129-7c1bbbbc7c2d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0823481b-e4de-4dd0-9467-9ea47220a6e1",
@@ -1697,7 +1755,8 @@
 		"lpib_vakinhoud_id": [
 			"99d5afcc-97f5-43c4-af2c-d9f973892fa3",
 			"fa376787-1c49-46bc-b467-cf8bbb8a2770"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "73fc01b1-8845-4633-935e-eb0bf9cfa274",
@@ -1707,7 +1766,8 @@
 			"e99187ce-d8b4-45a5-8d08-0a825ced67c4",
 			"6d6c7d42-6cce-48bf-a58a-d553e9820772",
 			"74d19c86-384c-4146-9858-72c0d19042d5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3ec37fff-610e-48ba-8815-d63fd0688591",
@@ -1737,7 +1797,8 @@
 			"7d3227c4-a1d5-4b34-9e77-b54566c9ff6b",
 			"955cf8d8-c4a7-4c27-a4c3-dfb6bfb57698",
 			"59b35693-f0a8-45e4-93b4-5bbef0f2a913"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2affa696-9540-4448-8897-683b28fcb493",
@@ -1754,7 +1815,8 @@
 		"doelniveau_id": [
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f1d8fa8b-0f94-4f3d-b059-ce9f1d14e73f",
@@ -1772,7 +1834,8 @@
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
@@ -1789,7 +1852,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "201fe4a2-9c23-40e9-b4a2-44ae070b513f",
@@ -1806,7 +1870,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "33f70664-17d2-40d4-b85a-52c6ea16d19d",
@@ -1826,7 +1891,8 @@
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011",
 			"24c50188-26cc-4ea5-9477-1eedb955385b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7fe3c440-5c99-40fc-a077-d73d5f58aefd",
@@ -1838,7 +1904,8 @@
 		"lpib_vakinhoud_id": [
 			"615b675b-d080-4fd9-afb6-86d99950f030",
 			"a26f6daa-4546-41bc-99fd-cbc816bf4bdb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3f0ed38b-b3d3-4711-bd28-f1aa239e5920",
@@ -1871,7 +1938,8 @@
 			"08439de1-427b-4deb-aad4-8f3c3308d991",
 			"3fcf2a43-e1f1-47ef-9a0c-9a8fb34eca8a",
 			"81cfa1bb-5e8b-4da3-97b2-aeb403673b04"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bdf30cc9-bb47-440e-9784-184968a6c93e",
@@ -1882,7 +1950,8 @@
 			"fa328d8b-e1b8-43b8-a701-285310c706c7",
 			"7c733584-e885-4db3-9f13-095cfecb31d7",
 			"083d90fa-aecf-4247-afe8-72ea10972c89"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e7c4f5be-fd40-4d82-8c9d-41aaa3ffe450",
@@ -1936,7 +2005,8 @@
 			"3d10b5a9-8528-4fa6-85b7-cb55966cda3e",
 			"8be2b677-4026-4ef5-a257-ee5b611ffa5f",
 			"0d0d68d5-cdd8-49de-b8d1-e20545e2ee07"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0d6407fb-a50d-409b-a56b-7ce15adfdfce",
@@ -1972,7 +2042,8 @@
 			"3b88ec50-a988-4fee-a8c8-5d54320fa749",
 			"08015415-0e31-49fb-a91c-d5a15144531a",
 			"20a09c14-b771-48ee-a5fb-590ab3d6f1de"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "085742fd-9518-4af1-b9f1-288aa38b863b",
@@ -2003,7 +2074,8 @@
 			"89588dbd-164c-4f86-9270-1d2170eac45e",
 			"4093bbe3-0c09-442a-b2d9-f7efc73d5030",
 			"141f80fe-5076-4b60-8819-7b4378583ec9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "07cf4c78-5c2c-4268-aa37-6552f99fe2dc",
@@ -2035,7 +2107,8 @@
 			"68df4d7a-7e63-4f28-bc80-e9b12a6a2b63",
 			"ae6d2fd2-bd2e-46f2-ae7c-2c5f9ffd309f",
 			"3768913f-6697-4ca0-af97-f1cdb3289d47"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3b3deac3-f11b-4bb7-a4f6-3ffdbbd98b4f",
@@ -2065,7 +2138,8 @@
 			"6fcfbdbc-fcae-44a7-b0b1-e43de9e25434",
 			"a7e89bac-e513-4e4e-a755-55ac6bf3c429",
 			"fd2a4aa6-d8ca-44cc-9805-98d18874d3ab"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "41aa7b50-1b3b-48c2-9739-cac4ef4c6fcd",
@@ -2082,15 +2156,18 @@
 			"de141a28-f791-4392-ba94-c30d35cb13e6",
 			"8c657f06-0cc0-42d5-9fba-7692039c17b3",
 			"703a6c1b-f91e-4212-ad01-7e6fc859d580"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "820340bf-f670-4d96-b3bd-5a4b4db6f6a9",
-		"title": "Vaardigheden in samenhang"
+		"title": "Vaardigheden in samenhang",
+		"deleted": 1
 	},
 	{
 		"id": "cad889f0-6f6c-4ea6-a430-8fead4832ec6",
-		"title": "Verwerven, verwerken en verstrekken van informatie"
+		"title": "Verwerven, verwerken en verstrekken van informatie",
+		"deleted": 1
 	},
 	{
 		"id": "71399584-e6c4-40bc-a1d2-5e924b1b66e8",
@@ -2115,7 +2192,8 @@
 			"a761b345-f315-450a-a0d3-e3f9baa07e61",
 			"980961ee-ed05-41f3-8a33-1a01d0627181",
 			"2290daea-a710-4fea-9090-2d5364554e91"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "17c334dd-ca5e-4c1d-8fc6-0d2444e667a5",
@@ -2172,7 +2250,8 @@
 			"4ac237ce-5a4f-4777-b8b2-f14117630c00",
 			"1533ef39-f27a-43ff-87cd-6b2ee3e58895",
 			"95f1934e-10c8-470e-8d35-12c46ec80c66"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "761755fc-29da-4a26-8528-2ffa9d172179",
@@ -2187,7 +2266,8 @@
 			"71728d1a-dea8-42cf-9ddc-7fb8aef2cb59",
 			"251a36d6-5e98-47f0-baad-6f92a70d6cd5",
 			"3e19edee-b4d4-4679-a96c-556fcfa50649"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "77d415c5-399b-408a-8005-7656247e7458",
@@ -2195,7 +2275,8 @@
 		"lpib_vakinhoud_id": [
 			"d2e97444-c6d7-4cb4-b153-0d9f3708cf4d",
 			"78f056f7-6d3e-40cc-9c97-31d4b62455f6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8c1c0974-c454-447f-aedb-6dbaa230572d",
@@ -2203,7 +2284,8 @@
 		"lpib_vakinhoud_id": [
 			"4a2d76c7-cedf-41af-86c5-a396dc41d715",
 			"a2ee0016-cb26-46ba-b086-3f4b41a12f80"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "275cabc0-d8ad-4820-aa58-f8e7aed54a25",
@@ -2212,7 +2294,8 @@
 			"a27289b9-2c4a-44fe-9034-b54c53abe365",
 			"c17b67c0-4828-46e9-b5a8-debfeb62f442",
 			"b6f076ee-0001-40e0-9ef7-63cf6fc105ac"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b5ff8aa1-f089-4b03-a24b-65af57271f25",
@@ -2220,7 +2303,8 @@
 		"lpib_vakinhoud_id": [
 			"e34550fd-52fc-45cf-acd2-8df46e1714aa",
 			"23cb1887-1141-4ab3-bba0-3c4fbf0ba4d0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "38b0cb63-3ede-46c5-b01b-c9d42630ccd6",
@@ -2247,7 +2331,8 @@
 			"d0b30207-6799-4fdc-93b0-a0a4b7f37302",
 			"d313d395-499d-44ad-8b80-5023f1ea037e",
 			"b07e19a0-18ed-422d-acfe-3574988ff0ca"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7427a6d7-678b-4dc4-a977-618c81072e85",
@@ -2274,7 +2359,8 @@
 			"a7a850c4-d1d1-45a1-acb9-e31e5aec2671",
 			"981d576f-5250-4b31-ae38-8677cd4fdec2"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
@@ -2302,7 +2388,8 @@
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "256fbcbc-cc70-4694-a216-974abdeb6063",
@@ -2346,7 +2433,8 @@
 			"d982e735-82b0-4db7-b438-2d2272489f46",
 			"8085a148-b7b3-46cf-a3ab-156982672c1e"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "9bf68d75-4270-47ee-8aa2-0087defd1767",
@@ -2372,7 +2460,8 @@
 			"f7a80859-56ac-40c2-a4b8-7fff127f9ede",
 			"207afd8c-682b-4f2a-9826-305ed49a7419",
 			"ccf0e418-70f7-4827-a41e-be49d59abfe9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
@@ -2399,7 +2488,8 @@
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
@@ -2425,7 +2515,8 @@
 			"0c9607ab-ec7a-4748-a3f6-0f7984d60613",
 			"1e22cf3a-62b9-4abf-9b81-f8301ad287ea"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "826d3765-668f-4759-a470-a4bf0f475f71",
@@ -2433,7 +2524,8 @@
 		"doelniveau_id": [
 			"be1baadd-635b-4a33-94a0-4cbd8ea8829b",
 			"a80c2e1d-f7ea-44bc-b459-27593c015b8d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7d37a831-6250-4fc5-886f-8cbd39af74c5",
@@ -2441,7 +2533,8 @@
 		"doelniveau_id": [
 			"4cb85573-4de1-41f2-9993-87f1c7a7622f",
 			"b875e606-fc43-4db2-8a3e-757cd09094ba"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ed55a6c7-88cf-4aa9-b31b-d7dc24ec8308",
@@ -2449,7 +2542,8 @@
 		"doelniveau_id": [
 			"e0bc0141-9e1c-4536-9f1a-ee9e31fef1e5",
 			"a4d975b3-4f29-4b89-837b-8461cf1e63a3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c33e4030-f47a-465c-92ad-c0cf87176d27",
@@ -2457,14 +2551,16 @@
 		"doelniveau_id": [
 			"bd5c422b-e6de-4b79-bd67-54bfd8c22127",
 			"39aea961-685a-46df-970c-b84338895eaf"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c3b401a0-7256-454c-b400-3e9eb97c28d2",
 		"title": "Domein E Wetenschapsfilosofie.",
 		"doelniveau_id": [
 			"9b7505d0-84f5-4256-8566-df3b6239be45"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "71300446-16ee-4958-b8fc-0d79073d2c21",
@@ -2482,7 +2578,8 @@
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "4bc5655c-f85c-4b18-8f5e-03d0d25c9291",
@@ -2499,7 +2596,8 @@
 		"doelniveau_id": [
 			"0e017bcb-9a46-4531-945c-a319df888c9f",
 			"f99dd6d2-d5e3-407d-a331-16bce33e4f44"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "02adbf49-11e1-499d-87c1-315eb5ad0e56",
@@ -2516,7 +2614,8 @@
 		"doelniveau_id": [
 			"76880079-a2a0-46ef-81a1-f0f5fa98185b",
 			"c8ab97a8-2d40-4087-b98d-226cf1d837af"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b8e9876e-ed25-4c96-a676-e247eb6395f8",
@@ -2533,7 +2632,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "17bd7545-5834-4d39-be2f-58f8363639de",
@@ -2554,7 +2654,8 @@
 			"10d6e4c9-20e1-4539-b03f-bb006a5346d1",
 			"5d24917f-1ca2-462e-a7a1-11890e405bbc"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "1724a10d-1152-4317-b261-ab69b6d23df0",
@@ -2651,7 +2752,8 @@
 			"07c6c78a-f358-49a2-b219-4a6152da6b3a",
 			"94a9bcde-b806-4f77-896c-ce6fb0c1bcdd",
 			"df212f7a-c253-4220-8a9e-d037a184c905"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f283b770-cbf2-45d6-920f-5033edf43c05",
@@ -2662,7 +2764,8 @@
 		"lpib_vakinhoud_id": [
 			"740e0d58-1cdb-436e-877f-1d4eed0b4ebd",
 			"b505f5f7-2e1e-4adc-94db-28fe6b23353b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "446e556f-4fc5-41c5-a958-f01d1433bba5",
@@ -2726,7 +2829,8 @@
 		"description": "",
 		"types": [
 			"lpib_vakkern"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "01650f76-5639-406c-88c5-b0cae31af947",
@@ -2744,7 +2848,8 @@
 			"7c2865e9-6984-41c2-b584-6a250b25c2ce",
 			"1953df3a-b8aa-4f98-97a4-693c5629ff26",
 			"972c93a7-facc-4a84-92ea-dbdea4d826c3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6e30481c-29ee-42fd-b648-53727a31006e",
@@ -2758,7 +2863,8 @@
 			"0b2ce756-3968-4771-9bd5-5f5b060cf7c7",
 			"6747b7bc-6a6e-4055-b429-8d8966b5cc37",
 			"d6a1f31f-e085-45b7-ac59-283f45d80380"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
@@ -2779,7 +2885,8 @@
 			"aee7bcd3-dbe6-4bf7-884c-cd4097dce547",
 			"4c092b6f-e1c0-4edb-a3be-1abf4774e991",
 			"a4408090-deb2-42d1-b394-e415114cd64a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4b03c9da-dfc8-4136-998a-0aa4a97dc574",
@@ -2792,11 +2899,13 @@
 			"931a9148-bc6f-486e-871e-862044125097",
 			"e89cdf6e-2356-4b6f-aaca-bbfe1aaf1915",
 			"5e2c24e1-c962-4d83-a741-69c8dca4a50f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7895e64e-44b6-41be-8a3d-f77c68dd742e",
-		"title": "Monniken en Ridders"
+		"title": "Monniken en Ridders",
+		"deleted": 1
 	},
 	{
 		"id": "8468158a-c55d-47a0-95d0-94f3cd0b67ac",
@@ -2817,7 +2926,8 @@
 			"20242c65-8efd-474d-ac1b-227a6547d392",
 			"1cd086e4-7cf9-43d8-8c47-97bfd6f0ca66",
 			"a253a716-d2fb-461b-a15e-9432282cd254"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2fff3a46-e739-4185-8574-f34b780bfbbb",
@@ -2835,7 +2945,8 @@
 			"8ba658e1-2737-4729-a9c5-8c0e728af013",
 			"a9a7386a-611f-4828-8283-e1875342c224",
 			"f17bfefa-f7f0-4118-8d06-6ad292ad5cfe"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b98076b8-3028-41f0-aae9-e3d9a9fd400a",
@@ -2857,7 +2968,8 @@
 			"5d3bef6f-ba9d-4051-a2ab-682dc467f7f5",
 			"38106ec1-9747-4ca3-a5c4-64f7db3d43e4",
 			"054c0f17-7f41-42e5-8187-7f1b86c36881"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "42870bb5-cb63-4b39-b594-bf393dec8446",
@@ -2887,7 +2999,8 @@
 			"5d63ade6-3ed0-4ffd-aea8-93ab2a3f6082",
 			"667651b2-db33-4da9-87f6-acfc6c4bbbca",
 			"6dbac3d7-48ac-4992-824c-9674ae31efb6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "59faf600-6d62-4803-9de8-3612cf77fcd5",
@@ -2904,7 +3017,8 @@
 			"4588de57-5d32-47f9-9ab3-538cd7e075be",
 			"fb94c373-5d2f-4f6c-a6db-37a039407edc",
 			"7849e35c-7d21-4e4e-a6fa-71ee26c5998b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "35bbd5a7-1b35-42b1-86f8-14ca358eb782",
@@ -2925,7 +3039,8 @@
 			"f6901cae-3fa3-4834-a7ce-3c01d0de6233",
 			"31e1c211-dd00-4979-9740-c82c2c8e163b",
 			"b27fd6bf-010a-43ef-afe3-20532ef907c9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bedc0a03-2279-4565-8bee-23d1c0208681",
@@ -2949,7 +3064,8 @@
 			"f8099582-5e3c-4b53-b07e-f385ed12894f",
 			"2a96d4c5-9d31-4700-8f54-d61e19535c38",
 			"4aaa45bd-76ca-44d7-8618-569cf61c8b97"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "addcccc8-bc38-447a-9732-e5f6d2338d82",
@@ -2971,7 +3087,8 @@
 			"f8099582-5e3c-4b53-b07e-f385ed12894f",
 			"2a96d4c5-9d31-4700-8f54-d61e19535c38",
 			"48bf1c5e-03ea-48c3-8595-c9c9d2cdc0c5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "626487cd-8668-46a6-9663-96d8806aec98",
@@ -2994,7 +3111,8 @@
 			"8be4f780-b286-4cbe-aca4-3caea3a6e5f3",
 			"7408c4fa-ba71-46a8-86f3-35abec2c57e0",
 			"433a6e9e-3009-4cc3-b448-4e1e157dd506"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9",
@@ -3017,7 +3135,8 @@
 			"e6dc52a4-d101-4f22-8a55-c7f001ddf604",
 			"88b4b40b-fc3a-4615-81e5-cd39821dd0d5",
 			"099fe1ab-b28a-4091-932a-ac4b5e71b981"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2d5440a9-340e-4b22-b712-cde98457b989",
@@ -3080,7 +3199,8 @@
 			"ee6b1624-217a-4f18-ab4d-7cf2706d5f63",
 			"66de6311-326a-46ce-a15d-d887e25add97",
 			"2011d718-2a9c-4dee-958b-8f651a025f8d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e76efe71-f320-49ce-8da0-98fe581cb906",
@@ -3095,7 +3215,8 @@
 			"cc9afedd-d495-4f76-b5d9-9a1593ec260c",
 			"9dde51bc-fc8d-42b2-a196-56d88bad12f3",
 			"51d647a6-2955-462c-ae44-65d41af67eb7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b73aaab6-fe02-431a-bc93-6f2db3a65558",
@@ -3104,7 +3225,8 @@
 			"fef14f9b-e581-4fb9-8c7b-f18a903e281b",
 			"e08cd29b-68f8-4e8b-b414-6ad1149bede5",
 			"cfa7f5fc-431b-4c08-8653-0b96f1983749"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "294bbf47-0ade-47d7-a230-83be4da5a949",
@@ -3113,7 +3235,8 @@
 			"ed54af4e-3b32-4d5e-a0bd-ebc74d7d34dd",
 			"110dff33-78a6-4d71-b2a3-c311ba0bcc95",
 			"5f8dbc86-f675-45fc-b7dc-02d1d459326b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7f0a46aa-0bae-449e-902c-2a2db79785a8",
@@ -3123,7 +3246,8 @@
 			"7ca71086-5b54-45f0-8774-615d3296661c",
 			"41b7c8c4-9675-4721-bfe7-a8918e5d894c",
 			"a21c24b1-6c7e-41df-a1f5-083ee2315f34"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
@@ -3132,7 +3256,8 @@
 			"df634203-7b91-4874-9849-3cfc80f2cd47",
 			"7e5baa05-ceaf-48f2-b951-ef1e8b0cd353",
 			"ce772fee-ed5d-4282-939f-acdc1f7d7c98"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2b33dd1e-8c01-407b-aeb6-c54739b06867",
@@ -3165,7 +3290,8 @@
 			"b269afb9-0e14-4267-880e-4b6eb0ee431f",
 			"f4c1e426-7303-413d-b6e4-90875cfd4dc2",
 			"c3a1ddeb-5fa0-418f-9358-9fea5d72be7a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "40f76224-59b0-4033-8788-4fbadc0d329d",
@@ -3222,7 +3348,8 @@
 			"835fb42a-76dc-4c12-9128-8a5a3a709c2d",
 			"4af0f9d4-340d-42b7-b70c-b40b7533c6ad",
 			"e39f59de-c2bf-4664-b039-324badafd2c4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "860bc1dc-8e40-4e32-86a1-40c3168b0662",
@@ -3237,7 +3364,8 @@
 			"8b5b873b-3879-43a8-ae38-7f457a9ddd25",
 			"352a85fb-4d7d-479a-a930-3bce47b8c11b",
 			"38d8b09b-e178-44db-b3fc-b71e1372010f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b9cc573b-20cc-4709-bcc4-08312ef35ba9",
@@ -3247,7 +3375,8 @@
 			"f08f5a02-f8ab-4150-8ae3-6ba77e423465",
 			"639b5d7d-9258-4e27-a6ab-dd49694aa991",
 			"dbe81455-8351-485f-a7cf-0f7025ef868c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "45d37c51-ae10-4df7-86a7-57187f7dcb4e",
@@ -3255,7 +3384,8 @@
 		"lpib_vakinhoud_id": [
 			"98ecb36f-c072-4e57-a56f-1b3a3e83b230",
 			"7838a534-44e0-4f66-bf03-893b2fc404b0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
@@ -3263,14 +3393,16 @@
 		"lpib_vakinhoud_id": [
 			"18939798-18d2-457e-9f0c-3dd65c8f2d3e",
 			"5fa59fc9-e961-43a2-a86e-4cd189217273"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
 		"title": "Module 4 Recreatie (1804)",
 		"lpib_vakinhoud_id": [
 			"4126fa11-6f91-4a49-a78e-a0899fa3f340"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "351b3ed3-7b30-4071-bce0-d342976d1353",
@@ -3309,7 +3441,8 @@
 			"6b4b3185-0023-4e38-a1eb-bcbdbaa07daf",
 			"b3b4eb9e-aa8e-4f56-9394-1cbc03e8f60e",
 			"1ba3840c-b9b2-4889-8c92-cc8a13825fe3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "07089e88-b295-485f-80ee-801266487940",
@@ -3335,7 +3468,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b1331533-f13b-4db0-b006-071367063cf6",
@@ -3378,7 +3512,8 @@
 			"c919cffb-5913-45b1-b154-23b4e3177368",
 			"075f8252-cfdb-411b-876f-4af31c76a0a2",
 			"4746acf6-d808-4783-b77c-9d220f8ce77e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "78ba030e-b2cb-4c89-b342-ae22b88d1b85",
@@ -3425,7 +3560,8 @@
 			"f93f50b5-1885-4e4b-a0c7-3bfa6621932e",
 			"c919cffb-5913-45b1-b154-23b4e3177368",
 			"3ba00477-6186-4b1b-a853-665e609f584c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a59e16c3-59f4-4a6e-85d0-ee12f0a69716",
@@ -3457,7 +3593,8 @@
 			"6eb964e8-1a1d-4c86-8d21-04dad3e9b034",
 			"c919cffb-5913-45b1-b154-23b4e3177368",
 			"075f8252-cfdb-411b-876f-4af31c76a0a2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "df1a99c0-23be-457d-96a8-39d8ab3ddfbd",
@@ -3470,7 +3607,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ae2bcf7b-08c6-45d7-b501-c8dcb6f51f27",
@@ -3486,7 +3624,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "77635153-5140-4225-aeb2-5afbd08e4372",
@@ -3500,7 +3639,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "82ed19f6-d418-467b-8642-b6dded97fa29",
@@ -3516,7 +3656,8 @@
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68",
 			"3b33f09a-a276-46c9-8ae2-faaab73a8405"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7cd97728-84dd-42aa-a5ac-fdc4544a6272",
@@ -3526,7 +3667,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c872f8cd-6702-44c6-a895-4cad3bac3156",
@@ -3536,7 +3678,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f4fb416c-b350-4001-a4e4-b9289ab55212",
@@ -3546,7 +3689,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "135c6dfe-4caa-48aa-b402-c7e8f2a13020",
@@ -3556,7 +3700,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5eb5802e-f5e4-43a9-ba5c-6cb85a1f9512",
@@ -3566,7 +3711,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9a8c5036-4d83-49eb-8df6-1a827b919c99",
@@ -3576,7 +3722,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "faaca156-af80-470c-b351-66a86d10d1b7",
@@ -3586,7 +3733,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "eca9e066-a3a0-4fa3-81cd-394ff7456c85",
@@ -3596,7 +3744,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "14620c92-17d8-4be4-b851-bf2f80d35c88",
@@ -3609,7 +3758,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "fb15a075-2543-43c5-9787-3d9bbe34eea3",
@@ -3625,7 +3775,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "196a7410-0c8d-474c-9ab2-be8a66fd7a85",
@@ -3639,11 +3790,13 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "141d7f7d-187a-4318-b318-4e299fba41aa",
-		"title": "Producren en presenteren"
+		"title": "Producren en presenteren",
+		"deleted": 1
 	},
 	{
 		"id": "12d774dd-f581-4fe5-885c-10c585f3547e",
@@ -3658,7 +3811,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6affac30-71d9-41be-8223-5fb51d05aa9f",
@@ -3668,7 +3822,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dddcf8fe-77e3-43fc-8e0e-5f894ad4ac3c",
@@ -3678,7 +3833,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0cd80f19-1795-4233-8bf7-b6a706fd851e",
@@ -3688,7 +3844,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4b96c375-2d86-4d4e-ad30-d11d8f6da36c",
@@ -3698,7 +3855,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5b8b03e6-1e02-4bbd-929f-49c78ff31e68"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "220153f5-f9c7-4d63-b9a0-d44989c0513f",
@@ -3718,7 +3876,8 @@
 			"a2b5f26f-87dc-4f62-beb3-9e3622cbd898",
 			"00b9c351-f701-400e-8877-7d1d8e140042",
 			"f2aa881f-0448-4e7e-9b68-aa22f125c66b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "011d022a-acaf-485f-abbf-2e59b3c0f94c",
@@ -3742,7 +3901,8 @@
 			"312b4449-3e88-46e1-963b-85b7e5f07e77",
 			"589c405d-6ae1-46c3-96ac-92c08f8e9fd6",
 			"4fbf01c9-8473-4308-8ea5-f598baafde7e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c12fdf60-20a7-4666-90ae-7557f66424d0",
@@ -3775,7 +3935,8 @@
 			"81b04ab1-e5c8-4119-8525-190ff5bb905d",
 			"b22c4298-3173-4ac3-9679-c52e3b88969d",
 			"02d250cf-56b6-4dab-94f0-956ac56bfa36"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7cd4d8ff-82be-4a4b-b1e4-770516c5ceaa",
@@ -3796,7 +3957,8 @@
 			"310d8355-bada-4a47-9e34-5ccf7f3bc723",
 			"4588de57-5d32-47f9-9ab3-538cd7e075be",
 			"b0e47a7a-ba3b-43b0-aa5e-f6c9f454b6c0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1b19c347-398a-497d-b8b0-0365d420d0ea",
@@ -3816,7 +3978,8 @@
 			"879a5b6b-9e73-4ad3-968b-b168474208a3",
 			"d9d493c8-d463-4f33-a4f4-096c392c3b3f",
 			"4d0805e5-1144-4c7b-95ab-a1d638ed4c0b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f2c19594-2acc-4a51-8109-20eac7f136b2",
@@ -3850,7 +4013,8 @@
 			"3cac5f27-1f94-4aa7-9782-3a066f9222fb",
 			"350f8cb1-0f93-44bc-9159-7e37d169752a",
 			"3472e92f-0ded-4fd0-b636-d91371fefed2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "115a47dd-b8b6-4bf3-a404-66eab48da8ec",
@@ -3875,7 +4039,8 @@
 			"6567dbee-d7b3-4355-b1e4-e98d681d8014",
 			"433a6e9e-3009-4cc3-b448-4e1e157dd506",
 			"02d80e97-e69f-4e48-bec8-abd777dc9ab5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "edd68785-7124-4de0-bf66-9d964704ff02",
@@ -3899,14 +4064,16 @@
 			"31ec8574-9108-41f7-aa9c-be5bdd80f791",
 			"099fe1ab-b28a-4091-932a-ac4b5e71b981",
 			"623d0ba8-052a-454b-ba56-0d6d4ff09491"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cadc1b2c-bc73-4700-a4e7-8d985b640c01",
 		"title": "Communicatie en samenleving",
 		"doelniveau_id": [
 			"714bd234-e7c9-485c-bdb2-da9722be4e6c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "92735469-e696-4633-b930-4d99dc8ad86c",
@@ -3915,7 +4082,8 @@
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"5cd59819-d34b-4cbe-b2ee-a9b1e86daf9a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "111be74f-e6e4-4dd2-999d-a496b433d36a",
@@ -3923,7 +4091,8 @@
 		"doelniveau_id": [
 			"364ad223-5c1a-4fe4-ac96-1ade66aa94ab",
 			"59b7f8fd-e072-4478-b8d8-487a966874a4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a498c991-fd28-4933-a53c-9f96d7f28cbd",
@@ -3934,7 +4103,8 @@
 			"7b827a60-171e-4868-87bb-6f8f48878d24",
 			"42c8640f-544a-42df-b5a6-5c8f7f33cd72",
 			"59b7f8fd-e072-4478-b8d8-487a966874a4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c7906e60-6e7b-4be8-ba61-997a41860d3d",
@@ -3945,7 +4115,8 @@
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"637e9b8d-ac19-4230-92ed-11bc769b0a15"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9e3f5dfa-b81e-48f4-aefe-22bdce581481",
@@ -3953,7 +4124,8 @@
 		"doelniveau_id": [
 			"dfde8138-1629-4202-b99c-6b4b3cc68cd2",
 			"dc54666c-85ca-480c-9c0a-02b0a2b563c9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "21cf83b4-ac81-4d66-b272-92659004a5d5",
@@ -3964,7 +4136,8 @@
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"7a40d495-d3c7-4c54-942f-6037f2dfde52",
 			"dc54666c-85ca-480c-9c0a-02b0a2b563c9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7682e990-7245-45c2-89d1-83b431b3743c",
@@ -3975,7 +4148,8 @@
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"8a69f714-45a0-479f-889d-bd54b146ea71",
 			"5f57937f-f35c-4e22-9aca-75ce503cfa52"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0898ad98-f70a-4f25-a9a3-a11422140952",
@@ -3987,7 +4161,8 @@
 			"8085bfd7-2a2a-4539-9245-ef8b16e066db",
 			"42c8640f-544a-42df-b5a6-5c8f7f33cd72",
 			"8faca8a9-1fb3-481f-9aaf-88c1437bfa71"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "598c4574-5a08-4473-b3b6-e45df89f210e",
@@ -4001,7 +4176,8 @@
 			"a036b03f-03af-4d0d-8255-2922914df267",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a",
 			"ff10d637-6645-48b4-b97a-6c64d985ebdf"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9fda2c80-6727-43cb-b7cb-974efc7a08f2",
@@ -4012,7 +4188,8 @@
 			"8de1c77f-d703-409f-a431-6764cd414353",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"8faca8a9-1fb3-481f-9aaf-88c1437bfa71"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "123d6698-7e1d-40d9-b219-eb0068e53db1",
@@ -4024,7 +4201,8 @@
 			"cb5e9eb2-154d-4bd2-a4fc-36c2f19983a4",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d873781f-8309-4bf2-a432-aae5b44c7eac",
@@ -4032,7 +4210,8 @@
 		"doelniveau_id": [
 			"d10189b4-3c52-41f8-8082-dc52585022a4",
 			"c37c2c49-cea2-41b4-ab21-b482b0eb4d31"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "59c3a146-b829-473f-9f35-3ee7b1530a50",
@@ -4043,7 +4222,8 @@
 			"cd861783-b4d6-4595-8d88-6751a17f3d5d",
 			"f64850c7-edf7-4cb5-b6cc-8432bb72b0a5",
 			"5f57937f-f35c-4e22-9aca-75ce503cfa52"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "deb18f72-cae3-4ffb-9380-3a8ba2b13a7a",
@@ -4054,7 +4234,8 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"5bbaceaa-d7a1-4de8-b08f-3a8ff9cfe1aa",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "309f4ea4-d987-48a4-8aaa-b446e3dd0b7f",
@@ -4063,7 +4244,8 @@
 			"7fd7ced4-a23c-4307-b512-b12d94d95db3",
 			"351c2901-013e-4d58-b59a-dc9b49c4a4b4",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ef712b1f-a5b4-4671-8de7-03d789168697",
@@ -4075,7 +4257,8 @@
 			"a036b03f-03af-4d0d-8255-2922914df267",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a",
 			"ff10d637-6645-48b4-b97a-6c64d985ebdf"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cb0fd542-c990-4cb4-8372-042944c80963",
@@ -4087,7 +4270,8 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "233414bc-ea75-42ca-ae10-86f977ce059c",
@@ -4096,7 +4280,8 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"05671ab8-ac8d-406e-8f6d-5e0229641855",
 			"8bdfde1b-c2af-4ba4-9cb5-7b8fbd1e0013"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "87950611-ffc3-4bd4-8b95-682498ed6025",
@@ -4105,7 +4290,8 @@
 			"d7a5e3c7-d35c-4d99-9d17-be4ee356479a",
 			"465bf31e-c2f6-4843-bc2e-0717e1ea2a19",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "67c1fa5c-26b1-4b88-878a-4f429b6e0852",
@@ -4116,7 +4302,8 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9518593c-9a3d-4c47-83de-c9d0eb5d71a5",
@@ -4126,7 +4313,8 @@
 			"c3413bba-8a98-4ee6-8ee4-55993db1720c",
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
@@ -4137,7 +4325,8 @@
 			"65079ff8-0149-4658-8f25-7a8ecda92b2c",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"8c2e92bd-4e14-4844-82ee-776549f2d3fc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "41df4043-9ba9-4a03-bf59-19f7b936b0b3",
@@ -4148,7 +4337,8 @@
 			"fa22e53d-cf55-460c-8c12-8484658c6899",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e",
 			"2d42b458-093a-4be8-8ad0-bbc25054421a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dc4da797-abe7-49a6-8111-62ffc4685d35",
@@ -4209,7 +4399,8 @@
 			"7593543a-cbf1-4db9-83ff-4d53283960d6",
 			"21dfdecd-7405-4bdf-9bb8-9e4b987ea630",
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "377af2a9-4cb1-4178-988d-5c3fa7cb8d3a",
@@ -4224,7 +4415,8 @@
 			"a43bf1f1-e792-48d7-a76d-0820ab7428b9",
 			"065f7c5c-a4da-4f41-957a-65752c2b5652",
 			"9fa77c0a-f8a5-4097-9cc5-87f4cfa4bf54"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0f6c24e3-9dc3-4293-a6a7-f45663915ef8",
@@ -4251,7 +4443,8 @@
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "43dea6d3-ae1a-4d19-b2ab-c5db0e65e0b5",
@@ -4284,7 +4477,8 @@
 			"4c4b2cf8-cb76-4182-bc50-7b4054dad6f4",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "71078d96-0cad-409a-adff-f2eecf09fd4e",
@@ -4305,7 +4499,8 @@
 			"27b885ce-1767-4026-a027-b79e8fd250ac",
 			"619c654b-b1ee-4a2a-969a-6fdce9b521a3",
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "42e39944-f2b4-45d5-b30c-44dc3310cda0",
@@ -4339,7 +4534,8 @@
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"f4946e7b-cc1b-40e4-86a9-aec65f90d612",
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "84582908-21ae-4623-853f-c01c4602a7d7",
@@ -4370,7 +4566,8 @@
 			"f42f5529-aebb-4d10-96e8-559b5bc43fb6",
 			"5ca15607-e074-4ac4-9c79-4d725512db4d",
 			"d7115cea-37e8-46e1-b176-8cbd2e8cd26c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bbd47460-a34e-4d6c-89c2-dfc31d049333",
@@ -4431,7 +4628,8 @@
 			"7593543a-cbf1-4db9-83ff-4d53283960d6",
 			"21dfdecd-7405-4bdf-9bb8-9e4b987ea630",
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0c38a3d5-8704-4a53-9743-c96fa881af0a",
@@ -4446,7 +4644,8 @@
 			"0ad8b5b1-7172-4825-ad01-0fa22808fc63",
 			"44a36649-9202-4b65-af4e-7de2f9a10ba0",
 			"ad5534ac-37ee-47ed-b31b-714525967739"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8198f844-e5b8-4738-85b8-d3e739309bcb",
@@ -4460,7 +4659,8 @@
 			"cceb35a8-830d-4836-ae29-53bbc50b8eae",
 			"49593c3c-d4eb-4e75-a058-0df73e46927b",
 			"892a1c5d-95c6-44f1-ae98-0de7cfe1a1e7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "31f9e8ab-bd8a-4b89-b55a-3f48058f3192",
@@ -4470,7 +4670,8 @@
 			"2751a215-72cc-4c2c-8ca3-77b4bb1dfad7",
 			"95b91bc9-dd01-4ea3-9083-14bb78d71558",
 			"d1c3da1b-a547-4977-a462-6f2a9e67371c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "34bebd1a-68b9-418e-82c5-877a16bdc556",
@@ -4480,7 +4681,8 @@
 			"8dee36a6-1bac-46e0-94e3-a2a6f62de085",
 			"04cb4859-b631-4db4-8c15-4c77141ad197",
 			"ee127388-8afd-4ef3-8b0a-be81b16635e1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "28e6f73e-0cb7-425e-a5e6-175121946008",
@@ -4490,7 +4692,8 @@
 			"6145eed4-9274-4bc4-b922-d7a16a1eacbd",
 			"57ffcce6-f129-468c-bd34-22f112a20b44",
 			"54ae7bd7-8347-48e4-b369-d8a0157605fa"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1a373a1d-9182-4720-bf17-e702455adb3e",
@@ -4521,7 +4724,8 @@
 			"dbcbe075-22c6-42fb-b8b9-428822771c92",
 			"880b33e9-7cad-45bc-84f0-e91d715c8f9e",
 			"23a5c702-5814-4c55-aaca-38a67265554a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a457d0d4-0df6-4eb9-b067-804f584f5c83",
@@ -4545,7 +4749,8 @@
 			"9e57296a-7bdf-45e8-8ff3-fe13217c267b",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c90627c2-6e89-4fc1-87e1-9fbf48d33bfe",
@@ -4560,7 +4765,8 @@
 			"a1a45325-a0f7-4381-8cea-dd399adf23aa",
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06",
 			"6b9b2257-58b4-49f4-99d9-e75e647bf419"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "04bd722a-982a-45a5-adfc-ad622fe48886",
@@ -4582,7 +4788,8 @@
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06",
 			"f6d6aef2-ae45-432b-8a0d-f41afe720ec3",
 			"ba034549-4fb3-4be1-8b3b-039082c85d71"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e2c2ca01-1544-4095-9281-4e35e87f063b",
@@ -4602,7 +4809,8 @@
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06",
 			"3a0b3101-f541-4bd9-b730-7eb018403633",
 			"6b9b2257-58b4-49f4-99d9-e75e647bf419"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f7d7b4a7-f4b7-4cde-b3b5-10c076297a90",
@@ -4625,7 +4833,8 @@
 			"1df1d2cb-b63a-458a-b5d6-429f57f1c8a4",
 			"fa29651e-b262-49b2-af3d-0388bc1f4d06",
 			"74d0bacd-e02c-4e41-ae6b-9ff693f24e00"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "01e7d179-aee7-4079-b90f-e1de47393307",
@@ -4646,7 +4855,8 @@
 			"06e202bd-1e12-42f8-aa9f-f3fe641c61b1",
 			"f431b154-9706-4112-8f25-e6879f9c0b45",
 			"2d4037b1-aa99-4637-89d3-f182444a89ca"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f22a42c9-33df-49aa-aebd-d91b4d8ae984",
@@ -4659,7 +4869,8 @@
 			"dcfa532e-edcd-4c9b-88ad-364b0bf2bab4",
 			"d18a4d7e-b75b-4c0d-bea5-4689e9310b1f",
 			"3a0b3101-f541-4bd9-b730-7eb018403633"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "674f3d39-4b03-4c3d-84dd-236e7eb8b270",
@@ -4704,7 +4915,8 @@
 			"f3e628d8-8dfd-469a-97e1-de86d73ed737",
 			"64583e0b-6ec2-40b6-80f6-bc8b7a59cedd",
 			"3a1bdfd4-53e0-4fc7-a144-e9bcea5caa6e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6c6b6180-d664-46c5-aa02-3e0f79e7f227",
@@ -4744,51 +4956,63 @@
 			"9b7505d0-84f5-4256-8566-df3b6239be45",
 			"3cba3996-788f-48d2-8993-09d14484bd6f",
 			"dcacbf96-bd6f-41cc-ab35-45b81457686c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cd92cbdf-ea00-49f3-b0b9-b829703866b5",
-		"title": "De invloed van natuurwetenschap en techniek"
+		"title": "De invloed van natuurwetenschap en techniek",
+		"deleted": 1
 	},
 	{
 		"id": "e390e388-c3eb-4e20-83a1-2a7b79ff8343",
-		"title": "Informatievaardigheden"
+		"title": "Informatievaardigheden",
+		"deleted": 1
 	},
 	{
 		"id": "c92abc05-537b-49cc-bd16-8e4b0fc323f2",
-		"title": "Kennis en technologie"
+		"title": "Kennis en technologie",
+		"deleted": 1
 	},
 	{
 		"id": "b71c3c36-1d12-4d1b-8f65-25c112342415",
-		"title": "Kennisvorming"
+		"title": "Kennisvorming",
+		"deleted": 1
 	},
 	{
 		"id": "a74c56f7-d26f-4b97-b599-3044a3a6418a",
-		"title": "Mens en gezondheid"
+		"title": "Mens en gezondheid",
+		"deleted": 1
 	},
 	{
 		"id": "453edc81-0a89-4c22-86d9-fd4a3640ec29",
-		"title": "Modelvorming"
+		"title": "Modelvorming",
+		"deleted": 1
 	},
 	{
 		"id": "10c2b874-d067-48b2-b253-1ac155b8f485",
-		"title": "Onderzoek doen"
+		"title": "Onderzoek doen",
+		"deleted": 1
 	},
 	{
 		"id": "32d3f21a-da6a-47a0-9b86-2f9831559ccf",
-		"title": "Ontstaan van heelal, aarde en leven"
+		"title": "Ontstaan van heelal, aarde en leven",
+		"deleted": 1
 	},
 	{
 		"id": "f70d9d3a-5374-480b-9442-98eea3993e2b",
-		"title": "Ontwerpen"
+		"title": "Ontwerpen",
+		"deleted": 1
 	},
 	{
 		"id": "b2391bdc-aab9-4739-bdbf-01ff9e0189db",
-		"title": "Redeneren"
+		"title": "Redeneren",
+		"deleted": 1
 	},
 	{
 		"id": "62ad3a72-491f-4bb0-b7e0-4bc74a3e6514",
-		"title": "Rekenkundige en wiskundige vaardigheden"
+		"title": "Rekenkundige en wiskundige vaardigheden",
+		"deleted": 1
 	},
 	{
 		"id": "ae8e47c7-5ad9-4ead-8a32-aa57d40ecb10",
@@ -4811,7 +5035,8 @@
 			"65e03de8-22fc-4c51-b190-fddcb2bc604a",
 			"014facc5-feed-482a-a2d0-3d3303258ec7",
 			"3e584263-1527-485a-b2bf-1303f80ba2ec"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2162d9fc-3043-42a1-976b-ad6fae650ea3",
@@ -4835,15 +5060,18 @@
 			"e829c8f7-ac6d-42ca-8fbb-ab1e87ac93c8",
 			"42b1040e-67d0-4079-93b8-9a8619050b2f",
 			"16403a4d-6a19-4f0c-a7f4-679c7d1d3597"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f9264c4e-27e6-406d-ad62-13bd235a9f8b",
-		"title": "Toepassen van kennis"
+		"title": "Toepassen van kennis",
+		"deleted": 1
 	},
 	{
 		"id": "4de21626-8e8a-492f-bb97-3a9a4345b15c",
-		"title": "Waarderen en oordelen"
+		"title": "Waarderen en oordelen",
+		"deleted": 1
 	},
 	{
 		"id": "a240137d-665a-4e03-84ff-46d2f5fb584b",
@@ -4904,7 +5132,8 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"dec6a11e-15a2-4d9d-bd3b-83c57c2da92f",
 			"7593543a-cbf1-4db9-83ff-4d53283960d6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "29b81129-37cb-410d-98c4-730dca16869b",
@@ -4919,7 +5148,8 @@
 			"e70d764d-c983-46aa-8ebc-3ceffd0c57da",
 			"5e29bb67-5117-43e1-96e9-a63fb2aadbd4",
 			"d0eca067-d9bb-4c77-8d93-7452a9330df2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dc8057b0-f3ba-48a0-9cb0-191bb47fd86c",
@@ -4928,7 +5158,8 @@
 			"7e45866b-277e-4a3e-ae6f-b892fca10f2f",
 			"579c75db-df74-46e3-a460-0992cc1f3d99",
 			"35441ea7-3fde-4a1f-a6e5-72f3ed632ac3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9b1b27b5-6505-456c-9868-207e8f14257a",
@@ -4937,7 +5168,8 @@
 			"6acdefa5-af94-49cc-a6aa-f654502b32bd",
 			"135aa394-9d3e-467e-8ba8-6d0f0ade794f",
 			"e58e3500-8a68-4228-9978-d1752af3a870"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3276402a-d121-49d6-92b8-05b96694b802",
@@ -4946,7 +5178,8 @@
 			"70175f42-f7b7-4ad1-b20e-9e750f8fb4fc",
 			"7d581668-0039-4b0b-91ea-84d92d0a4db0",
 			"f22982aa-b642-4954-9ca3-1f1cdbcea4f0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c5c6c136-2d81-4482-9337-f3ce4eaaf671",
@@ -4956,7 +5189,8 @@
 			"4f0ec92a-b81f-427c-a1bb-74dc0401bf9f",
 			"67815d87-3fc4-4e80-b526-7c1cc55424a3",
 			"6fee716b-093c-4eab-86a6-1d317ad9a6ec"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cd368f01-bcf5-4c3b-9191-05747e44d894",
@@ -4987,14 +5221,16 @@
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b48f127e-b6c4-4e4d-bfaf-009d63789361",
 		"title": "Lezen",
 		"doelniveau_id": [
 			"0523976c-9cfe-46da-979a-bd237a78a094"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a2e75d11-1608-4122-b080-c687b9ffc208",
@@ -5021,7 +5257,8 @@
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"f4946e7b-cc1b-40e4-86a9-aec65f90d612"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d2cb98f4-9f9b-431b-a39d-96ba9422dfc2",
@@ -5046,7 +5283,8 @@
 			"58bf0bfd-6877-43b3-81bf-e202059ffc85",
 			"274e6819-214b-46a5-9ba6-fa6bb890245c",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b01acef9-436e-40ab-940a-7984363fd307",
@@ -5065,7 +5303,8 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cc95c860-4e07-4fb5-9e1f-d9ab05802699",
@@ -5082,7 +5321,8 @@
 			"b5b0b173-c06b-4378-8162-87161d9da9c7",
 			"bb415e3d-770a-48fb-b27f-296d607921f1",
 			"58cc2343-662f-4df6-9fe8-26171782d519"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "edce0530-5a59-466e-beb8-c15ba13c7fb7",
@@ -5104,7 +5344,8 @@
 			"d1744c86-3acf-46c0-a094-3f583eda60f3",
 			"e03f4432-737d-4d0e-a804-aa3213058d97",
 			"a839bbbd-a4e9-4471-aa0a-4a6ba1cd1251"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dd7cb510-a181-4a6a-b100-15de969af3e5",
@@ -5122,7 +5363,8 @@
 			"571d44f4-02a1-40f9-976b-058fa96a33c6",
 			"74882039-c046-4d98-9fe9-40e8d52da456",
 			"796a6429-caa0-4604-af12-c45293bcc663"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "89c425d5-605d-4df8-a1a4-7e870e55649c",
@@ -5164,7 +5406,8 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d20f7632-a8e8-4ac3-ba81-a8bca16507bf",
@@ -5176,7 +5419,8 @@
 		"lpib_vakinhoud_id": [
 			"28bb6c2a-f96b-4caa-917e-44ea0069747e",
 			"23694fb4-c369-49f1-b5dc-c007904e1855"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "33e606c4-5386-4781-9e04-0d92eae38244",
@@ -5195,7 +5439,8 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "419e9f2f-7f0f-49d1-a05a-84243d1c6257",
@@ -5209,7 +5454,8 @@
 			"153789f7-8706-4dab-a304-814bcd4f917c",
 			"958a8489-9deb-40a6-9c57-43a24ced3457",
 			"bd3bd544-197f-4333-bf0f-dee8bd6b2a61"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "75e1a0a4-b743-440e-a32e-cdd0b8f78648",
@@ -5236,7 +5482,8 @@
 			"c4d8572d-9414-4a08-9ec6-eaf882f71343",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"ba034549-4fb3-4be1-8b3b-039082c85d71"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ddcb8d79-cdc8-4f5a-8789-3ca29bbdcc6c",
@@ -5257,7 +5504,8 @@
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"512fc2c8-ba34-450d-99f4-694ce49d681d",
 			"ba034549-4fb3-4be1-8b3b-039082c85d71"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "98f1c9c6-543b-4dd5-af41-2613248ff708",
@@ -5277,7 +5525,8 @@
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"1e510b1c-9666-4539-9755-6b45addfb678",
 			"94a82ef8-775c-44f2-b5bf-1000f9693547"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "76130125-e591-42be-a06e-ca7f7def1fea",
@@ -5298,7 +5547,8 @@
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"512fc2c8-ba34-450d-99f4-694ce49d681d",
 			"ba034549-4fb3-4be1-8b3b-039082c85d71"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cb9731b7-5221-4984-ba0a-c69f95a65cb4",
@@ -5318,7 +5568,8 @@
 			"abceaeb4-0be3-4724-9a2c-f90c2cdeff93",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"512fc2c8-ba34-450d-99f4-694ce49d681d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "52a367e3-b04b-4bbd-8287-f3c8c6e65134",
@@ -5331,7 +5582,8 @@
 			"abceaeb4-0be3-4724-9a2c-f90c2cdeff93",
 			"beb3487a-7e19-4dcf-8546-7f0ef6dc77dd",
 			"512fc2c8-ba34-450d-99f4-694ce49d681d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
@@ -5445,7 +5697,8 @@
 			"7fe61efe-75cd-4b9c-9520-460e8a78ee93",
 			"f5630b05-d772-45cc-93ed-7d259e332746",
 			"176d1740-1b10-43c5-b579-6437479404b1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "fe9fde20-3f62-481e-a6c2-0e69d28a6eb4",
@@ -5466,7 +5719,8 @@
 			"4fd5b309-73c8-4bfe-9cbb-18ff1584f5b4",
 			"986eea5c-52d4-49a7-846d-3ea4e13513f0",
 			"67cb15e0-8251-4808-acc0-c168a4a65561"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0a47ec81-5636-435d-8646-35dc517932ad",
@@ -5538,7 +5792,8 @@
 			"0497bfae-88db-43c6-9912-a1e0c8e25b93",
 			"ad9939ba-e97b-45dd-98dd-43ff8b8529ec",
 			"beecdd15-cb77-4a9c-acaa-5d43ae29af11"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f0b276d0-4c20-4cfc-b875-0385f332f699",
@@ -5647,7 +5902,8 @@
 			"a468e786-d833-4bd2-b081-5630e2db9525",
 			"bd1a5eb8-a9ab-42c2-9056-86de381fa8a2",
 			"fbd57709-7840-481a-8269-d37fbf1b76e6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
@@ -5720,7 +5976,8 @@
 			"efefccc4-823f-463e-b875-ef045090af88",
 			"3117ca8a-b2f3-472c-9370-3229a70a7eee",
 			"1b3c11d8-ec47-4802-978f-3a6e4cdd5980"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "aa839358-7f3d-4bd1-9f23-40c6a7d49da1",
@@ -5746,7 +6003,8 @@
 			"7916e68d-13eb-4afd-9c50-de90b97da950",
 			"9180a0b0-a9c6-49d5-b7ba-27ce376ef4b1",
 			"c7749ca0-dd1d-4dce-852d-4ac567cdae09"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "38521e92-5372-4f44-b1fa-32411570869c",
@@ -5805,7 +6063,8 @@
 			"ed1ed57f-8958-492a-9768-d487754c5ed6",
 			"21059c4f-5b6f-4e29-8c01-3036b9be40c8",
 			"b828c4f2-d988-4a4a-9124-a8c3e99e8c7e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3d463c11-2c58-4aec-86c8-ba25bf03d0fd",
@@ -5836,7 +6095,8 @@
 			"73282796-6fda-4dee-9b80-4a28a564c74a",
 			"5a7593b8-d8c4-43a7-9fe6-dc4501381ff3",
 			"9180a0b0-a9c6-49d5-b7ba-27ce376ef4b1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9b332842-8906-47bd-b2cb-0218c75192a2",
@@ -5865,7 +6125,8 @@
 			"73282796-6fda-4dee-9b80-4a28a564c74a",
 			"5a7593b8-d8c4-43a7-9fe6-dc4501381ff3",
 			"e080cada-25b8-4a83-a4ac-629d34b9b2be"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b33bfa70-f130-415b-8d65-dc5ae3959598",
@@ -5877,7 +6138,8 @@
 			"ed1ed57f-8958-492a-9768-d487754c5ed6",
 			"21059c4f-5b6f-4e29-8c01-3036b9be40c8",
 			"b828c4f2-d988-4a4a-9124-a8c3e99e8c7e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "830a70ae-d543-4ce9-9577-0450e254cf7d",
@@ -5924,7 +6186,8 @@
 			"c0b3b77c-7166-4e42-9bc2-96bffec8d8d0",
 			"b4e42cf5-d136-4f7d-895b-da7add8c72ca",
 			"e13bc15b-98b6-4e3e-ad13-fc3ba560cbbc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "82187447-5392-433b-940d-fd49f6f8d669",
@@ -5952,7 +6215,8 @@
 			"e829c8f7-ac6d-42ca-8fbb-ab1e87ac93c8",
 			"42b1040e-67d0-4079-93b8-9a8619050b2f",
 			"16403a4d-6a19-4f0c-a7f4-679c7d1d3597"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6bfb5344-c28f-4fe3-81f6-04d4dd3d58be",
@@ -5969,7 +6233,8 @@
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707",
 			"35cdbdec-df68-4a12-8de6-0645bbf4ca36"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a4d8079e-d007-4033-9da8-d8345065e3ab",
@@ -5978,7 +6243,8 @@
 			"b3346f8a-99fc-4bae-abf3-c385964bb9a3",
 			"60a9e28c-adb8-4f6a-b48f-992d383ac5a0",
 			"2445e3c2-d92e-40c1-8a2d-82ba8654db15"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "271dc5dd-ed9c-420e-a401-374684a0e646",
@@ -5992,7 +6258,8 @@
 			"08dc4339-1d21-4096-9d2d-e2c7c32bf8db",
 			"eac96d21-872a-4476-a0bc-b529990893c1",
 			"e638fb89-bc22-4746-bb43-9c3ecdd9a8d1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4580f099-c3cb-4520-beba-cccdb92cc32c",
@@ -6036,7 +6303,8 @@
 			"02ce045b-c3bb-4de6-9ddb-eeed092bf124",
 			"5aeb8809-7f68-48f7-a750-9c2c3e47b26a",
 			"e96d4f7d-57b0-4576-8f94-324ce96b01a9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "239d5303-1bbd-4a9d-9aee-b35301f57121",
@@ -6095,7 +6363,8 @@
 		"doelniveau_id": [
 			"34df4bb5-6d5f-40a0-b111-383405fb6ca3",
 			"92fcc90b-bb77-4334-a302-4e8070de7e42"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6077e507-a882-4692-b0f1-3d34857a0d3e",
@@ -6123,7 +6392,8 @@
 			"b457d8fd-a567-49a5-ab77-a6848cdaf0d5",
 			"85f7a468-edee-493b-b521-b0b55930176d",
 			"b890ce1b-8d3e-4d1f-bec6-efacc002c28e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e99f1a6c-b8d3-436a-9ce3-6d57cdf07bd9",
@@ -6184,7 +6454,8 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"dec6a11e-15a2-4d9d-bd3b-83c57c2da92f",
 			"7593543a-cbf1-4db9-83ff-4d53283960d6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d103a74c-750e-4522-9d3e-dd7709a5518c",
@@ -6199,7 +6470,8 @@
 			"dfed9f28-3096-4d7a-ae64-1a8717c9e3e3",
 			"ac420bb4-8ab3-49fe-a1c0-6faf054a9fed",
 			"805ba6b7-2eb9-49b8-b081-c2c9160dee78"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4c86fb4e-6f6c-4ed4-b4a0-ebbe7b657bcb",
@@ -6209,7 +6481,8 @@
 			"4a43bbe2-8a9a-43ed-a18f-f095d21c5875",
 			"04f4f1e5-7b27-47b8-85de-b70c8cb66cb2",
 			"29a1507b-612a-4881-815e-f3f0b261579c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "87c7b213-4495-4028-84b2-8184592b49fc",
@@ -6217,7 +6490,8 @@
 		"lpib_vakinhoud_id": [
 			"03b9b720-bc46-428f-812b-a5d5c9233e74",
 			"83e6c4b3-09e0-441d-8160-d1ad9bd13ff9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c4c5839b-44b6-4464-b776-631e684a62e3",
@@ -6226,7 +6500,8 @@
 			"1ab6da2c-fc5d-40ca-ac62-453ab39f7431",
 			"0db50339-3059-487f-b53c-782cbbfdc47f",
 			"2dec8c72-4c98-4d53-991d-e467395ffef0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d5e55c37-9894-44cc-be37-a93f852b28ab",
@@ -6234,7 +6509,8 @@
 		"lpib_vakinhoud_id": [
 			"c34749e3-bade-4af3-a574-b6158c4aa0ba",
 			"2563d4d0-f5cf-426a-9a43-e13871b948c7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8d39b484-7ed6-49c0-ba50-0476c266555c",
@@ -6265,7 +6541,8 @@
 			"710a62b0-2b03-4269-b9bd-b9172db1a8f0",
 			"20ed862c-3043-4d32-9190-4ec9bcb92c04",
 			"6768816d-ca51-4930-a4f8-52a9bcbc34c2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5b545ebf-f228-433d-ae18-49bc512d97cd",
@@ -6286,7 +6563,8 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8faaa90f-8620-4458-815d-ef038dc1e7d3",
@@ -6303,7 +6581,8 @@
 			"7166f3e9-9c9c-4a76-b4d6-04a4f498c141",
 			"7e695ed7-2c5d-42e7-a0d4-ef742d43b3e7",
 			"4fd5b309-73c8-4bfe-9cbb-18ff1584f5b4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "99c06a9b-fce9-4f6e-ac03-aad707ba66dd",
@@ -6334,7 +6613,8 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bd9f2840-e9ba-4b03-84ad-51aeb63ca601",
@@ -6354,7 +6634,8 @@
 			"c34cc544-0805-4b4f-93ab-6117a144c0f2",
 			"736920c1-416f-48d3-b8a0-fc46e10aa376",
 			"7e0e5ae0-a06e-49a1-8553-97a835239fa4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b13a4699-92d5-4394-9d59-871abde90abc",
@@ -6387,7 +6668,8 @@
 			"08a2887d-54c5-47da-9a86-9babc6a9b49d",
 			"364c5e53-47dd-490e-acf0-4f6dadf7c09a",
 			"45fe5180-44c2-4516-a932-127a0bec82d8"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "98e08439-bbd6-4a91-87a3-010a10a2ba03",
@@ -6412,7 +6694,8 @@
 			"d8f539d0-5993-43bb-8e31-68e9b13462e8",
 			"2bec7af6-c946-4833-a71c-52c115778d78",
 			"b455f260-5347-4c96-8068-94ae1eff79ce"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f675281a-8f1f-4263-b783-281685f15685",
@@ -6435,7 +6718,8 @@
 			"ce5c1897-9242-4f42-822d-f2e0ab8d29ac",
 			"9d49610e-1af6-49e7-bf9a-8a905decafb8",
 			"57e06c1c-3ee3-4c71-9236-0a94d9180fe9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "39d7b775-88ef-4e20-bee5-b3a160d022a9",
@@ -6469,7 +6753,8 @@
 		"doelniveau_id": [
 			"3ac8faa4-551e-463b-9003-a8107444311a",
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "66debcbb-a043-475f-b904-474fbb4970a0",
@@ -6499,7 +6784,8 @@
 			"e7f3fee5-ee31-4bff-9d93-52db41587f70",
 			"8b15f12c-c4eb-4d31-9c1e-1afb8618e6ba",
 			"fe21335a-f5ac-4387-be0c-2f278e4d2a07"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "481c144f-7d82-492d-be54-b67b4cf54d4d",
@@ -6522,7 +6808,8 @@
 		],
 		"doelniveau_id": [
 			"2eca498c-1d41-4123-870a-6f7c41406fde"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "90d2e1b2-1c2f-4281-9e1b-31281774de3c",
@@ -6541,7 +6828,8 @@
 			"990d0141-1617-4583-8314-af9045446c28",
 			"d2ed52b1-26ec-4f86-b12b-8b1d377e1cd2",
 			"64c247e6-d640-4c62-9aab-819801a63c89"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8635a166-23c5-435d-8f12-d27d0f565d94",
@@ -6551,7 +6839,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"5f6d3c58-0e77-434a-95d1-3902ceee8cf7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "283b005e-0bd2-442a-bd32-55c466f52f73",
@@ -6569,7 +6858,8 @@
 			"e1445c34-51a4-4cc3-af19-ee0cd1565924",
 			"40d8ecbc-39f2-465e-a0f6-c46639eecac0",
 			"77b6bafb-4160-4168-8906-65e9ac425707"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "59a9a734-25df-46c0-97aa-d683cd97a03f",
@@ -6586,7 +6876,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "51c6d025-6757-401d-9248-cc8bea96a144",
@@ -6603,7 +6894,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6c106c77-14c1-4c7b-a111-59540a5ca327",
@@ -6620,7 +6912,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ca929c5d-6644-46ac-8217-a5ee298406d1",
@@ -6637,7 +6930,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4c037ea4-2640-46c9-97fd-293d37aa2c92",
@@ -6656,7 +6950,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"562a0dfd-f539-4180-8cb5-625159fbd011"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9e95f81f-f65b-45a4-bb4c-83e619d04522",
@@ -6674,7 +6969,8 @@
 			"4adc9a60-7c10-473b-9e63-5e3b30213be6",
 			"2438db14-ea60-43b8-a5f4-be70cfdd99f1",
 			"4e01b3bc-cbb5-424a-911c-dd57fa260d42"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3e524aaa-9c23-4f33-b79d-9e32cf9cad56",
@@ -6696,7 +6992,8 @@
 			"b502f499-9c19-4577-8126-db28506a5fd4",
 			"c15669c5-6c4f-4258-87a0-fb1c12463e7c",
 			"5a21bfdd-2f68-49bc-919e-c1679ee971a7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9a79b8fa-e51b-4f8a-9099-24ff0a7437ff",
@@ -6706,7 +7003,8 @@
 		],
 		"lpib_vakinhoud_id": [
 			"45850ac0-4bdc-4a51-b597-7a4c35780f59"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b2461c76-276e-4d32-ab83-bccbb17e1532",
@@ -6760,7 +7058,8 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "47c83563-0e48-42db-92da-e9b937a53421",
@@ -6880,7 +7179,8 @@
 			"ab384d5c-ce0a-4bd4-a551-78cd1323b2d6",
 			"9323c312-a94a-414e-a89e-9344327a7b66",
 			"47e45e81-8d3a-453e-b987-ecdcacd3376a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9695e7e9-ad89-4c08-8784-d4ea3aad9b5e",
@@ -6937,7 +7237,8 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ac408e1d-99db-4286-b8c6-583615b7e198",
@@ -6972,7 +7273,8 @@
 			"a5d843a6-3c77-4689-9de0-1017cabc2f53",
 			"7ca57193-d9bb-454e-9b5b-9c9d20c1543c",
 			"79d51e67-8f7c-4adc-91bc-d3537309912b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "3a85224b-ab8e-4168-ab7f-019fc45cfeaf",
@@ -7061,7 +7363,8 @@
 			"e9b2ed72-671d-478d-80a0-fdeb1a1b1944",
 			"763230ab-94ff-4628-b0d7-060c4e6192c7",
 			"ecde787f-51e7-488e-9728-dd53840b9cff"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "73139ddf-94de-44bc-9424-1c653f463173",
@@ -7118,7 +7421,8 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8f868bad-91e3-4c9b-a716-e2b7b78c0196",
@@ -7176,7 +7480,8 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "44fe4fb8-bf4a-4ea1-a4bb-6fcd778c410d",
@@ -7226,7 +7531,8 @@
 			"5065f5b0-4697-44db-9337-f8cbaa008a2a",
 			"42d3b629-0cb7-41c9-a72a-ab07a5f31501",
 			"fcac3660-bbb0-42a0-ac1f-6a0d64ad52ae"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "aefdd771-208d-40e1-9e09-4cba6dfc406a",
@@ -7355,7 +7661,8 @@
 			"bed7c919-5a60-4ca6-8532-885d8299b76d",
 			"b224fed9-a9ec-4847-ad94-0ab2eb4458f6",
 			"27b885ce-1767-4026-a027-b79e8fd250ac"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "39b37b0c-217a-47ed-89be-25051737e780",
@@ -7412,7 +7719,8 @@
 			"e8b014b0-90b6-4167-b0b9-6ab303efb63f",
 			"f0f7569c-4655-430e-9f9e-d74f90feade2",
 			"c5f964a7-fd26-4e08-9d2d-1b860a4c1983"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ae04af78-0e74-4856-9de5-01d4d325de64",
@@ -7439,7 +7747,8 @@
 			"c1eb2b6d-4b7f-4b29-a02f-b16febe8942c",
 			"113e60a7-d92d-4ffd-b128-0b57920eb388",
 			"3740b953-fbfd-44fe-9a49-4a0392b25649"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "52f496a9-f6ce-4822-b9ce-165d8256be3f",
@@ -7463,7 +7772,8 @@
 			"87b0a378-de7c-4871-b0f0-9453d015b048",
 			"a7ef246b-d897-44d7-a3c1-2a95076b57a6",
 			"1ca03856-9d24-4a74-89f0-b616fc1cd3e5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "7c8f4928-a65e-48f9-81ca-fc1bc2c7fe2a",
@@ -7500,7 +7810,8 @@
 			"3f02aec8-f99c-48c8-867f-ff28c65cb1e1",
 			"7ff84c82-7f54-435c-ad8d-a72734dd20c7",
 			"b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "97abf32d-c062-4dc6-b1d3-b15cb6f64874",
@@ -7526,7 +7837,8 @@
 			"78eae074-25d4-46d7-acd9-718f0cd022bb",
 			"28b2b9b5-bf28-41ec-a7a8-304d120ae3c0",
 			"9e23ea12-7e25-465f-99fa-4eff2b7752ab"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "a337989c-f3de-429a-9537-fd5daa62098a",
@@ -7597,7 +7909,8 @@
 			"224f9d43-379f-4b55-a2e4-cc6fab8dea76",
 			"20a02cd1-05c3-4193-a69e-9f0fa36391ea",
 			"fed519d6-8ba2-4664-9651-5ef7ac527c52"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "941616c0-5ae2-4f2a-9e88-1ce1d14e7275",
@@ -7611,7 +7924,8 @@
 			"e63740bd-2eab-4a62-8292-24b6af229efa",
 			"a9e0b5d5-0e19-4182-9e08-2339923e84e0",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "66f9ff8e-2bbf-4ab7-a7dd-3a13ac2100cf",
@@ -7644,7 +7958,8 @@
 			"f2c45148-bd63-4511-94be-bf9102cd2604",
 			"569183f6-86f5-4424-9c10-2e645e173c90",
 			"1c686696-72dc-4e18-b4da-b4a765917429"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "421722e5-319f-49ff-b08c-5d0c81e17967",
@@ -7658,7 +7973,8 @@
 			"96080b58-9e48-4b98-a8cb-c821b74fe03e",
 			"89231857-9ff2-4dd5-80b2-382ef9de2a23",
 			"3281d066-4c87-46f6-aa39-bc5d161e62c7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
@@ -7684,7 +8000,8 @@
 			"78eae074-25d4-46d7-acd9-718f0cd022bb",
 			"28b2b9b5-bf28-41ec-a7a8-304d120ae3c0",
 			"9e23ea12-7e25-465f-99fa-4eff2b7752ab"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
@@ -7727,7 +8044,8 @@
 			"0623132a-e4d3-4d60-b549-4f1d5ce26359",
 			"4aa309a1-f42d-4270-b2c5-c664169f12ba",
 			"a4a0f443-4297-49f1-871d-bdf3032d13b3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "88c79dcc-74cf-43fb-84ab-8711f63943ab",
@@ -7785,7 +8103,8 @@
 			"0b4ef89d-c9ba-41cf-99c7-f22acccb7042",
 			"429ab309-9ca4-460a-bea2-408cbfdaf958",
 			"6ab100cd-206d-4d17-9520-e7ffb750a16e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2f982e36-af2e-41b9-89cd-70d7c51ed92d",
@@ -7802,7 +8121,8 @@
 			"6d9b28a5-d8a2-4c07-81c0-45064aa93a3f",
 			"e0d2f490-7916-41ad-992a-9a2ac3277c1c",
 			"dee09f34-ebe1-4aee-9e54-9e302a20eb6e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2421fcdf-4839-4d95-8c40-564f45388b60",
@@ -7824,7 +8144,8 @@
 			"f4f05142-4f7f-4899-a87f-d6d87023c428",
 			"b1b896f8-0e73-403d-aaaf-0250fbf104de",
 			"4088aeec-e9c9-4693-9b73-905cdd25e638"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ba6c0d53-c5fc-4447-b56f-970de78ebe4f",
@@ -7840,7 +8161,8 @@
 			"a1954a64-339e-458f-a722-a3fbafec5aaa",
 			"7ff84c82-7f54-435c-ad8d-a72734dd20c7",
 			"b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cadc8a72-981d-4009-a930-12685cb46f41",
@@ -7867,7 +8189,8 @@
 			"f1111721-e66e-40c5-8033-4a089aca937c",
 			"49070f03-dbff-45cf-b1d7-9778c4239247",
 			"9e23ea12-7e25-465f-99fa-4eff2b7752ab"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4fd04386-767b-4883-959f-abd5efe9f16d",
@@ -7884,7 +8207,8 @@
 			"4f37c1ca-3d9e-4601-90d9-5b6968328055",
 			"14744cf0-c3f4-42a4-a22b-ecd0f7988b08",
 			"5e6d1577-0a9b-42f2-b4cc-e64eb4e28da1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
@@ -7905,7 +8229,8 @@
 			"fb965505-9577-401c-9d65-4f7085dcd577",
 			"d2b52af3-be74-46f9-a88d-2ca91911ada8",
 			"3c134e96-c3cb-4542-b033-82b74da709f3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b2b0a114-9e28-4769-9a14-1da57ef66793",
@@ -7938,7 +8263,8 @@
 			"58e7f618-7df9-436b-b5a4-0cfd6ab1ac69",
 			"fad99e80-2dc3-4f2f-a82a-dce1aaa1a6b4",
 			"df294674-c74e-4964-9328-1f325119a2d3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9956fcbe-af76-41ce-a344-de3095487d66",
@@ -7949,7 +8275,8 @@
 		"lpib_vakinhoud_id": [
 			"5019f250-0506-47a3-8b30-ea35357cf919",
 			"8773e52f-ef56-46af-a620-ba114bc10ad5"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1a9f3564-1b85-4b99-ae7f-f815d0941cc9",
@@ -7960,7 +8287,8 @@
 		"lpib_vakinhoud_id": [
 			"7fe89d33-ed40-431a-a735-1c22890235c5",
 			"1a1edbfb-e718-4b39-9f9f-3c4dbe0283a0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "65ab22d5-6406-4b45-9d09-d26d2fa2e6e1",
@@ -7971,7 +8299,8 @@
 		"lpib_vakinhoud_id": [
 			"dfda8007-731a-4fc5-9273-7831250da0e0",
 			"d7ac195e-71f1-4b05-a6a6-6e3a33dd842b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "86f51309-a590-4cd1-9cf2-737cd083a1a8",
@@ -7989,7 +8318,8 @@
 			"b8e77fe6-b7be-4ea0-9019-0d38eeaa0ad5",
 			"7ca57193-d9bb-454e-9b5b-9c9d20c1543c",
 			"e6ad9bce-6bde-40a5-a233-83a0dda30bdb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "25249ccb-5ecf-4f69-b830-17d277e5c3b2",
@@ -8004,7 +8334,8 @@
 			"d52b10dd-fbda-4974-8cb3-6c17f97a5e0a",
 			"152f24d8-463c-4b54-ba41-bfcdd907fb72",
 			"64c2e787-b7c6-405a-994a-bd0b2e7d3faa"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c5834a3e-ebdc-4821-b799-24caa6403bfd",
@@ -8024,7 +8355,8 @@
 			"29839ec6-eb50-4da7-a273-fb3548acb658",
 			"b688ac5f-72e5-412e-b7f5-e7ed0fbc9505",
 			"50535a93-ce70-460f-af77-204c4014a702"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4ed6f351-ef2b-4208-9692-ce6734b400e5",
@@ -8081,7 +8413,8 @@
 			"ac9d604b-680a-40b4-bf87-401b60511143",
 			"467aee1b-10cc-41d9-9c65-7ae8a934e940",
 			"2b6276f3-3937-4431-b755-3ba407aeaa8f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e3a34409-3de8-42e9-981c-39e97483583c",
@@ -8096,7 +8429,8 @@
 			"0d503955-a0b0-47f6-9c22-0dc944426ab5",
 			"3fe19ab1-e181-40d4-ae8c-7b5ea73cd770",
 			"9a464562-ee63-4169-a58a-71c2e8c2449d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "92403fee-f16f-40e2-96b5-bc8203598117",
@@ -8105,7 +8439,8 @@
 			"4547aa83-76f4-49b0-ad69-fd5bc75dcdaa",
 			"78ed9eda-53f5-4de4-90ed-a59599823aad",
 			"8bb8ee2f-7aea-4c9b-ae7d-1f74f12e910e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dd2d1dc1-1e5f-4b2f-9ab9-c299e41ecc65",
@@ -8116,7 +8451,8 @@
 			"e4c2aeb3-839e-4df7-86aa-786ce8f96f4c",
 			"96da3009-4d95-492a-933f-a9249895ecf5",
 			"a344cd86-1cb2-42bf-8cbd-52beae141d5b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
@@ -8125,7 +8461,8 @@
 			"4b34f4f6-60bd-4ac6-8ebb-8edb06073956",
 			"2beb1a8c-aa1b-41e1-b1f0-7001674bb21a",
 			"0d68f57c-d3b3-4b03-a01d-580a36f2b77c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "73d150de-58f2-40bc-96bd-d9e3ca07206d",
@@ -8136,7 +8473,8 @@
 			"3720777c-6cfb-4c50-be3c-ee80b8c7b72b",
 			"3478c24f-8647-4284-9f22-d60046f36bf7",
 			"f9a94a3f-5aba-47af-82b7-f9685132ecb7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0a8b96f5-752c-4589-b9d1-a7a60ee8dba6",
@@ -8145,7 +8483,8 @@
 			"9fe0765e-110f-4e8b-a6d0-48387ccb1f3e",
 			"7644dfe2-773b-4fcb-84e6-0a63b58265c5",
 			"95c975ce-88db-4312-9530-bbd374e996a7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e6307682-b700-4f90-9364-c3318829b231",
@@ -8174,7 +8513,8 @@
 		"description": "",
 		"replaces": [
 			"2fce5bd6-f19b-4601-b3fe-30c52ebeb539"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d4a2d26f-3da3-4a5d-a6e7-b17bd4af0c7e",
@@ -8201,7 +8541,8 @@
 		"description": "",
 		"replaces": [
 			"1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "50c2de3a-589d-4bbb-a8bc-4771bec239ff",
@@ -8232,7 +8573,8 @@
 		"description": "",
 		"replaces": [
 			"98c50995-986f-4e92-8eb6-20ed2fe6eb76"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "41675bef-3d1f-40af-8ff2-102a50ce687d",
@@ -8266,7 +8608,8 @@
 		"description": "",
 		"replaces": [
 			"b0e5da60-4d73-4873-b92a-7c70e975cf14"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d1ed406d-878e-4bb7-b265-683a40846c83",
@@ -8325,7 +8668,8 @@
 		"description": "",
 		"replaces": [
 			"880dde81-63eb-4c01-a8fc-6a2547fa0439"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0c287101-4b30-48e9-8c14-4fe6736f6dc7",
@@ -8372,7 +8716,8 @@
 		],
 		"replaces": [
 			"0e3b6e67-6dc0-4645-a145-e191ca7d9405"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d04a1baa-bc8e-4073-9e85-3906f0e61d78",
@@ -8402,7 +8747,8 @@
 		],
 		"replaces": [
 			"214c750d-6283-4c0d-9887-23fe011d7ae0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bdea5694-e765-4e4b-9f7b-24148e7e99a4",
@@ -8447,7 +8793,8 @@
 		],
 		"replaces": [
 			"4066d9dc-8e04-4290-a3f6-dbf5f4e97a5f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4cf75c35-cdbb-412a-b7d8-22d27b1fba77",
@@ -8484,7 +8831,8 @@
 		],
 		"replaces": [
 			"360e75ce-acab-4e5c-98e0-86f2e2b1e0b2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "bd35c7de-6c6a-4a80-82aa-a8db9e84635a",
@@ -8516,7 +8864,8 @@
 		],
 		"replaces": [
 			"336e97ca-a674-4cf2-b5a1-1970a838aa69"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "eda8e5cf-ac65-4caa-853f-3353db800129",
@@ -8544,7 +8893,8 @@
 		],
 		"replaces": [
 			"1bccd62d-678c-43c8-a681-dba4c4edfc0c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "efc802ba-f119-4206-bf61-cbd0d1273b6d",
@@ -8599,7 +8949,8 @@
 		],
 		"replaces": [
 			"a3d06912-4e59-40c7-a0d4-fe1019186799"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "46da36cc-8121-46b6-8afd-dc2481542f80",
@@ -8634,7 +8985,8 @@
 		],
 		"replaces": [
 			"e463d6a7-cd43-4d10-b9e2-7466158ab22e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "0ddfae21-3d4b-4a15-97f6-bcca67a81b3a",
@@ -8725,7 +9077,8 @@
 		],
 		"replaces": [
 			"821c328e-4cb5-4ba5-9215-caa4007d71ef"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "78737e15-6e6b-41a4-b452-2f3883110867",
@@ -8828,7 +9181,8 @@
 		],
 		"replaces": [
 			"2400e03b-d163-4dba-98af-26e425eb4872"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "096586a7-281c-46ce-9323-effad0d049ac",
@@ -8886,7 +9240,8 @@
 		],
 		"replaces": [
 			"c658f98a-86c1-46c6-9f8d-87ed374efc1f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1391a682-d62f-48a9-9fe3-96bf3c4ecfe4",
@@ -8928,7 +9283,8 @@
 		],
 		"replaces": [
 			"4ba7e4f4-a95f-43cc-87c3-c9d575b78c46"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e40c72f3-c97a-40e9-8626-81f297dd25dd",
@@ -9038,7 +9394,8 @@
 		],
 		"replaces": [
 			"f308b6cd-89df-4a42-8f33-a994e7f8a733"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4294a05d-ed0a-4e93-be5b-d6ecfc6e2c1f",
@@ -9108,7 +9465,8 @@
 		],
 		"replaces": [
 			"fced5a91-a770-431d-a191-bae82a29fea1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "37798a59-753b-43d7-93b8-8aa7967e2033",
@@ -9164,7 +9522,8 @@
 			"bb200f23-88b5-4132-b80a-f113a1eff1fa"
 		],
 		"description": "Vakkern bij biologie",
-		"dirty": "1"
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "efac1391-105c-41be-bc55-2db5ad8a211e",
@@ -9209,7 +9568,8 @@
 		],
 		"replaces": [
 			"87d62f23-1d59-4823-a4d7-e9bd034eaa3f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "9d83b40d-eda8-40d2-ad3b-29072d4b8c7e",
@@ -9291,7 +9651,8 @@
 		],
 		"replaces": [
 			"571c5569-dfbe-4ac7-88b9-ee75a9e45249"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "8621a312-6ceb-4f95-b2b2-64288b4c6f15",
@@ -9323,7 +9684,8 @@
 		],
 		"replaces": [
 			"8ffe98c1-b0c5-4b75-91f3-5c06e64c28c9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "fdb6b35f-5b4a-494b-894a-498ae7e5302c",
@@ -9344,7 +9706,8 @@
 		],
 		"replaces": [
 			"d9576db0-1e98-4cde-84e0-b3fe18e004d4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5d43bfa4-68af-498a-97cf-9c282d4d2851",
@@ -9379,7 +9742,8 @@
 		],
 		"replaces": [
 			"8341ba89-36bb-4879-b104-4335a83f8eb3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "419aae13-a69d-4761-89ed-0bf915cab5c3",
@@ -9452,7 +9816,8 @@
 		],
 		"replaces": [
 			"c76a6e48-510d-4c79-bac3-61bc40f12a45"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e33e2dca-71df-4965-9b74-cab33c5ce979",
@@ -9485,7 +9850,8 @@
 		],
 		"replaces": [
 			"e79074aa-b358-4c1f-8c49-80e4a0f184a2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "559a125d-183e-433d-86b5-e777650451b1",
@@ -9526,7 +9892,8 @@
 		"description": "",
 		"replaces": [
 			"7a89fa90-ff5a-4132-849a-c69d6c6f3733"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "30510177-a153-41b0-bc60-14da68a2be66",
@@ -9561,7 +9928,8 @@
 		],
 		"replaces": [
 			"d0db684d-4947-4411-9066-bc6776931ead"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ecde5173-6130-4b24-b6d8-bc5a3ad35b1b",
@@ -9594,7 +9962,8 @@
 		],
 		"replaces": [
 			"8b8241a7-1547-46b6-bffa-3d0281753398"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2e3c41f1-ca46-4b0c-83c5-8904bd3e50e9",
@@ -9677,7 +10046,8 @@
 		],
 		"replaces": [
 			"865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f190170a-83d9-4016-bf13-1eb21d4e2688",
@@ -9710,7 +10080,8 @@
 		],
 		"replaces": [
 			"afa2da76-e235-4231-9177-dddf728329e1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "21cd7b01-cfff-46d0-b9cb-11331ec19688",
@@ -9762,7 +10133,8 @@
 		],
 		"replaces": [
 			"d2bef12a-48da-42bb-bda8-b69085a007da"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "30ad802f-72dd-4d38-876d-20310fead1e7",
@@ -9789,7 +10161,8 @@
 		],
 		"replaces": [
 			"007027df-a494-4a33-a8f4-80883b262513"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "081b9dff-54a5-4a6d-9204-71b17b37283c",
@@ -9855,7 +10228,8 @@
 		],
 		"replaces": [
 			"c975a7a6-1e59-4de4-b250-e37268a3fe13"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "27c6fd4c-9f93-4d2a-a5e7-4b6bfc66ed2d",
@@ -9926,7 +10300,8 @@
 		],
 		"replaces": [
 			"de4f324d-70e2-4ca9-87b9-13cfebe49abb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "834097ea-7277-4728-9a9d-6ba85cfe8f9d",
@@ -9983,7 +10358,8 @@
 		],
 		"replaces": [
 			"af3b47e3-a390-41c6-b0a9-89ed27373314"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5b3fd9f0-b80f-48a4-813a-515271832e8a",
@@ -10030,7 +10406,8 @@
 		],
 		"replaces": [
 			"7ff6005d-f782-44a6-bcb3-7c610b06a13a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5ecc5d00-5f6e-4f36-89f3-832437f41359",
@@ -10083,7 +10460,8 @@
 		],
 		"replaces": [
 			"49362cb8-2b4b-4102-828e-488e81be4a41"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "751f3f92-1aeb-4fd0-89ec-13f194b947a9",
@@ -10115,7 +10493,8 @@
 		],
 		"replaces": [
 			"a8f153bb-42d9-4665-a00b-eba2711e4d32"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6a8d7a17-82eb-41df-9200-9eb017511b90",
@@ -10162,7 +10541,8 @@
 		],
 		"replaces": [
 			"4396f95d-f771-444f-a600-6b12a4ace528"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "5493491d-e48b-4f52-ac44-a7d576a23137",
@@ -10182,7 +10562,8 @@
 		],
 		"replaces": [
 			"0ff9e18a-6157-4bac-80ff-e4f9c8a726c3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b172aad4-6f37-4e3b-ad42-9b13653fe12c",
@@ -10206,7 +10587,8 @@
 		],
 		"replaces": [
 			"82c004f8-2a05-45f7-b52c-87c336962110"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "af2e4c1f-b8ab-4f0c-844d-d344bc6d1aa2",
@@ -10293,7 +10675,8 @@
 		],
 		"replaces": [
 			"b5c8a5f9-47cf-4546-8c20-474ff0cf340d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "28b0fc4c-78d2-453b-acd2-1d2be7179449",
@@ -10346,7 +10729,8 @@
 		],
 		"replaces": [
 			"e162e77e-7a1c-4045-8e91-b03325eb47ce"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "34f772f5-1610-404a-8f46-1b0ae39690bf",
@@ -10416,7 +10800,8 @@
 		],
 		"replaces": [
 			"b1249e0e-33a6-49cc-9afe-a584f81df6ba"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "10b66596-05fa-4d17-b8b1-a8cd8281ed57",
@@ -10470,7 +10855,8 @@
 		],
 		"replaces": [
 			"6caf582d-6b5e-48fb-9b89-d7a2b99bac5d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "aa969abc-c016-41a1-b6ac-d54f943d223a",
@@ -10521,7 +10907,8 @@
 		],
 		"replaces": [
 			"0f96c277-f3bf-4f6c-a526-21072e408192"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "150e6063-9f93-4c40-89e0-83b310f204c8",
@@ -10568,6 +10955,7 @@
 		],
 		"replaces": [
 			"9caab715-e38c-4d4c-80bd-d94f7f26e306"
-		]
+		],
+		"deleted": 1
 	}
 ]

@@ -34,7 +34,8 @@
 			"97e8f73c-380a-4d6c-8694-30db5423e299",
 			"282711be-bdf7-43d6-8829-2f5062db9b71",
 			"56dc5fe8-514d-4eb5-bbf2-96757f946740"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -53,7 +54,8 @@
 			"59bf9201-fd0d-4fd8-94dd-3ef01618fb01",
 			"1776cfa0-50d7-48e0-9eb6-92bdca47a9f9",
 			"9db0a453-76cb-49ea-8690-551bfd579825"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -76,7 +78,8 @@
 			"17f209b5-d4c3-42df-96d8-b472ed6e7eee",
 			"991b7180-071c-4913-bcbb-5dadac8f52b2",
 			"d9b40ac7-ba78-4bd5-a108-337d2be35827"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -99,7 +102,8 @@
 			"09fcfe9e-f8b7-4fb7-90a4-1beb73514f09",
 			"88c9707b-920d-454d-9b80-b7dc879a31fc",
 			"8f8a5f29-44f5-4fc1-9423-de45204cebc1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -117,7 +121,8 @@
 			"bd3c8ce1-3f94-433c-b670-d33d8ec28cef",
 			"eca40860-d20d-41c2-9fc0-bdfe09993581",
 			"d4e1ef6f-ce81-43fe-a122-f00ad58657b7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -136,7 +141,8 @@
 			"2b4fd7fc-2df0-407e-a5ba-116c5af40c48",
 			"2b4b3312-6f94-45f5-a7f9-da77dcdd825f",
 			"b352ebb7-4d34-4ac0-bb87-c792317064dc"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -159,7 +165,8 @@
 			"0823481b-e4de-4dd0-9467-9ea47220a6e1",
 			"73fc01b1-8845-4633-935e-eb0bf9cfa274",
 			"3ec37fff-610e-48ba-8815-d63fd0688591"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -189,7 +196,8 @@
 			"ea0d0b6b-f33c-478a-b550-c275caf31d3a",
 			"201fe4a2-9c23-40e9-b4a2-44ae070b513f",
 			"33f70664-17d2-40d4-b85a-52c6ea16d19d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -212,7 +220,8 @@
 			"275cabc0-d8ad-4820-aa58-f8e7aed54a25",
 			"b5ff8aa1-f089-4b03-a24b-65af57271f25",
 			"38b0cb63-3ede-46c5-b01b-c9d42630ccd6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -232,7 +241,8 @@
 			"ed55a6c7-88cf-4aa9-b31b-d7dc24ec8308",
 			"c33e4030-f47a-465c-92ad-c0cf87176d27",
 			"c3b401a0-7256-454c-b400-3e9eb97c28d2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -262,7 +272,8 @@
 			"02adbf49-11e1-499d-87c1-315eb5ad0e56",
 			"b8e9876e-ed25-4c96-a676-e247eb6395f8",
 			"17bd7545-5834-4d39-be2f-58f8363639de"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -282,7 +293,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "8a0ee3ea-f4c5-46da-a6eb-9029badc7987"
+		"id": "8a0ee3ea-f4c5-46da-a6eb-9029badc7987",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -293,7 +305,8 @@
 		"id": "afb665a5-0c3c-4785-b12f-42656185fd4d",
 		"lpib_vakkern_id": [
 			"1724a10d-1152-4317-b261-ab69b6d23df0"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -317,7 +330,8 @@
 			"addcccc8-bc38-447a-9732-e5f6d2338d82",
 			"626487cd-8668-46a6-9663-96d8806aec98",
 			"987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -340,7 +354,8 @@
 			"7f0a46aa-0bae-449e-902c-2a2db79785a8",
 			"d2d5bd2a-b7de-4505-a773-3d61e2549ab1",
 			"2b33dd1e-8c01-407b-aeb6-c54739b06867"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -363,7 +378,8 @@
 			"1769e931-4dc9-4e75-a9b8-95e4f7d86dd1",
 			"ba88f7ff-4657-474d-9a66-f1d9abf22ce6",
 			"351b3ed3-7b30-4071-bce0-d342976d1353"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -380,7 +396,8 @@
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
 		],
-		"id": "1ed37a3a-e556-47aa-a6a5-da85e6cc0c1f"
+		"id": "1ed37a3a-e556-47aa-a6a5-da85e6cc0c1f",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -388,7 +405,8 @@
 		],
 		"sloID": "14",
 		"title": "Klassieke culturele vorming",
-		"id": "57170b93-9e70-4191-b426-bc9431635b7a"
+		"id": "57170b93-9e70-4191-b426-bc9431635b7a",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -411,7 +429,8 @@
 			"b1331533-f13b-4db0-b006-071367063cf6",
 			"78ba030e-b2cb-4c89-b342-ae22b88d1b85",
 			"a59e16c3-59f4-4a6e-85d0-ee12f0a69716"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -424,7 +443,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "dd73e94c-0b3c-42ab-bbc4-a7bd01c18780"
+		"id": "dd73e94c-0b3c-42ab-bbc4-a7bd01c18780",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -454,7 +474,8 @@
 			"ae2bcf7b-08c6-45d7-b501-c8dcb6f51f27",
 			"77635153-5140-4225-aeb2-5afbd08e4372",
 			"82ed19f6-d418-467b-8642-b6dded97fa29"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -484,7 +505,8 @@
 			"c872f8cd-6702-44c6-a895-4cad3bac3156",
 			"f4fb416c-b350-4001-a4e4-b9289ab55212",
 			"135c6dfe-4caa-48aa-b402-c7e8f2a13020"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -508,7 +530,8 @@
 			"9a8c5036-4d83-49eb-8df6-1a827b919c99",
 			"faaca156-af80-470c-b351-66a86d10d1b7",
 			"eca9e066-a3a0-4fa3-81cd-394ff7456c85"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -539,7 +562,8 @@
 			"196a7410-0c8d-474c-9ab2-be8a66fd7a85",
 			"141d7f7d-187a-4318-b318-4e299fba41aa",
 			"12d774dd-f581-4fe5-885c-10c585f3547e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -547,7 +571,8 @@
 		],
 		"sloID": "51",
 		"title": "Kunstvakken 1: Culturele Kunstzinnige Vorming",
-		"id": "a6e481dc-cb89-4247-87a5-a51585efe509"
+		"id": "a6e481dc-cb89-4247-87a5-a51585efe509",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -570,7 +595,8 @@
 			"f2c19594-2acc-4a51-8109-20eac7f136b2",
 			"115a47dd-b8b6-4bf3-a404-66eab48da8ec",
 			"edd68785-7124-4de0-bf66-9d964704ff02"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -585,7 +611,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"id": "dff26edc-4524-4df2-9271-18b295f67901"
+		"id": "dff26edc-4524-4df2-9271-18b295f67901",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -598,7 +625,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"id": "96f3f3c0-4d2d-4a69-99c9-d8a3edb9731b"
+		"id": "96f3f3c0-4d2d-4a69-99c9-d8a3edb9731b",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -620,7 +648,8 @@
 			"111be74f-e6e4-4dd2-999d-a496b433d36a",
 			"a498c991-fd28-4933-a53c-9f96d7f28cbd",
 			"c7906e60-6e7b-4be8-ba61-997a41860d3d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -633,7 +662,8 @@
 			"7682e990-7245-45c2-89d1-83b431b3743c",
 			"598c4574-5a08-4473-b3b6-e45df89f210e",
 			"123d6698-7e1d-40d9-b219-eb0068e53db1"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -654,7 +684,8 @@
 			"309f4ea4-d987-48a4-8aaa-b446e3dd0b7f",
 			"ef712b1f-a5b4-4671-8de7-03d789168697",
 			"cb0fd542-c990-4cb4-8372-042944c80963"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -675,7 +706,8 @@
 			"9518593c-9a3d-4c47-83de-c9d0eb5d71a5",
 			"78b4c57b-e807-4ff6-b29b-4fce1ce5acd5",
 			"41df4043-9ba9-4a03-bf59-19f7b936b0b3"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -698,7 +730,8 @@
 			"71078d96-0cad-409a-adff-f2eecf09fd4e",
 			"42e39944-f2b4-45d5-b30c-44dc3310cda0",
 			"84582908-21ae-4623-853f-c01c4602a7d7"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -721,7 +754,8 @@
 			"34bebd1a-68b9-418e-82c5-877a16bdc556",
 			"28e6f73e-0cb7-425e-a5e6-175121946008",
 			"1a373a1d-9182-4720-bf17-e702455adb3e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -744,7 +778,8 @@
 			"3276402a-d121-49d6-92b8-05b96694b802",
 			"c5c6c136-2d81-4482-9337-f3ce4eaaf671",
 			"cd368f01-bcf5-4c3b-9191-05747e44d894"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -755,7 +790,8 @@
 		"id": "b81f4a81-4a5c-4890-bc28-af97c4d7c9de",
 		"lpib_vakkern_id": [
 			"b48f127e-b6c4-4e4d-bfaf-009d63789361"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -776,7 +812,8 @@
 			"76130125-e591-42be-a06e-ca7f7def1fea",
 			"cb9731b7-5221-4984-ba0a-c69f95a65cb4",
 			"52a367e3-b04b-4bbd-8287-f3c8c6e65134"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -806,7 +843,8 @@
 			"830a70ae-d543-4ce9-9577-0450e254cf7d",
 			"82187447-5392-433b-940d-fd49f6f8d669",
 			"6bfb5344-c28f-4fe3-81f6-04d4dd3d58be"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -829,7 +867,8 @@
 			"c4c5839b-44b6-4464-b776-631e684a62e3",
 			"d5e55c37-9894-44cc-be37-a93f852b28ab",
 			"8d39b484-7ed6-49c0-ba50-0476c266555c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -837,7 +876,8 @@
 		],
 		"sloID": "38",
 		"title": "Rekenen en wiskunde",
-		"id": "01b8699e-ad23-4121-bbf0-4cf2cd63d187"
+		"id": "01b8699e-ad23-4121-bbf0-4cf2cd63d187",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -867,7 +907,8 @@
 			"90d2e1b2-1c2f-4281-9e1b-31281774de3c",
 			"8635a166-23c5-435d-8f12-d27d0f565d94",
 			"283b005e-0bd2-442a-bd32-55c466f52f73"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -897,7 +938,8 @@
 			"6c106c77-14c1-4c7b-a111-59540a5ca327",
 			"ca929c5d-6644-46ac-8217-a5ee298406d1",
 			"4c037ea4-2640-46c9-97fd-293d37aa2c92"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -917,7 +959,8 @@
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -930,7 +973,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "3936d375-9538-4621-be61-1094e32b0624"
+		"id": "3936d375-9538-4621-be61-1094e32b0624",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -951,7 +995,8 @@
 			"97abf32d-c062-4dc6-b1d3-b15cb6f64874",
 			"a337989c-f3de-429a-9537-fd5daa62098a",
 			"941616c0-5ae2-4f2a-9e88-1ce1d14e7275"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -971,7 +1016,8 @@
 			"ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
 			"86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
 			"88c79dcc-74cf-43fb-84ab-8711f63943ab"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -993,7 +1039,8 @@
 			"23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
 			"b2b0a114-9e28-4769-9a14-1da57ef66793",
 			"9956fcbe-af76-41ce-a344-de3095487d66"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1013,7 +1060,8 @@
 			"86f51309-a590-4cd1-9cf2-737cd083a1a8",
 			"25249ccb-5ecf-4f69-b830-17d277e5c3b2",
 			"c5834a3e-ebdc-4821-b799-24caa6403bfd"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1036,7 +1084,8 @@
 			"35a1d7cf-9f9c-4d2c-97b5-a52574bdf408",
 			"73d150de-58f2-40bc-96bd-d9e3ca07206d",
 			"0a8b96f5-752c-4589-b9d1-a7a60ee8dba6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1048,7 +1097,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "45e32bd5-2f2d-4375-8d2f-ff80d4bd5b8b"
+		"id": "45e32bd5-2f2d-4375-8d2f-ff80d4bd5b8b",
+		"deleted": 1
 	},
 	{
 		"description": "",
@@ -1060,7 +1110,8 @@
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "08ec3f1e-623b-439f-ac31-be976b6dc4e3"
+		"id": "08ec3f1e-623b-439f-ac31-be976b6dc4e3",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [],
@@ -1075,7 +1126,8 @@
 		],
 		"replaces": [
 			"7f1bc1d9-7911-476a-8e78-04a99cbd7a38"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [],
@@ -1085,7 +1137,8 @@
 		],
 		"title": "Motorische ontwikkeling",
 		"description": "",
-		"id": "d13a6607-8a8c-41ea-93ad-8c7f2b385067"
+		"id": "d13a6607-8a8c-41ea-93ad-8c7f2b385067",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [],
@@ -1094,7 +1147,8 @@
 		"id": "b24fe7ea-1a9f-42f8-b285-a8773a15efca",
 		"replaces": [
 			"61ead109-e7aa-4c20-be3f-c7f55f2587f2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1136,7 +1190,8 @@
 		],
 		"replaces": [
 			"3d293ff2-5636-4375-8791-c7f3dc2cfe62"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1171,7 +1226,8 @@
 		],
 		"replaces": [
 			"ec4fa62d-9a01-484c-bc3a-d364ffd40a23"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1216,7 +1272,8 @@
 		],
 		"replaces": [
 			"c69669c8-a470-4d17-84bb-eabead4a1960"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1237,7 +1294,8 @@
 		],
 		"replaces": [
 			"4fd3a5f7-091f-404f-814c-bb45111f023a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1279,7 +1337,8 @@
 		],
 		"replaces": [
 			"9647be91-e170-422e-aae2-1c2b7667e516"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1294,7 +1353,8 @@
 		"id": "678ea773-6e0d-408a-9d86-707ac17eb5c9",
 		"replaces": [
 			"64889115-aea3-43a5-b4ce-58fdcfa62065"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1320,7 +1380,8 @@
 		],
 		"replaces": [
 			"2cc1c916-2811-480e-a7c6-4c69c4093225"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1342,7 +1403,8 @@
 		],
 		"replaces": [
 			"c341c43a-2036-4b9d-ba56-9cae6a1db29f"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1363,7 +1425,8 @@
 		],
 		"replaces": [
 			"d74ae12b-3b96-40bd-826f-749bd6f04c7c"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1409,7 +1472,8 @@
 		],
 		"replaces": [
 			"a2ce2c2e-e29a-48a7-9dcf-ed5ce762e023"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1454,7 +1518,8 @@
 		],
 		"replaces": [
 			"4c4f6284-e885-4a3c-8ef7-dd6299e16327"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1476,7 +1541,8 @@
 		],
 		"replaces": [
 			"5ac1b1cc-fb64-4fc0-9dc6-aaebaa8dfd57"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1513,7 +1579,8 @@
 		],
 		"replaces": [
 			"6aaf9272-94f6-4650-ac6f-7e7350609658"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1556,7 +1623,8 @@
 		],
 		"replaces": [
 			"1f41019d-2e34-41e7-929b-8cb8eebdc00b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1586,7 +1654,8 @@
 		],
 		"replaces": [
 			"14f96cf7-7804-4470-81fb-b670471d57d4"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1617,7 +1686,8 @@
 		],
 		"replaces": [
 			"f8644ca6-7b4e-4bb1-961b-41ca5ad95cf8"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -1656,6 +1726,7 @@
 		],
 		"replaces": [
 			"94686b63-59ce-457c-ba18-997e686fdaa8"
-		]
+		],
+		"deleted": 1
 	}
 ]
